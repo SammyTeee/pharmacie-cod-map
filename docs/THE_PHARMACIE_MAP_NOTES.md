@@ -1,5 +1,9 @@
 # The Pharmacie Arms — map reference notes
 
+## New floor-plan reference — 2026-10-02
+
+Sam supplied `hq floor plan ai.png` and requested it as the Blender base. It shows both floors with rear service/toilet/store/stairs and subdivided upstairs spaces, superseding the simplified sketch for new modelling. Its provenance/date/as-built status and scale remain unverified; the seven-metre frontage is an estimate. External seating is explicitly labelled proposed. See `BLENDER_WORKFLOW.md` for observations and the packed reference-only Blender scene. Do not treat red fire-safety annotations as wall geometry.
+
 These notes separate what the collected images show from geometry that still needs confirming. The source images and links live in `references/pharmacie-syston/README.md`.
 
 ## Confirmed from the reference set
@@ -59,3 +63,11 @@ These notes separate what the collected images show from geometry that still nee
 The saved `references/pharmacie-syston/pharmacie-layout.svg` places the bar centrally, toilet and stairs at the back, smoking patio beyond the rear-left wall, and platform at front-right. Use this explicit user layout for the blockout instead of earlier room-wide-photo guesses. Dimensions remain provisional; see SVG_BLOCKOUT.md for implementation assumptions.
 
 Sam subsequently clarified the L-shaped stairs lead to one large empty upstairs room, roughly the downstairs footprint. Sam also approved flat photo frontage/bar/wall/skeleton panels, with the entrance opening positioned from the clear frontage photograph rather than the approximate SVG entrance. Those changes and extra furniture are implemented in the current generator; see PHOTO_MATERIAL_WORKFLOW.md and MODLOG.md for precise assumptions and actual verification.
+
+### Latest supplied plan (2026-10-02)
+
+Use `Architectural Fire Evacuation Floor Plans.png` for the new Blender project. Ground plan labels rear Mens WC/service and stairs; first plan labels kitchen/prep, offices, stores, male/female WC and seating. This supersedes earlier layout guesses for new modelling. Seven-metre street frontage remains Sam's estimate. Proposed external seating and red fire annotations must not be treated as confirmed built geometry. See BLENDER_WORKFLOW.md.
+
+### Photo-led interior evidence (2026-10-02)
+
+All current images, including new WhatsApp files, reviewed and catalogued. Forward/reverse room views place sofa/skeleton along left display wall and raised seating on right when facing bar. Visible objects include medical/glass tables, dark and red-frame stools, cream chairs, paired medicine cabinets, boards/shelves, brass pumps and pendants. Exact positions/counts are inferred; see PHOTO_OBJECT_PLACEMENT_PLAN.md. Sam explicitly located rear exit at back-left when looking head-on, with stairs on right after passing toilets; revised model climbs across back then turns right towards front. Men/women shared wall is solid. These user corrections supersede earlier provisional stair interpretation.

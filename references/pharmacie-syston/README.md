@@ -1,5 +1,9 @@
 # The Pharmacie Arms, Syston — map references
 
+## Council-plan reference and estimated Blender scale (2026-10-02)
+
+`floor plan of downstairs and upstairs council to scale.png` is a user-supplied 1264×874 raster floor-plan reference. Filename suggests council provenance, but document date, source URL, original page scale and as-built status have not been independently established. Source remains unchanged. Sam estimates frontage at 7m and has no confirmed measurement. Blender uses that estimate and the original plan's proportions in separate UV reference planes; see `../../docs/BLENDER_WORKFLOW.md` for pixel anchors, regions and verification. `hq floor plan ai.png` in the repository root is the clearer supplied composite reference; use the original council-plan raster for tracing rather than treating AI cleanup as surveyed geometry.
+
 These images are for private visual reference while blocking out the Call of Duty: Black Ops III map. The exterior images came from the Acuitus listing for 3 High Street, Syston:
 
 - `exterior-high-street.jpg` — street frontage and neighbouring shopfronts. Source: https://www.acuitus.co.uk/uploads/122-5498/3-syston-main-1600x900.jpg
@@ -42,3 +46,11 @@ CAMRA describes the venue as a former shop with a 1950s pharmacy theme, medical 
 ## Photo-panel derivatives (2026-10-02)
 
 Sam approved flat photographic frontage, bar and wall panels, plus a skeleton cutout. `pharmacie-arms-syston-2.jpg` is the clearest head-on frontage source (1024×751); its central right-hand door is cut through the geometry. `bar front.jpg` supplies drawers and upper bar detail; `great for texture.avif` supplies non-tiling pharmacy panels. The supplied 1500×2000 skeleton/dentist-chair photo supplies an AI-isolated transparent cutout. Originals remain unchanged. Derivatives, hashes and conversion recipes are separate in `assets/photos/manifest.json`; see `docs/PHOTO_MATERIAL_WORKFLOW.md` for source-pixel UV crops, material settings and build steps. No distribution rights are inferred from private-use approval.
+
+## Latest evacuation-plan source (2026-10-02)
+
+Sam supplied root file `Architectural Fire Evacuation Floor Plans.png` (1393x1129) for a new Blender project. Source unchanged; origin/date/as-built status unverified. Packed original and UV reference regions are in assets/blender/pharmacie-evacuation-plan.blend. SHA256 and estimated 7m calibration are recorded in assets/blender/evacuation-plan-manifest.json; no source image edits made.
+
+## Full Blender photo review (2026-10-02)
+
+New WhatsApp images reviewed alongside all earlier photos. assets/blender/photo-review/catalog.json records 28 original reference images with SHA256 and dimensions (includes 2 layout drawings); four labelled review sheets are separate derivatives. Sources remain unchanged. Feature-wall AVIF decoded separately to assets/blender/photo-review/feature-wall-lossless.png (1973x1227 RGBA, no crop/resize/repaint). Packed originals/UV regions supply the Blender frontage, drawer front and instrument panel; see docs/PHOTO_OBJECT_PLACEMENT_PLAN.md and photo-interior-v03-manifest.json. WhatsApp provenance/date/ownership is user-supplied and not independently established; some views duplicate earlier pictures. No distribution permission inferred.

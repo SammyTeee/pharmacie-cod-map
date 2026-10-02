@@ -1,0 +1,761 @@
+{
+  "file": "pharmacie-photo-interior-v03.blend",
+  "source": "Architectural Fire Evacuation Floor Plans.png",
+  "source_sha256": "3414baa665523686f948a2cdf41bce0266f8074aca2840be3c8a71cd960edd2a",
+  "frontage_estimate_m": 7,
+  "metres_per_pixel": 0.022151898734177215,
+  "storey_height_assumed_m": 3.2,
+  "wall_height_assumed_m": 2.9,
+  "external_wall_assumed_m": 0.22,
+  "internal_wall_assumed_m": 0.14,
+  "upstairs_display_rectification": {
+    "width": 0.9663608562691132,
+    "depth": 0.8946360153256705
+  },
+  "stairs": {
+    "user_confirmed": "Rear-left outside exit when facing building head-on; past toilets, stairs start on your right; up then right",
+    "start": [
+      0.8500000238418579,
+      19.850000381469727,
+      0.0
+    ],
+    "turn": [
+      4.78000020980835,
+      19.850000381469727,
+      0.0
+    ],
+    "arrival": [
+      4.78000020980835,
+      16.950000762939453,
+      0.0
+    ],
+    "direction": "Lower +X across back; clockwise right turn to -Y towards street",
+    "risers": 18,
+    "riser_m": 0.17777777777777778,
+    "width_assumed_m": 0.94,
+    "lower_tread_m": 0.346000030789362,
+    "upper_tread_m": 0.30374995560481355,
+    "assumptions": "Storey height 3.2m; approximate endpoints; upper rear store shortened 0.12m"
+  },
+  "doors": [
+    {
+      "name": "Ground shell 03 | door 0",
+      "clear_width_m": 0.805,
+      "base_m": 0.0
+    },
+    {
+      "name": "Ground shell 06 | door 0",
+      "clear_width_m": 0.797,
+      "base_m": 0.0
+    },
+    {
+      "name": "Ground shell 11 | door 0",
+      "clear_width_m": 0.827,
+      "base_m": 0.0
+    },
+    {
+      "name": "Ground | bar lobby divider | door 0",
+      "clear_width_m": 1.183,
+      "base_m": 0.0
+    },
+    {
+      "name": "Ground | lobby top | door 0",
+      "clear_width_m": 0.692,
+      "base_m": 0.0
+    },
+    {
+      "name": "Ground | WC front | door 0",
+      "clear_width_m": 1.009,
+      "base_m": 0.0
+    },
+    {
+      "name": "First | front office rear | door 0",
+      "clear_width_m": 0.659,
+      "base_m": 3.2
+    },
+    {
+      "name": "First | front-room passage rear | door 0",
+      "clear_width_m": 0.716,
+      "base_m": 3.2
+    },
+    {
+      "name": "First | rear office front | door 0",
+      "clear_width_m": 0.546,
+      "base_m": 3.2
+    },
+    {
+      "name": "First | toilets front | door 0",
+      "clear_width_m": 0.666,
+      "base_m": 3.2
+    },
+    {
+      "name": "First | toilets front | door 1",
+      "clear_width_m": 0.666,
+      "base_m": 3.2
+    },
+    {
+      "name": "First | rear office bottom | door 0",
+      "clear_width_m": 0.521,
+      "base_m": 3.2
+    },
+    {
+      "name": "First | rear store front | door 0",
+      "clear_width_m": 0.713,
+      "base_m": 3.2
+    },
+    {
+      "name": "First | hall access | door 0",
+      "clear_width_m": 0.831,
+      "base_m": 3.2
+    }
+  ],
+  "windows": [
+    {
+      "name": "Ground shell 00 | glazing 0",
+      "width_m": 1.348,
+      "floor": 0
+    },
+    {
+      "name": "Ground shell 07 | glazing 0",
+      "width_m": 1.477,
+      "floor": 0
+    },
+    {
+      "name": "Ground shell 08 | glazing 0",
+      "width_m": 0.922,
+      "floor": 0
+    },
+    {
+      "name": "Ground shell 09 | glazing 0",
+      "width_m": 0.997,
+      "floor": 0
+    },
+    {
+      "name": "Ground shell 12 | glazing 0",
+      "width_m": 0.418,
+      "floor": 0
+    },
+    {
+      "name": "Ground shell 13 | glazing 0",
+      "width_m": 0.967,
+      "floor": 0
+    },
+    {
+      "name": "First shell 00 | glazing 0",
+      "width_m": 1.261,
+      "floor": 1
+    },
+    {
+      "name": "First shell 03 | glazing 0",
+      "width_m": 0.982,
+      "floor": 1
+    },
+    {
+      "name": "First shell 03 | glazing 1",
+      "width_m": 1.052,
+      "floor": 1
+    },
+    {
+      "name": "First shell 07 | glazing 0",
+      "width_m": 2.015,
+      "floor": 1
+    },
+    {
+      "name": "First shell 08 | glazing 0",
+      "width_m": 0.84,
+      "floor": 1
+    },
+    {
+      "name": "First shell 08 | glazing 1",
+      "width_m": 0.84,
+      "floor": 1
+    },
+    {
+      "name": "First shell 08 | glazing 2",
+      "width_m": 0.84,
+      "floor": 1
+    }
+  ],
+  "scenes": [
+    "01 Ground floor - mapped rooms",
+    "02 First floor - mapped rooms",
+    "03 Both floors - assembled exterior",
+    "04 Photo frontage - inspection",
+    "05 Interior - photo-led dressing"
+  ],
+  "limitations": [
+    "Hand traced structural centre lines; opening positions approximate",
+    "Ground entrance inferred from front recess + photos",
+    "Upstairs affine rectification is a modelling assumption",
+    "Heights unmeasured",
+    "No ceilings/roof, for cutaway inspection",
+    "Facade three upper sash windows from existing photos; dimensions approximate",
+    "No BO3 export, compiler or game test performed",
+    "Interior placements inferred from photo sightlines, not measured",
+    "Skeleton is a simple 3D placeholder, not finished character art",
+    "No interior photo evidence for upstairs, service rooms or stairs themselves"
+  ],
+  "texture_uvs": {
+    "UV_Metres": "Planar face projection, 1 UV unit per metre",
+    "UV_Face_01": "Each face normalized 0..1 for photographic panels; final photo alignment remains to do"
+  },
+  "verification": {
+    "mesh_uv_count": 290,
+    "normals": "Recalculated outward",
+    "previews": [
+      "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\ground-floor-blockout.png",
+      "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\first-floor-blockout.png",
+      "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\assembled-blockout.png",
+      "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\ground-floor-top-plan.png",
+      "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\first-floor-top-plan.png"
+    ],
+    "game": "Not compiled or tested; Blender modelling task only"
+  },
+  "frontage": {
+    "source": "pharmacie-arms-syston-2.jpg",
+    "source_sha256": "846df20c00665cca564b0505ec6123b5e11c3bfe50d77483dd429b23fea3a6ef",
+    "width_estimate_m": 7,
+    "recess_depth_assumed_m": 0.95,
+    "door_x_m": [
+      3.6512345679012346,
+      4.839506172839506
+    ],
+    "observed": "Asymmetric recessed entrance, fixed pane left of double doors; angled display bays, dark pilasters/fascia, blue lower glazing panels, three upstairs sash windows",
+    "edits": "Original photo packed; UV sampling only; no source edits",
+    "status": "Photo-led editable 3D joinery plus selected photographic surfaces; texture bake reflections retained"
+  },
+  "toilets": "Separate men/women entrances to common seating; continuous solid shared divider, no connecting door",
+  "interior_objects": [
+    {
+      "object": "Raised right-hand seating platform",
+      "xy_m": [
+        5.53,
+        5.4
+      ],
+      "source_ids": [
+        3,
+        19,
+        20
+      ],
+      "observation": "Raised carpeted area on right when facing bar",
+      "placement_confidence": "high"
+    },
+    {
+      "object": "Platform | medical table 2.65",
+      "xy_m": [
+        5.53,
+        2.65
+      ],
+      "source_ids": [
+        2,
+        19,
+        21,
+        22
+      ],
+      "observation": "Glass-topped medical cabinet/trolley used as pub table",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Platform | high stool 2.65 A",
+      "xy_m": [
+        4.94,
+        2.03
+      ],
+      "source_ids": [
+        2,
+        3,
+        19,
+        20,
+        21,
+        22
+      ],
+      "observation": "Round dark stools / red metal-framed high stools",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Platform | high stool 2.65 B",
+      "xy_m": [
+        6.05,
+        3.26
+      ],
+      "source_ids": [
+        2,
+        3,
+        19,
+        20,
+        21,
+        22
+      ],
+      "observation": "Round dark stools / red metal-framed high stools",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Platform | medical table 5.1",
+      "xy_m": [
+        5.53,
+        5.1
+      ],
+      "source_ids": [
+        2,
+        19,
+        21,
+        22
+      ],
+      "observation": "Glass-topped medical cabinet/trolley used as pub table",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Platform | high stool 5.1 A",
+      "xy_m": [
+        4.94,
+        4.4799999999999995
+      ],
+      "source_ids": [
+        2,
+        3,
+        19,
+        20,
+        21,
+        22
+      ],
+      "observation": "Round dark stools / red metal-framed high stools",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Platform | high stool 5.1 B",
+      "xy_m": [
+        6.05,
+        5.71
+      ],
+      "source_ids": [
+        2,
+        3,
+        19,
+        20,
+        21,
+        22
+      ],
+      "observation": "Round dark stools / red metal-framed high stools",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Platform | medical table 7.7",
+      "xy_m": [
+        5.53,
+        7.7
+      ],
+      "source_ids": [
+        2,
+        19,
+        21,
+        22
+      ],
+      "observation": "Glass-topped medical cabinet/trolley used as pub table",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Platform | high stool 7.7 A",
+      "xy_m": [
+        4.94,
+        7.08
+      ],
+      "source_ids": [
+        2,
+        3,
+        19,
+        20,
+        21,
+        22
+      ],
+      "observation": "Round dark stools / red metal-framed high stools",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Platform | high stool 7.7 B",
+      "xy_m": [
+        6.05,
+        8.31
+      ],
+      "source_ids": [
+        2,
+        3,
+        19,
+        20,
+        21,
+        22
+      ],
+      "observation": "Round dark stools / red metal-framed high stools",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Left-side | medical table 2.6",
+      "xy_m": [
+        1.35,
+        2.6
+      ],
+      "source_ids": [
+        2,
+        19,
+        21,
+        22
+      ],
+      "observation": "Glass-topped medical cabinet/trolley used as pub table",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Left-side | stool 2.6 A",
+      "xy_m": [
+        1.35,
+        1.8800000000000001
+      ],
+      "source_ids": [
+        2,
+        3,
+        19,
+        20,
+        21,
+        22
+      ],
+      "observation": "Round dark stools / red metal-framed high stools",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Left-side | stool 2.6 B",
+      "xy_m": [
+        1.35,
+        3.3200000000000003
+      ],
+      "source_ids": [
+        2,
+        3,
+        19,
+        20,
+        21,
+        22
+      ],
+      "observation": "Round dark stools / red metal-framed high stools",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Left-side | medical table 9.0",
+      "xy_m": [
+        1.35,
+        9.0
+      ],
+      "source_ids": [
+        2,
+        19,
+        21,
+        22
+      ],
+      "observation": "Glass-topped medical cabinet/trolley used as pub table",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Left-side | stool 9.0 A",
+      "xy_m": [
+        1.35,
+        8.28
+      ],
+      "source_ids": [
+        2,
+        3,
+        19,
+        20,
+        21,
+        22
+      ],
+      "observation": "Round dark stools / red metal-framed high stools",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Left-side | stool 9.0 B",
+      "xy_m": [
+        1.35,
+        9.72
+      ],
+      "source_ids": [
+        2,
+        3,
+        19,
+        20,
+        21,
+        22
+      ],
+      "observation": "Round dark stools / red metal-framed high stools",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Left wall | sofa section 1",
+      "xy_m": [
+        0.783,
+        4.5
+      ],
+      "source_ids": [
+        9,
+        10,
+        22
+      ],
+      "observation": "Brown sofa seating along pharmacy display wall",
+      "placement_confidence": "high"
+    },
+    {
+      "object": "Left wall | sofa section 2",
+      "xy_m": [
+        0.783,
+        6.0
+      ],
+      "source_ids": [
+        9,
+        10,
+        22
+      ],
+      "observation": "Brown sofa seating along pharmacy display wall",
+      "placement_confidence": "high"
+    },
+    {
+      "object": "Left wall | dentist chair + skeleton placeholder",
+      "xy_m": [
+        0.6645922535211266,
+        7.7
+      ],
+      "source_ids": [
+        4,
+        9,
+        10,
+        22
+      ],
+      "observation": "Skeleton seated in black dentist chair beside sofa",
+      "placement_confidence": "high"
+    },
+    {
+      "object": "Dentist seating | cream bucket chair 1",
+      "xy_m": [
+        1.72,
+        7.55
+      ],
+      "source_ids": [
+        10,
+        22
+      ],
+      "observation": "Cream curved bucket chairs next to dentist chair",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Dentist seating | cream bucket chair 2",
+      "xy_m": [
+        1.72,
+        8.45
+      ],
+      "source_ids": [
+        10,
+        22
+      ],
+      "observation": "Cream curved bucket chairs next to dentist chair",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Dentist seating | low coffee table",
+      "xy_m": [
+        1.37,
+        5.3
+      ],
+      "source_ids": [
+        2,
+        19,
+        21,
+        22
+      ],
+      "observation": "Small square pub table",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Left wall | framed medicine cabinet 1",
+      "xy_m": [
+        0.30300000000000005,
+        5.82
+      ],
+      "source_ids": [
+        2,
+        12,
+        20,
+        21,
+        22
+      ],
+      "observation": "Paired lit wall cases contain bottles",
+      "placement_confidence": "high"
+    },
+    {
+      "object": "Left wall | framed medicine cabinet 2",
+      "xy_m": [
+        0.19665633802816895,
+        7.23
+      ],
+      "source_ids": [
+        2,
+        12,
+        20,
+        21,
+        22
+      ],
+      "observation": "Paired lit wall cases contain bottles",
+      "placement_confidence": "high"
+    },
+    {
+      "object": "Left wall | pharmacy shelf 1",
+      "xy_m": [
+        0.403,
+        2.9
+      ],
+      "source_ids": [
+        1,
+        5,
+        17,
+        22
+      ],
+      "observation": "Black shelves with medicine bottles, jars and medical objects",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Left wall | pharmacy shelf 2",
+      "xy_m": [
+        0.10058521126760561,
+        9.0
+      ],
+      "source_ids": [
+        1,
+        5,
+        17,
+        22
+      ],
+      "observation": "Black shelves with medicine bottles, jars and medical objects",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Right platform | optical instrument display",
+      "xy_m": [
+        6.55,
+        5.5
+      ],
+      "source_ids": [
+        17,
+        20,
+        21
+      ],
+      "observation": "Cream instrument boards above perimeter seating",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Bar | taps and counter dressing",
+      "xy_m": [
+        3.34,
+        10.54
+      ],
+      "source_ids": [
+        6,
+        23
+      ],
+      "observation": "Brass beer pump row and black counter",
+      "placement_confidence": "high"
+    },
+    {
+      "object": "Bar | backbar shelves and screen",
+      "xy_m": [
+        3.3,
+        13.62
+      ],
+      "source_ids": [
+        6,
+        23
+      ],
+      "observation": "Central screen flanked by bottles and ornaments",
+      "placement_confidence": "high"
+    },
+    {
+      "object": "Lighting | pendant 1",
+      "xy_m": [
+        3.35,
+        2.8
+      ],
+      "source_ids": [
+        3,
+        5,
+        6,
+        19,
+        22,
+        23
+      ],
+      "observation": "Brass conical pendants under suspended tile ceiling",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Lighting | pendant 2",
+      "xy_m": [
+        3.35,
+        5.4
+      ],
+      "source_ids": [
+        3,
+        5,
+        6,
+        19,
+        22,
+        23
+      ],
+      "observation": "Brass conical pendants under suspended tile ceiling",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Lighting | pendant 3",
+      "xy_m": [
+        3.35,
+        8.1
+      ],
+      "source_ids": [
+        3,
+        5,
+        6,
+        19,
+        22,
+        23
+      ],
+      "observation": "Brass conical pendants under suspended tile ceiling",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Lighting | pendant 4",
+      "xy_m": [
+        2.1,
+        10.5
+      ],
+      "source_ids": [
+        3,
+        5,
+        6,
+        19,
+        22,
+        23
+      ],
+      "observation": "Brass conical pendants under suspended tile ceiling",
+      "placement_confidence": "medium"
+    },
+    {
+      "object": "Lighting | pendant 5",
+      "xy_m": [
+        4.5,
+        10.5
+      ],
+      "source_ids": [
+        3,
+        5,
+        6,
+        19,
+        22,
+        23
+      ],
+      "observation": "Brass conical pendants under suspended tile ceiling",
+      "placement_confidence": "medium"
+    }
+  ],
+  "photo_review": "28 reference images reviewed, including 2 layout drawings; WhatsApp sources are partly duplicates/alternate encodings"
+}

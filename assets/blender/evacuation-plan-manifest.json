@@ -1,0 +1,22 @@
+{
+  "file": "pharmacie-evacuation-plan.blend",
+  "source": "Architectural Fire Evacuation Floor Plans.png",
+  "source_sha256": "3414baa665523686f948a2cdf41bce0266f8074aca2840be3c8a71cd960edd2a",
+  "source_dimensions": [
+    1393,
+    1129
+  ],
+  "frontage_estimate_m": 7,
+  "frontage_pixels": 316,
+  "metres_per_pixel": 0.022151898734177215,
+  "ground_anchor": [
+    82,
+    85
+  ],
+  "first_anchor": [
+    76,
+    558
+  ],
+  "edits": "None; packed original, UV regions only",
+  "status": "Tracing setup; approximate footprint curves, no wall meshes; BO3 conversion unverified"
+}

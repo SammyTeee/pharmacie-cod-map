@@ -1,0 +1,208 @@
+{
+  "file": "pharmacie-floorplan-blockout.blend",
+  "source": "Architectural Fire Evacuation Floor Plans.png",
+  "source_sha256": "3414baa665523686f948a2cdf41bce0266f8074aca2840be3c8a71cd960edd2a",
+  "frontage_estimate_m": 7,
+  "metres_per_pixel": 0.022151898734177215,
+  "storey_height_assumed_m": 3.2,
+  "wall_height_assumed_m": 2.9,
+  "external_wall_assumed_m": 0.22,
+  "internal_wall_assumed_m": 0.14,
+  "upstairs_display_rectification": {
+    "width": 0.9663608562691132,
+    "depth": 0.8946360153256705
+  },
+  "stairs": {
+    "status": "User approved continuous L staircase; position adapted from upstairs plan; original ground stair symbol preserved as hidden guide",
+    "risers": 18,
+    "riser_m": 0.17777777777777778,
+    "width_m": 1.0,
+    "lower_tread_m": 0.30474014227668184,
+    "upper_tread_m": 0.2077599501935063,
+    "start": [
+      4.730428218841553,
+      16.302671432495117,
+      0.0
+    ],
+    "turn": [
+      4.730428218841553,
+      19.850072860717773,
+      0.0
+    ],
+    "arrival": [
+      2.5683486461639404,
+      19.850072860717773,
+      0.0
+    ],
+    "ground_service_adaptation": "Service rear partition shortened to leave L stair approach clear"
+  },
+  "doors": [
+    {
+      "name": "Ground shell 03 | door 0",
+      "clear_width_m": 0.805,
+      "base_m": 0.0
+    },
+    {
+      "name": "Ground shell 06 | door 0",
+      "clear_width_m": 0.797,
+      "base_m": 0.0
+    },
+    {
+      "name": "Ground shell 11 | door 0",
+      "clear_width_m": 0.827,
+      "base_m": 0.0
+    },
+    {
+      "name": "Ground | bar lobby divider | door 0",
+      "clear_width_m": 1.183,
+      "base_m": 0.0
+    },
+    {
+      "name": "Ground | lobby top | door 0",
+      "clear_width_m": 0.692,
+      "base_m": 0.0
+    },
+    {
+      "name": "Ground | WC front | door 0",
+      "clear_width_m": 1.009,
+      "base_m": 0.0
+    },
+    {
+      "name": "First | front office rear | door 0",
+      "clear_width_m": 0.659,
+      "base_m": 3.2
+    },
+    {
+      "name": "First | front-room passage rear | door 0",
+      "clear_width_m": 0.716,
+      "base_m": 3.2
+    },
+    {
+      "name": "First | rear office front | door 0",
+      "clear_width_m": 0.546,
+      "base_m": 3.2
+    },
+    {
+      "name": "First | toilets front | door 0",
+      "clear_width_m": 0.666,
+      "base_m": 3.2
+    },
+    {
+      "name": "First | toilets front | door 1",
+      "clear_width_m": 0.666,
+      "base_m": 3.2
+    },
+    {
+      "name": "First | rear office bottom | door 0",
+      "clear_width_m": 0.521,
+      "base_m": 3.2
+    },
+    {
+      "name": "First | rear store front | door 0",
+      "clear_width_m": 0.713,
+      "base_m": 3.2
+    },
+    {
+      "name": "First | hall access | door 0",
+      "clear_width_m": 0.831,
+      "base_m": 3.2
+    }
+  ],
+  "windows": [
+    {
+      "name": "Ground shell 00 | glazing 0",
+      "width_m": 1.348,
+      "floor": 0
+    },
+    {
+      "name": "Ground shell 07 | glazing 0",
+      "width_m": 1.477,
+      "floor": 0
+    },
+    {
+      "name": "Ground shell 08 | glazing 0",
+      "width_m": 0.922,
+      "floor": 0
+    },
+    {
+      "name": "Ground shell 09 | glazing 0",
+      "width_m": 0.997,
+      "floor": 0
+    },
+    {
+      "name": "Ground shell 12 | glazing 0",
+      "width_m": 0.418,
+      "floor": 0
+    },
+    {
+      "name": "Ground shell 13 | glazing 0",
+      "width_m": 0.967,
+      "floor": 0
+    },
+    {
+      "name": "First shell 00 | glazing 0",
+      "width_m": 1.261,
+      "floor": 1
+    },
+    {
+      "name": "First shell 03 | glazing 0",
+      "width_m": 0.982,
+      "floor": 1
+    },
+    {
+      "name": "First shell 03 | glazing 1",
+      "width_m": 1.052,
+      "floor": 1
+    },
+    {
+      "name": "First shell 07 | glazing 0",
+      "width_m": 2.015,
+      "floor": 1
+    },
+    {
+      "name": "First shell 08 | glazing 0",
+      "width_m": 0.84,
+      "floor": 1
+    },
+    {
+      "name": "First shell 08 | glazing 1",
+      "width_m": 0.84,
+      "floor": 1
+    },
+    {
+      "name": "First shell 08 | glazing 2",
+      "width_m": 0.84,
+      "floor": 1
+    }
+  ],
+  "scenes": [
+    "01 Ground floor - mapped rooms",
+    "02 First floor - mapped rooms",
+    "03 Both floors - assembled exterior"
+  ],
+  "limitations": [
+    "Hand traced structural centre lines; opening positions approximate",
+    "Ground entrance inferred from front recess + photos",
+    "Upstairs affine rectification is a modelling assumption",
+    "Heights unmeasured",
+    "No ceilings/roof, for cutaway inspection",
+    "Facade three upper sash windows from existing photos; dimensions approximate",
+    "No BO3 export, compiler or game test performed"
+  ],
+  "texture_uvs": {
+    "UV_Metres": "Planar face projection, 1 UV unit per metre",
+    "UV_Face_01": "Each face normalized 0..1 for photographic panels; final photo alignment remains to do"
+  },
+  "verification": {
+    "mesh_uv_count": 290,
+    "normals": "Recalculated outward",
+    "previews": [
+      "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\ground-floor-blockout.png",
+      "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\first-floor-blockout.png",
+      "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\assembled-blockout.png",
+      "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\ground-floor-top-plan.png",
+      "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\first-floor-top-plan.png"
+    ],
+    "game": "Not compiled or tested; Blender modelling task only"
+  }
+}

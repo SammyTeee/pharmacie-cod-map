@@ -4,6 +4,9 @@ A Call of Duty: Black Ops III custom Zombies map inspired by The Pharmacie Arms 
 
 ## Current status
 
+- **Latest modelling workspace:** open [pharmacie-photo-interior-v03.blend](assets/blender/pharmacie-photo-interior-v03.blend) in Blender. It includes the photo-based frontage, both floor layouts, corrected rear L-shaped stairs and 34 grouped interior furnishings. The default interior view includes the finished frontage. This Blender version has not yet been converted or tested in BO3; the existing playable BO3 source below is an earlier prototype.
+- Read [Blender workflow](docs/BLENDER_WORKFLOW.md) and [photo/object placement plan](docs/PHOTO_OBJECT_PLACEMENT_PLAN.md). The `.blend` packs its reference images; [current preview](assets/blender/photo-interior-with-front-v03.png) shows the saved arrangement. Frontage is estimated at 7m; heights and furniture positions remain provisional.
+
 - The project uses the official BO3 Mod Tools and the Zombies template named `zm_pharmacie`.
 - A code-authored first-pass blockout is in `map_source/zm/zm_pharmacie.map`, with its preserved BO3-generated template, repeatable generator, and GSC/CSC/zone source files in this repository.
 - The first geometry version compiled and linked successfully with BO3 Mod Tools on Sam's PC. The current layout iteration follows Sam's Paint sketch; rebuild results for that iteration are recorded in `MODLOG.md`.

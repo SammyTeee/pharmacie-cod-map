@@ -1,5 +1,9 @@
 # Call of Duty: Black Ops III modding plan
 
+## Latest direction — Blender first (2026-10-02)
+
+Sam requested Blender modelling from the new `hq floor plan ai.png` and installed Blender/MCP setup. Blender 5.2.2 LTS and official Blender Lab MCP are installed; a live MCP inspection/edit/save test passed. Reference-only starter: `assets/blender/pharmacie-reference-base.blend`. See `docs/BLENDER_WORKFLOW.md` for exact versions, paths, setup and plan observations. Blender becomes the modelling workspace; BO3 still uses Radiant/official Mod Tools for gameplay and builds. A Blender-to-BO3 asset export route remains to be selected and verified. Preserve the existing playable source until that route works.
+
 - **Local machine observations (Sam's PC, checked 2026-10-02):** Steam app 311210 is at `S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III`; `BlackOps3.exe` exists. The app manifest marked the game installed, though it still reported pending transfer/staging bytes. Executable version metadata was blank. These drive paths and install state apply only to that PC; recheck Steam on another machine.
 - **Local toolchain (Sam's PC, checked 2026-10-02):** Official Call of Duty: Black Ops III - Mod Tools (Steam tool app 455130), at `S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130` (build 5284267; 28.1 GB on disk). `bin\Radiant_modtools.exe`, `bin\modlauncher.exe`, and `map_source\zm\zm_giant.map` were present. Optional DLC 499270 was disabled. Preserve stock source files. On another PC, install the official Steam tool and verify its library path/build.
 - **Project source and build (Sam's PC, checked 2026-10-02):** The launcher-created `zm_pharmacie` template, generated blockout map, GSC/CSC, zone manifest, and sound-zone config are in this repository. `scripts/generate_blockout.py` regenerates the blockout; `scripts/prepare_photo_assets.py` prepares four photo materials. The latest two-storey furnished photo-panel source compiled, lit and linked with build 5284267 and a Zombie navmesh. Earlier SVG and upstairs-only packages loaded in BO3; latest photo verification is recorded in MODLOG.md. See `docs/PHOTO_MATERIAL_WORKFLOW.md` for reproduction and asset-index gotchas. Compiled outputs and absolute paths remain local to Sam's PC and are not in Git.
@@ -21,3 +25,7 @@
 ### SVG blockout update — 2026-10-02
 
 Sam's saved SVG now drives world geometry through `scripts/svg_blockout.py`; see `docs/SVG_BLOCKOUT.md`. Compile, fresh lighting export and final link succeeded after removing an obstructed tutorial barricade. Mod Tools and game remain separate S: installations on Sam's PC. `scripts/build-map.ps1` takes ToolsRoot explicitly for collaborators. Runtime validation is tracked in MODLOG.md.
+
+Latest reference: `Architectural Fire Evacuation Floor Plans.png`; new standalone project `assets/blender/pharmacie-evacuation-plan.blend`. Estimated 7m frontage, shared scale for both floors; tracing setup verified, building meshes and export pending. See docs/BLENDER_WORKFLOW.md.
+
+Latest Blender source is assets/blender/pharmacie-photo-interior-v03.blend: both floors, photo frontage, corrected L stairs and 34 grouped interior objects. Photo evidence/assumptions: docs/PHOTO_OBJECT_PLACEMENT_PLAN.md. Existing playable BO3 source preserved; model export route remains unverified.
