@@ -4,7 +4,7 @@
 
 Use the photos in two different ways. Build the pub's shape, collision, doors, bar, cases, furniture, and boss arena as real Radiant geometry or validated game models. Use selected near-frontal photo regions as custom wall panels, posters, cabinet inserts, and small decals. Do not turn a full-room photo into the whole map, and do not use a Gaussian splat as gameplay geometry.
 
-WaW needs game-native materials and collision; a photo plane alone would not let Zombies navigate around the bar or furniture. A splat may later help with visual reference or a static showcase, but it is not the first asset route for the map.
+BO3 needs game-native materials and collision; a photo plane alone would not let Zombies navigate around the bar or furniture. A splat may later help with visual reference or a static showcase, but it is not the first asset route for the map.
 
 ## Ranked photo candidates
 
@@ -24,7 +24,7 @@ WaW needs game-native materials and collision; a photo plane alone would not let
 2. Pick a crop that is close to head-on, with the four wall edges as parallel as possible. Record the chosen source and pixel crop in a manifest.
 3. Correct lens/perspective and uneven white balance gently. Avoid AI repainting text or inventing medical labels; tiny vintage text may be unreadable at game distance anyway.
 4. Decide whether the photograph includes real 3D elements that should instead be modelled (display cases, bottles, chairs, instruments). For the main feature wall, a photo-baked panel can be an efficient first pass; later separate high-relief cases/props for stronger lighting and depth.
-5. Inspect original WaW texture dimensions and the Mod Tools Asset Manager conversion path, then create a separate raw derivative at a compatible size/format. Do not guess final IWI/DDS settings before checking the installed tools and their sample assets.
+5. Inspect BO3 source texture dimensions and the Mod Tools material/build pipeline, then create a separate derivative at a compatible size/format. Do not guess final compression or format before checking the installed tools and sample assets.
 6. Compile one material onto one test wall and view it in game. Adjust scale, mip/detail, brightness, and readability before creating the rest of the set.
 7. Record derivative paths, source attribution/rights, edits, dimensions, material names, and in-game result in an asset manifest and `MODLOG.md`.
 
