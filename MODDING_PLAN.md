@@ -17,3 +17,7 @@
 - [Official BO3 Mod Tools Steam community hub](https://steamcommunity.com/app/455130)
 - [BO3 Zombies mapping guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3737598953)
 - [Modme WaW install guide, retained for the route comparison](https://wiki.modme.co/wiki/world_at_war/Installing-The-Modtools.html)
+
+### SVG blockout update — 2026-10-02
+
+Sam's saved SVG now drives world geometry through `scripts/svg_blockout.py`; see `docs/SVG_BLOCKOUT.md`. Compile, fresh lighting export and final link succeeded after removing an obstructed tutorial barricade. Mod Tools and game remain separate S: installations on Sam's PC. `scripts/build-map.ps1` takes ToolsRoot explicitly for collaborators. Runtime validation is tracked in MODLOG.md.

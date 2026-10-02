@@ -53,3 +53,7 @@ These notes separate what the collected images show from geometry that still nee
 - Are there usable rooms upstairs or behind the bar that should become playable areas?
 - What should the first map version include: only the main pub room, or one extra room/yard as well?
 - Which details are most personally recognizable and must be preserved even if the playable layout is expanded?
+
+### User layout supersedes earlier inferred blockout
+
+The saved `references/pharmacie-syston/pharmacie-layout.svg` places the bar centrally, toilet and stairs at the back, smoking patio beyond the rear-left wall, and platform at front-right. Use this explicit user layout for the blockout instead of earlier room-wide-photo guesses. Dimensions remain provisional; see SVG_BLOCKOUT.md for implementation assumptions.

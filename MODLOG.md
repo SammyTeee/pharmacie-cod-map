@@ -70,3 +70,16 @@ Start with a stock-asset blockout and a working BO3 Zombies template, then add p
 ## Next action
 
 The current generated layout is compiled and linked. Next, get an actual Radiant lighting export, then ask before copying linked mod outputs into the BO3 game install for an offline/private test. Keep stock tool sources and source photos unchanged.
+
+## 2026-10-02 — SVG-driven playable blockout build
+
+- Source is Sam's saved `references/pharmacie-syston/pharmacie-layout.svg`; original SVG/JPEG/JSON preserved. See `docs/SVG_BLOCKOUT.md` for interpretation and scale.
+- Generator now reads rendered SVG footprints/rotations, builds rear patio, hollow toilet, connected rear/east stairs, relocated bar/platform/furniture, and bounded entrance vestibule. Ceiling 320 units; simple concrete placeholders.
+- Corrected actual `actor_spawner_zm_factory_zombie` placement, moved initial player markers into the aisle, enlarged start zone, and added interior lights.
+- First link reported one bad path node at (320,255,16), from the retained tutorial barricade overlapping the power switch. Removed that unused barricade, switched its riser to `find_flesh`, rebuilt and relit.
+- Final compile exit 0, navigation mesh written, no duplicate triangles. Lighting export 1,728,318 bytes at 18:55:24 UTC. Final linker exit 0 at approximately 18:56 UTC, both map and English packages generated, no bad-node report in final output.
+- Commands from Mod Tools bin, with TA_GAME_PATH/TA_TOOLS_PATH pointing to Mod Tools and TA_LOCAL_ASSET_CACHE to share/assetconvert: `cod2map64.exe -platform pc -navmesh -navvolume -loadFrom <map> <share/raw/maps/zm/zm_pharmacie.d3dbsp>`; `Radiant_modtools.exe -ledSilent +medium +localprobes +forceclean +recompute <map>`; after fresh LED and bake process exit, `linker_modtools.exe -language english -modsource zm_pharmacie`.
+- Remaining compiler warnings: stock mystery-box plywood material missing; no flying-AI nav_volume; two retained utility brush entities ignored. Ground navmesh builds.
+- Added parameterized `scripts/build-map.ps1 -ToolsRoot <installation>` for subsequent builds. Sam's S: paths are machine-specific, not required by generator.
+- Player directory backed up under ignored `build/profile-backup/` before game launch. With approval, staged generated zone package into game usermaps/zm_pharmacie and launched `BlackOps3.exe +set fs_game zm_pharmacie +set logfile 2 +devmap zm_pharmacie`. Runtime result pending below.
+- Runtime observed: map loaded with pistol, 500 points and round-one HUD. User input was active, so no automated movement was sent (game-automation skill requires confirmation before taking over). A later passive screenshot shows GAME OVER, 2 rounds survived, 6 kills, 1170 score and 4 headshots. This verifies solo loading, zombie combat and round progression; not every route or co-op. Evidence: docs/screenshots/svg-blockout-first-game.png. The current blockout is visually rough/dark and still needs materials, lighting polish and route testing.

@@ -34,3 +34,7 @@ Treat the main bar room as one long, narrow rectangle for the first Radiant bloc
 For custom wall art, use the straight-on sections as source material, crop to a flat panel, correct any remaining perspective, and split dense display compositions into smaller wall panels/decals. Preserve the high-resolution originals as references and make separate game-ready derivatives for BO3 rather than replacing the originals.
 
 CAMRA describes the venue as a former shop with a 1950s pharmacy theme, medical artefacts and a skeleton in a dentist's chair. Treat the downloaded exterior photos as visual reference; check image rights before redistributing them with a released map. The BO3 Mod Tools format/pipeline replaces the earlier WaW plan; originals remain unchanged and any game-ready derivatives should be separate files.
+
+## Saved floor plan (2026-10-02)
+
+`pharmacie-layout.svg`, `pharmacie-layout.jpg`, and `pharmacie-layout.json` are Sam's exports from the interactive planner, preserved unchanged. They are user-authored layout references, not venue photography. The SVG's rendered geometry now drives the blockout generator; see ../../docs/SVG_BLOCKOUT.md. JSON size metadata is inconsistent and is not used for map dimensions.

@@ -20,7 +20,7 @@ ROOM = {
     "y_min": -640,
     "y_max": 800,
     "z_min": 0,
-    "z_max": 256,
+    "z_max": 320,
     "wall": 16,
     "slab": 16,
 }
@@ -80,72 +80,9 @@ def volume_brush(number: int, bounds: tuple[int, int, int, int, int, int], nl: s
 
 
 def generated_room_brushes(first_number: int, nl: str) -> str:
-    r = ROOM
-    x0, x1 = r["x_min"], r["x_max"]
-    y0, y1 = r["y_min"], r["y_max"]
-    z0, z1 = r["z_min"], r["z_max"]
-    w, slab = r["wall"], r["slab"]
-    mat = "t7_concrete_trowelled"  # Seen on BO3 stock zm_giant brush faces.
-
-    boxes: list[tuple[str, tuple[int, int, int, int, int, int]]] = [
-        ("floor", (x0 - w, x1 + w, y0 - w, y1 + w, z0 - slab, z0)),
-        ("ceiling", (x0 - w, x1 + w, y0 - w, y1 + w, z1, z1 + slab)),
-        ("west wall south", (x0 - w, x0, y0 - w, 432, z0, z1)),
-        ("west wall north", (x0 - w, x0, 544, y1 + w, z0, z1)),
-        ("west wall door lintel", (x0 - w, x0, 432, 544, 208, z1)),
-        ("east wall", (x1, x1 + w, y0 - w, y1 + w, z0, z1)),
-        # Front entrance: a 192-unit door opening in the street-end wall.
-        ("street wall west", (x0, -96, y0 - w, y0, z0, z1)),
-        ("street wall east", (96, x1, y0 - w, y0, z0, z1)),
-        ("street wall lintel", (-96, 96, y0 - w, y0, 224, z1)),
-        ("bar end wall", (x0, x1, y1, y1 + w, z0, z1)),
-        # Toilet room beside the bar. The east partition has a proper doorway.
-        ("toilet west partition", (-288, -272, 192, 512, z0, 224)),
-        ("toilet north partition", (-272, -64, 496, 512, z0, 224)),
-        ("toilet south partition", (-272, -64, 192, 208, z0, 224)),
-        ("toilet east north", (-80, -64, 192, 272, z0, 224)),
-        ("toilet east south", (-80, -64, 352, 512, z0, 224)),
-        ("toilet east lintel", (-80, -64, 272, 352, 208, 224)),
-        # Small covered outside smoking area on the west side, with a doorway
-        # from the pub and an open doorway facing the surrounding sky shell.
-        ("smoking floor", (-672, -352, 368, 736, z0 - slab, z0)),
-        ("smoking ceiling", (-672, -352, 368, 736, z1, z1 + slab)),
-        ("smoking west wall north", (-672, -656, 560, 736, z0, z1)),
-        ("smoking west wall south", (-672, -656, 368, 432, z0, z1)),
-        ("smoking south wall", (-672, -352, 368, 384, z0, z1)),
-        ("smoking north wall", (-672, -352, 720, 736, z0, z1)),
-        ("smoking pub wall south", (-368, -352, 368, 432, z0, z1)),
-        ("smoking pub wall north", (-368, -352, 544, 736, z0, z1)),
-        ("smoking pub door lintel", (-368, -352, 432, 544, 208, z1)),
-        # Stair passage on the east. Treads ascend toward the rear landing;
-        # the open side remains connected to the main room for the blockout.
-        ("stair west partition", (64, 80, 144, 560, z0, 208)),
-        ("stair east partition south", (272, 288, 144, 480, z0, 208)),
-        ("stair east partition north", (272, 288, 544, 560, z0, 208)),
-        ("upper landing", (80, 272, 480, 560, 96, 112)),
-        # Raised table platform and simple table placeholders in the main hall.
-        ("raised table platform", (16, 304, -144, 176, 0, 12)),
-        ("platform step one", (16, 304, -192, -144, 0, 4)),
-        ("platform step two", (16, 304, -176, -144, 4, 8)),
-        ("table 1", (-256, -160, -448, -352, 0, 32)),
-        ("table 2", (144, 224, -384, -288, 0, 32)),
-        ("table 3", (-256, -160, -128, -32, 0, 32)),
-        ("table 4", (176, 256, 224, 304, 0, 32)),
-        # Plain blockout bar and backbar at the north end.
-        ("bar counter", (-176, 176, 624, 688, 0, 40)),
-        ("bar top", (-192, 192, 616, 696, 40, 52)),
-        ("backbar", (-224, 224, 736, 768, 52, 184)),
-    ]
-    # Eight solid risers give the upstairs stair passage an immediately
-    # legible, walkable first-pass shape.
-    for index in range(8):
-        y = 160 + index * 40
-        height = 12 + (index + 1) * 12
-        boxes.append((f"stair tread {index + 1}", (96, 256, y, y + 40, 0, height)))
-    result = []
-    for offset, (_label, bounds) in enumerate(boxes):
-        result.append(box_brush(first_number + offset, bounds, mat, nl))
-    return "".join(result)
+    from svg_blockout import boxes
+    return ''.join(box_brush(first_number+i, bounds, 't7_concrete_trowelled', nl)
+                   for i, (label, bounds) in enumerate(boxes()))
 
 
 def parse_entity_blocks(text: str) -> list[tuple[int, int, str]]:
@@ -208,23 +145,23 @@ def patch_info_volume(block: str, nl: str) -> str:
     if not brush_re.search(inner):
         raise ValueError("start_zone info_volume is missing its brush")
     bounds = (
-        -672, ROOM["x_max"],
-        ROOM["y_min"], ROOM["y_max"],
+        -496, ROOM["x_max"],
+        -784, 1152,
         ROOM["z_min"], ROOM["z_max"],
     )
     return brush_re.sub(volume_brush(0, bounds, nl), inner, count=1)
 
 
 ORIGINS_BY_MODEL = {
-    "barricade_reciever_wood.map": "320 -32 0",
-    "power_switch.map": "288 96 0",
-    "buyable_magic_box_start.map": "-240 552 0",
-    "vending_revive_struct.map": "240 552 0",
-    "vending_juggernaut_struct.map": "-240 432 0",
-    "vending_sleight_struct.map": "240 432 0",
-    "vending_doubletap_struct.map": "-240 280 0",
-    "vending_weapon_upgrade_spawnable.map": "240 280 0",
-    "spawnable_weapon_shotgun_pump.map": "-280 -32 0",
+    "barricade_reciever_wood.map": "320 192 0",
+    "power_switch.map": "320 256 0",
+    "buyable_magic_box_start.map": "-280 160 0",
+    "vending_revive_struct.map": "-272 -576 0",
+    "vending_juggernaut_struct.map": "-384 1072 0",
+    "vending_sleight_struct.map": "-256 1072 0",
+    "vending_doubletap_struct.map": "-128 272 0",
+    "vending_weapon_upgrade_spawnable.map": "64 272 0",
+    "spawnable_weapon_shotgun_pump.map": "-328 -480 0",
 }
 
 
@@ -235,21 +172,30 @@ def update_entity(block: str, nl: str) -> str:
     targetname = kv(block, "targetname") or ""
     origin = None
 
+    # This layout uses floor risers, not the tutorial's freestanding window.
+    if model.endswith('barricade_reciever_wood.map'):
+        return ''
+    if noteworthy == 'riser_location':
+        block = block.replace('"receiver_set_entry_a"', '"find_flesh"')
+
     for suffix, location in ORIGINS_BY_MODEL.items():
         if model.endswith(suffix):
             origin = location
             break
 
-    if classname == "actor_zm_factory_zombie":
-        origin = "0 552 28"
+    if classname == "actor_spawner_zm_factory_zombie":
+        origin = "-280 640 8"
+    elif noteworthy == "initial_spawn":
+        old = (kv(block, "origin") or '').split()
+        origin = f"{int(float(old[0])) // 3} {old[1]} 28"
     elif classname == "script_struct" and noteworthy == "riser_location":
         old_origin = kv(block, "origin")
         if old_origin == "576 192 0":
-            origin = "280 192 0"
+            origin = "288 160 0"
         elif old_origin == "-576 192 0":
-            origin = "-280 192 0"
+            origin = "-280 320 0"
         elif old_origin == "0 576 0":
-            origin = "0 704 0"
+            origin = "-280 960 0"
     elif classname == "script_struct" and targetname == "intermission_b":
         origin = "280 -32 104"
 
@@ -282,6 +228,10 @@ def generate(text: str) -> str:
         pieces.append(block)
         cursor = end
     pieces.append(text[cursor:])
+    for i, y in enumerate((-480, -64, 320, 704, 1000)):
+        pieces.append(nl + '// entity ' + str(100+i) + nl + '{' + nl +
+                      f'"classname" "light"{nl}"origin" "0 {y} 220"{nl}' +
+                      f'"_color" "1 0.88 0.7"{nl}"light" "450"{nl}' + '}' + nl)
     return "".join(pieces)
 
 

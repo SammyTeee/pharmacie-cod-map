@@ -56,3 +56,7 @@ The guide describes the four-pane roles and basic brush workflow: top/side views
 ## Next useful verification
 
 Open the current map in Radiant for visual inspection and run the compiled mod in BO3 after approval to copy the generated package into the game install. A first blockout is generated, fully compiled with Zombie navmesh, lighting-exported, and linked; it has not yet been game-tested.
+
+## SVG build runtime verification (2026-10-02)
+
+The SVG-derived rebuild completed compiler + lighting + linker, then loaded using `BlackOps3.exe +set fs_game zm_pharmacie +set logfile 2 +devmap zm_pharmacie` after the linked zone folder was copied to the separate game installation's usermaps/zm_pharmacie. The user played two rounds with six kills (results screenshot in docs/screenshots). The earlier “not game-tested” statements above describe older builds. See scripts/build-map.ps1 for a parameterized build sequence that waits for actual LED completion.

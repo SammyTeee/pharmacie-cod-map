@@ -7,7 +7,7 @@ A Call of Duty: Black Ops III custom Zombies map inspired by The Pharmacie Arms 
 - The project uses the official BO3 Mod Tools and the Zombies template named `zm_pharmacie`.
 - A code-authored first-pass blockout is in `map_source/zm/zm_pharmacie.map`, with its preserved BO3-generated template, repeatable generator, and GSC/CSC/zone source files in this repository.
 - The first geometry version compiled and linked successfully with BO3 Mod Tools on Sam's PC. The current layout iteration follows Sam's Paint sketch; rebuild results for that iteration are recorded in `MODLOG.md`.
-- The map has not yet been launched in BO3. Compiled `.d3dbsp`, navmesh, and `.ff` outputs live in Sam's local Mod Tools installation and are not tracked here.
+- The saved SVG layout now compiles, lights, links, and plays in BO3. The first local session reached **2 rounds survived and 6 kills** on 2026-10-02. Full route coverage and co-op still need verification. Compiled outputs are local and not tracked here.
 - The reference photos are preserved under `references/pharmacie-syston/`. Do not overwrite them or distribute them in a released map without checking rights.
 
 ## Continue on another computer
@@ -28,6 +28,7 @@ Keep work offline/private. Do not edit stock tool maps or game files. Use simple
 - [Radiant workflow and automation findings](docs/RADIANT_WORKFLOW.md)
 - [Blockout layout and clean plan](docs/BLOCKOUT_LAYOUT.md)
 - [Editable SVG floor plan](docs/pharmacie-layout-v1.svg)
+- [Sam's saved layout](references/pharmacie-syston/pharmacie-layout.svg) and [SVG-to-map implementation notes](docs/SVG_BLOCKOUT.md)
 - [Interactive layout editor](docs/layout-editor.html) (open in a browser to drag and label items)
 - [Photo-based layout observations](docs/THE_PHARMACIE_MAP_NOTES.md)
 - [Photo gallery with previews and descriptions](docs/PHOTO_GALLERY.md)
