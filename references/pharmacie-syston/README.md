@@ -38,3 +38,7 @@ CAMRA describes the venue as a former shop with a 1950s pharmacy theme, medical 
 ## Saved floor plan (2026-10-02)
 
 `pharmacie-layout.svg`, `pharmacie-layout.jpg`, and `pharmacie-layout.json` are Sam's exports from the interactive planner, preserved unchanged. They are user-authored layout references, not venue photography. The SVG's rendered geometry now drives the blockout generator; see ../../docs/SVG_BLOCKOUT.md. JSON size metadata is inconsistent and is not used for map dimensions.
+
+## Photo-panel derivatives (2026-10-02)
+
+Sam approved flat photographic frontage, bar and wall panels, plus a skeleton cutout. `pharmacie-arms-syston-2.jpg` is the clearest head-on frontage source (1024×751); its central right-hand door is cut through the geometry. `bar front.jpg` supplies drawers and upper bar detail; `great for texture.avif` supplies non-tiling pharmacy panels. The supplied 1500×2000 skeleton/dentist-chair photo supplies an AI-isolated transparent cutout. Originals remain unchanged. Derivatives, hashes and conversion recipes are separate in `assets/photos/manifest.json`; see `docs/PHOTO_MATERIAL_WORKFLOW.md` for source-pixel UV crops, material settings and build steps. No distribution rights are inferred from private-use approval.

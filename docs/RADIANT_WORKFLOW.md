@@ -4,6 +4,8 @@
 
 **Last checked:** 2026-10-02 on Sam's PC, BO3 Mod Tools build 5284267. Machine-specific install paths are recorded in [MODDING_PLAN.md](../MODDING_PLAN.md). Online project/tool claims below are attributed and still need to be checked against this installed build before adopting them.
 
+**Latest workflow:** two-storey blockout with four custom photo materials compiles, lighting-exports and links. See [PHOTO_MATERIAL_WORKFLOW.md](PHOTO_MATERIAL_WORKFLOW.md) for explicit mesh UV syntax and the GDT database registration fix. Use `scripts/build-map.ps1`: normalized environment paths for GDT update, trailing slashes for compiler/lighting/linker, actual bake-PID wait, and printed-error checks as well as exit codes. Statements below about older untested builds are historical; current evidence is in MODLOG.md.
+
 ## Findings so far
 
 - The BO3 Mod Tools project map is a readable `iwmap 4` text file. We preserved the launcher-created template in the repo, generated a first pub-room blockout from Python, and staged it in Sam's Mod Tools directory. This confirms axis-aligned room geometry can be authored by script without using the editor for every wall and floor.

@@ -35,19 +35,34 @@ def boxes():
     def add(name, xy, bottom, top):
         b.append((name, (*xy, bottom, top)))
     add('main floor', (-368,368,-656,816), -16,0)
-    add('main ceiling', (-368,368,-656,816), 320,336)
+    # Upper floor doubles as the downstairs ceiling. Leave an L-shaped stairwell.
+    sx0,sx1,sy0,sy1 = f['stairs']
+    for name,xy in (
+        ('front',(-368,368,-656,328)),
+        ('middle west',(-368,224,328,sy0)),
+        ('middle east',(336,368,328,sy0)),
+        ('rear west',(-368,sx0,sy0,sy1)),
+        ('rear east',(336,368,sy0,sy1)),
+        ('back',(-368,368,sy1,816)),
+    ):
+        add('upstairs floor '+name,xy,320,336)
+    add('upstairs roof',(-368,368,-656,816),640,656)
+    add('upstairs west wall',(-368,-352,-656,816),320,640)
+    add('upstairs east wall',(352,368,-656,816),320,640)
+    add('upstairs front wall',(-352,352,-656,-640),320,640)
+    add('upstairs rear wall',(-352,352,800,816),320,640)
     add('west wall', (-368,-352,-656,800),0,320)
     add('east wall', (352,368,-656,816),0,320)
-    # Entrance follows the visible SVG path M493 870H587.
-    add('front west',(-352,54,-656,-640),0,320)
-    add('front east',(242,352,-656,-640),0,320)
-    add('entrance lintel',(54,242,-656,-640),208,320)
-    # Small enclosed street vestibule prevents an open doorway into the void.
-    add('vestibule floor',(38,258,-784,-640),-16,0)
-    add('vestibule west',(38,54,-784,-656),0,320)
-    add('vestibule east',(242,258,-784,-656),0,320)
-    add('vestibule end',(54,242,-784,-768),0,320)
-    add('vestibule roof',(38,258,-784,-656),320,336)
+    # Sam requested the door opening at the actual position in the photo.
+    from photo_panels import DOOR_LEFT, DOOR_RIGHT, DOOR_HEIGHT
+    add('front west',(-352,DOOR_LEFT,-656,-640),0,320)
+    add('front east',(DOOR_RIGHT,352,-656,-640),0,320)
+    add('entrance lintel',(DOOR_LEFT,DOOR_RIGHT,-656,-640),DOOR_HEIGHT,320)
+    # Bounded outdoor strip lets players step back and see the full frontage.
+    add('forecourt floor',(-368,368,-1024,-640),-16,0)
+    add('forecourt west',(-368,-352,-1024,-656),0,160)
+    add('forecourt east',(352,368,-1024,-656),0,160)
+    add('forecourt end',(-352,352,-1024,-1008),0,160)
     add('rear west',(-352,-334,800,816),0,320)
     add('rear east',(-230,352,800,816),0,320)
     add('patio door lintel',(-334,-230,800,816),208,320)
@@ -68,18 +83,33 @@ def boxes():
     add('toilet lintel',(mid-48,mid+48,y0,y0+12),192,224)
     add('platform',f['raised-platform'],0,12)
     add('bar',f['bar'],0,48)
-    # Rear flight follows the rotated arrow (east), joining the marked right route.
+    add('bar countertop',(-161,199,62,138),48,52)
+    # Climb north on the east flight, turn left at 168 units, then climb west
+    # to the upper floor at 336. Each rise is below the 18-unit step standard.
     x0,x1,y0,y1=f['stairs']
     for i in range(13):
         left=x0+i*32
-        add(f'rear stair {i+1}',(left,min(left+32,x1),y0,y1),0,(i+1)*8)
-    add('east landing',(x1,336,640,y1),0,104)
+        add(f'rear stair {i+1}',(left,min(left+32,x1),y0,y1),0,336-i*168/13)
+    add('east landing',(x1,336,640,y1),0,168)
     for i in range(13):
-        add(f'east stair {i+1}',(224,336,328+i*24,352+i*24),0,(i+1)*8)
+        add(f'east stair {i+1}',(224,336,328+i*24,352+i*24),0,(i+1)*168/13)
+    def table(name,xy,base=0):
+        x0,x1,y0,y1=xy
+        add(name+' tabletop',xy,base+28,base+32)
+        for j,(x,y) in enumerate(((x0+8,y0+8),(x1-14,y0+8),(x0+8,y1-14),(x1-14,y1-14))):
+            add(name+f' leg {j}',(x,x+6,y,y+6),base,base+28)
+        # Two simple wooden seats per table, with backs, outside the tabletop.
+        mid=(x0+x1)//2
+        for j,y in enumerate((y0-32,y1+8)):
+            add(name+f' chair {j} seat',(mid-12,mid+12,y,y+24),base,base+18)
+            back=y if j==0 else y+20
+            add(name+f' chair {j} back',(mid-12,mid+12,back,back+4),base+18,base+36)
     for ident,xy in f.items():
         if ident.startswith('table-') or ident=='added-murb8s0z':
-            add(ident,xy,0,32)
+            table(ident,xy)
+    table('table extra west',(-304,-200,184,260))
+    table('table extra platform',(176,280,-380,-304),12)
+    table('table extra patio',(-448,-344,872,948))
     add('sofa',f['sofa'],0,28)
-    add('skeleton placeholder',f['skeleton'],0,48)
     add('chairs',f['added-murb7sam'],0,24)
     return b

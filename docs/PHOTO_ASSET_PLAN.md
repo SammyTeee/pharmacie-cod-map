@@ -30,4 +30,8 @@ BO3 needs game-native materials and collision; a photo plane alone would not let
 
 ## Rights and quality
 
+### Implemented prototype route — 2026-10-02
+
+Sam approved flat photo panels. The clear frontage, bar, AVIF wall and full-length skeleton reference now have separate derivatives and map meshes. Crops use mesh UVs rather than modifying source photos. The skeleton cutout uses imagegen background isolation. See [PHOTO_MATERIAL_WORKFLOW.md](PHOTO_MATERIAL_WORKFLOW.md) and `assets/photos/manifest.json` for exact sources and settings; MODLOG.md records compilation and runtime evidence. The feature wall still includes photo-baked cabinets in this first pass.
+
 Keep local reference copies for this project. Before releasing a map, confirm whether externally sourced photos/poster artwork may be redistributed or baked into the map; where permission is unclear, recreate original vintage-inspired adverts and use the photos only as reference. User-supplied photographs can be used as project references, but keep provenance with each source.

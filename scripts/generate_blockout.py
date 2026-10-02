@@ -81,8 +81,22 @@ def volume_brush(number: int, bounds: tuple[int, int, int, int, int, int], nl: s
 
 def generated_room_brushes(first_number: int, nl: str) -> str:
     from svg_blockout import boxes
-    return ''.join(box_brush(first_number+i, bounds, 't7_concrete_trowelled', nl)
-                   for i, (label, bounds) in enumerate(boxes()))
+    from photo_panels import panels
+    geometry = boxes()
+    return (''.join(box_brush(first_number+i, bounds, blockout_material(label), nl)
+                   for i, (label, bounds) in enumerate(geometry))
+            + panels(first_number+len(geometry), nl))
+
+
+def blockout_material(label: str) -> str:
+    """Stock materials observed in the installed zm_giant source maps."""
+    if label in {'main floor', 'vestibule floor', 'platform', 'bar', 'bar countertop',
+                 'sofa', 'chairs', 'east landing', 'added-murb8s0z'} or label.startswith(
+                     ('table', 'added-murb8s0z', 'rear stair ', 'east stair ', 'upstairs floor ')):
+        return 't7_wood_planks_damaged_teak'
+    if label.startswith(('patio ', 'forecourt ')) and not label.endswith('floor'):
+        return 't7_brick_worn_heavy_grout_red'
+    return 't7_concrete_trowelled'
 
 
 def parse_entity_blocks(text: str) -> list[tuple[int, int, str]]:
@@ -146,8 +160,8 @@ def patch_info_volume(block: str, nl: str) -> str:
         raise ValueError("start_zone info_volume is missing its brush")
     bounds = (
         -496, ROOM["x_max"],
-        -784, 1152,
-        ROOM["z_min"], ROOM["z_max"],
+        -1008, 1152,
+        ROOM["z_min"], 640,
     )
     return brush_re.sub(volume_brush(0, bounds, nl), inner, count=1)
 
@@ -231,6 +245,10 @@ def generate(text: str) -> str:
     for i, y in enumerate((-480, -64, 320, 704, 1000)):
         pieces.append(nl + '// entity ' + str(100+i) + nl + '{' + nl +
                       f'"classname" "light"{nl}"origin" "0 {y} 220"{nl}' +
+                      f'"_color" "1 0.88 0.7"{nl}"light" "450"{nl}' + '}' + nl)
+    for i, y in enumerate((-480, -64, 320, 704)):
+        pieces.append(nl + '// entity ' + str(110+i) + nl + '{' + nl +
+                      f'"classname" "light"{nl}"origin" "0 {y} 548"{nl}' +
                       f'"_color" "1 0.88 0.7"{nl}"light" "450"{nl}' + '}' + nl)
     return "".join(pieces)
 

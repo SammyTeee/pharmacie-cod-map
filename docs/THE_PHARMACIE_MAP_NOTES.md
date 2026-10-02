@@ -57,3 +57,5 @@ These notes separate what the collected images show from geometry that still nee
 ### User layout supersedes earlier inferred blockout
 
 The saved `references/pharmacie-syston/pharmacie-layout.svg` places the bar centrally, toilet and stairs at the back, smoking patio beyond the rear-left wall, and platform at front-right. Use this explicit user layout for the blockout instead of earlier room-wide-photo guesses. Dimensions remain provisional; see SVG_BLOCKOUT.md for implementation assumptions.
+
+Sam subsequently clarified the L-shaped stairs lead to one large empty upstairs room, roughly the downstairs footprint. Sam also approved flat photo frontage/bar/wall/skeleton panels, with the entrance opening positioned from the clear frontage photograph rather than the approximate SVG entrance. Those changes and extra furniture are implemented in the current generator; see PHOTO_MATERIAL_WORKFLOW.md and MODLOG.md for precise assumptions and actual verification.

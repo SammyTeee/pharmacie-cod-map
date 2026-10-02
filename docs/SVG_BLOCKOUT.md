@@ -8,12 +8,13 @@ Implemented: relocated bar, hollow toilet with doorway, rear-left outdoor smokin
 
 Gameplay interpretations, not measured architectural facts:
 
-- Rear stair labels describe one connected route; stair height is 104 units and ceiling height is 320 for clearance. No upstairs room yet.
+- Sam clarified that the stairs form an L and lead to one large empty upstairs room. The east flight now rises north to a 168-unit landing, then the rear flight rises west to the 336-unit upper floor. Individual rises are approximately 12.92 units. The upper room follows the main pub footprint (704×1440 usable units) and has a 304-unit clear height; these are blockout dimensions, not surveyed measurements. Its floor leaves an L-shaped opening over the stairs.
 - The off-canvas `stauir` marker is ignored.
-- The fixed SVG entrance is offset east. A bounded vestibule outside it prevents walking into empty space.
+- Sam's later request puts the entrance at the door in the clear frontage photograph; this supersedes the SVG entrance position. A bounded outdoor forecourt replaces the narrow vestibule, allowing the photo front to be viewed.
 - Patio threshold bridges the small drawn gap. Patio walls bound playable space.
 - Toilet door faces the bar; source has no door marked.
-- Furniture uses solid placeholders. Photo detail and bespoke skeleton are deferred.
+- Furniture uses simple tops, legs and seats; eight tables with two chairs each. Bar, wall, frontage and transparent skeleton photo meshes are implemented; bespoke 3D props remain deferred. See PHOTO_MATERIAL_WORKFLOW.md.
+- Stock wood differentiates floors, furniture, bar and stairs; patio walls use stock brick. These are temporary materials observed in the installed stock map sources. Upstairs is empty apart from lighting and its stair opening.
 - Initial player markers are moved into the central aisle. Zombie spawner classname is corrected and risers redistributed inside reachable floor space.
 
 Compilation is necessary but does not establish runtime playability. See MODLOG.md for actual build and game results.

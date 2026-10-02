@@ -85,27 +85,127 @@ guid "{8efa1cc0-5316-4c3d-9dea-9f289d19cd9a}"
 }
 // brush 17
 {
- guid "{d9c57851-2c4c-5c67-a5a1-204b77d34fba}"
- ( -368 -656 -16 ) ( 368 -656 -16 ) ( 368 816 -16 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -368 -656 0 ) ( -368 816 0 ) ( 368 816 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -368 -656 -16 ) ( -368 -656 0 ) ( 368 -656 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -368 816 -16 ) ( 368 816 -16 ) ( 368 816 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -368 -656 -16 ) ( -368 816 -16 ) ( -368 816 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 368 -656 -16 ) ( 368 -656 0 ) ( 368 816 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{a8ed556b-0b4b-52b0-976f-db6a0e812b6f}"
+ ( -368 -656 -16 ) ( 368 -656 -16 ) ( 368 816 -16 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -656 0 ) ( -368 816 0 ) ( 368 816 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -656 -16 ) ( -368 -656 0 ) ( 368 -656 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 816 -16 ) ( 368 816 -16 ) ( 368 816 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -656 -16 ) ( -368 816 -16 ) ( -368 816 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 368 -656 -16 ) ( 368 -656 0 ) ( 368 816 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 18
 {
- guid "{7e860ff1-2b02-54f2-af8f-a15c7b32f7df}"
- ( -368 -656 320 ) ( 368 -656 320 ) ( 368 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -368 -656 336 ) ( -368 816 336 ) ( 368 816 336 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -368 -656 320 ) ( -368 -656 336 ) ( 368 -656 336 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -368 816 320 ) ( 368 816 320 ) ( 368 816 336 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -368 -656 320 ) ( -368 816 320 ) ( -368 816 336 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 368 -656 320 ) ( 368 -656 336 ) ( 368 816 336 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{6b833527-3d3b-50a1-bbb4-b85ada83728e}"
+ ( -368 -656 320 ) ( 368 -656 320 ) ( 368 328 320 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -656 336 ) ( -368 328 336 ) ( 368 328 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -656 320 ) ( -368 -656 336 ) ( 368 -656 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 328 320 ) ( 368 328 320 ) ( 368 328 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -656 320 ) ( -368 328 320 ) ( -368 328 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 368 -656 320 ) ( 368 -656 336 ) ( 368 328 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 19
 {
- guid "{061e75f3-15b9-538e-935f-fbd3161702b6}"
+ guid "{8baa058e-dcd6-569d-aee7-51ee39d25893}"
+ ( -368 328 320 ) ( 224 328 320 ) ( 224 563 320 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 328 336 ) ( -368 563 336 ) ( 224 563 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 328 320 ) ( -368 328 336 ) ( 224 328 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 563 320 ) ( 224 563 320 ) ( 224 563 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 328 320 ) ( -368 563 320 ) ( -368 563 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 328 320 ) ( 224 328 336 ) ( 224 563 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 20
+{
+ guid "{2370ddfb-c0e8-517e-8aa3-c7dfcb91e6c0}"
+ ( 336 328 320 ) ( 368 328 320 ) ( 368 563 320 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 328 336 ) ( 336 563 336 ) ( 368 563 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 328 320 ) ( 336 328 336 ) ( 368 328 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 563 320 ) ( 368 563 320 ) ( 368 563 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 328 320 ) ( 336 563 320 ) ( 336 563 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 368 328 320 ) ( 368 328 336 ) ( 368 563 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 21
+{
+ guid "{7080bbee-d570-5e21-9f55-88e20e7b93b8}"
+ ( -368 563 320 ) ( -194 563 320 ) ( -194 787 320 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 563 336 ) ( -368 787 336 ) ( -194 787 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 563 320 ) ( -368 563 336 ) ( -194 563 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 787 320 ) ( -194 787 320 ) ( -194 787 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 563 320 ) ( -368 787 320 ) ( -368 787 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -194 563 320 ) ( -194 563 336 ) ( -194 787 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 22
+{
+ guid "{da42f8ad-90a8-5c86-bdac-806f4bb653db}"
+ ( 336 563 320 ) ( 368 563 320 ) ( 368 787 320 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 563 336 ) ( 336 787 336 ) ( 368 787 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 563 320 ) ( 336 563 336 ) ( 368 563 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 787 320 ) ( 368 787 320 ) ( 368 787 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 563 320 ) ( 336 787 320 ) ( 336 787 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 368 563 320 ) ( 368 563 336 ) ( 368 787 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 23
+{
+ guid "{3f7013ab-1c4e-5fb0-b02f-de9ff6cd6844}"
+ ( -368 787 320 ) ( 368 787 320 ) ( 368 816 320 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 787 336 ) ( -368 816 336 ) ( 368 816 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 787 320 ) ( -368 787 336 ) ( 368 787 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 816 320 ) ( 368 816 320 ) ( 368 816 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 787 320 ) ( -368 816 320 ) ( -368 816 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 368 787 320 ) ( 368 787 336 ) ( 368 816 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 24
+{
+ guid "{465f7bbd-41a6-5482-a3c0-e952ebf9bd31}"
+ ( -368 -656 640 ) ( 368 -656 640 ) ( 368 816 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -656 656 ) ( -368 816 656 ) ( 368 816 656 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -656 640 ) ( -368 -656 656 ) ( 368 -656 656 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 816 640 ) ( 368 816 640 ) ( 368 816 656 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -656 640 ) ( -368 816 640 ) ( -368 816 656 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 368 -656 640 ) ( 368 -656 656 ) ( 368 816 656 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 25
+{
+ guid "{b7888e16-1f88-5a6d-b4e5-11185042d0bb}"
+ ( -368 -656 320 ) ( -352 -656 320 ) ( -352 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -656 640 ) ( -368 816 640 ) ( -352 816 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -656 320 ) ( -368 -656 640 ) ( -352 -656 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 816 320 ) ( -352 816 320 ) ( -352 816 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -656 320 ) ( -368 816 320 ) ( -368 816 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -656 320 ) ( -352 -656 640 ) ( -352 816 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 26
+{
+ guid "{7567b0a4-c326-5052-867d-7dd2e3de0d4b}"
+ ( 352 -656 320 ) ( 368 -656 320 ) ( 368 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 352 -656 640 ) ( 352 816 640 ) ( 368 816 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 352 -656 320 ) ( 352 -656 640 ) ( 368 -656 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 352 816 320 ) ( 368 816 320 ) ( 368 816 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 352 -656 320 ) ( 352 816 320 ) ( 352 816 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 368 -656 320 ) ( 368 -656 640 ) ( 368 816 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 27
+{
+ guid "{ae707b30-2c76-529f-b48e-4421dfeb24d7}"
+ ( -352 -656 320 ) ( 352 -656 320 ) ( 352 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -656 640 ) ( -352 -640 640 ) ( 352 -640 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -656 320 ) ( -352 -656 640 ) ( 352 -656 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -640 320 ) ( 352 -640 320 ) ( 352 -640 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -656 320 ) ( -352 -640 320 ) ( -352 -640 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 352 -656 320 ) ( 352 -656 640 ) ( 352 -640 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 28
+{
+ guid "{d896249d-f179-50e5-8ead-b7bd660102c0}"
+ ( -352 800 320 ) ( 352 800 320 ) ( 352 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 800 640 ) ( -352 816 640 ) ( 352 816 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 800 320 ) ( -352 800 640 ) ( 352 800 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 816 320 ) ( 352 816 320 ) ( 352 816 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 800 320 ) ( -352 816 320 ) ( -352 816 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 352 800 320 ) ( 352 800 640 ) ( 352 816 640 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 29
+{
+ guid "{99662b97-fcc9-5701-82d3-dd1aa3f65045}"
  ( -368 -656 0 ) ( -352 -656 0 ) ( -352 800 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -368 -656 320 ) ( -368 800 320 ) ( -352 800 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -368 -656 0 ) ( -368 -656 320 ) ( -352 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -113,9 +213,9 @@ guid "{8efa1cc0-5316-4c3d-9dea-9f289d19cd9a}"
  ( -368 -656 0 ) ( -368 800 0 ) ( -368 800 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -352 -656 0 ) ( -352 -656 320 ) ( -352 800 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 20
+// brush 30
 {
- guid "{8464e72a-4be2-56bd-8fe1-e8850c6c0b07}"
+ guid "{e46c27f7-10d7-53a4-9290-1711091dda96}"
  ( 352 -656 0 ) ( 368 -656 0 ) ( 368 816 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 352 -656 320 ) ( 352 816 320 ) ( 368 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 352 -656 0 ) ( 352 -656 320 ) ( 368 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -123,89 +223,79 @@ guid "{8efa1cc0-5316-4c3d-9dea-9f289d19cd9a}"
  ( 352 -656 0 ) ( 352 816 0 ) ( 352 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 368 -656 0 ) ( 368 -656 320 ) ( 368 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 21
+// brush 31
 {
- guid "{acfa6665-f93d-5520-a320-4fc097ca01ce}"
- ( -352 -656 0 ) ( 54 -656 0 ) ( 54 -640 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -352 -656 320 ) ( -352 -640 320 ) ( 54 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -352 -656 0 ) ( -352 -656 320 ) ( 54 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -352 -640 0 ) ( 54 -640 0 ) ( 54 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{1da5c256-b483-589f-a8bd-e5adcff072b7}"
+ ( -352 -656 0 ) ( 15.2099 -656 0 ) ( 15.2099 -640 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -656 320 ) ( -352 -640 320 ) ( 15.2099 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -656 0 ) ( -352 -656 320 ) ( 15.2099 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -640 0 ) ( 15.2099 -640 0 ) ( 15.2099 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -352 -656 0 ) ( -352 -640 0 ) ( -352 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 54 -656 0 ) ( 54 -656 320 ) ( 54 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 15.2099 -656 0 ) ( 15.2099 -656 320 ) ( 15.2099 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 22
+// brush 32
 {
- guid "{45d94637-9ed7-5597-8f11-94b1e46c813d}"
- ( 242 -656 0 ) ( 352 -656 0 ) ( 352 -640 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 242 -656 320 ) ( 242 -640 320 ) ( 352 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 242 -656 0 ) ( 242 -656 320 ) ( 352 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 242 -640 0 ) ( 352 -640 0 ) ( 352 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 242 -656 0 ) ( 242 -640 0 ) ( 242 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{4e386c49-730d-5517-94f5-66b8a0d512e3}"
+ ( 134.716 -656 0 ) ( 352 -656 0 ) ( 352 -640 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 134.716 -656 320 ) ( 134.716 -640 320 ) ( 352 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 134.716 -656 0 ) ( 134.716 -656 320 ) ( 352 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 134.716 -640 0 ) ( 352 -640 0 ) ( 352 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 134.716 -656 0 ) ( 134.716 -640 0 ) ( 134.716 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 352 -656 0 ) ( 352 -656 320 ) ( 352 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 23
+// brush 33
 {
- guid "{98a90f3b-53b9-5201-b029-a6f8ca2c4c47}"
- ( 54 -656 208 ) ( 242 -656 208 ) ( 242 -640 208 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 54 -656 320 ) ( 54 -640 320 ) ( 242 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 54 -656 208 ) ( 54 -656 320 ) ( 242 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 54 -640 208 ) ( 242 -640 208 ) ( 242 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 54 -656 208 ) ( 54 -640 208 ) ( 54 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 242 -656 208 ) ( 242 -656 320 ) ( 242 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{cc8340bc-d14f-5e89-a332-ff926e3a5d17}"
+ ( 15.2099 -656 158.017 ) ( 134.716 -656 158.017 ) ( 134.716 -640 158.017 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 15.2099 -656 320 ) ( 15.2099 -640 320 ) ( 134.716 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 15.2099 -656 158.017 ) ( 15.2099 -656 320 ) ( 134.716 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 15.2099 -640 158.017 ) ( 134.716 -640 158.017 ) ( 134.716 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 15.2099 -656 158.017 ) ( 15.2099 -640 158.017 ) ( 15.2099 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 134.716 -656 158.017 ) ( 134.716 -656 320 ) ( 134.716 -640 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 24
+// brush 34
 {
- guid "{c8892a69-b400-57b5-9a16-b05f89f4ef7a}"
- ( 38 -784 -16 ) ( 258 -784 -16 ) ( 258 -640 -16 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 38 -784 0 ) ( 38 -640 0 ) ( 258 -640 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 38 -784 -16 ) ( 38 -784 0 ) ( 258 -784 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 38 -640 -16 ) ( 258 -640 -16 ) ( 258 -640 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 38 -784 -16 ) ( 38 -640 -16 ) ( 38 -640 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 258 -784 -16 ) ( 258 -784 0 ) ( 258 -640 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{8cc68c38-1067-53e0-a76d-3831c416673b}"
+ ( -368 -1024 -16 ) ( 368 -1024 -16 ) ( 368 -640 -16 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -1024 0 ) ( -368 -640 0 ) ( 368 -640 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -1024 -16 ) ( -368 -1024 0 ) ( 368 -1024 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -640 -16 ) ( 368 -640 -16 ) ( 368 -640 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -1024 -16 ) ( -368 -640 -16 ) ( -368 -640 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 368 -1024 -16 ) ( 368 -1024 0 ) ( 368 -640 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 25
+// brush 35
 {
- guid "{444bdecb-49fb-53d2-bba4-7ca3bca83438}"
- ( 38 -784 0 ) ( 54 -784 0 ) ( 54 -656 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 38 -784 320 ) ( 38 -656 320 ) ( 54 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 38 -784 0 ) ( 38 -784 320 ) ( 54 -784 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 38 -656 0 ) ( 54 -656 0 ) ( 54 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 38 -784 0 ) ( 38 -656 0 ) ( 38 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 54 -784 0 ) ( 54 -784 320 ) ( 54 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{1efb6817-e15e-5f3a-943b-71d0177f0163}"
+ ( -368 -1024 0 ) ( -352 -1024 0 ) ( -352 -656 0 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -1024 160 ) ( -368 -656 160 ) ( -352 -656 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -1024 0 ) ( -368 -1024 160 ) ( -352 -1024 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -656 0 ) ( -352 -656 0 ) ( -352 -656 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -368 -1024 0 ) ( -368 -656 0 ) ( -368 -656 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -1024 0 ) ( -352 -1024 160 ) ( -352 -656 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 26
+// brush 36
 {
- guid "{b3a46347-b755-54b2-b91c-f365b410e740}"
- ( 242 -784 0 ) ( 258 -784 0 ) ( 258 -656 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 242 -784 320 ) ( 242 -656 320 ) ( 258 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 242 -784 0 ) ( 242 -784 320 ) ( 258 -784 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 242 -656 0 ) ( 258 -656 0 ) ( 258 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 242 -784 0 ) ( 242 -656 0 ) ( 242 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 258 -784 0 ) ( 258 -784 320 ) ( 258 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{6647e8b8-cedf-5189-aa94-49230602451b}"
+ ( 352 -1024 0 ) ( 368 -1024 0 ) ( 368 -656 0 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 352 -1024 160 ) ( 352 -656 160 ) ( 368 -656 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 352 -1024 0 ) ( 352 -1024 160 ) ( 368 -1024 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 352 -656 0 ) ( 368 -656 0 ) ( 368 -656 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 352 -1024 0 ) ( 352 -656 0 ) ( 352 -656 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 368 -1024 0 ) ( 368 -1024 160 ) ( 368 -656 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 27
+// brush 37
 {
- guid "{55ffa7a2-1cd3-5e81-9102-b56a63df2f9b}"
- ( 54 -784 0 ) ( 242 -784 0 ) ( 242 -768 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 54 -784 320 ) ( 54 -768 320 ) ( 242 -768 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 54 -784 0 ) ( 54 -784 320 ) ( 242 -784 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 54 -768 0 ) ( 242 -768 0 ) ( 242 -768 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 54 -784 0 ) ( 54 -768 0 ) ( 54 -768 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 242 -784 0 ) ( 242 -784 320 ) ( 242 -768 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{1375e72a-3fec-524b-b8d8-a55f51cc2b1f}"
+ ( -352 -1024 0 ) ( 352 -1024 0 ) ( 352 -1008 0 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -1024 160 ) ( -352 -1008 160 ) ( 352 -1008 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -1024 0 ) ( -352 -1024 160 ) ( 352 -1024 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -1008 0 ) ( 352 -1008 0 ) ( 352 -1008 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -1024 0 ) ( -352 -1008 0 ) ( -352 -1008 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 352 -1024 0 ) ( 352 -1024 160 ) ( 352 -1008 160 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 28
+// brush 38
 {
- guid "{50542786-ae7d-5f75-8031-af806879fbf6}"
- ( 38 -784 320 ) ( 258 -784 320 ) ( 258 -656 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 38 -784 336 ) ( 38 -656 336 ) ( 258 -656 336 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 38 -784 320 ) ( 38 -784 336 ) ( 258 -784 336 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 38 -656 320 ) ( 258 -656 320 ) ( 258 -656 336 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 38 -784 320 ) ( 38 -656 320 ) ( 38 -656 336 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 258 -784 320 ) ( 258 -784 336 ) ( 258 -656 336 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
-}
-// brush 29
-{
- guid "{c0604764-29eb-5496-bf7a-4de4234f3eb3}"
+ guid "{b8b7a242-c00b-58e3-849d-fb7dcbf4e51f}"
  ( -352 800 0 ) ( -334 800 0 ) ( -334 816 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -352 800 320 ) ( -352 816 320 ) ( -334 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -352 800 0 ) ( -352 800 320 ) ( -334 800 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -213,9 +303,9 @@ guid "{8efa1cc0-5316-4c3d-9dea-9f289d19cd9a}"
  ( -352 800 0 ) ( -352 816 0 ) ( -352 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -334 800 0 ) ( -334 800 320 ) ( -334 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 30
+// brush 39
 {
- guid "{107c87f2-97b4-56ee-b96d-ba3d6d3cdf22}"
+ guid "{cbf504f5-025d-5f38-82f1-65883a8207cd}"
  ( -230 800 0 ) ( 352 800 0 ) ( 352 816 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -230 800 320 ) ( -230 816 320 ) ( 352 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -230 800 0 ) ( -230 800 320 ) ( 352 800 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -223,19 +313,19 @@ guid "{8efa1cc0-5316-4c3d-9dea-9f289d19cd9a}"
  ( -230 800 0 ) ( -230 816 0 ) ( -230 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 352 800 0 ) ( 352 800 320 ) ( 352 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 31
+// brush 40
 {
- guid "{2a052587-c2ec-57f4-8f43-40e09eafb80d}"
- ( -334 800 208 ) ( -230 800 208 ) ( -230 816 208 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -334 800 320 ) ( -334 816 320 ) ( -230 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -334 800 208 ) ( -334 800 320 ) ( -230 800 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -334 816 208 ) ( -230 816 208 ) ( -230 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -334 800 208 ) ( -334 816 208 ) ( -334 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -230 800 208 ) ( -230 800 320 ) ( -230 816 320 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{055979e0-4ede-588c-9ed7-d33b61a6408a}"
+ ( -334 800 208 ) ( -230 800 208 ) ( -230 816 208 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -334 800 320 ) ( -334 816 320 ) ( -230 816 320 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -334 800 208 ) ( -334 800 320 ) ( -230 800 320 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -334 816 208 ) ( -230 816 208 ) ( -230 816 320 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -334 800 208 ) ( -334 816 208 ) ( -334 816 320 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 800 208 ) ( -230 800 320 ) ( -230 816 320 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 32
+// brush 41
 {
- guid "{14d64d9b-5e91-51c4-8b47-375223405409}"
+ guid "{7d312a0f-e152-51e3-8f96-e5a372199545}"
  ( -488 800 -16 ) ( -88 800 -16 ) ( -88 1146 -16 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -488 800 0 ) ( -488 1146 0 ) ( -88 1146 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -488 800 -16 ) ( -488 800 0 ) ( -88 800 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -243,49 +333,49 @@ guid "{8efa1cc0-5316-4c3d-9dea-9f289d19cd9a}"
  ( -488 800 -16 ) ( -488 1146 -16 ) ( -488 1146 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -88 800 -16 ) ( -88 800 0 ) ( -88 1146 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 33
+// brush 42
 {
- guid "{e06423b6-b4d1-5eb7-b899-202c5a2f87fb}"
- ( -488 800 0 ) ( -472 800 0 ) ( -472 1146 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -488 800 192 ) ( -488 1146 192 ) ( -472 1146 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -488 800 0 ) ( -488 800 192 ) ( -472 800 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -488 1146 0 ) ( -472 1146 0 ) ( -472 1146 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -488 800 0 ) ( -488 1146 0 ) ( -488 1146 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -472 800 0 ) ( -472 800 192 ) ( -472 1146 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{f99b1a7a-7cfc-5720-85e0-d502f9df6797}"
+ ( -488 800 0 ) ( -472 800 0 ) ( -472 1146 0 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -488 800 192 ) ( -488 1146 192 ) ( -472 1146 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -488 800 0 ) ( -488 800 192 ) ( -472 800 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -488 1146 0 ) ( -472 1146 0 ) ( -472 1146 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -488 800 0 ) ( -488 1146 0 ) ( -488 1146 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -472 800 0 ) ( -472 800 192 ) ( -472 1146 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 34
+// brush 43
 {
- guid "{74794540-f65e-5725-8c17-b1d791a3d994}"
- ( -104 816 0 ) ( -88 816 0 ) ( -88 1146 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -104 816 192 ) ( -104 1146 192 ) ( -88 1146 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -104 816 0 ) ( -104 816 192 ) ( -88 816 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -104 1146 0 ) ( -88 1146 0 ) ( -88 1146 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -104 816 0 ) ( -104 1146 0 ) ( -104 1146 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -88 816 0 ) ( -88 816 192 ) ( -88 1146 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{826ff1a5-f9e4-57a6-b932-b5ae6353ee0b}"
+ ( -104 816 0 ) ( -88 816 0 ) ( -88 1146 0 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -104 816 192 ) ( -104 1146 192 ) ( -88 1146 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -104 816 0 ) ( -104 816 192 ) ( -88 816 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -104 1146 0 ) ( -88 1146 0 ) ( -88 1146 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -104 816 0 ) ( -104 1146 0 ) ( -104 1146 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -88 816 0 ) ( -88 816 192 ) ( -88 1146 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 35
+// brush 44
 {
- guid "{26d00c64-a003-5d16-ab81-eda453c9d246}"
- ( -472 1130 0 ) ( -104 1130 0 ) ( -104 1146 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -472 1130 192 ) ( -472 1146 192 ) ( -104 1146 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -472 1130 0 ) ( -472 1130 192 ) ( -104 1130 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -472 1146 0 ) ( -104 1146 0 ) ( -104 1146 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -472 1130 0 ) ( -472 1146 0 ) ( -472 1146 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -104 1130 0 ) ( -104 1130 192 ) ( -104 1146 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{5a225d44-d698-51be-b0b7-ff5a7b393549}"
+ ( -472 1130 0 ) ( -104 1130 0 ) ( -104 1146 0 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -472 1130 192 ) ( -472 1146 192 ) ( -104 1146 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -472 1130 0 ) ( -472 1130 192 ) ( -104 1130 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -472 1146 0 ) ( -104 1146 0 ) ( -104 1146 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -472 1130 0 ) ( -472 1146 0 ) ( -472 1146 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -104 1130 0 ) ( -104 1130 192 ) ( -104 1146 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 36
+// brush 45
 {
- guid "{9bb30818-cd46-57b2-b270-0fb936693628}"
- ( -472 800 0 ) ( -352 800 0 ) ( -352 816 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -472 800 192 ) ( -472 816 192 ) ( -352 816 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -472 800 0 ) ( -472 800 192 ) ( -352 800 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -472 816 0 ) ( -352 816 0 ) ( -352 816 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -472 800 0 ) ( -472 816 0 ) ( -472 816 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -352 800 0 ) ( -352 800 192 ) ( -352 816 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{a4f8944e-8c10-5a6e-8baf-73ae9da85e55}"
+ ( -472 800 0 ) ( -352 800 0 ) ( -352 816 0 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -472 800 192 ) ( -472 816 192 ) ( -352 816 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -472 800 0 ) ( -472 800 192 ) ( -352 800 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -472 816 0 ) ( -352 816 0 ) ( -352 816 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -472 800 0 ) ( -472 816 0 ) ( -472 816 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 800 0 ) ( -352 800 192 ) ( -352 816 192 ) t7_brick_worn_heavy_grout_red 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 37
+// brush 46
 {
- guid "{700ca88e-cf12-5428-ac23-bebf7de783d4}"
+ guid "{4c4c9591-a5be-58da-ae10-6e68ab93ee82}"
  ( -194 337 0 ) ( -182 337 0 ) ( -182 561 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -194 337 224 ) ( -194 561 224 ) ( -182 561 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -194 337 0 ) ( -194 337 224 ) ( -182 337 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -293,9 +383,9 @@ guid "{8efa1cc0-5316-4c3d-9dea-9f289d19cd9a}"
  ( -194 337 0 ) ( -194 561 0 ) ( -194 561 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -182 337 0 ) ( -182 337 224 ) ( -182 561 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 38
+// brush 47
 {
- guid "{af3d9615-6ad5-55a0-a3f4-0ccfcb5327ba}"
+ guid "{88473ba8-d64c-50e6-a913-bf06f815f4d0}"
  ( 114 337 0 ) ( 126 337 0 ) ( 126 561 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 114 337 224 ) ( 114 561 224 ) ( 126 561 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 114 337 0 ) ( 114 337 224 ) ( 126 337 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -303,9 +393,9 @@ guid "{8efa1cc0-5316-4c3d-9dea-9f289d19cd9a}"
  ( 114 337 0 ) ( 114 561 0 ) ( 114 561 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 126 337 0 ) ( 126 337 224 ) ( 126 561 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 39
+// brush 48
 {
- guid "{b1c8f32f-e478-5cc3-9a0c-c3499a14814e}"
+ guid "{c317b0ca-e599-5ceb-9171-1c2d7e25b72f}"
  ( -182 549 0 ) ( 114 549 0 ) ( 114 561 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -182 549 224 ) ( -182 561 224 ) ( 114 561 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -182 549 0 ) ( -182 549 224 ) ( 114 549 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -313,9 +403,9 @@ guid "{8efa1cc0-5316-4c3d-9dea-9f289d19cd9a}"
  ( -182 549 0 ) ( -182 561 0 ) ( -182 561 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 114 549 0 ) ( 114 549 224 ) ( 114 561 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 40
+// brush 49
 {
- guid "{02407ea6-d9a4-5000-81d3-4510a3132edd}"
+ guid "{2e36c3ba-f591-5ab9-969e-5f96b4740495}"
  ( -182 337 0 ) ( -82 337 0 ) ( -82 349 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -182 337 224 ) ( -182 349 224 ) ( -82 349 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -182 337 0 ) ( -182 337 224 ) ( -82 337 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -323,9 +413,9 @@ guid "{8efa1cc0-5316-4c3d-9dea-9f289d19cd9a}"
  ( -182 337 0 ) ( -182 349 0 ) ( -182 349 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -82 337 0 ) ( -82 337 224 ) ( -82 349 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 41
+// brush 50
 {
- guid "{71fe41f0-8c1f-538f-b81a-acd96c7d5955}"
+ guid "{3fcd6673-f63a-5ab7-acc3-07b5c8d1570a}"
  ( 14 337 0 ) ( 114 337 0 ) ( 114 349 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 14 337 224 ) ( 14 349 224 ) ( 114 349 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 14 337 0 ) ( 14 337 224 ) ( 114 337 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -333,9 +423,9 @@ guid "{8efa1cc0-5316-4c3d-9dea-9f289d19cd9a}"
  ( 14 337 0 ) ( 14 349 0 ) ( 14 349 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 114 337 0 ) ( 114 337 224 ) ( 114 349 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 42
+// brush 51
 {
- guid "{77f3f6a5-2bc9-5006-a37a-4772b9b684d9}"
+ guid "{a2f7618c-e137-5cfc-850c-217d8ae5d7dd}"
  ( -82 337 192 ) ( 14 337 192 ) ( 14 349 192 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -82 337 224 ) ( -82 349 224 ) ( 14 349 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -82 337 192 ) ( -82 337 224 ) ( 14 337 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -343,375 +433,1197 @@ guid "{8efa1cc0-5316-4c3d-9dea-9f289d19cd9a}"
  ( -82 337 192 ) ( -82 349 192 ) ( -82 349 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 14 337 192 ) ( 14 337 224 ) ( 14 349 224 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 43
-{
- guid "{4527999a-f97d-5113-9149-3da405084e71}"
- ( 48 -431 0 ) ( 336 -431 0 ) ( 336 -111 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 48 -431 12 ) ( 48 -111 12 ) ( 336 -111 12 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 48 -431 0 ) ( 48 -431 12 ) ( 336 -431 12 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 48 -111 0 ) ( 336 -111 0 ) ( 336 -111 12 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 48 -431 0 ) ( 48 -111 0 ) ( 48 -111 12 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 -431 0 ) ( 336 -431 12 ) ( 336 -111 12 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
-}
-// brush 44
-{
- guid "{86708725-0b3d-5cce-9872-c118465e8200}"
- ( -157 66 0 ) ( 195 66 0 ) ( 195 134 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -157 66 48 ) ( -157 134 48 ) ( 195 134 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -157 66 0 ) ( -157 66 48 ) ( 195 66 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -157 134 0 ) ( 195 134 0 ) ( 195 134 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -157 66 0 ) ( -157 134 0 ) ( -157 134 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 195 66 0 ) ( 195 66 48 ) ( 195 134 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
-}
-// brush 45
-{
- guid "{1bb54d76-6b2c-530e-8686-74d8edf59ea7}"
- ( -194 563 0 ) ( -162 563 0 ) ( -162 787 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -194 563 8 ) ( -194 787 8 ) ( -162 787 8 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -194 563 0 ) ( -194 563 8 ) ( -162 563 8 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -194 787 0 ) ( -162 787 0 ) ( -162 787 8 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -194 563 0 ) ( -194 787 0 ) ( -194 787 8 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -162 563 0 ) ( -162 563 8 ) ( -162 787 8 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
-}
-// brush 46
-{
- guid "{dcf8246c-1258-523e-b144-dd3e3539238b}"
- ( -162 563 0 ) ( -130 563 0 ) ( -130 787 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -162 563 16 ) ( -162 787 16 ) ( -130 787 16 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -162 563 0 ) ( -162 563 16 ) ( -130 563 16 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -162 787 0 ) ( -130 787 0 ) ( -130 787 16 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -162 563 0 ) ( -162 787 0 ) ( -162 787 16 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -130 563 0 ) ( -130 563 16 ) ( -130 787 16 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
-}
-// brush 47
-{
- guid "{312a257c-56c8-522c-b8b2-5ff491672a85}"
- ( -130 563 0 ) ( -98 563 0 ) ( -98 787 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -130 563 24 ) ( -130 787 24 ) ( -98 787 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -130 563 0 ) ( -130 563 24 ) ( -98 563 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -130 787 0 ) ( -98 787 0 ) ( -98 787 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -130 563 0 ) ( -130 787 0 ) ( -130 787 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -98 563 0 ) ( -98 563 24 ) ( -98 787 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
-}
-// brush 48
-{
- guid "{b70d2f50-9ebb-5620-b6ad-127389c59e5c}"
- ( -98 563 0 ) ( -66 563 0 ) ( -66 787 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -98 563 32 ) ( -98 787 32 ) ( -66 787 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -98 563 0 ) ( -98 563 32 ) ( -66 563 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -98 787 0 ) ( -66 787 0 ) ( -66 787 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -98 563 0 ) ( -98 787 0 ) ( -98 787 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -66 563 0 ) ( -66 563 32 ) ( -66 787 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
-}
-// brush 49
-{
- guid "{16790863-9104-58ce-b20e-fdb97e0e8f35}"
- ( -66 563 0 ) ( -34 563 0 ) ( -34 787 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -66 563 40 ) ( -66 787 40 ) ( -34 787 40 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -66 563 0 ) ( -66 563 40 ) ( -34 563 40 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -66 787 0 ) ( -34 787 0 ) ( -34 787 40 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -66 563 0 ) ( -66 787 0 ) ( -66 787 40 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -34 563 0 ) ( -34 563 40 ) ( -34 787 40 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
-}
-// brush 50
-{
- guid "{c5e31be7-7e27-55f6-b4d7-84689de57054}"
- ( -34 563 0 ) ( -2 563 0 ) ( -2 787 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -34 563 48 ) ( -34 787 48 ) ( -2 787 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -34 563 0 ) ( -34 563 48 ) ( -2 563 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -34 787 0 ) ( -2 787 0 ) ( -2 787 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -34 563 0 ) ( -34 787 0 ) ( -34 787 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -2 563 0 ) ( -2 563 48 ) ( -2 787 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
-}
-// brush 51
-{
- guid "{5d438c99-df08-5cb0-875a-9463f6022ce9}"
- ( -2 563 0 ) ( 30 563 0 ) ( 30 787 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -2 563 56 ) ( -2 787 56 ) ( 30 787 56 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -2 563 0 ) ( -2 563 56 ) ( 30 563 56 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -2 787 0 ) ( 30 787 0 ) ( 30 787 56 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -2 563 0 ) ( -2 787 0 ) ( -2 787 56 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 30 563 0 ) ( 30 563 56 ) ( 30 787 56 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
-}
 // brush 52
 {
- guid "{2d7513c3-33b5-5abc-843c-e7be7a05f8f6}"
- ( 30 563 0 ) ( 62 563 0 ) ( 62 787 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 30 563 64 ) ( 30 787 64 ) ( 62 787 64 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 30 563 0 ) ( 30 563 64 ) ( 62 563 64 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 30 787 0 ) ( 62 787 0 ) ( 62 787 64 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 30 563 0 ) ( 30 787 0 ) ( 30 787 64 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 62 563 0 ) ( 62 563 64 ) ( 62 787 64 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{0a2e0589-2e6f-5a40-8511-005c0f7dba4b}"
+ ( 48 -431 0 ) ( 336 -431 0 ) ( 336 -111 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 48 -431 12 ) ( 48 -111 12 ) ( 336 -111 12 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 48 -431 0 ) ( 48 -431 12 ) ( 336 -431 12 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 48 -111 0 ) ( 336 -111 0 ) ( 336 -111 12 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 48 -431 0 ) ( 48 -111 0 ) ( 48 -111 12 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 -431 0 ) ( 336 -431 12 ) ( 336 -111 12 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 53
 {
- guid "{a1c6d830-9e8b-524a-a6ab-8b3e9b442920}"
- ( 62 563 0 ) ( 94 563 0 ) ( 94 787 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 62 563 72 ) ( 62 787 72 ) ( 94 787 72 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 62 563 0 ) ( 62 563 72 ) ( 94 563 72 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 62 787 0 ) ( 94 787 0 ) ( 94 787 72 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 62 563 0 ) ( 62 787 0 ) ( 62 787 72 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 94 563 0 ) ( 94 563 72 ) ( 94 787 72 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{bfa4242e-a4c1-5ed9-919f-f3f66ddde291}"
+ ( -157 66 0 ) ( 195 66 0 ) ( 195 134 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -157 66 48 ) ( -157 134 48 ) ( 195 134 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -157 66 0 ) ( -157 66 48 ) ( 195 66 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -157 134 0 ) ( 195 134 0 ) ( 195 134 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -157 66 0 ) ( -157 134 0 ) ( -157 134 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 195 66 0 ) ( 195 66 48 ) ( 195 134 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 54
 {
- guid "{614214c9-104d-55da-a620-69a3d55978f6}"
- ( 94 563 0 ) ( 126 563 0 ) ( 126 787 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 94 563 80 ) ( 94 787 80 ) ( 126 787 80 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 94 563 0 ) ( 94 563 80 ) ( 126 563 80 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 94 787 0 ) ( 126 787 0 ) ( 126 787 80 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 94 563 0 ) ( 94 787 0 ) ( 94 787 80 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 126 563 0 ) ( 126 563 80 ) ( 126 787 80 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{91723e14-075f-5cc8-991f-df322f079c8c}"
+ ( -161 62 48 ) ( 199 62 48 ) ( 199 138 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -161 62 52 ) ( -161 138 52 ) ( 199 138 52 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -161 62 48 ) ( -161 62 52 ) ( 199 62 52 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -161 138 48 ) ( 199 138 48 ) ( 199 138 52 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -161 62 48 ) ( -161 138 48 ) ( -161 138 52 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 199 62 48 ) ( 199 62 52 ) ( 199 138 52 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 55
 {
- guid "{5e595aab-3b87-5b37-bb47-7199d1692780}"
- ( 126 563 0 ) ( 158 563 0 ) ( 158 787 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 126 563 88 ) ( 126 787 88 ) ( 158 787 88 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 126 563 0 ) ( 126 563 88 ) ( 158 563 88 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 126 787 0 ) ( 158 787 0 ) ( 158 787 88 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 126 563 0 ) ( 126 787 0 ) ( 126 787 88 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 158 563 0 ) ( 158 563 88 ) ( 158 787 88 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{66e945db-88ea-53a5-bd97-7ac4209b7d2c}"
+ ( -194 563 0 ) ( -162 563 0 ) ( -162 787 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -194 563 336 ) ( -194 787 336 ) ( -162 787 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -194 563 0 ) ( -194 563 336 ) ( -162 563 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -194 787 0 ) ( -162 787 0 ) ( -162 787 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -194 563 0 ) ( -194 787 0 ) ( -194 787 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -162 563 0 ) ( -162 563 336 ) ( -162 787 336 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 56
 {
- guid "{40e88a99-bdcd-5a33-9753-4ad16c5b1e45}"
- ( 158 563 0 ) ( 190 563 0 ) ( 190 787 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 158 563 96 ) ( 158 787 96 ) ( 190 787 96 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 158 563 0 ) ( 158 563 96 ) ( 190 563 96 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 158 787 0 ) ( 190 787 0 ) ( 190 787 96 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 158 563 0 ) ( 158 787 0 ) ( 158 787 96 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 190 563 0 ) ( 190 563 96 ) ( 190 787 96 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{1789a46b-1975-5710-b41f-97e58caf9b99}"
+ ( -162 563 0 ) ( -130 563 0 ) ( -130 787 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -162 563 323.077 ) ( -162 787 323.077 ) ( -130 787 323.077 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -162 563 0 ) ( -162 563 323.077 ) ( -130 563 323.077 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -162 787 0 ) ( -130 787 0 ) ( -130 787 323.077 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -162 563 0 ) ( -162 787 0 ) ( -162 787 323.077 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -130 563 0 ) ( -130 563 323.077 ) ( -130 787 323.077 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 57
 {
- guid "{5f3b7a57-e82a-5ff1-bf73-c87a226f2953}"
- ( 190 563 0 ) ( 222 563 0 ) ( 222 787 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 190 563 104 ) ( 190 787 104 ) ( 222 787 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 190 563 0 ) ( 190 563 104 ) ( 222 563 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 190 787 0 ) ( 222 787 0 ) ( 222 787 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 190 563 0 ) ( 190 787 0 ) ( 190 787 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 222 563 0 ) ( 222 563 104 ) ( 222 787 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{284d823f-692b-52d6-8988-064b82a20670}"
+ ( -130 563 0 ) ( -98 563 0 ) ( -98 787 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -130 563 310.154 ) ( -130 787 310.154 ) ( -98 787 310.154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -130 563 0 ) ( -130 563 310.154 ) ( -98 563 310.154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -130 787 0 ) ( -98 787 0 ) ( -98 787 310.154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -130 563 0 ) ( -130 787 0 ) ( -130 787 310.154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -98 563 0 ) ( -98 563 310.154 ) ( -98 787 310.154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 58
 {
- guid "{ce6f6edb-9c43-54eb-8055-316380d71797}"
- ( 222 640 0 ) ( 336 640 0 ) ( 336 787 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 222 640 104 ) ( 222 787 104 ) ( 336 787 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 222 640 0 ) ( 222 640 104 ) ( 336 640 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 222 787 0 ) ( 336 787 0 ) ( 336 787 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 222 640 0 ) ( 222 787 0 ) ( 222 787 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 640 0 ) ( 336 640 104 ) ( 336 787 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{98cb4696-5a47-5aed-b15d-382c121fd09b}"
+ ( -98 563 0 ) ( -66 563 0 ) ( -66 787 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -98 563 297.231 ) ( -98 787 297.231 ) ( -66 787 297.231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -98 563 0 ) ( -98 563 297.231 ) ( -66 563 297.231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -98 787 0 ) ( -66 787 0 ) ( -66 787 297.231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -98 563 0 ) ( -98 787 0 ) ( -98 787 297.231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -66 563 0 ) ( -66 563 297.231 ) ( -66 787 297.231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 59
 {
- guid "{7539b357-3018-5b74-a1d5-a713a6526662}"
- ( 224 328 0 ) ( 336 328 0 ) ( 336 352 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 328 8 ) ( 224 352 8 ) ( 336 352 8 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 328 0 ) ( 224 328 8 ) ( 336 328 8 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 352 0 ) ( 336 352 0 ) ( 336 352 8 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 328 0 ) ( 224 352 0 ) ( 224 352 8 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 328 0 ) ( 336 328 8 ) ( 336 352 8 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{36ab69b0-c56d-5525-b14f-ba1c8466f5f3}"
+ ( -66 563 0 ) ( -34 563 0 ) ( -34 787 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -66 563 284.308 ) ( -66 787 284.308 ) ( -34 787 284.308 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -66 563 0 ) ( -66 563 284.308 ) ( -34 563 284.308 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -66 787 0 ) ( -34 787 0 ) ( -34 787 284.308 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -66 563 0 ) ( -66 787 0 ) ( -66 787 284.308 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -34 563 0 ) ( -34 563 284.308 ) ( -34 787 284.308 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 60
 {
- guid "{6455bc59-f811-5e3d-af39-b8a458061262}"
- ( 224 352 0 ) ( 336 352 0 ) ( 336 376 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 352 16 ) ( 224 376 16 ) ( 336 376 16 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 352 0 ) ( 224 352 16 ) ( 336 352 16 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 376 0 ) ( 336 376 0 ) ( 336 376 16 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 352 0 ) ( 224 376 0 ) ( 224 376 16 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 352 0 ) ( 336 352 16 ) ( 336 376 16 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{2af8b552-b56b-5ca0-b2f9-ad072d29f3fb}"
+ ( -34 563 0 ) ( -2 563 0 ) ( -2 787 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -34 563 271.385 ) ( -34 787 271.385 ) ( -2 787 271.385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -34 563 0 ) ( -34 563 271.385 ) ( -2 563 271.385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -34 787 0 ) ( -2 787 0 ) ( -2 787 271.385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -34 563 0 ) ( -34 787 0 ) ( -34 787 271.385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2 563 0 ) ( -2 563 271.385 ) ( -2 787 271.385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 61
 {
- guid "{03499f4d-e060-5335-8fe3-a3d0b13e12a0}"
- ( 224 376 0 ) ( 336 376 0 ) ( 336 400 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 376 24 ) ( 224 400 24 ) ( 336 400 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 376 0 ) ( 224 376 24 ) ( 336 376 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 400 0 ) ( 336 400 0 ) ( 336 400 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 376 0 ) ( 224 400 0 ) ( 224 400 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 376 0 ) ( 336 376 24 ) ( 336 400 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{b9fc11c4-32ff-5abf-ba39-98ce09db47e6}"
+ ( -2 563 0 ) ( 30 563 0 ) ( 30 787 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2 563 258.462 ) ( -2 787 258.462 ) ( 30 787 258.462 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2 563 0 ) ( -2 563 258.462 ) ( 30 563 258.462 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2 787 0 ) ( 30 787 0 ) ( 30 787 258.462 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2 563 0 ) ( -2 787 0 ) ( -2 787 258.462 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 30 563 0 ) ( 30 563 258.462 ) ( 30 787 258.462 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 62
 {
- guid "{67fb5001-bf00-5ed6-b880-3c7bb4cabb19}"
- ( 224 400 0 ) ( 336 400 0 ) ( 336 424 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 400 32 ) ( 224 424 32 ) ( 336 424 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 400 0 ) ( 224 400 32 ) ( 336 400 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 424 0 ) ( 336 424 0 ) ( 336 424 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 400 0 ) ( 224 424 0 ) ( 224 424 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 400 0 ) ( 336 400 32 ) ( 336 424 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{baa52ac3-38c3-59cb-b727-339404d8aa03}"
+ ( 30 563 0 ) ( 62 563 0 ) ( 62 787 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 30 563 245.538 ) ( 30 787 245.538 ) ( 62 787 245.538 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 30 563 0 ) ( 30 563 245.538 ) ( 62 563 245.538 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 30 787 0 ) ( 62 787 0 ) ( 62 787 245.538 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 30 563 0 ) ( 30 787 0 ) ( 30 787 245.538 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 62 563 0 ) ( 62 563 245.538 ) ( 62 787 245.538 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 63
 {
- guid "{ae46c828-7225-5bd9-9cc5-e4eaa02126a4}"
- ( 224 424 0 ) ( 336 424 0 ) ( 336 448 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 424 40 ) ( 224 448 40 ) ( 336 448 40 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 424 0 ) ( 224 424 40 ) ( 336 424 40 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 448 0 ) ( 336 448 0 ) ( 336 448 40 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 424 0 ) ( 224 448 0 ) ( 224 448 40 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 424 0 ) ( 336 424 40 ) ( 336 448 40 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{f4518967-fa6b-5865-85e8-d272662aeac9}"
+ ( 62 563 0 ) ( 94 563 0 ) ( 94 787 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 62 563 232.615 ) ( 62 787 232.615 ) ( 94 787 232.615 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 62 563 0 ) ( 62 563 232.615 ) ( 94 563 232.615 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 62 787 0 ) ( 94 787 0 ) ( 94 787 232.615 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 62 563 0 ) ( 62 787 0 ) ( 62 787 232.615 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 94 563 0 ) ( 94 563 232.615 ) ( 94 787 232.615 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 64
 {
- guid "{deb37f9b-f0e4-5787-9d37-9136e90efa72}"
- ( 224 448 0 ) ( 336 448 0 ) ( 336 472 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 448 48 ) ( 224 472 48 ) ( 336 472 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 448 0 ) ( 224 448 48 ) ( 336 448 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 472 0 ) ( 336 472 0 ) ( 336 472 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 448 0 ) ( 224 472 0 ) ( 224 472 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 448 0 ) ( 336 448 48 ) ( 336 472 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{de23ba9f-bf87-5741-8dce-9c82e6a929a3}"
+ ( 94 563 0 ) ( 126 563 0 ) ( 126 787 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 94 563 219.692 ) ( 94 787 219.692 ) ( 126 787 219.692 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 94 563 0 ) ( 94 563 219.692 ) ( 126 563 219.692 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 94 787 0 ) ( 126 787 0 ) ( 126 787 219.692 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 94 563 0 ) ( 94 787 0 ) ( 94 787 219.692 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 126 563 0 ) ( 126 563 219.692 ) ( 126 787 219.692 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 65
 {
- guid "{e7dfcfe7-f1a5-53fc-8f9a-d3abfafe1af1}"
- ( 224 472 0 ) ( 336 472 0 ) ( 336 496 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 472 56 ) ( 224 496 56 ) ( 336 496 56 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 472 0 ) ( 224 472 56 ) ( 336 472 56 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 496 0 ) ( 336 496 0 ) ( 336 496 56 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 472 0 ) ( 224 496 0 ) ( 224 496 56 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 472 0 ) ( 336 472 56 ) ( 336 496 56 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{96e6015c-2469-51f0-be16-af8f2d888afa}"
+ ( 126 563 0 ) ( 158 563 0 ) ( 158 787 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 126 563 206.769 ) ( 126 787 206.769 ) ( 158 787 206.769 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 126 563 0 ) ( 126 563 206.769 ) ( 158 563 206.769 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 126 787 0 ) ( 158 787 0 ) ( 158 787 206.769 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 126 563 0 ) ( 126 787 0 ) ( 126 787 206.769 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 158 563 0 ) ( 158 563 206.769 ) ( 158 787 206.769 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 66
 {
- guid "{9612f926-7b0a-57e5-a2e2-e01a7a885f11}"
- ( 224 496 0 ) ( 336 496 0 ) ( 336 520 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 496 64 ) ( 224 520 64 ) ( 336 520 64 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 496 0 ) ( 224 496 64 ) ( 336 496 64 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 520 0 ) ( 336 520 0 ) ( 336 520 64 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 496 0 ) ( 224 520 0 ) ( 224 520 64 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 496 0 ) ( 336 496 64 ) ( 336 520 64 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{ff1442a6-f363-5d09-8a4b-1d7d18f878d6}"
+ ( 158 563 0 ) ( 190 563 0 ) ( 190 787 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 158 563 193.846 ) ( 158 787 193.846 ) ( 190 787 193.846 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 158 563 0 ) ( 158 563 193.846 ) ( 190 563 193.846 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 158 787 0 ) ( 190 787 0 ) ( 190 787 193.846 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 158 563 0 ) ( 158 787 0 ) ( 158 787 193.846 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 190 563 0 ) ( 190 563 193.846 ) ( 190 787 193.846 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 67
 {
- guid "{9a01db9b-8867-5b9d-85c9-1078ee841fc5}"
- ( 224 520 0 ) ( 336 520 0 ) ( 336 544 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 520 72 ) ( 224 544 72 ) ( 336 544 72 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 520 0 ) ( 224 520 72 ) ( 336 520 72 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 544 0 ) ( 336 544 0 ) ( 336 544 72 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 520 0 ) ( 224 544 0 ) ( 224 544 72 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 520 0 ) ( 336 520 72 ) ( 336 544 72 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{c34e48f5-be4f-56d8-80d9-b713092496ff}"
+ ( 190 563 0 ) ( 222 563 0 ) ( 222 787 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 190 563 180.923 ) ( 190 787 180.923 ) ( 222 787 180.923 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 190 563 0 ) ( 190 563 180.923 ) ( 222 563 180.923 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 190 787 0 ) ( 222 787 0 ) ( 222 787 180.923 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 190 563 0 ) ( 190 787 0 ) ( 190 787 180.923 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 222 563 0 ) ( 222 563 180.923 ) ( 222 787 180.923 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 68
 {
- guid "{c58fed25-6b0d-5bee-ace0-f43a399724f3}"
- ( 224 544 0 ) ( 336 544 0 ) ( 336 568 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 544 80 ) ( 224 568 80 ) ( 336 568 80 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 544 0 ) ( 224 544 80 ) ( 336 544 80 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 568 0 ) ( 336 568 0 ) ( 336 568 80 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 544 0 ) ( 224 568 0 ) ( 224 568 80 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 544 0 ) ( 336 544 80 ) ( 336 568 80 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{81ecf693-17be-559a-87d4-1ffb895ad7ce}"
+ ( 222 640 0 ) ( 336 640 0 ) ( 336 787 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 222 640 168 ) ( 222 787 168 ) ( 336 787 168 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 222 640 0 ) ( 222 640 168 ) ( 336 640 168 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 222 787 0 ) ( 336 787 0 ) ( 336 787 168 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 222 640 0 ) ( 222 787 0 ) ( 222 787 168 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 640 0 ) ( 336 640 168 ) ( 336 787 168 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 69
 {
- guid "{f173fabe-2b9e-52d7-9dac-74193ead8738}"
- ( 224 568 0 ) ( 336 568 0 ) ( 336 592 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 568 88 ) ( 224 592 88 ) ( 336 592 88 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 568 0 ) ( 224 568 88 ) ( 336 568 88 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 592 0 ) ( 336 592 0 ) ( 336 592 88 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 568 0 ) ( 224 592 0 ) ( 224 592 88 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 568 0 ) ( 336 568 88 ) ( 336 592 88 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{0fd68d40-e7aa-5fcc-9d1b-40791ed66324}"
+ ( 224 328 0 ) ( 336 328 0 ) ( 336 352 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 328 12.9231 ) ( 224 352 12.9231 ) ( 336 352 12.9231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 328 0 ) ( 224 328 12.9231 ) ( 336 328 12.9231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 352 0 ) ( 336 352 0 ) ( 336 352 12.9231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 328 0 ) ( 224 352 0 ) ( 224 352 12.9231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 328 0 ) ( 336 328 12.9231 ) ( 336 352 12.9231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 70
 {
- guid "{69f74d12-b7c3-56a5-94b4-fb9467f49e02}"
- ( 224 592 0 ) ( 336 592 0 ) ( 336 616 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 592 96 ) ( 224 616 96 ) ( 336 616 96 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 592 0 ) ( 224 592 96 ) ( 336 592 96 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 616 0 ) ( 336 616 0 ) ( 336 616 96 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 592 0 ) ( 224 616 0 ) ( 224 616 96 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 592 0 ) ( 336 592 96 ) ( 336 616 96 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{72fe6c69-3b2e-5b94-8425-7e688d95f103}"
+ ( 224 352 0 ) ( 336 352 0 ) ( 336 376 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 352 25.8462 ) ( 224 376 25.8462 ) ( 336 376 25.8462 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 352 0 ) ( 224 352 25.8462 ) ( 336 352 25.8462 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 376 0 ) ( 336 376 0 ) ( 336 376 25.8462 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 352 0 ) ( 224 376 0 ) ( 224 376 25.8462 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 352 0 ) ( 336 352 25.8462 ) ( 336 376 25.8462 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 71
 {
- guid "{d4bc5ccf-ab15-5ffc-9550-0d6378abe661}"
- ( 224 616 0 ) ( 336 616 0 ) ( 336 640 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 616 104 ) ( 224 640 104 ) ( 336 640 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 616 0 ) ( 224 616 104 ) ( 336 616 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 640 0 ) ( 336 640 0 ) ( 336 640 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 616 0 ) ( 224 640 0 ) ( 224 640 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 336 616 0 ) ( 336 616 104 ) ( 336 640 104 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{3c1f6e47-d0b3-542f-a272-3413e6d3da50}"
+ ( 224 376 0 ) ( 336 376 0 ) ( 336 400 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 376 38.7692 ) ( 224 400 38.7692 ) ( 336 400 38.7692 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 376 0 ) ( 224 376 38.7692 ) ( 336 376 38.7692 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 400 0 ) ( 336 400 0 ) ( 336 400 38.7692 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 376 0 ) ( 224 400 0 ) ( 224 400 38.7692 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 376 0 ) ( 336 376 38.7692 ) ( 336 400 38.7692 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 72
 {
- guid "{afc8dd8f-7858-536b-afe3-19555c4c6e8e}"
- ( -261 -422 0 ) ( -157 -422 0 ) ( -157 -346 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -261 -422 32 ) ( -261 -346 32 ) ( -157 -346 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -261 -422 0 ) ( -261 -422 32 ) ( -157 -422 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -261 -346 0 ) ( -157 -346 0 ) ( -157 -346 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -261 -422 0 ) ( -261 -346 0 ) ( -261 -346 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -157 -422 0 ) ( -157 -422 32 ) ( -157 -346 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{17745249-eb70-5dbc-b595-6a99f9049111}"
+ ( 224 400 0 ) ( 336 400 0 ) ( 336 424 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 400 51.6923 ) ( 224 424 51.6923 ) ( 336 424 51.6923 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 400 0 ) ( 224 400 51.6923 ) ( 336 400 51.6923 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 424 0 ) ( 336 424 0 ) ( 336 424 51.6923 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 400 0 ) ( 224 424 0 ) ( 224 424 51.6923 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 400 0 ) ( 336 400 51.6923 ) ( 336 424 51.6923 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 73
 {
- guid "{e8ba9474-f27c-5f6c-9741-5975529af9ec}"
- ( 204 -607 0 ) ( 308 -607 0 ) ( 308 -531 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 204 -607 32 ) ( 204 -531 32 ) ( 308 -531 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 204 -607 0 ) ( 204 -607 32 ) ( 308 -607 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 204 -531 0 ) ( 308 -531 0 ) ( 308 -531 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 204 -607 0 ) ( 204 -531 0 ) ( 204 -531 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 308 -607 0 ) ( 308 -607 32 ) ( 308 -531 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{e746cee9-a31a-5e38-ab9d-42df35855c4d}"
+ ( 224 424 0 ) ( 336 424 0 ) ( 336 448 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 424 64.6154 ) ( 224 448 64.6154 ) ( 336 448 64.6154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 424 0 ) ( 224 424 64.6154 ) ( 336 424 64.6154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 448 0 ) ( 336 448 0 ) ( 336 448 64.6154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 424 0 ) ( 224 448 0 ) ( 224 448 64.6154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 424 0 ) ( 336 424 64.6154 ) ( 336 448 64.6154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 74
 {
- guid "{0ba66ee5-bf3b-58cd-a080-d3b7ec2f2a16}"
- ( -266 -266 0 ) ( -162 -266 0 ) ( -162 -190 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -266 -266 32 ) ( -266 -190 32 ) ( -162 -190 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -266 -266 0 ) ( -266 -266 32 ) ( -162 -266 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -266 -190 0 ) ( -162 -190 0 ) ( -162 -190 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -266 -266 0 ) ( -266 -190 0 ) ( -266 -190 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -162 -266 0 ) ( -162 -266 32 ) ( -162 -190 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{c3292928-02cd-535e-b168-128e39062ac8}"
+ ( 224 448 0 ) ( 336 448 0 ) ( 336 472 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 448 77.5385 ) ( 224 472 77.5385 ) ( 336 472 77.5385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 448 0 ) ( 224 448 77.5385 ) ( 336 448 77.5385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 472 0 ) ( 336 472 0 ) ( 336 472 77.5385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 448 0 ) ( 224 472 0 ) ( 224 472 77.5385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 448 0 ) ( 336 448 77.5385 ) ( 336 472 77.5385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 75
 {
- guid "{6bc4f5ca-a37c-541b-a43d-ba1c46ef751d}"
- ( 179 -95 0 ) ( 255 -95 0 ) ( 255 9 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 179 -95 32 ) ( 179 9 32 ) ( 255 9 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 179 -95 0 ) ( 179 -95 32 ) ( 255 -95 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 179 9 0 ) ( 255 9 0 ) ( 255 9 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 179 -95 0 ) ( 179 9 0 ) ( 179 9 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 255 -95 0 ) ( 255 -95 32 ) ( 255 9 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{66238b53-fc8e-519c-bb7a-456a47307521}"
+ ( 224 472 0 ) ( 336 472 0 ) ( 336 496 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 472 90.4615 ) ( 224 496 90.4615 ) ( 336 496 90.4615 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 472 0 ) ( 224 472 90.4615 ) ( 336 472 90.4615 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 496 0 ) ( 336 496 0 ) ( 336 496 90.4615 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 472 0 ) ( 224 496 0 ) ( 224 496 90.4615 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 472 0 ) ( 336 472 90.4615 ) ( 336 496 90.4615 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 76
 {
- guid "{3ca79cd5-3ebb-5a8c-a8df-a109f4e5d372}"
- ( -250 -553 0 ) ( -186 -553 0 ) ( -186 -505 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -250 -553 32 ) ( -250 -505 32 ) ( -186 -505 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -250 -553 0 ) ( -250 -553 32 ) ( -186 -553 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -250 -505 0 ) ( -186 -505 0 ) ( -186 -505 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -250 -553 0 ) ( -250 -505 0 ) ( -250 -505 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -186 -553 0 ) ( -186 -553 32 ) ( -186 -505 32 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{8897c56f-c072-59fb-92e0-1c08f6b9eb74}"
+ ( 224 496 0 ) ( 336 496 0 ) ( 336 520 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 496 103.385 ) ( 224 520 103.385 ) ( 336 520 103.385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 496 0 ) ( 224 496 103.385 ) ( 336 496 103.385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 520 0 ) ( 336 520 0 ) ( 336 520 103.385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 496 0 ) ( 224 520 0 ) ( 224 520 103.385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 496 0 ) ( 336 496 103.385 ) ( 336 520 103.385 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 77
 {
- guid "{ac9e9d45-6e27-5aac-a236-534449cfbbcc}"
- ( 268 -95 0 ) ( 332 -95 0 ) ( 332 13 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 268 -95 28 ) ( 268 13 28 ) ( 332 13 28 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 268 -95 0 ) ( 268 -95 28 ) ( 332 -95 28 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 268 13 0 ) ( 332 13 0 ) ( 332 13 28 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 268 -95 0 ) ( 268 13 0 ) ( 268 13 28 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 332 -95 0 ) ( 332 -95 28 ) ( 332 13 28 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{b980a5f9-3b55-55b6-91bd-38909330b590}"
+ ( 224 520 0 ) ( 336 520 0 ) ( 336 544 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 520 116.308 ) ( 224 544 116.308 ) ( 336 544 116.308 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 520 0 ) ( 224 520 116.308 ) ( 336 520 116.308 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 544 0 ) ( 336 544 0 ) ( 336 544 116.308 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 520 0 ) ( 224 544 0 ) ( 224 544 116.308 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 520 0 ) ( 336 520 116.308 ) ( 336 544 116.308 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 78
 {
- guid "{072eb90e-baab-59c6-b51c-610f8d1d896c}"
- ( -335 -132 0 ) ( -223 -132 0 ) ( -223 -64 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -335 -132 48 ) ( -335 -64 48 ) ( -223 -64 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -335 -132 0 ) ( -335 -132 48 ) ( -223 -132 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -335 -64 0 ) ( -223 -64 0 ) ( -223 -64 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -335 -132 0 ) ( -335 -64 0 ) ( -335 -64 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -223 -132 0 ) ( -223 -132 48 ) ( -223 -64 48 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{528f0b9e-1762-5225-9c47-cd9d1e86976b}"
+ ( 224 544 0 ) ( 336 544 0 ) ( 336 568 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 544 129.231 ) ( 224 568 129.231 ) ( 336 568 129.231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 544 0 ) ( 224 544 129.231 ) ( 336 544 129.231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 568 0 ) ( 336 568 0 ) ( 336 568 129.231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 544 0 ) ( 224 568 0 ) ( 224 568 129.231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 544 0 ) ( 336 544 129.231 ) ( 336 568 129.231 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 79
 {
- guid "{820c6b4d-f70a-5bfc-8f08-b00667332393}"
- ( -352 -251 0 ) ( -288 -251 0 ) ( -288 -203 0 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -352 -251 24 ) ( -352 -203 24 ) ( -288 -203 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -352 -251 0 ) ( -352 -251 24 ) ( -288 -251 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -352 -203 0 ) ( -288 -203 0 ) ( -288 -203 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -352 -251 0 ) ( -352 -203 0 ) ( -352 -203 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -288 -251 0 ) ( -288 -251 24 ) ( -288 -203 24 ) t7_concrete_trowelled 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{7fb74369-825f-5119-a55d-6cb234388aab}"
+ ( 224 568 0 ) ( 336 568 0 ) ( 336 592 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 568 142.154 ) ( 224 592 142.154 ) ( 336 592 142.154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 568 0 ) ( 224 568 142.154 ) ( 336 568 142.154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 592 0 ) ( 336 592 0 ) ( 336 592 142.154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 568 0 ) ( 224 592 0 ) ( 224 592 142.154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 568 0 ) ( 336 568 142.154 ) ( 336 592 142.154 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 80
+{
+ guid "{896b2a21-45f1-545b-878b-472136cac336}"
+ ( 224 592 0 ) ( 336 592 0 ) ( 336 616 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 592 155.077 ) ( 224 616 155.077 ) ( 336 616 155.077 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 592 0 ) ( 224 592 155.077 ) ( 336 592 155.077 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 616 0 ) ( 336 616 0 ) ( 336 616 155.077 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 592 0 ) ( 224 616 0 ) ( 224 616 155.077 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 592 0 ) ( 336 592 155.077 ) ( 336 616 155.077 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 81
+{
+ guid "{13f41359-ad5c-5d46-b253-d0871249c0ca}"
+ ( 224 616 0 ) ( 336 616 0 ) ( 336 640 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 616 168 ) ( 224 640 168 ) ( 336 640 168 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 616 0 ) ( 224 616 168 ) ( 336 616 168 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 640 0 ) ( 336 640 0 ) ( 336 640 168 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 224 616 0 ) ( 224 640 0 ) ( 224 640 168 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 336 616 0 ) ( 336 616 168 ) ( 336 640 168 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 82
+{
+ guid "{5b46e5ed-3a1a-50db-8f29-9dde19adbece}"
+ ( -261 -422 28 ) ( -157 -422 28 ) ( -157 -346 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -261 -422 32 ) ( -261 -346 32 ) ( -157 -346 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -261 -422 28 ) ( -261 -422 32 ) ( -157 -422 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -261 -346 28 ) ( -157 -346 28 ) ( -157 -346 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -261 -422 28 ) ( -261 -346 28 ) ( -261 -346 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -157 -422 28 ) ( -157 -422 32 ) ( -157 -346 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 83
+{
+ guid "{c0235417-1fa8-5f36-b0f2-4670961e3513}"
+ ( -253 -414 0 ) ( -247 -414 0 ) ( -247 -408 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -253 -414 28 ) ( -253 -408 28 ) ( -247 -408 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -253 -414 0 ) ( -253 -414 28 ) ( -247 -414 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -253 -408 0 ) ( -247 -408 0 ) ( -247 -408 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -253 -414 0 ) ( -253 -408 0 ) ( -253 -408 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -247 -414 0 ) ( -247 -414 28 ) ( -247 -408 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 84
+{
+ guid "{1753f8e5-7b58-5d6b-aad0-bc12715fe693}"
+ ( -171 -414 0 ) ( -165 -414 0 ) ( -165 -408 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -171 -414 28 ) ( -171 -408 28 ) ( -165 -408 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -171 -414 0 ) ( -171 -414 28 ) ( -165 -414 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -171 -408 0 ) ( -165 -408 0 ) ( -165 -408 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -171 -414 0 ) ( -171 -408 0 ) ( -171 -408 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -165 -414 0 ) ( -165 -414 28 ) ( -165 -408 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 85
+{
+ guid "{a9e230a2-6ed9-585d-b4de-18d358fdb25f}"
+ ( -253 -360 0 ) ( -247 -360 0 ) ( -247 -354 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -253 -360 28 ) ( -253 -354 28 ) ( -247 -354 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -253 -360 0 ) ( -253 -360 28 ) ( -247 -360 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -253 -354 0 ) ( -247 -354 0 ) ( -247 -354 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -253 -360 0 ) ( -253 -354 0 ) ( -253 -354 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -247 -360 0 ) ( -247 -360 28 ) ( -247 -354 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 86
+{
+ guid "{b175217f-202c-5097-ad91-1c9dce4ff30b}"
+ ( -171 -360 0 ) ( -165 -360 0 ) ( -165 -354 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -171 -360 28 ) ( -171 -354 28 ) ( -165 -354 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -171 -360 0 ) ( -171 -360 28 ) ( -165 -360 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -171 -354 0 ) ( -165 -354 0 ) ( -165 -354 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -171 -360 0 ) ( -171 -354 0 ) ( -171 -354 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -165 -360 0 ) ( -165 -360 28 ) ( -165 -354 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 87
+{
+ guid "{1f9964ae-f45b-58b5-afe8-fd1ae0d234a3}"
+ ( -221 -454 0 ) ( -197 -454 0 ) ( -197 -430 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -454 18 ) ( -221 -430 18 ) ( -197 -430 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -454 0 ) ( -221 -454 18 ) ( -197 -454 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -430 0 ) ( -197 -430 0 ) ( -197 -430 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -454 0 ) ( -221 -430 0 ) ( -221 -430 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -197 -454 0 ) ( -197 -454 18 ) ( -197 -430 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 88
+{
+ guid "{421bbfcf-9548-55fb-8e3a-a1d48b16c2c4}"
+ ( -221 -454 18 ) ( -197 -454 18 ) ( -197 -450 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -454 36 ) ( -221 -450 36 ) ( -197 -450 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -454 18 ) ( -221 -454 36 ) ( -197 -454 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -450 18 ) ( -197 -450 18 ) ( -197 -450 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -454 18 ) ( -221 -450 18 ) ( -221 -450 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -197 -454 18 ) ( -197 -454 36 ) ( -197 -450 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 89
+{
+ guid "{ba1ecae3-52ea-5e87-bbba-d683a57a2582}"
+ ( -221 -338 0 ) ( -197 -338 0 ) ( -197 -314 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -338 18 ) ( -221 -314 18 ) ( -197 -314 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -338 0 ) ( -221 -338 18 ) ( -197 -338 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -314 0 ) ( -197 -314 0 ) ( -197 -314 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -338 0 ) ( -221 -314 0 ) ( -221 -314 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -197 -338 0 ) ( -197 -338 18 ) ( -197 -314 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 90
+{
+ guid "{f4fdc461-a928-5328-adf7-2a5876cbd3dc}"
+ ( -221 -318 18 ) ( -197 -318 18 ) ( -197 -314 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -318 36 ) ( -221 -314 36 ) ( -197 -314 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -318 18 ) ( -221 -318 36 ) ( -197 -318 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -314 18 ) ( -197 -314 18 ) ( -197 -314 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -221 -318 18 ) ( -221 -314 18 ) ( -221 -314 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -197 -318 18 ) ( -197 -318 36 ) ( -197 -314 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 91
+{
+ guid "{1004b436-b45e-57f7-8d36-c7da446e17d2}"
+ ( 204 -607 28 ) ( 308 -607 28 ) ( 308 -531 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 204 -607 32 ) ( 204 -531 32 ) ( 308 -531 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 204 -607 28 ) ( 204 -607 32 ) ( 308 -607 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 204 -531 28 ) ( 308 -531 28 ) ( 308 -531 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 204 -607 28 ) ( 204 -531 28 ) ( 204 -531 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 308 -607 28 ) ( 308 -607 32 ) ( 308 -531 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 92
+{
+ guid "{6bf9511e-1f52-571f-94cb-fe604cb2775a}"
+ ( 212 -599 0 ) ( 218 -599 0 ) ( 218 -593 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 212 -599 28 ) ( 212 -593 28 ) ( 218 -593 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 212 -599 0 ) ( 212 -599 28 ) ( 218 -599 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 212 -593 0 ) ( 218 -593 0 ) ( 218 -593 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 212 -599 0 ) ( 212 -593 0 ) ( 212 -593 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 218 -599 0 ) ( 218 -599 28 ) ( 218 -593 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 93
+{
+ guid "{4f09eb35-1986-5bf6-93ac-76e2537d4ff2}"
+ ( 294 -599 0 ) ( 300 -599 0 ) ( 300 -593 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 294 -599 28 ) ( 294 -593 28 ) ( 300 -593 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 294 -599 0 ) ( 294 -599 28 ) ( 300 -599 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 294 -593 0 ) ( 300 -593 0 ) ( 300 -593 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 294 -599 0 ) ( 294 -593 0 ) ( 294 -593 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 300 -599 0 ) ( 300 -599 28 ) ( 300 -593 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 94
+{
+ guid "{d257c2b5-6cd6-50c6-b356-7a3dc0aae896}"
+ ( 212 -545 0 ) ( 218 -545 0 ) ( 218 -539 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 212 -545 28 ) ( 212 -539 28 ) ( 218 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 212 -545 0 ) ( 212 -545 28 ) ( 218 -545 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 212 -539 0 ) ( 218 -539 0 ) ( 218 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 212 -545 0 ) ( 212 -539 0 ) ( 212 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 218 -545 0 ) ( 218 -545 28 ) ( 218 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 95
+{
+ guid "{656e4f39-2d46-58d4-ace0-21edd089ef4c}"
+ ( 294 -545 0 ) ( 300 -545 0 ) ( 300 -539 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 294 -545 28 ) ( 294 -539 28 ) ( 300 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 294 -545 0 ) ( 294 -545 28 ) ( 300 -545 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 294 -539 0 ) ( 300 -539 0 ) ( 300 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 294 -545 0 ) ( 294 -539 0 ) ( 294 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 300 -545 0 ) ( 300 -545 28 ) ( 300 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 96
+{
+ guid "{f760c6b7-1c05-569d-bc73-97e6287d5e71}"
+ ( 244 -639 0 ) ( 268 -639 0 ) ( 268 -615 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -639 18 ) ( 244 -615 18 ) ( 268 -615 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -639 0 ) ( 244 -639 18 ) ( 268 -639 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -615 0 ) ( 268 -615 0 ) ( 268 -615 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -639 0 ) ( 244 -615 0 ) ( 244 -615 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 268 -639 0 ) ( 268 -639 18 ) ( 268 -615 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 97
+{
+ guid "{b39d5928-c19d-5782-94c8-3db6d214c420}"
+ ( 244 -639 18 ) ( 268 -639 18 ) ( 268 -635 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -639 36 ) ( 244 -635 36 ) ( 268 -635 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -639 18 ) ( 244 -639 36 ) ( 268 -639 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -635 18 ) ( 268 -635 18 ) ( 268 -635 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -639 18 ) ( 244 -635 18 ) ( 244 -635 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 268 -639 18 ) ( 268 -639 36 ) ( 268 -635 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 98
+{
+ guid "{d158417e-1d49-5f67-b17c-6db5fa41fac9}"
+ ( 244 -523 0 ) ( 268 -523 0 ) ( 268 -499 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -523 18 ) ( 244 -499 18 ) ( 268 -499 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -523 0 ) ( 244 -523 18 ) ( 268 -523 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -499 0 ) ( 268 -499 0 ) ( 268 -499 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -523 0 ) ( 244 -499 0 ) ( 244 -499 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 268 -523 0 ) ( 268 -523 18 ) ( 268 -499 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 99
+{
+ guid "{12f532ce-7dee-5fee-8555-a8b7043d45ae}"
+ ( 244 -503 18 ) ( 268 -503 18 ) ( 268 -499 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -503 36 ) ( 244 -499 36 ) ( 268 -499 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -503 18 ) ( 244 -503 36 ) ( 268 -503 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -499 18 ) ( 268 -499 18 ) ( 268 -499 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 244 -503 18 ) ( 244 -499 18 ) ( 244 -499 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 268 -503 18 ) ( 268 -503 36 ) ( 268 -499 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 100
+{
+ guid "{8dea56d3-8d32-55e2-8f6a-e2bc82794d7f}"
+ ( -266 -266 28 ) ( -162 -266 28 ) ( -162 -190 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -266 -266 32 ) ( -266 -190 32 ) ( -162 -190 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -266 -266 28 ) ( -266 -266 32 ) ( -162 -266 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -266 -190 28 ) ( -162 -190 28 ) ( -162 -190 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -266 -266 28 ) ( -266 -190 28 ) ( -266 -190 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -162 -266 28 ) ( -162 -266 32 ) ( -162 -190 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 101
+{
+ guid "{33ee4a8c-2f7f-5cac-b544-b401e71c4a71}"
+ ( -258 -258 0 ) ( -252 -258 0 ) ( -252 -252 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -258 -258 28 ) ( -258 -252 28 ) ( -252 -252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -258 -258 0 ) ( -258 -258 28 ) ( -252 -258 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -258 -252 0 ) ( -252 -252 0 ) ( -252 -252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -258 -258 0 ) ( -258 -252 0 ) ( -258 -252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -252 -258 0 ) ( -252 -258 28 ) ( -252 -252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 102
+{
+ guid "{9ad3b743-2bb4-540f-a24b-d5d3b218e9f5}"
+ ( -176 -258 0 ) ( -170 -258 0 ) ( -170 -252 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -176 -258 28 ) ( -176 -252 28 ) ( -170 -252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -176 -258 0 ) ( -176 -258 28 ) ( -170 -258 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -176 -252 0 ) ( -170 -252 0 ) ( -170 -252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -176 -258 0 ) ( -176 -252 0 ) ( -176 -252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -170 -258 0 ) ( -170 -258 28 ) ( -170 -252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 103
+{
+ guid "{c63504a6-133a-5127-828e-4c791ce65ffa}"
+ ( -258 -204 0 ) ( -252 -204 0 ) ( -252 -198 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -258 -204 28 ) ( -258 -198 28 ) ( -252 -198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -258 -204 0 ) ( -258 -204 28 ) ( -252 -204 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -258 -198 0 ) ( -252 -198 0 ) ( -252 -198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -258 -204 0 ) ( -258 -198 0 ) ( -258 -198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -252 -204 0 ) ( -252 -204 28 ) ( -252 -198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 104
+{
+ guid "{b7569d3f-d140-5b73-86be-5c6845c504eb}"
+ ( -176 -204 0 ) ( -170 -204 0 ) ( -170 -198 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -176 -204 28 ) ( -176 -198 28 ) ( -170 -198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -176 -204 0 ) ( -176 -204 28 ) ( -170 -204 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -176 -198 0 ) ( -170 -198 0 ) ( -170 -198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -176 -204 0 ) ( -176 -198 0 ) ( -176 -198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -170 -204 0 ) ( -170 -204 28 ) ( -170 -198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 105
+{
+ guid "{6f4de90a-76b5-5f19-9a58-981f82bab295}"
+ ( -226 -298 0 ) ( -202 -298 0 ) ( -202 -274 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -298 18 ) ( -226 -274 18 ) ( -202 -274 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -298 0 ) ( -226 -298 18 ) ( -202 -298 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -274 0 ) ( -202 -274 0 ) ( -202 -274 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -298 0 ) ( -226 -274 0 ) ( -226 -274 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -202 -298 0 ) ( -202 -298 18 ) ( -202 -274 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 106
+{
+ guid "{147882fb-3014-5b15-9dd6-1d169fe4a8f1}"
+ ( -226 -298 18 ) ( -202 -298 18 ) ( -202 -294 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -298 36 ) ( -226 -294 36 ) ( -202 -294 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -298 18 ) ( -226 -298 36 ) ( -202 -298 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -294 18 ) ( -202 -294 18 ) ( -202 -294 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -298 18 ) ( -226 -294 18 ) ( -226 -294 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -202 -298 18 ) ( -202 -298 36 ) ( -202 -294 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 107
+{
+ guid "{dbd6fc06-6c7b-5112-8292-41df1cb57848}"
+ ( -226 -182 0 ) ( -202 -182 0 ) ( -202 -158 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -182 18 ) ( -226 -158 18 ) ( -202 -158 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -182 0 ) ( -226 -182 18 ) ( -202 -182 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -158 0 ) ( -202 -158 0 ) ( -202 -158 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -182 0 ) ( -226 -158 0 ) ( -226 -158 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -202 -182 0 ) ( -202 -182 18 ) ( -202 -158 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 108
+{
+ guid "{9b9bac42-6d0e-5fcb-8e24-58f76c2b9453}"
+ ( -226 -162 18 ) ( -202 -162 18 ) ( -202 -158 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -162 36 ) ( -226 -158 36 ) ( -202 -158 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -162 18 ) ( -226 -162 36 ) ( -202 -162 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -158 18 ) ( -202 -158 18 ) ( -202 -158 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -226 -162 18 ) ( -226 -158 18 ) ( -226 -158 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -202 -162 18 ) ( -202 -162 36 ) ( -202 -158 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 109
+{
+ guid "{e7e6693a-f9db-5408-9276-5e6975af3b55}"
+ ( 179 -95 28 ) ( 255 -95 28 ) ( 255 9 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 179 -95 32 ) ( 179 9 32 ) ( 255 9 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 179 -95 28 ) ( 179 -95 32 ) ( 255 -95 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 179 9 28 ) ( 255 9 28 ) ( 255 9 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 179 -95 28 ) ( 179 9 28 ) ( 179 9 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 255 -95 28 ) ( 255 -95 32 ) ( 255 9 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 110
+{
+ guid "{12929ed3-8ca6-5297-ba43-2781cb4da4d6}"
+ ( 187 -87 0 ) ( 193 -87 0 ) ( 193 -81 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 187 -87 28 ) ( 187 -81 28 ) ( 193 -81 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 187 -87 0 ) ( 187 -87 28 ) ( 193 -87 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 187 -81 0 ) ( 193 -81 0 ) ( 193 -81 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 187 -87 0 ) ( 187 -81 0 ) ( 187 -81 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 193 -87 0 ) ( 193 -87 28 ) ( 193 -81 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 111
+{
+ guid "{a863faa0-cd35-547d-b896-90b49a9dd430}"
+ ( 241 -87 0 ) ( 247 -87 0 ) ( 247 -81 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 241 -87 28 ) ( 241 -81 28 ) ( 247 -81 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 241 -87 0 ) ( 241 -87 28 ) ( 247 -87 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 241 -81 0 ) ( 247 -81 0 ) ( 247 -81 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 241 -87 0 ) ( 241 -81 0 ) ( 241 -81 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 247 -87 0 ) ( 247 -87 28 ) ( 247 -81 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 112
+{
+ guid "{3bbe25fd-eebc-56c4-8413-e93e0576d92a}"
+ ( 187 -5 0 ) ( 193 -5 0 ) ( 193 1 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 187 -5 28 ) ( 187 1 28 ) ( 193 1 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 187 -5 0 ) ( 187 -5 28 ) ( 193 -5 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 187 1 0 ) ( 193 1 0 ) ( 193 1 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 187 -5 0 ) ( 187 1 0 ) ( 187 1 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 193 -5 0 ) ( 193 -5 28 ) ( 193 1 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 113
+{
+ guid "{cb65e97e-d066-5a79-b853-3255dd5a4704}"
+ ( 241 -5 0 ) ( 247 -5 0 ) ( 247 1 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 241 -5 28 ) ( 241 1 28 ) ( 247 1 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 241 -5 0 ) ( 241 -5 28 ) ( 247 -5 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 241 1 0 ) ( 247 1 0 ) ( 247 1 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 241 -5 0 ) ( 241 1 0 ) ( 241 1 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 247 -5 0 ) ( 247 -5 28 ) ( 247 1 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 114
+{
+ guid "{33ad793d-cb76-5c36-ae70-f452e78c5ec5}"
+ ( 205 -127 0 ) ( 229 -127 0 ) ( 229 -103 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 -127 18 ) ( 205 -103 18 ) ( 229 -103 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 -127 0 ) ( 205 -127 18 ) ( 229 -127 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 -103 0 ) ( 229 -103 0 ) ( 229 -103 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 -127 0 ) ( 205 -103 0 ) ( 205 -103 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 229 -127 0 ) ( 229 -127 18 ) ( 229 -103 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 115
+{
+ guid "{36396956-9fa9-52bf-adde-2d4028c56cc6}"
+ ( 205 -127 18 ) ( 229 -127 18 ) ( 229 -123 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 -127 36 ) ( 205 -123 36 ) ( 229 -123 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 -127 18 ) ( 205 -127 36 ) ( 229 -127 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 -123 18 ) ( 229 -123 18 ) ( 229 -123 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 -127 18 ) ( 205 -123 18 ) ( 205 -123 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 229 -127 18 ) ( 229 -127 36 ) ( 229 -123 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 116
+{
+ guid "{0c0a28ee-d709-5e37-bdd6-7cf99192cef5}"
+ ( 205 17 0 ) ( 229 17 0 ) ( 229 41 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 17 18 ) ( 205 41 18 ) ( 229 41 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 17 0 ) ( 205 17 18 ) ( 229 17 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 41 0 ) ( 229 41 0 ) ( 229 41 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 17 0 ) ( 205 41 0 ) ( 205 41 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 229 17 0 ) ( 229 17 18 ) ( 229 41 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 117
+{
+ guid "{62e681b5-c81f-526b-97db-688833dcc1a3}"
+ ( 205 37 18 ) ( 229 37 18 ) ( 229 41 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 37 36 ) ( 205 41 36 ) ( 229 41 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 37 18 ) ( 205 37 36 ) ( 229 37 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 41 18 ) ( 229 41 18 ) ( 229 41 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 205 37 18 ) ( 205 41 18 ) ( 205 41 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 229 37 18 ) ( 229 37 36 ) ( 229 41 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 118
+{
+ guid "{6f3c5128-a909-5c9c-8fb9-f97811c132c9}"
+ ( -250 -553 28 ) ( -186 -553 28 ) ( -186 -505 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -250 -553 32 ) ( -250 -505 32 ) ( -186 -505 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -250 -553 28 ) ( -250 -553 32 ) ( -186 -553 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -250 -505 28 ) ( -186 -505 28 ) ( -186 -505 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -250 -553 28 ) ( -250 -505 28 ) ( -250 -505 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -186 -553 28 ) ( -186 -553 32 ) ( -186 -505 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 119
+{
+ guid "{292a4422-a5ef-5d40-9995-3bc76b2ad76c}"
+ ( -242 -545 0 ) ( -236 -545 0 ) ( -236 -539 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -242 -545 28 ) ( -242 -539 28 ) ( -236 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -242 -545 0 ) ( -242 -545 28 ) ( -236 -545 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -242 -539 0 ) ( -236 -539 0 ) ( -236 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -242 -545 0 ) ( -242 -539 0 ) ( -242 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -236 -545 0 ) ( -236 -545 28 ) ( -236 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 120
+{
+ guid "{8771ff72-5d69-5dae-8d58-8937588b1000}"
+ ( -200 -545 0 ) ( -194 -545 0 ) ( -194 -539 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -200 -545 28 ) ( -200 -539 28 ) ( -194 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -200 -545 0 ) ( -200 -545 28 ) ( -194 -545 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -200 -539 0 ) ( -194 -539 0 ) ( -194 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -200 -545 0 ) ( -200 -539 0 ) ( -200 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -194 -545 0 ) ( -194 -545 28 ) ( -194 -539 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 121
+{
+ guid "{a4a528f6-0225-5faa-8ab3-c328d052e689}"
+ ( -242 -519 0 ) ( -236 -519 0 ) ( -236 -513 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -242 -519 28 ) ( -242 -513 28 ) ( -236 -513 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -242 -519 0 ) ( -242 -519 28 ) ( -236 -519 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -242 -513 0 ) ( -236 -513 0 ) ( -236 -513 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -242 -519 0 ) ( -242 -513 0 ) ( -242 -513 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -236 -519 0 ) ( -236 -519 28 ) ( -236 -513 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 122
+{
+ guid "{395bfba1-ed2a-5751-90cc-9b5340047f7b}"
+ ( -200 -519 0 ) ( -194 -519 0 ) ( -194 -513 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -200 -519 28 ) ( -200 -513 28 ) ( -194 -513 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -200 -519 0 ) ( -200 -519 28 ) ( -194 -519 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -200 -513 0 ) ( -194 -513 0 ) ( -194 -513 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -200 -519 0 ) ( -200 -513 0 ) ( -200 -513 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -194 -519 0 ) ( -194 -519 28 ) ( -194 -513 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 123
+{
+ guid "{97626f5e-6652-5a9a-af3b-ccbe563629ca}"
+ ( -230 -585 0 ) ( -206 -585 0 ) ( -206 -561 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -585 18 ) ( -230 -561 18 ) ( -206 -561 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -585 0 ) ( -230 -585 18 ) ( -206 -585 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -561 0 ) ( -206 -561 0 ) ( -206 -561 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -585 0 ) ( -230 -561 0 ) ( -230 -561 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -206 -585 0 ) ( -206 -585 18 ) ( -206 -561 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 124
+{
+ guid "{077aa1fe-678d-5bc2-839b-41d14f79404c}"
+ ( -230 -585 18 ) ( -206 -585 18 ) ( -206 -581 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -585 36 ) ( -230 -581 36 ) ( -206 -581 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -585 18 ) ( -230 -585 36 ) ( -206 -585 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -581 18 ) ( -206 -581 18 ) ( -206 -581 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -585 18 ) ( -230 -581 18 ) ( -230 -581 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -206 -585 18 ) ( -206 -585 36 ) ( -206 -581 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 125
+{
+ guid "{ff39fe4b-5178-5616-aa73-7fe0fd4075b6}"
+ ( -230 -497 0 ) ( -206 -497 0 ) ( -206 -473 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -497 18 ) ( -230 -473 18 ) ( -206 -473 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -497 0 ) ( -230 -497 18 ) ( -206 -497 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -473 0 ) ( -206 -473 0 ) ( -206 -473 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -497 0 ) ( -230 -473 0 ) ( -230 -473 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -206 -497 0 ) ( -206 -497 18 ) ( -206 -473 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 126
+{
+ guid "{cf15919d-9eb6-5e74-aa6b-6c5410149075}"
+ ( -230 -477 18 ) ( -206 -477 18 ) ( -206 -473 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -477 36 ) ( -230 -473 36 ) ( -206 -473 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -477 18 ) ( -230 -477 36 ) ( -206 -477 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -473 18 ) ( -206 -473 18 ) ( -206 -473 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -230 -477 18 ) ( -230 -473 18 ) ( -230 -473 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -206 -477 18 ) ( -206 -477 36 ) ( -206 -473 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 127
+{
+ guid "{4f1cb757-a216-5daf-bc9b-fcc4100ff23d}"
+ ( -304 184 28 ) ( -200 184 28 ) ( -200 260 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -304 184 32 ) ( -304 260 32 ) ( -200 260 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -304 184 28 ) ( -304 184 32 ) ( -200 184 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -304 260 28 ) ( -200 260 28 ) ( -200 260 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -304 184 28 ) ( -304 260 28 ) ( -304 260 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -200 184 28 ) ( -200 184 32 ) ( -200 260 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 128
+{
+ guid "{6468a8f0-9090-5dc5-baff-ecbd406d39b0}"
+ ( -296 192 0 ) ( -290 192 0 ) ( -290 198 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -296 192 28 ) ( -296 198 28 ) ( -290 198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -296 192 0 ) ( -296 192 28 ) ( -290 192 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -296 198 0 ) ( -290 198 0 ) ( -290 198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -296 192 0 ) ( -296 198 0 ) ( -296 198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -290 192 0 ) ( -290 192 28 ) ( -290 198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 129
+{
+ guid "{4357d4f4-8e29-5fd7-9aa0-04d53b0717b1}"
+ ( -214 192 0 ) ( -208 192 0 ) ( -208 198 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -214 192 28 ) ( -214 198 28 ) ( -208 198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -214 192 0 ) ( -214 192 28 ) ( -208 192 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -214 198 0 ) ( -208 198 0 ) ( -208 198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -214 192 0 ) ( -214 198 0 ) ( -214 198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -208 192 0 ) ( -208 192 28 ) ( -208 198 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 130
+{
+ guid "{28e8f2e4-6a96-501b-934f-ce80b1230a0d}"
+ ( -296 246 0 ) ( -290 246 0 ) ( -290 252 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -296 246 28 ) ( -296 252 28 ) ( -290 252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -296 246 0 ) ( -296 246 28 ) ( -290 246 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -296 252 0 ) ( -290 252 0 ) ( -290 252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -296 246 0 ) ( -296 252 0 ) ( -296 252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -290 246 0 ) ( -290 246 28 ) ( -290 252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 131
+{
+ guid "{1eba1636-28fd-52c6-b211-51b9c3523f34}"
+ ( -214 246 0 ) ( -208 246 0 ) ( -208 252 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -214 246 28 ) ( -214 252 28 ) ( -208 252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -214 246 0 ) ( -214 246 28 ) ( -208 246 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -214 252 0 ) ( -208 252 0 ) ( -208 252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -214 246 0 ) ( -214 252 0 ) ( -214 252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -208 246 0 ) ( -208 246 28 ) ( -208 252 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 132
+{
+ guid "{a6b9f6e7-b2d9-54be-af5a-dc1f54ceab2b}"
+ ( -264 152 0 ) ( -240 152 0 ) ( -240 176 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 152 18 ) ( -264 176 18 ) ( -240 176 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 152 0 ) ( -264 152 18 ) ( -240 152 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 176 0 ) ( -240 176 0 ) ( -240 176 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 152 0 ) ( -264 176 0 ) ( -264 176 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -240 152 0 ) ( -240 152 18 ) ( -240 176 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 133
+{
+ guid "{bd58a3d9-847e-5759-b526-af820f49ecec}"
+ ( -264 152 18 ) ( -240 152 18 ) ( -240 156 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 152 36 ) ( -264 156 36 ) ( -240 156 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 152 18 ) ( -264 152 36 ) ( -240 152 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 156 18 ) ( -240 156 18 ) ( -240 156 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 152 18 ) ( -264 156 18 ) ( -264 156 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -240 152 18 ) ( -240 152 36 ) ( -240 156 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 134
+{
+ guid "{b51aed8f-d22d-5f2e-8af9-5f6beca92655}"
+ ( -264 268 0 ) ( -240 268 0 ) ( -240 292 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 268 18 ) ( -264 292 18 ) ( -240 292 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 268 0 ) ( -264 268 18 ) ( -240 268 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 292 0 ) ( -240 292 0 ) ( -240 292 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 268 0 ) ( -264 292 0 ) ( -264 292 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -240 268 0 ) ( -240 268 18 ) ( -240 292 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 135
+{
+ guid "{fb2b5ac2-e489-56c2-8cba-1ebdf48cb32d}"
+ ( -264 288 18 ) ( -240 288 18 ) ( -240 292 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 288 36 ) ( -264 292 36 ) ( -240 292 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 288 18 ) ( -264 288 36 ) ( -240 288 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 292 18 ) ( -240 292 18 ) ( -240 292 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -264 288 18 ) ( -264 292 18 ) ( -264 292 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -240 288 18 ) ( -240 288 36 ) ( -240 292 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 136
+{
+ guid "{966301df-f392-5ca0-9e15-829d03657e89}"
+ ( 176 -380 40 ) ( 280 -380 40 ) ( 280 -304 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 176 -380 44 ) ( 176 -304 44 ) ( 280 -304 44 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 176 -380 40 ) ( 176 -380 44 ) ( 280 -380 44 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 176 -304 40 ) ( 280 -304 40 ) ( 280 -304 44 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 176 -380 40 ) ( 176 -304 40 ) ( 176 -304 44 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 280 -380 40 ) ( 280 -380 44 ) ( 280 -304 44 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 137
+{
+ guid "{9d3227a1-e947-5633-9ce6-e480561784a4}"
+ ( 184 -372 12 ) ( 190 -372 12 ) ( 190 -366 12 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 184 -372 40 ) ( 184 -366 40 ) ( 190 -366 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 184 -372 12 ) ( 184 -372 40 ) ( 190 -372 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 184 -366 12 ) ( 190 -366 12 ) ( 190 -366 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 184 -372 12 ) ( 184 -366 12 ) ( 184 -366 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 190 -372 12 ) ( 190 -372 40 ) ( 190 -366 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 138
+{
+ guid "{ffc58b07-f1fc-5b11-85a9-638a383e481c}"
+ ( 266 -372 12 ) ( 272 -372 12 ) ( 272 -366 12 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 266 -372 40 ) ( 266 -366 40 ) ( 272 -366 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 266 -372 12 ) ( 266 -372 40 ) ( 272 -372 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 266 -366 12 ) ( 272 -366 12 ) ( 272 -366 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 266 -372 12 ) ( 266 -366 12 ) ( 266 -366 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 272 -372 12 ) ( 272 -372 40 ) ( 272 -366 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 139
+{
+ guid "{d3792add-bf1c-5781-be71-da79ed89996b}"
+ ( 184 -318 12 ) ( 190 -318 12 ) ( 190 -312 12 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 184 -318 40 ) ( 184 -312 40 ) ( 190 -312 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 184 -318 12 ) ( 184 -318 40 ) ( 190 -318 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 184 -312 12 ) ( 190 -312 12 ) ( 190 -312 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 184 -318 12 ) ( 184 -312 12 ) ( 184 -312 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 190 -318 12 ) ( 190 -318 40 ) ( 190 -312 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 140
+{
+ guid "{32ce1d54-ff59-51b4-acab-776d8ef11837}"
+ ( 266 -318 12 ) ( 272 -318 12 ) ( 272 -312 12 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 266 -318 40 ) ( 266 -312 40 ) ( 272 -312 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 266 -318 12 ) ( 266 -318 40 ) ( 272 -318 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 266 -312 12 ) ( 272 -312 12 ) ( 272 -312 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 266 -318 12 ) ( 266 -312 12 ) ( 266 -312 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 272 -318 12 ) ( 272 -318 40 ) ( 272 -312 40 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 141
+{
+ guid "{b33ae908-9b55-5b99-a903-3103cf298b5a}"
+ ( 216 -412 12 ) ( 240 -412 12 ) ( 240 -388 12 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -412 30 ) ( 216 -388 30 ) ( 240 -388 30 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -412 12 ) ( 216 -412 30 ) ( 240 -412 30 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -388 12 ) ( 240 -388 12 ) ( 240 -388 30 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -412 12 ) ( 216 -388 12 ) ( 216 -388 30 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 240 -412 12 ) ( 240 -412 30 ) ( 240 -388 30 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 142
+{
+ guid "{f3790a40-6992-5288-bf9c-59e2b75e7f33}"
+ ( 216 -412 30 ) ( 240 -412 30 ) ( 240 -408 30 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -412 48 ) ( 216 -408 48 ) ( 240 -408 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -412 30 ) ( 216 -412 48 ) ( 240 -412 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -408 30 ) ( 240 -408 30 ) ( 240 -408 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -412 30 ) ( 216 -408 30 ) ( 216 -408 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 240 -412 30 ) ( 240 -412 48 ) ( 240 -408 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 143
+{
+ guid "{597c8753-30e4-5a43-8f65-23661db3ebaf}"
+ ( 216 -296 12 ) ( 240 -296 12 ) ( 240 -272 12 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -296 30 ) ( 216 -272 30 ) ( 240 -272 30 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -296 12 ) ( 216 -296 30 ) ( 240 -296 30 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -272 12 ) ( 240 -272 12 ) ( 240 -272 30 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -296 12 ) ( 216 -272 12 ) ( 216 -272 30 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 240 -296 12 ) ( 240 -296 30 ) ( 240 -272 30 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 144
+{
+ guid "{8018e1a7-f35f-50dc-b7d7-b4effab5b7b3}"
+ ( 216 -276 30 ) ( 240 -276 30 ) ( 240 -272 30 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -276 48 ) ( 216 -272 48 ) ( 240 -272 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -276 30 ) ( 216 -276 48 ) ( 240 -276 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -272 30 ) ( 240 -272 30 ) ( 240 -272 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 216 -276 30 ) ( 216 -272 30 ) ( 216 -272 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 240 -276 30 ) ( 240 -276 48 ) ( 240 -272 48 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 145
+{
+ guid "{43291075-dbed-5e5b-9582-cbc51afb0784}"
+ ( -448 872 28 ) ( -344 872 28 ) ( -344 948 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -448 872 32 ) ( -448 948 32 ) ( -344 948 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -448 872 28 ) ( -448 872 32 ) ( -344 872 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -448 948 28 ) ( -344 948 28 ) ( -344 948 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -448 872 28 ) ( -448 948 28 ) ( -448 948 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -344 872 28 ) ( -344 872 32 ) ( -344 948 32 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 146
+{
+ guid "{f4df7c41-20e4-5359-86ec-7f59d14ffca8}"
+ ( -440 880 0 ) ( -434 880 0 ) ( -434 886 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -440 880 28 ) ( -440 886 28 ) ( -434 886 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -440 880 0 ) ( -440 880 28 ) ( -434 880 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -440 886 0 ) ( -434 886 0 ) ( -434 886 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -440 880 0 ) ( -440 886 0 ) ( -440 886 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -434 880 0 ) ( -434 880 28 ) ( -434 886 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 147
+{
+ guid "{a7822fad-eed7-5be6-9ada-b533aaefb491}"
+ ( -358 880 0 ) ( -352 880 0 ) ( -352 886 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -358 880 28 ) ( -358 886 28 ) ( -352 886 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -358 880 0 ) ( -358 880 28 ) ( -352 880 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -358 886 0 ) ( -352 886 0 ) ( -352 886 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -358 880 0 ) ( -358 886 0 ) ( -358 886 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 880 0 ) ( -352 880 28 ) ( -352 886 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 148
+{
+ guid "{54bc5342-1ab5-5e69-bd5e-c354c5652f65}"
+ ( -440 934 0 ) ( -434 934 0 ) ( -434 940 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -440 934 28 ) ( -440 940 28 ) ( -434 940 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -440 934 0 ) ( -440 934 28 ) ( -434 934 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -440 940 0 ) ( -434 940 0 ) ( -434 940 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -440 934 0 ) ( -440 940 0 ) ( -440 940 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -434 934 0 ) ( -434 934 28 ) ( -434 940 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 149
+{
+ guid "{a97b2e0d-ebb3-5949-a9a4-72211552c337}"
+ ( -358 934 0 ) ( -352 934 0 ) ( -352 940 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -358 934 28 ) ( -358 940 28 ) ( -352 940 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -358 934 0 ) ( -358 934 28 ) ( -352 934 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -358 940 0 ) ( -352 940 0 ) ( -352 940 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -358 934 0 ) ( -358 940 0 ) ( -358 940 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 934 0 ) ( -352 934 28 ) ( -352 940 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 150
+{
+ guid "{0d2ab0f4-ec28-5461-9991-5c1ad475c35f}"
+ ( -408 840 0 ) ( -384 840 0 ) ( -384 864 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 840 18 ) ( -408 864 18 ) ( -384 864 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 840 0 ) ( -408 840 18 ) ( -384 840 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 864 0 ) ( -384 864 0 ) ( -384 864 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 840 0 ) ( -408 864 0 ) ( -408 864 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -384 840 0 ) ( -384 840 18 ) ( -384 864 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 151
+{
+ guid "{1e8080ae-9b8b-5af8-afa3-1a4d2dd1bad2}"
+ ( -408 840 18 ) ( -384 840 18 ) ( -384 844 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 840 36 ) ( -408 844 36 ) ( -384 844 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 840 18 ) ( -408 840 36 ) ( -384 840 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 844 18 ) ( -384 844 18 ) ( -384 844 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 840 18 ) ( -408 844 18 ) ( -408 844 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -384 840 18 ) ( -384 840 36 ) ( -384 844 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 152
+{
+ guid "{c8a5179f-9b19-5aaa-a3bb-f04e13d26c3e}"
+ ( -408 956 0 ) ( -384 956 0 ) ( -384 980 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 956 18 ) ( -408 980 18 ) ( -384 980 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 956 0 ) ( -408 956 18 ) ( -384 956 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 980 0 ) ( -384 980 0 ) ( -384 980 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 956 0 ) ( -408 980 0 ) ( -408 980 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -384 956 0 ) ( -384 956 18 ) ( -384 980 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 153
+{
+ guid "{29be65e7-b6d8-5185-84d6-7d3d6aae55b2}"
+ ( -408 976 18 ) ( -384 976 18 ) ( -384 980 18 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 976 36 ) ( -408 980 36 ) ( -384 980 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 976 18 ) ( -408 976 36 ) ( -384 976 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 980 18 ) ( -384 980 18 ) ( -384 980 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -408 976 18 ) ( -408 980 18 ) ( -408 980 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -384 976 18 ) ( -384 976 36 ) ( -384 980 36 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 154
+{
+ guid "{e88817d5-733b-52ec-9d23-3d05dd382d8e}"
+ ( 268 -95 0 ) ( 332 -95 0 ) ( 332 13 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 268 -95 28 ) ( 268 13 28 ) ( 332 13 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 268 -95 0 ) ( 268 -95 28 ) ( 332 -95 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 268 13 0 ) ( 332 13 0 ) ( 332 13 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 268 -95 0 ) ( 268 13 0 ) ( 268 13 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 332 -95 0 ) ( 332 -95 28 ) ( 332 13 28 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 155
+{
+ guid "{6e709c0f-4b35-50ce-b8ea-7c771030c856}"
+ ( -352 -251 0 ) ( -288 -251 0 ) ( -288 -203 0 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -251 24 ) ( -352 -203 24 ) ( -288 -203 24 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -251 0 ) ( -352 -251 24 ) ( -288 -251 24 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -203 0 ) ( -288 -203 0 ) ( -288 -203 24 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -352 -251 0 ) ( -352 -203 0 ) ( -352 -203 24 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -288 -251 0 ) ( -288 -251 24 ) ( -288 -203 24 ) t7_wood_planks_damaged_teak 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 156
+{
+ guid "{84cb4471-d0fd-59be-9aa8-2762bc27822a}"
+ mesh
+ {
+  toolFlags;
+  pharmacie_frontage
+  lightmap_gray
+  2 2 0 8
+  (
+   v -352 -657 320 t 28 259.068 0 0
+   v 15.2099 -657 320 t 535 259.068 1 0
+  )
+  (
+   v -352 -657 0 t 28 919.009 0 1
+   v 15.2099 -657 0 t 535 919.009 1 1
+  )
+ }
+}
+// brush 157
+{
+ guid "{2127dd7b-b128-59e0-ade6-35a3c695561f}"
+ mesh
+ {
+  toolFlags;
+  pharmacie_frontage
+  lightmap_gray
+  2 2 0 8
+  (
+   v 134.716 -657 320 t 700 259.068 0 0
+   v 352 -657 320 t 1000 259.068 1 0
+  )
+  (
+   v 134.716 -657 0 t 700 919.009 0 1
+   v 352 -657 0 t 1000 919.009 1 1
+  )
+ }
+}
+// brush 158
+{
+ guid "{03db3ccf-d740-5dcb-afb0-131c692f9202}"
+ mesh
+ {
+  toolFlags;
+  pharmacie_frontage
+  lightmap_gray
+  2 2 0 8
+  (
+   v 15.2099 -657 320 t 535 259.068 0 0
+   v 134.716 -657 320 t 700 259.068 1 0
+  )
+  (
+   v 15.2099 -657 158.017 t 535 593.129 0 1
+   v 134.716 -657 158.017 t 700 593.129 1 1
+  )
+ }
+}
+// brush 159
+{
+ guid "{84f8b34b-ae65-5776-8e3e-1688e5162af1}"
+ mesh
+ {
+  toolFlags;
+  pharmacie_bar
+  lightmap_gray
+  2 2 0 8
+  (
+   v -157 65 48 t 51.2 1151.52 0 0
+   v 195 65 48 t 1945.6 1151.52 1 0
+  )
+  (
+   v -157 65 0 t 51.2 1901.16 0 1
+   v 195 65 0 t 1945.6 1901.16 1 1
+  )
+ }
+}
+// brush 160
+{
+ guid "{c68b596a-aaf9-54a7-982d-1271d7a787e8}"
+ mesh
+ {
+  toolFlags;
+  pharmacie_bar
+  lightmap_gray
+  2 2 0 8
+  (
+   v -157 133 142 t 51.2 417.328 0 0
+   v 195 133 142 t 1945.6 417.328 1 0
+  )
+  (
+   v -157 133 52 t 51.2 1151.52 0 1
+   v 195 133 52 t 1945.6 1151.52 1 1
+  )
+ }
+}
+// brush 161
+{
+ guid "{3f83c3d5-aa1d-5024-b35a-8ddbfefcc1f2}"
+ mesh
+ {
+  toolFlags;
+  pharmacie_feature_wall
+  lightmap_gray
+  2 2 0 8
+  (
+   v -351 -400 316 t 0 0 0 0
+   v -351 100 316 t 2048 0 1 0
+  )
+  (
+   v -351 -400 6 t 0 2048 0 1
+   v -351 100 6 t 2048 2048 1 1
+  )
+ }
+}
+// brush 162
+{
+ guid "{0ebab880-07bf-5afd-91b1-35eac8ddbe63}"
+ mesh
+ {
+  toolFlags;
+  pharmacie_feature_wall
+  lightmap_gray
+  2 2 0 8
+  (
+   v 351 140 316 t 0 0 0 0
+   v 351 -360 316 t 2048 0 1 0
+  )
+  (
+   v 351 140 6 t 0 2048 0 1
+   v 351 -360 6 t 2048 2048 1 1
+  )
+ }
+}
+// brush 163
+{
+ guid "{f2899b21-92e6-5d3d-af46-6f971a8462ad}"
+ mesh
+ {
+  toolFlags;
+  pharmacie_skeleton
+  lightmap_gray
+  2 2 0 8
+  (
+   v -224 -148 126 t 0 0 0 0
+   v -224 -64 126 t 1024 0 1 0
+  )
+  (
+   v -224 -148 0 t 0 2048 0 1
+   v -224 -64 0 t 1024 2048 1 1
+  )
+ }
 }
 }
 // entity 1
@@ -730,13 +1642,13 @@ guid "{cf5097f9-08bf-486c-8033-0d253c50ad2e}"
 "targetname" "start_zone"
 // brush 0
 {
- guid "{68b49465-9697-5457-972b-4841038ba186}"
- ( -496 -784 0 ) ( 352 -784 0 ) ( 352 1152 0 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -496 -784 320 ) ( -496 1152 320 ) ( 352 1152 320 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -496 -784 0 ) ( -496 -784 320 ) ( 352 -784 320 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -496 1152 0 ) ( 352 1152 0 ) ( 352 1152 320 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -496 -784 0 ) ( -496 1152 0 ) ( -496 1152 320 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 352 -784 0 ) ( 352 -784 320 ) ( 352 1152 320 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ guid "{a07b7f2e-14f2-5c8e-af8f-e01744e57e47}"
+ ( -496 -1008 0 ) ( 352 -1008 0 ) ( 352 1152 0 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -496 -1008 640 ) ( -496 1152 640 ) ( 352 1152 640 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -496 -1008 0 ) ( -496 -1008 640 ) ( 352 -1008 640 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -496 1152 0 ) ( 352 1152 0 ) ( 352 1152 640 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -496 -1008 0 ) ( -496 1152 0 ) ( -496 1152 640 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 352 -1008 0 ) ( 352 -1008 640 ) ( 352 1152 640 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 }
 // entity 3
@@ -1136,6 +2048,38 @@ guid "{b9523285-2bc2-41cc-a45e-64f430e1bc94}"
 {
 "classname" "light"
 "origin" "0 1000 220"
+"_color" "1 0.88 0.7"
+"light" "450"
+}
+
+// entity 110
+{
+"classname" "light"
+"origin" "0 -480 548"
+"_color" "1 0.88 0.7"
+"light" "450"
+}
+
+// entity 111
+{
+"classname" "light"
+"origin" "0 -64 548"
+"_color" "1 0.88 0.7"
+"light" "450"
+}
+
+// entity 112
+{
+"classname" "light"
+"origin" "0 320 548"
+"_color" "1 0.88 0.7"
+"light" "450"
+}
+
+// entity 113
+{
+"classname" "light"
+"origin" "0 704 548"
 "_color" "1 0.88 0.7"
 "light" "450"
 }

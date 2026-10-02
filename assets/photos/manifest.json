@@ -1,0 +1,68 @@
+{
+  "purpose": "Private BO3 prototype; source rights unresolved for distribution",
+  "assets": [
+    {
+      "name": "frontage",
+      "source": "references/pharmacie-syston/pharmacie-arms-syston-2.jpg",
+      "source_sha256": "846df20c00665cca564b0505ec6123b5e11c3bfe50d77483dd429b23fea3a6ef",
+      "source_dimensions": [
+        1024,
+        751
+      ],
+      "output": "assets/photos/frontage.tif",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "RGBA TIFF encoding and Lanczos resize only; no pixel crop or repaint",
+      "material": "pharmacie_frontage",
+      "status": "prepared; build/runtime tracked in MODLOG.md"
+    },
+    {
+      "name": "bar",
+      "source": "references/pharmacie-syston/bar front.jpg",
+      "source_sha256": "e91a923a278fd0bab628b11364fd253c00d4d2de7428fef8c6b969a5e2de01fe",
+      "source_dimensions": [
+        2000,
+        1325
+      ],
+      "output": "assets/photos/bar.tif",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "edits": "RGBA TIFF encoding and Lanczos resize only; no pixel crop or repaint",
+      "material": "pharmacie_bar",
+      "status": "prepared; build/runtime tracked in MODLOG.md"
+    },
+    {
+      "name": "feature_wall",
+      "source": "references/pharmacie-syston/great for texture.avif",
+      "source_sha256": "03eda1b1be09fcb7e2e07467a1bb4535285f4c299636da6e6629c1a06e32034b",
+      "source_dimensions": [
+        1973,
+        1227
+      ],
+      "output": "assets/photos/feature_wall.tif",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "edits": "RGBA TIFF encoding and Lanczos resize only; no pixel crop or repaint",
+      "material": "pharmacie_feature_wall",
+      "status": "prepared; build/runtime tracked in MODLOG.md"
+    },
+    {
+      "name": "skeleton",
+      "source": "assets/photos/skeleton-cutout.png",
+      "original_reference": "references/pharmacie-syston/eyJidWNrZXQiOiJ3aGF0cHViIiwia2V5IjoiTEVJXC9MRUkrNTI1LTE2ODI1NC0xNTAwLTIwMDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxNTAwLCJoZWlnaHQiOjIwMDAsImZpdCI6ImNvdmVyIn0sInJvdGF0ZSI6bnVsbH19.jpg",
+      "edits": "AI background isolation of seated skeleton and dentist chair; RGBA TIFF encoding and resize",
+      "dimensions": [
+        1024,
+        2048
+      ],
+      "material": "pharmacie_skeleton",
+      "status": "prepared; alpha-test material; build/runtime tracked in MODLOG.md"
+    }
+  ]
+}

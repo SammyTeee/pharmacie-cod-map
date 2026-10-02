@@ -1,0 +1,98 @@
+gdtDB: updating
+processed (0 GDTs) (0 assets) in 1.743 sec
+gdtDB: successfully updated database.
+main: Enter
+FPU Precision set to 64 bits
+CoD2Map: T7
+ Build Changelist: 3421987
+ Build Machine: CODBUILD8-764
+---- cod2map ----
+navmesh = true
+navvolume = full generation
+----- FS_Startup -----
+Current search path:
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\devraw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\devdiscdata
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\devraw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\raw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\discdata
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\devdiscdata
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\devraw
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\raw
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\discdata
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\main
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\main
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\players
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\zone
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\local_storage
+----------------------
+Connected to data signature database
+Loading map file S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie.map
+Layer '000_Global/No Comp' ignored
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+reveal volume decal texture 1x1, 9 bytes. 0 packed 0 unpacked. 0 voldecals.
+restricting BSP to sky brushes
+writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie.d3dprt
+
+finding triangle windings...
+assigning primary lights...
+splitting windings into lightable areas...
+coalescing coincident windings...
+removing occluded winding fragments...
+finding sun shadow casters...
+splitting large windings...
+merging into concave windings...
+fixing t-junctions...
+tethering holes to their concave windings...
+finding index mapping and snapping vertices...
+triangulating all windings...
+0 self-tjunctions fixed
+0 degenerate tris removed
+smoothing normals...
+emitting triangles...
+0 vertices couldn't be merged because the textures point different ways
+emitting cells and portals...
+
+building curve/terrain collision...
+Adding brush neighbor bevels...
+Removing redundant brush collision planes...
+removed 0 brush sides
+elapsed time 0 seconds
+Finished processing world entity
+
+Ignoring empty brush model entity
+Map S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie.map entity 21
+Ignoring empty brush model entity
+Map S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie.map entity 23
+splitting up large himip volumes...
+    surfCount went from 12 to 419
+
+Umbra Visibility Groups: 1 groups
+
+<worldvisgroup>      0
+
+begin navmesh generation...
+
+Umbra Tome Triggers: 0 total
+
+
+
+UMBRA smallest_occluder=72.000 small_hole=4.000
+removed 0 duplicate triangles from set of 1712 - 0.0 seconds
+generating Nav Mesh ...
+Removing tiny boundary edges...
+ done - 0.1 seconds
+WARNING: NavVolume generation is skipped. Flying units might not behave correctly. This might be due to there is no nav_volume brush in the level, or the generation is skipped purposely by skipping -navvolume option.
+Writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_navmesh.hkt
+Writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_navvolume.hkt
+Writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie.d3dbsp
+    1 seconds elapsed
+main: 1.12215 secs
+Linking "zm_pharmacie" (usermaps\zm_pharmacie stable 3421953 v593): processing...done: 0m9.51s
+Linking "en_zm_pharmacie" (usermaps\zm_pharmacie stable 3421953 v593): processing...done: 0m3.65s
