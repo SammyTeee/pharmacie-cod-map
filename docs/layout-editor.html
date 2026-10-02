@@ -3,189 +3,196 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Pharmacie Arms layout editor</title>
+  <title>Pharmacie Arms layout planner</title>
   <style>
     :root { color-scheme: light; font: 15px/1.45 "Segoe UI", Arial, sans-serif; color: #17202a; background: #eef1f4; }
     * { box-sizing: border-box; }
     body { margin: 0; }
-    header { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; padding: 14px 20px; background: #fff; border-bottom: 1px solid #cbd2da; }
+    header { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; padding: 13px 18px; background: white; border-bottom: 1px solid #cad2d9; }
     h1 { margin: 0; font-size: 20px; }
-    header p { margin: 0; color: #53606c; }
-    button { border: 0; border-radius: 5px; padding: 9px 13px; background: #234f69; color: white; font: inherit; cursor: pointer; }
-    button.secondary { background: #e1e7eb; color: #17202a; }
-    main { display: grid; grid-template-columns: minmax(640px, 1fr) 290px; gap: 16px; padding: 16px; align-items: start; }
-    .board { overflow: auto; border: 1px solid #cbd2da; border-radius: 8px; background: #fff; box-shadow: 0 2px 10px #152b3a12; }
-    svg { display: block; width: 100%; min-width: 720px; height: auto; touch-action: none; }
-    aside { position: sticky; top: 12px; padding: 16px; border: 1px solid #cbd2da; border-radius: 8px; background: white; }
-    aside h2 { margin: 0 0 8px; font-size: 17px; }
-    aside p { margin: 8px 0 16px; color: #53606c; }
-    #selection { min-height: 46px; padding: 10px; background: #f3f5f6; border-radius: 5px; color: #53606c; }
-    #coords { margin-top: 10px; font: 12px/1.5 Consolas, monospace; white-space: pre-wrap; }
+    header p { margin: 0; color: #52616b; }
+    button { border: 0; border-radius: 5px; padding: 9px 12px; background: #24566f; color: white; font: inherit; cursor: pointer; }
+    button.secondary { background: #e4e9ec; color: #17202a; }
+    main { display: grid; grid-template-columns: minmax(600px, 1fr) 300px; gap: 14px; padding: 14px; align-items: start; }
+    .board { overflow: auto; border: 1px solid #cbd2da; border-radius: 8px; background: white; }
+    #plan { display: block; width: 100%; min-width: 700px; height: auto; touch-action: none; }
+    aside { position: sticky; top: 12px; padding: 15px; border: 1px solid #cbd2da; border-radius: 8px; background: white; }
+    aside h2 { margin: 0 0 6px; font-size: 17px; }
+    aside p { margin: 8px 0 13px; color: #52616b; }
+    .toolbar { display: flex; gap: 7px; flex-wrap: wrap; margin: 10px 0; }
+    .toolbar button { padding: 7px 9px; }
+    #selection { min-height: 42px; padding: 9px; background: #f2f5f6; border-radius: 5px; color: #52616b; }
+    .angle { display: flex; align-items: center; gap: 6px; margin: 10px 0; }
+    .angle input { width: 72px; padding: 5px; font: inherit; }
+    #coords { font: 12px/1.5 Consolas, monospace; white-space: pre-wrap; color: #52616b; }
     .item { cursor: grab; }
     .item:active { cursor: grabbing; }
-    .item > .shape { stroke: #33434e; stroke-width: 2; }
-    .item:hover > .shape { stroke: #1675a5; stroke-width: 4; }
+    .item:not([data-id="main-entrance"]) .shape { stroke: #40515c; stroke-width: 2; }
+    .item:not([data-id="main-entrance"]):hover .shape { stroke: #1676a4; stroke-width: 4; }
+    .item:not([data-id="main-entrance"]).selected .shape { stroke: #e45e20; stroke-width: 4; }
     .label { pointer-events: none; font: 700 13px "Segoe UI", Arial, sans-serif; fill: #17202a; text-anchor: middle; }
-    .small { font: 11px "Segoe UI", Arial, sans-serif; fill: #53606c; text-anchor: middle; }
-    .wall { fill: none; stroke: #263238; stroke-width: 9; stroke-linecap: square; }
-    .door { stroke: #ad683e; stroke-width: 4; }
-    @media (max-width: 950px) { main { grid-template-columns: 1fr; } aside { position: static; } }
+    .small { pointer-events: none; font: 11px "Segoe UI", Arial, sans-serif; fill: #52616b; text-anchor: middle; }
+    @media(max-width: 940px) { main { grid-template-columns: 1fr; } aside { position: static; } }
   </style>
 </head>
 <body>
   <header>
-    <div><h1>Pharmacie Arms · layout editor</h1><p>Drag rooms and props to revise the plan. Double-click a label to rename it.</p></div>
-    <button id="download">Download revised layout</button>
-    <button class="secondary" id="reset">Reset to current interpretation</button>
+    <div><h1>Pharmacie Arms · layout planner</h1><p>Move, rotate, rename, or add things to the floor plan.</p></div>
+    <button id="save-svg">Save SVG</button><button id="save-jpeg">Save JPEG</button><button class="secondary" id="save-json">Save layout data</button>
   </header>
   <main>
     <div class="board">
-      <svg id="plan" viewBox="0 0 850 1000" aria-label="Draggable top-down map plan">
+      <svg id="plan" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 1000" aria-label="Editable top-down floor plan">
         <defs>
           <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#e7e4dc" stroke-width="1"/></pattern>
-          <marker id="north" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#53606c"/></marker>
+          <marker id="north" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#52616b"/></marker>
         </defs>
         <rect width="850" height="1000" fill="#fbfaf7"/><rect width="850" height="1000" fill="url(#grid)"/>
-        <text x="40" y="46" font-size="20" font-weight="700" fill="#17202a">Sam's sketch · drag to correct placement</text>
-        <text x="40" y="70" font-size="12" fill="#53606c">Scale follows the current map bounds: 0.5 screen pixels per BO3 unit · north/rear at top</text>
-        <!-- Main room outline and fixed entrance -->
+        <text x="40" y="46" font-size="20" font-weight="700" fill="#17202a">Sam's sketch · working plan</text>
+        <text x="40" y="70" font-size="12" fill="#52616b">North/back at top · layout scale 0.5 screen pixels per BO3 unit · drag items to move</text>
         <rect x="290" y="150" width="352" height="720" rx="2" fill="#eee9dd" stroke="#263238" stroke-width="9"/>
-        <path d="M493 870H587" stroke="#fbfaf7" stroke-width="13"/><text x="540" y="907" class="small">street entrance</text>
-        <text x="466" y="835" class="small">main pub room</text>
-        <path d="M765 205V145" stroke="#53606c" stroke-width="3" marker-end="url(#north)"/><text x="765" y="128" class="small">NORTH / BACK</text>
-
-        <!-- Draggable items are keyed to BO3-world anchor coordinates. -->
-        <g class="item" data-id="bar" data-name="Bar" data-world-x="0" data-world-y="650" transform="translate(0 0)">
-          <rect class="shape" x="378" y="204" width="176" height="34" rx="4" fill="#8b614b"/><rect x="370" y="198" width="192" height="8" fill="#d0ae78" stroke="#5b4633" stroke-width="2"/><text class="label" x="466" y="227" fill="white">BAR</text>
+        <text x="466" y="835" class="small">MAIN PUB ROOM</text>
+        <path d="M765 205V145" stroke="#52616b" stroke-width="3" marker-end="url(#north)"/><text x="765" y="128" class="small">NORTH / BACK</text>
+        <g id="items">
+          <g class="item" data-id="main-entrance" data-name="Street entrance" data-kind="door" data-world-x="0" data-world-y="-640" data-cx="540" data-cy="870" data-w="192" data-h="0" data-rotation="0" transform="translate(540 870)">
+            <path class="shape" d="M-47 0H47" stroke="#eee9dd" stroke-width="14"/><path d="M-47 0V-50A50 50 0 0 1 3 0" fill="none" stroke="#ad683e" stroke-width="3"/><text class="small" y="36">STREET ENTRANCE</text>
+          </g>
+          <g class="item" data-id="bar" data-name="Bar" data-kind="fixture" data-world-x="0" data-world-y="650" data-cx="466" data-cy="221" data-w="176" data-h="40" data-rotation="0" transform="translate(466 221)">
+            <rect class="shape" x="-88" y="-17" width="176" height="34" rx="4" fill="#8b614b"/><rect x="-96" y="-23" width="192" height="8" fill="#d0ae78" stroke="#5b4633" stroke-width="2"/><text class="label" y="6" fill="white">BAR</text>
+          </g>
+          <g class="item" data-id="toilet" data-name="Toilet room" data-kind="room" data-world-x="-176" data-world-y="352" data-cx="378" data-cy="374" data-w="112" data-h="160" data-rotation="0" transform="translate(378 374)">
+            <rect class="shape" x="-56" y="-80" width="112" height="160" fill="#dce7eb"/><text class="label" y="-8">TOILET</text><text class="small" y="12">room</text>
+          </g>
+          <g class="item" data-id="stairs" data-name="Stairs / upstairs route" data-kind="room" data-world-x="176" data-world-y="352" data-cx="554" data-cy="374" data-w="112" data-h="208" data-rotation="0" transform="translate(554 374)">
+            <rect class="shape" x="-56" y="-104" width="112" height="208" fill="#e4e0d7"/><text class="label" y="-76">STAIRS</text>
+            <g stroke="#918979" stroke-width="2"><path d="M-44 -54H44M-44 -35H44M-44 -16H44M-44 3H44M-44 22H44M-44 41H44M-44 60H44M-44 79H44"/></g>
+            <path d="M0 76V-44" stroke="#52616b" stroke-width="3" marker-end="url(#north)"/><text class="small" y="96">UP</text>
+          </g>
+          <g class="item" data-id="smoking-area" data-name="Outside smoking area" data-kind="room" data-world-x="-512" data-world-y="552" data-cx="210" data-cy="274" data-w="160" data-h="184" data-rotation="0" transform="translate(210 274)">
+            <rect class="shape" x="-80" y="-92" width="160" height="184" rx="5" fill="#dcebdc" stroke-dasharray="9 4"/><text class="label" y="-16">OUTSIDE</text><text class="label" y="6">SMOKING AREA</text><text class="small" y="42">open to outside</text>
+          </g>
+          <g class="item" data-id="smoking-door" data-name="Smoking-area door" data-kind="door" data-world-x="-352" data-world-y="480" data-cx="290" data-cy="304" data-w="52" data-h="24" data-rotation="0" transform="translate(290 304)">
+            <path d="M0 -26V26" stroke="#fbfaf7" stroke-width="13"/><path d="M0 -26V26" stroke="#ad683e" stroke-width="4"/><text class="small" x="-22" y="4">door</text>
+          </g>
+          <g class="item" data-id="raised-platform" data-name="Raised table platform" data-kind="fixture" data-world-x="160" data-world-y="16" data-cx="546" data-cy="542" data-w="144" data-h="160" data-rotation="0" transform="translate(546 542)">
+            <rect class="shape" x="-72" y="-80" width="144" height="160" rx="3" fill="#dfd2b8" stroke="#977c52"/><text class="label" y="-6">RAISED TABLE</text><text class="label" y="14">PLATFORM</text><text class="small" y="44">slightly raised</text>
+          </g>
+          <g class="item" data-id="table-1" data-name="Table 1" data-kind="prop" data-world-x="-208" data-world-y="-400" data-cx="362" data-cy="750" data-w="52" data-h="38" data-rotation="0" transform="translate(362 750)"><rect class="shape" x="-26" y="-19" width="52" height="38" rx="5" fill="#c4a16f"/><text class="small" y="4">table</text></g>
+          <g class="item" data-id="table-2" data-name="Table 2" data-kind="prop" data-world-x="184" data-world-y="-336" data-cx="558" data-cy="718" data-w="52" data-h="38" data-rotation="0" transform="translate(558 718)"><rect class="shape" x="-26" y="-19" width="52" height="38" rx="5" fill="#c4a16f"/><text class="small" y="4">table</text></g>
+          <g class="item" data-id="table-3" data-name="Table 3" data-kind="prop" data-world-x="-208" data-world-y="-80" data-cx="362" data-cy="590" data-w="52" data-h="38" data-rotation="0" transform="translate(362 590)"><rect class="shape" x="-26" y="-19" width="52" height="38" rx="5" fill="#c4a16f"/><text class="small" y="4">table</text></g>
+          <g class="item" data-id="table-4" data-name="Table 4" data-kind="prop" data-world-x="216" data-world-y="264" data-cx="574" data-cy="418" data-w="52" data-h="38" data-rotation="0" transform="translate(574 418)"><rect class="shape" x="-26" y="-19" width="52" height="38" rx="5" fill="#c4a16f"/><text class="small" y="4">table</text></g>
+          <g class="item" data-id="skeleton" data-name="Skeleton feature prop" data-kind="prop" data-world-x="-246" data-world-y="112" data-cx="343" data-cy="494" data-w="56" data-h="34" data-rotation="0" transform="translate(343 494)"><rect class="shape" x="-28" y="-17" width="56" height="34" rx="5" fill="#c5c6ba"/><text class="small" y="4">skeleton</text></g>
+          <g class="item" data-id="sofa" data-name="Sofa" data-kind="prop" data-world-x="216" data-world-y="160" data-cx="574" data-cy="470" data-w="54" data-h="32" data-rotation="0" transform="translate(574 470)"><rect class="shape" x="-27" y="-16" width="54" height="32" rx="10" fill="#a5b1ad"/><text class="small" y="4">sofa</text></g>
         </g>
-        <g class="item" data-id="toilet" data-name="Toilet room" data-world-x="-176" data-world-y="352" transform="translate(0 0)">
-          <rect class="shape" x="322" y="294" width="112" height="160" fill="#dce7eb"/><text class="label" x="378" y="365">TOILET</text><text class="small" x="378" y="385">room</text><path d="M434 382H416" class="door"/>
-        </g>
-        <g class="item" data-id="stairs" data-name="Stairs / upstairs route" data-world-x="176" data-world-y="352" transform="translate(0 0)">
-          <rect class="shape" x="498" y="270" width="112" height="208" fill="#e4e0d7"/><text class="label" x="554" y="296">STAIRS</text>
-          <g stroke="#918979" stroke-width="2"><path d="M510 320H598M510 339H598M510 358H598M510 377H598M510 396H598M510 415H598M510 434H598M510 453H598"/></g>
-          <path d="M554 450V328" stroke="#53606c" stroke-width="3" marker-end="url(#north)"/><text class="small" x="554" y="470">up</text>
-        </g>
-        <g class="item" data-id="smoking-area" data-name="Outside smoking area" data-world-x="-512" data-world-y="552" transform="translate(0 0)">
-          <rect class="shape" x="130" y="182" width="160" height="184" rx="5" fill="#dcebdc" stroke-dasharray="9 4"/><text class="label" x="210" y="257">OUTSIDE</text><text class="label" x="210" y="278">SMOKING AREA</text><text class="small" x="210" y="314">open to outside</text>
-        </g>
-        <g class="item" data-id="smoking-door" data-name="Smoking-area door" data-world-x="-352" data-world-y="480" transform="translate(0 0)">
-          <path class="shape" d="M290 278V330" stroke="#fbfaf7" stroke-width="13" fill="none"/><path d="M290 278V330" class="door" fill="none"/><text class="small" x="260" y="307">door</text>
-        </g>
-        <g class="item" data-id="raised-platform" data-name="Raised table platform" data-world-x="160" data-world-y="16" transform="translate(0 0)">
-          <rect class="shape" x="474" y="462" width="144" height="160" rx="3" fill="#dfd2b8" stroke="#977c52"/><text class="label" x="546" y="531">RAISED TABLE</text><text class="label" x="546" y="550">PLATFORM</text><text class="small" x="546" y="580">slightly raised</text>
-        </g>
-        <g class="item" data-id="table-1" data-name="Table 1" data-world-x="-208" data-world-y="-400" transform="translate(0 0)"><rect class="shape" x="336" y="731" width="52" height="38" rx="5" fill="#c4a16f"/><text class="small" x="362" y="755">table</text></g>
-        <g class="item" data-id="table-2" data-name="Table 2" data-world-x="184" data-world-y="-336" transform="translate(0 0)"><rect class="shape" x="532" y="699" width="52" height="38" rx="5" fill="#c4a16f"/><text class="small" x="558" y="723">table</text></g>
-        <g class="item" data-id="table-3" data-name="Table 3" data-world-x="-208" data-world-y="-80" transform="translate(0 0)"><rect class="shape" x="336" y="571" width="52" height="38" rx="5" fill="#c4a16f"/><text class="small" x="362" y="595">table</text></g>
-        <g class="item" data-id="table-4" data-name="Table 4" data-world-x="216" data-world-y="264" transform="translate(0 0)"><rect class="shape" x="548" y="399" width="52" height="38" rx="5" fill="#c4a16f"/><text class="small" x="574" y="423">table</text></g>
-        <g class="item" data-id="skeleton" data-name="Skeleton feature prop" data-world-x="-246" data-world-y="112" transform="translate(0 0)"><rect class="shape" x="315" y="477" width="56" height="34" rx="5" fill="#c5c6ba"/><text class="small" x="343" y="499">skeleton</text></g>
-        <g class="item" data-id="sofa" data-name="Sofa" data-world-x="216" data-world-y="160" transform="translate(0 0)"><rect class="shape" x="547" y="454" width="54" height="32" rx="10" fill="#a5b1ad"/><text class="small" x="574" y="475">sofa</text></g>
-        <text x="40" y="954" font-size="12" fill="#53606c">Move any item; use the right panel to rename or reset. Coordinates are relative to the map's current guessed centre.</text>
+        <text x="40" y="954" font-size="12" fill="#52616b">Choose an item, then rotate it or rename it. Drag the street entrance sideways along the front wall.</text>
       </svg>
     </div>
     <aside>
-      <h2>Adjust the plan</h2>
-      <p>Drag a room or item on the drawing. Click an item to see its current position. Double-click it to change its label. Dragging updates its BO3 coordinate offset.</p>
-      <div id="selection">Select something in the plan.</div>
+      <h2>Edit the floor plan</h2>
+      <p>Drag a thing to move it. Double-click it to rename. Select it to rotate. Add rooms or named floor objects with the buttons below.</p>
+      <div class="toolbar"><button id="add-room">Add room</button><button id="add-object">Add object</button></div>
+      <div id="selection">Select something on the plan.</div>
+      <div class="angle"><label for="angle">Angle</label><input id="angle" type="number" min="-180" max="180" step="15" value="0"><span>°</span></div>
+      <div class="toolbar"><button class="secondary" id="turn-left">−15°</button><button class="secondary" id="turn-right">+15°</button><button class="secondary" id="remove" disabled>Remove added</button></div>
       <div id="coords"></div>
-      <p>Download the revised layout and attach it here; I can apply your placements to the generated map. Your edits are also saved in this browser on this PC.</p>
+      <p>Changes auto-save in this browser. Save SVG to reopen and edit the drawing; save JPEG for a simple image; save layout data if you want me to apply the plan to the map.</p>
+      <div class="toolbar"><button class="secondary" id="reset">Reset plan</button></div>
     </aside>
   </main>
   <script>
     const svg = document.querySelector('#plan');
-    const items = [...svg.querySelectorAll('.item')];
-    const defaultLabels = new Map(items.map(item => [item.dataset.id, item.querySelector('.label')?.textContent || '']));
+    const root = document.querySelector('#items');
+    const storageKey = 'pharmacie-layout-planner-v2';
+    const scale = 0.5;
+    let items = [...root.querySelectorAll('.item')];
+    let selected = null;
+    let drag = null;
+    const defaultState = new Map(items.map(item => [item.dataset.id, { label: item.dataset.name, cx: +item.dataset.cx, cy: +item.dataset.cy }]));
     const selection = document.querySelector('#selection');
     const coords = document.querySelector('#coords');
-    const storageKey = 'pharmacie-layout-editor-v1';
-    const scale = 0.5;
-    let active = null;
+    const angleInput = document.querySelector('#angle');
+    const rotateButtons = [document.querySelector('#turn-left'),document.querySelector('#turn-right')];
+    const removeButton = document.querySelector('#remove');
 
-    function readState() {
-      try { return JSON.parse(localStorage.getItem(storageKey) || '{}'); } catch { return {}; }
+    function point(e) { const p=svg.createSVGPoint(); p.x=e.clientX; p.y=e.clientY; return p.matrixTransform(svg.getScreenCTM().inverse()); }
+    function applyPosition(item) {
+      const x=+(item.dataset.cx)+ +(item.dataset.dx||0), y=+(item.dataset.cy)+ +(item.dataset.dy||0);
+      item.setAttribute('transform', `translate(${x} ${y}) rotate(${+(item.dataset.rotation||0)})`);
     }
-    function restore() {
-      const state = readState();
-      for (const item of items) {
-        const saved = state[item.dataset.id];
-        if (!saved) continue;
-        item.setAttribute('transform', `translate(${saved.dx} ${saved.dy})`);
-        const label = item.querySelector('.label');
-        if (label && saved.label) label.textContent = saved.label;
-      }
-      updateSummary();
+    function currentCoords(item) {
+      return { x: Math.round(+item.dataset.worldX + (+item.dataset.dx||0)/scale), y: Math.round(+item.dataset.worldY - (+item.dataset.dy||0)/scale) };
     }
-    function save() {
-      const state = {};
-      for (const item of items) {
-        const m = item.getAttribute('transform').match(/translate\(([-\d.]+)[ ,]+([-\d.]+)\)/);
-        const label = item.querySelector('.label');
-        state[item.dataset.id] = { dx: +(m?.[1] || 0), dy: +(m?.[2] || 0), label: label?.textContent || item.dataset.name };
-      }
-      localStorage.setItem(storageKey, JSON.stringify(state));
-      return state;
+    function select(item) {
+      selected?.classList.remove('selected'); selected=item;
+      if (!item) { selection.textContent='Select something on the plan.'; coords.textContent=''; angleInput.value=0; angleInput.disabled=false;rotateButtons.forEach(button=>button.disabled=false);removeButton.disabled=true; return; }
+      item.classList.add('selected');
+      angleInput.value=item.dataset.rotation||0;
+      const rotationLocked=item.dataset.id==='main-entrance';
+      angleInput.disabled=rotationLocked;rotateButtons.forEach(button=>button.disabled=rotationLocked);
+      removeButton.disabled=item.dataset.custom!=='true';
+      show(item);
     }
     function show(item) {
-      const m = item.getAttribute('transform').match(/translate\(([-\d.]+)[ ,]+([-\d.]+)\)/);
-      const dx = +(m?.[1] || 0), dy = +(m?.[2] || 0);
-      const wx = +item.dataset.worldX + dx / scale;
-      const wy = +item.dataset.worldY - dy / scale;
-      selection.textContent = `${item.dataset.name}: x ${Math.round(wx)}, y ${Math.round(wy)} (BO3 units)`;
-      coords.textContent = `Offset from current placement\nΔx ${Math.round(dx / scale)} units\nΔy ${Math.round(-dy / scale)} units`;
+      const p=currentCoords(item);
+      selection.textContent=`${item.dataset.name} · ${p.x}, ${p.y} BO3 units`;
+      coords.textContent=`Type: ${item.dataset.kind}\nSize: ${item.dataset.w} × ${item.dataset.h} units\nAngle: ${item.dataset.rotation||0}°`;
     }
-    function updateSummary() {
-      selection.textContent = `${items.length} movable items · changes saved in this browser`;
-      coords.textContent = 'North is up. The front entrance and outer room outline stay fixed.';
+    function snapshot() {
+      const entries={};
+      for (const item of items) entries[item.dataset.id]={id:item.dataset.id,label:item.dataset.name,kind:item.dataset.kind,x:currentCoords(item).x,y:currentCoords(item).y,width:+item.dataset.w,height:+item.dataset.h,rotation_degrees:+item.dataset.rotation||0,custom:item.dataset.custom==='true',dx:+item.dataset.dx||0,dy:+item.dataset.dy||0,cx:+item.dataset.cx,cy:+item.dataset.cy,worldX:+item.dataset.worldX,worldY:+item.dataset.worldY};
+      return entries;
     }
-    function point(event) {
-      const p = svg.createSVGPoint(); p.x = event.clientX; p.y = event.clientY;
-      return p.matrixTransform(svg.getScreenCTM().inverse());
-    }
-    for (const item of items) {
-      item.addEventListener('pointerdown', event => {
-        if (event.button !== 0) return;
-        const p = point(event), tr = item.getAttribute('transform').match(/translate\(([-\d.]+)[ ,]+([-\d.]+)\)/);
-        active = { item, x: p.x, y: p.y, dx: +(tr?.[1] || 0), dy: +(tr?.[2] || 0) };
-        item.setPointerCapture(event.pointerId); show(item); event.preventDefault();
+    function save() { try { localStorage.setItem(storageKey,JSON.stringify(snapshot())); } catch {} }
+    function nameLabel(item,label) { item.dataset.name=label; const text=item.querySelector('.label,.small'); if (text) text.textContent=label.toUpperCase(); }
+    function wire(item) {
+      item.addEventListener('pointerdown',e=>{
+        if(e.button!==0)return; const p=point(e); drag={item,x:p.x,y:p.y,dx:+item.dataset.dx||0,dy:+item.dataset.dy||0}; select(item); item.setPointerCapture(e.pointerId); e.preventDefault();
       });
-      item.addEventListener('pointermove', event => {
-        if (!active || active.item !== item) return;
-        const p = point(event), dx = active.dx + p.x - active.x, dy = active.dy + p.y - active.y;
-        item.setAttribute('transform', `translate(${dx.toFixed(1)} ${dy.toFixed(1)})`);
-        show(item); save();
+      item.addEventListener('pointermove',e=>{
+        if(!drag||drag.item!==item)return; const p=point(e); let dx=drag.dx+p.x-drag.x,dy=drag.dy+p.y-drag.y;
+        if(item.dataset.id==='main-entrance'){dx=Math.max(-203,Math.min(55,dx));dy=0;}
+        item.dataset.dx=dx.toFixed(1); item.dataset.dy=dy.toFixed(1); applyPosition(item); show(item); save();
       });
-      item.addEventListener('pointerup', () => { active = null; });
-      item.addEventListener('dblclick', event => {
-        event.preventDefault();
-        const label = item.querySelector('.label');
-        const next = prompt('Label for this item:', label?.textContent || item.dataset.name);
-        if (next?.trim() && label) { label.textContent = next.trim(); save(); show(item); }
-      });
+      item.addEventListener('pointerup',()=>{drag=null;});
+      item.addEventListener('dblclick',e=>{e.preventDefault();const next=prompt('What should this be called?',item.dataset.name);if(next?.trim()){nameLabel(item,next.trim());select(item);save();}});
     }
-    document.querySelector('#reset').addEventListener('click', () => {
-      localStorage.removeItem(storageKey);
-      for (const item of items) item.setAttribute('transform', 'translate(0 0)');
-      items.forEach(item => { const label=item.querySelector('.label'); if (label) label.textContent=defaultLabels.get(item.dataset.id); });
-      updateSummary();
-    });
-    document.querySelector('#download').addEventListener('click', () => {
-      const state = save();
-      const result = { title: 'Pharmacie Arms layout revision', base: 'pharmacie-layout-v1', north: 'up', units: 'BO3 map units', items: {} };
-      for (const item of items) {
-        const s = state[item.dataset.id];
-        result.items[item.dataset.id] = {
-          label: s.label,
-          x: Math.round(+item.dataset.worldX + s.dx / scale),
-          y: Math.round(+item.dataset.worldY - s.dy / scale),
-          offset_x: Math.round(s.dx / scale),
-          offset_y: Math.round(-s.dy / scale)
-        };
+    function addItem(kind,label,options={}) {
+      const id=options.id||`added-${Date.now().toString(36)}`;
+      const w=options.width||(kind==='room'?160:64), h=options.height||(kind==='room'?128:48), cx=options.cx??466, cy=options.cy??510;
+      const g=document.createElementNS('http://www.w3.org/2000/svg','g');
+      Object.assign(g.dataset,{id,name:label,kind,worldX:options.worldX??0,worldY:options.worldY??80,cx,cy,w,h,rotation:options.rotation||0,dx:options.dx||0,dy:options.dy||0,custom:'true'});g.classList.add('item');
+      const r=document.createElementNS('http://www.w3.org/2000/svg','rect');r.classList.add('shape');r.setAttribute('x',-w*scale/2);r.setAttribute('y',-h*scale/2);r.setAttribute('width',w*scale);r.setAttribute('height',h*scale);r.setAttribute('rx',kind==='room'?2:7);r.setAttribute('fill',kind==='room'?'#c8dce7':'#d9c391');g.append(r);
+      const t=document.createElementNS('http://www.w3.org/2000/svg','text');t.classList.add('label');t.setAttribute('y',5);t.textContent=label.toUpperCase();g.append(t);
+      root.append(g);wire(g);items=[...root.querySelectorAll('.item')];if(options.select!==false)select(g);if(options.persist!==false)save();
+      return g;
+    }
+    function restore() {
+      let saved={};try{saved=JSON.parse(localStorage.getItem(storageKey)||'{}');}catch{}
+      if(!Object.keys(saved).length){
+        try{const old=JSON.parse(localStorage.getItem('pharmacie-layout-editor-v1')||'{}');for(const item of items){const s=old[item.dataset.id];if(s)saved[item.dataset.id]={id:item.dataset.id,label:s.label||item.dataset.name,dx:s.dx||0,dy:s.dy||0,rotation_degrees:0,custom:false};}}catch{}
       }
-      const blob = new Blob([JSON.stringify(result, null, 2) + '\n'], { type: 'application/json' });
-      const link = document.createElement('a'); link.href = URL.createObjectURL(blob); link.download = 'pharmacie-layout-revision.json'; link.click(); URL.revokeObjectURL(link.href);
-    });
-    restore();
+      for(const state of Object.values(saved)) if(state.custom&&!root.querySelector(`[data-id="${CSS.escape(state.id)}"]`)) {
+        const kind=state.kind==='room'?'room':'prop';
+        addItem(kind,state.label,{id:state.id,width:state.width,height:state.height,cx:state.cx,cy:state.cy,worldX:state.worldX??0,worldY:state.worldY??80,dx:state.dx,dy:state.dy,rotation:state.rotation_degrees,select:false,persist:false});
+      }
+      items=[...root.querySelectorAll('.item')];
+      for(const item of items){const state=saved[item.dataset.id];if(!state)continue;item.dataset.dx=state.dx||0;item.dataset.dy=state.dy||0;item.dataset.rotation=state.rotation_degrees||0;nameLabel(item,state.label||item.dataset.name);applyPosition(item);}
+    }
+    function rotate(degrees) { if(!selected||selected.dataset.id==='main-entrance')return;let a=(+(selected.dataset.rotation||0)+degrees)%360;if(a>180)a-=360;if(a< -180)a+=360;selected.dataset.rotation=a;applyPosition(selected);angleInput.value=a;show(selected);save(); }
+    document.querySelector('#turn-left').onclick=()=>rotate(-15);
+    document.querySelector('#turn-right').onclick=()=>rotate(15);
+    angleInput.onchange=()=>{if(!selected||selected.dataset.id==='main-entrance')return;selected.dataset.rotation=Math.max(-180,Math.min(180,+angleInput.value||0));applyPosition(selected);show(selected);save();};
+    document.querySelector('#add-room').onclick=()=>{const n=prompt('Name the room:','New room');if(n?.trim())addItem('room',n.trim());};
+    document.querySelector('#add-object').onclick=()=>{const n=prompt('What object should be added to the floor?','New object');if(n?.trim())addItem('prop',n.trim());};
+    removeButton.onclick=()=>{if(selected?.dataset.custom==='true'){selected.remove();selected=null;items=[...root.querySelectorAll('.item')];select(null);save();}};
+    document.querySelector('#reset').onclick=()=>{if(!confirm('Reset to the original plan and remove added items?'))return;localStorage.removeItem(storageKey);root.querySelectorAll('[data-custom="true"]').forEach(e=>e.remove());items=[...root.querySelectorAll('.item')];for(const item of items){item.dataset.dx=0;item.dataset.dy=0;item.dataset.rotation=0;const d=defaultState.get(item.dataset.id);if(d){item.dataset.cx=d.cx;item.dataset.cy=d.cy;nameLabel(item,d.label);}applyPosition(item);}select(null);};
+
+    function download(blob,name){const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);}
+    function svgBlob(){const clone=svg.cloneNode(true);clone.setAttribute('xmlns','http://www.w3.org/2000/svg');clone.setAttribute('width','1700');clone.setAttribute('height','2000');const style=document.createElementNS('http://www.w3.org/2000/svg','style');style.textContent='text{font-family:Arial,sans-serif}.label{font:700 13px Arial,sans-serif;fill:#17202a;text-anchor:middle}.small{font:11px Arial,sans-serif;fill:#52616b;text-anchor:middle}.item .shape{stroke:#40515c;stroke-width:2}.selected .shape{stroke:#40515c}';clone.insertBefore(style,clone.firstChild);clone.querySelectorAll('.selected').forEach(e=>e.classList.remove('selected'));return new Blob([new XMLSerializer().serializeToString(clone)],{type:'image/svg+xml;charset=utf-8'});}
+    document.querySelector('#save-svg').onclick=()=>download(svgBlob(),'pharmacie-layout.svg');
+    document.querySelector('#save-jpeg').onclick=()=>{const url=URL.createObjectURL(svgBlob()),img=new Image();img.onload=()=>{const c=document.createElement('canvas');c.width=1700;c.height=2000;const ctx=c.getContext('2d');ctx.fillStyle='#fbfaf7';ctx.fillRect(0,0,c.width,c.height);ctx.drawImage(img,0,0,c.width,c.height);c.toBlob(b=>{if(b)download(b,'pharmacie-layout.jpg');URL.revokeObjectURL(url);},'image/jpeg',0.94);};img.onerror=()=>{URL.revokeObjectURL(url);alert('Could not render the plan image. Save the SVG instead.');};img.src=url;};
+    document.querySelector('#save-json').onclick=()=>download(new Blob([JSON.stringify({title:'Pharmacie Arms layout',north:'up',units:'BO3 map units',items:snapshot()},null,2)+'\n'],{type:'application/json'}),'pharmacie-layout.json');
+    items.forEach(wire);restore();
   </script>
 </body>
 </html>

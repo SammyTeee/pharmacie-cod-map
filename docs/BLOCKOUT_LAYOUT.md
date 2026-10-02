@@ -1,6 +1,6 @@
 # Blockout layout
 
-Sam's editable Paint reference is preserved as [`Untitled.png`](../Untitled.png). The clean redraw at [`pharmacie-layout-v1.svg`](pharmacie-layout-v1.svg) shows the interpretation used for the current generator. Open the SVG in a browser or vector editor; it is editable text/vector artwork.
+Sam's editable Paint reference is preserved as [`Untitled.png`](../Untitled.png). The clean redraw at [`pharmacie-layout-v1.svg`](pharmacie-layout-v1.svg) shows the initial interpretation. The [interactive layout planner](layout-editor.html) lets you drag and rotate the entrance, rooms, and props; rename existing items; add named rooms and floor objects; and save the result as SVG, JPEG, or JSON. The JSON contains BO3 coordinates for applying your revised plan to the generated map.
 
 ## Reading the sketch
 
