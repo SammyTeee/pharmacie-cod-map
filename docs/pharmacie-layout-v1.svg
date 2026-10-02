@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1420" role="img" aria-labelledby="title desc">
+  <title id="title">The Pharmacie Arms blockout plan, version 1</title>
+  <desc id="desc">A clear north-up plan based on Sam's Paint sketch. The street entrance is at the bottom; the pub runs north to the bar, with a toilet and stairs at the back, a smoking area to the west, and a raised table platform.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#e8e5dd" stroke-width="1"/>
+    </pattern>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#4b5563"/>
+    </marker>
+    <style>
+      text { font-family: 'Segoe UI', Arial, sans-serif; fill: #17202a; }
+      .title { font-size: 30px; font-weight: 700; }
+      .subtitle { font-size: 15px; fill: #596273; }
+      .roomlabel { font-size: 15px; font-weight: 700; letter-spacing: 1px; }
+      .small { font-size: 12px; fill: #495366; }
+      .wall { fill: #263238; stroke: #17202a; stroke-width: 2; }
+      .opening { stroke: #fff; stroke-width: 11; }
+      .door { fill: none; stroke: #ab623a; stroke-width: 3; }
+      .note { font-size: 13px; }
+    </style>
+  </defs>
+  <rect width="900" height="1420" fill="#fbfaf7"/>
+  <rect x="32" y="32" width="836" height="1356" rx="18" fill="url(#grid)"/>
+  <text x="64" y="82" class="title">The Pharmacie Arms · blockout plan v1</text>
+  <text x="64" y="110" class="subtitle">A clean redraw of Sam's Paint sketch · north/back of pub at the top · schematic, not surveyed dimensions</text>
+
+  <!-- Main pub footprint -->
+  <rect x="360" y="196" width="360" height="1040" rx="3" fill="#eee9dd" stroke="#263238" stroke-width="12"/>
+  <text x="540" y="735" text-anchor="middle" class="roomlabel" fill="#878173">MAIN PUB ROOM</text>
+
+  <!-- Rear toilet and stair zone -->
+  <rect x="390" y="274" width="126" height="172" fill="#dce7eb" stroke="#485963" stroke-width="6"/>
+  <text x="453" y="346" text-anchor="middle" class="roomlabel">TOILET</text>
+  <text x="453" y="367" text-anchor="middle" class="small">small side room</text>
+  <path d="M516 382 L516 418 A36 36 0 0 0 480 382" class="door"/>
+
+  <rect x="564" y="274" width="126" height="244" fill="#e5e1d7" stroke="#485963" stroke-width="6"/>
+  <text x="627" y="305" text-anchor="middle" class="roomlabel">STAIRS</text>
+  <g stroke="#817968" stroke-width="3">
+    <path d="M580 334 H674 M580 354 H674 M580 374 H674 M580 394 H674 M580 414 H674 M580 434 H674 M580 454 H674 M580 474 H674"/>
+  </g>
+  <path d="M628 465 V348" fill="none" stroke="#53616e" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="627" y="498" text-anchor="middle" class="small">up to upper floor</text>
+
+  <!-- Bar at the far end -->
+  <rect x="430" y="214" width="220" height="48" rx="3" fill="#6b4638" stroke="#35251e" stroke-width="4"/>
+  <rect x="416" y="204" width="248" height="12" fill="#c49a61" stroke="#5a4030" stroke-width="2"/>
+  <text x="540" y="246" text-anchor="middle" fill="#fff8ed" font-size="21" font-weight="700">BAR</text>
+
+  <!-- Smoking area attached on west/left side -->
+  <rect x="150" y="288" width="190" height="170" rx="6" fill="#dcebdc" stroke="#54705a" stroke-width="6" stroke-dasharray="12 5"/>
+  <text x="245" y="346" text-anchor="middle" class="roomlabel">OUTSIDE</text>
+  <text x="245" y="371" text-anchor="middle" class="roomlabel">SMOKING AREA</text>
+  <text x="245" y="405" text-anchor="middle" class="small">door from pub</text>
+  <path d="M340 366 H360" class="opening"/>
+  <path d="M340 366 H360" class="door"/>
+  <path d="M150 372 V420 A48 48 0 0 0 198 372" class="door"/>
+  <text x="156" y="474" class="small">open to outside</text>
+
+  <!-- Main room table zone and raised platform -->
+  <rect x="506" y="632" width="178" height="184" rx="5" fill="#dfd2b8" stroke="#977c52" stroke-width="4"/>
+  <text x="595" y="724" text-anchor="middle" class="roomlabel">SLIGHTLY RAISED</text>
+  <text x="595" y="748" text-anchor="middle" class="roomlabel">TABLE PLATFORM</text>
+  <path d="M506 632 l28 -20 h178 l-28 20" fill="#eadfc9" stroke="#977c52" stroke-width="3"/>
+  <g fill="#b7915e" stroke="#684f35" stroke-width="3">
+    <rect x="408" y="560" width="68" height="48" rx="5"/><rect x="608" y="546" width="68" height="48" rx="5"/>
+    <rect x="414" y="858" width="68" height="48" rx="5"/><rect x="604" y="862" width="68" height="48" rx="5"/>
+    <rect x="414" y="1040" width="68" height="48" rx="5"/>
+  </g>
+  <g class="small" text-anchor="middle"><text x="442" y="590">table</text><text x="642" y="576">table</text><text x="448" y="888">table</text><text x="638" y="892">table</text><text x="448" y="1070">table</text></g>
+
+  <!-- Bar-side details called out in the sketch -->
+  <rect x="388" y="492" width="74" height="46" rx="5" fill="#b7b9ad" stroke="#62665c" stroke-width="3"/>
+  <text x="425" y="521" text-anchor="middle" class="small">skeleton</text>
+  <rect x="622" y="524" width="58" height="36" rx="12" fill="#a5b1ad" stroke="#56625f" stroke-width="3"/>
+  <text x="651" y="515" text-anchor="middle" class="small">sofa</text>
+
+  <!-- Street entrance -->
+  <path d="M493 1236 H587" class="opening"/>
+  <path d="M493 1236 V1172 A64 64 0 0 1 557 1236" class="door"/>
+  <text x="540" y="1280" text-anchor="middle" class="roomlabel">STREET ENTRANCE</text>
+  <path d="M540 1190 V1135" stroke="#4b5563" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="540" y="1118" text-anchor="middle" class="small">front of pub</text>
+
+  <!-- Orientation and interpretation notes -->
+  <path d="M782 286 V218" stroke="#4b5563" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="782" y="202" text-anchor="middle" font-size="14" font-weight="700">N / BACK</text>
+  <line x1="752" y1="600" x2="752" y2="1000" stroke="#4b5563" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <text x="774" y="804" class="small" transform="rotate(90 774 804)">long main room</text>
+  <text x="64" y="1320" class="note" font-weight="700">Assumptions to correct:</text>
+  <text x="64" y="1344" class="note">1. Smoking area joins the left side near the rear stairs.  2. Toilet is left of the stairs.</text>
+  <text x="64" y="1366" class="note">3. Stairs go up toward the rear.  4. Table platform is around the middle of the room.</text>
+</svg>

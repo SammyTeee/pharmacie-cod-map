@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pharmacie Arms layout editor</title>
+  <style>
+    :root { color-scheme: light; font: 15px/1.45 "Segoe UI", Arial, sans-serif; color: #17202a; background: #eef1f4; }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    header { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; padding: 14px 20px; background: #fff; border-bottom: 1px solid #cbd2da; }
+    h1 { margin: 0; font-size: 20px; }
+    header p { margin: 0; color: #53606c; }
+    button { border: 0; border-radius: 5px; padding: 9px 13px; background: #234f69; color: white; font: inherit; cursor: pointer; }
+    button.secondary { background: #e1e7eb; color: #17202a; }
+    main { display: grid; grid-template-columns: minmax(640px, 1fr) 290px; gap: 16px; padding: 16px; align-items: start; }
+    .board { overflow: auto; border: 1px solid #cbd2da; border-radius: 8px; background: #fff; box-shadow: 0 2px 10px #152b3a12; }
+    svg { display: block; width: 100%; min-width: 720px; height: auto; touch-action: none; }
+    aside { position: sticky; top: 12px; padding: 16px; border: 1px solid #cbd2da; border-radius: 8px; background: white; }
+    aside h2 { margin: 0 0 8px; font-size: 17px; }
+    aside p { margin: 8px 0 16px; color: #53606c; }
+    #selection { min-height: 46px; padding: 10px; background: #f3f5f6; border-radius: 5px; color: #53606c; }
+    #coords { margin-top: 10px; font: 12px/1.5 Consolas, monospace; white-space: pre-wrap; }
+    .item { cursor: grab; }
+    .item:active { cursor: grabbing; }
+    .item > .shape { stroke: #33434e; stroke-width: 2; }
+    .item:hover > .shape { stroke: #1675a5; stroke-width: 4; }
+    .label { pointer-events: none; font: 700 13px "Segoe UI", Arial, sans-serif; fill: #17202a; text-anchor: middle; }
+    .small { font: 11px "Segoe UI", Arial, sans-serif; fill: #53606c; text-anchor: middle; }
+    .wall { fill: none; stroke: #263238; stroke-width: 9; stroke-linecap: square; }
+    .door { stroke: #ad683e; stroke-width: 4; }
+    @media (max-width: 950px) { main { grid-template-columns: 1fr; } aside { position: static; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div><h1>Pharmacie Arms · layout editor</h1><p>Drag rooms and props to revise the plan. Double-click a label to rename it.</p></div>
+    <button id="download">Download revised layout</button>
+    <button class="secondary" id="reset">Reset to current interpretation</button>
+  </header>
+  <main>
+    <div class="board">
+      <svg id="plan" viewBox="0 0 850 1000" aria-label="Draggable top-down map plan">
+        <defs>
+          <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#e7e4dc" stroke-width="1"/></pattern>
+          <marker id="north" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#53606c"/></marker>
+        </defs>
+        <rect width="850" height="1000" fill="#fbfaf7"/><rect width="850" height="1000" fill="url(#grid)"/>
+        <text x="40" y="46" font-size="20" font-weight="700" fill="#17202a">Sam's sketch · drag to correct placement</text>
+        <text x="40" y="70" font-size="12" fill="#53606c">Scale follows the current map bounds: 0.5 screen pixels per BO3 unit · north/rear at top</text>
+        <!-- Main room outline and fixed entrance -->
+        <rect x="290" y="150" width="352" height="720" rx="2" fill="#eee9dd" stroke="#263238" stroke-width="9"/>
+        <path d="M493 870H587" stroke="#fbfaf7" stroke-width="13"/><text x="540" y="907" class="small">street entrance</text>
+        <text x="466" y="835" class="small">main pub room</text>
+        <path d="M765 205V145" stroke="#53606c" stroke-width="3" marker-end="url(#north)"/><text x="765" y="128" class="small">NORTH / BACK</text>
+
+        <!-- Draggable items are keyed to BO3-world anchor coordinates. -->
+        <g class="item" data-id="bar" data-name="Bar" data-world-x="0" data-world-y="650" transform="translate(0 0)">
+          <rect class="shape" x="378" y="204" width="176" height="34" rx="4" fill="#8b614b"/><rect x="370" y="198" width="192" height="8" fill="#d0ae78" stroke="#5b4633" stroke-width="2"/><text class="label" x="466" y="227" fill="white">BAR</text>
+        </g>
+        <g class="item" data-id="toilet" data-name="Toilet room" data-world-x="-176" data-world-y="352" transform="translate(0 0)">
+          <rect class="shape" x="322" y="294" width="112" height="160" fill="#dce7eb"/><text class="label" x="378" y="365">TOILET</text><text class="small" x="378" y="385">room</text><path d="M434 382H416" class="door"/>
+        </g>
+        <g class="item" data-id="stairs" data-name="Stairs / upstairs route" data-world-x="176" data-world-y="352" transform="translate(0 0)">
+          <rect class="shape" x="498" y="270" width="112" height="208" fill="#e4e0d7"/><text class="label" x="554" y="296">STAIRS</text>
+          <g stroke="#918979" stroke-width="2"><path d="M510 320H598M510 339H598M510 358H598M510 377H598M510 396H598M510 415H598M510 434H598M510 453H598"/></g>
+          <path d="M554 450V328" stroke="#53606c" stroke-width="3" marker-end="url(#north)"/><text class="small" x="554" y="470">up</text>
+        </g>
+        <g class="item" data-id="smoking-area" data-name="Outside smoking area" data-world-x="-512" data-world-y="552" transform="translate(0 0)">
+          <rect class="shape" x="130" y="182" width="160" height="184" rx="5" fill="#dcebdc" stroke-dasharray="9 4"/><text class="label" x="210" y="257">OUTSIDE</text><text class="label" x="210" y="278">SMOKING AREA</text><text class="small" x="210" y="314">open to outside</text>
+        </g>
+        <g class="item" data-id="smoking-door" data-name="Smoking-area door" data-world-x="-352" data-world-y="480" transform="translate(0 0)">
+          <path class="shape" d="M290 278V330" stroke="#fbfaf7" stroke-width="13" fill="none"/><path d="M290 278V330" class="door" fill="none"/><text class="small" x="260" y="307">door</text>
+        </g>
+        <g class="item" data-id="raised-platform" data-name="Raised table platform" data-world-x="160" data-world-y="16" transform="translate(0 0)">
+          <rect class="shape" x="474" y="462" width="144" height="160" rx="3" fill="#dfd2b8" stroke="#977c52"/><text class="label" x="546" y="531">RAISED TABLE</text><text class="label" x="546" y="550">PLATFORM</text><text class="small" x="546" y="580">slightly raised</text>
+        </g>
+        <g class="item" data-id="table-1" data-name="Table 1" data-world-x="-208" data-world-y="-400" transform="translate(0 0)"><rect class="shape" x="338" y="770" width="52" height="38" rx="5" fill="#c4a16f"/><text class="small" x="364" y="794">table</text></g>
+        <g class="item" data-id="table-2" data-name="Table 2" data-world-x="184" data-world-y="-336" transform="translate(0 0)"><rect class="shape" x="546" y="738" width="52" height="38" rx="5" fill="#c4a16f"/><text class="small" x="572" y="762">table</text></g>
+        <g class="item" data-id="table-3" data-name="Table 3" data-world-x="-208" data-world-y="-80" transform="translate(0 0)"><rect class="shape" x="338" y="610" width="52" height="38" rx="5" fill="#c4a16f"/><text class="small" x="364" y="634">table</text></g>
+        <g class="item" data-id="table-4" data-name="Table 4" data-world-x="216" data-world-y="264" transform="translate(0 0)"><rect class="shape" x="578" y="438" width="52" height="38" rx="5" fill="#c4a16f"/><text class="small" x="604" y="462">table</text></g>
+        <g class="item" data-id="skeleton" data-name="Skeleton feature prop" data-world-x="-246" data-world-y="112" transform="translate(0 0)"><rect class="shape" x="316" y="516" width="56" height="34" rx="5" fill="#c5c6ba"/><text class="small" x="344" y="538">skeleton</text></g>
+        <g class="item" data-id="sofa" data-name="Sofa" data-world-x="216" data-world-y="160" transform="translate(0 0)"><rect class="shape" x="578" y="492" width="54" height="32" rx="10" fill="#a5b1ad"/><text class="small" x="605" y="513">sofa</text></g>
+        <text x="40" y="954" font-size="12" fill="#53606c">Move any item; use the right panel to rename or reset. Coordinates are relative to the map's current guessed centre.</text>
+      </svg>
+    </div>
+    <aside>
+      <h2>Adjust the plan</h2>
+      <p>Drag a room or item on the drawing. Click an item to see its current position. Double-click it to change its label. Dragging updates its BO3 coordinate offset.</p>
+      <div id="selection">Select something in the plan.</div>
+      <div id="coords"></div>
+      <p>Download the revised layout and attach it here; I can apply your placements to the generated map. Your edits are also saved in this browser on this PC.</p>
+    </aside>
+  </main>
+  <script>
+    const svg = document.querySelector('#plan');
+    const items = [...svg.querySelectorAll('.item')];
+    const defaultLabels = new Map(items.map(item => [item.dataset.id, item.querySelector('.label')?.textContent || '']));
+    const selection = document.querySelector('#selection');
+    const coords = document.querySelector('#coords');
+    const storageKey = 'pharmacie-layout-editor-v1';
+    const scale = 0.5;
+    let active = null;
+
+    function readState() {
+      try { return JSON.parse(localStorage.getItem(storageKey) || '{}'); } catch { return {}; }
+    }
+    function restore() {
+      const state = readState();
+      for (const item of items) {
+        const saved = state[item.dataset.id];
+        if (!saved) continue;
+        item.setAttribute('transform', `translate(${saved.dx} ${saved.dy})`);
+        const label = item.querySelector('.label');
+        if (label && saved.label) label.textContent = saved.label;
+      }
+      updateSummary();
+    }
+    function save() {
+      const state = {};
+      for (const item of items) {
+        const m = item.getAttribute('transform').match(/translate\(([-\d.]+)[ ,]+([-\d.]+)\)/);
+        const label = item.querySelector('.label');
+        state[item.dataset.id] = { dx: +(m?.[1] || 0), dy: +(m?.[2] || 0), label: label?.textContent || item.dataset.name };
+      }
+      localStorage.setItem(storageKey, JSON.stringify(state));
+      return state;
+    }
+    function show(item) {
+      const m = item.getAttribute('transform').match(/translate\(([-\d.]+)[ ,]+([-\d.]+)\)/);
+      const dx = +(m?.[1] || 0), dy = +(m?.[2] || 0);
+      const wx = +item.dataset.worldX + dx / scale;
+      const wy = +item.dataset.worldY - dy / scale;
+      selection.textContent = `${item.dataset.name}: x ${Math.round(wx)}, y ${Math.round(wy)} (BO3 units)`;
+      coords.textContent = `Offset from current placement\nΔx ${Math.round(dx / scale)} units\nΔy ${Math.round(-dy / scale)} units`;
+    }
+    function updateSummary() {
+      selection.textContent = `${items.length} movable items · changes saved in this browser`;
+      coords.textContent = 'North is up. The front entrance and outer room outline stay fixed.';
+    }
+    function point(event) {
+      const p = svg.createSVGPoint(); p.x = event.clientX; p.y = event.clientY;
+      return p.matrixTransform(svg.getScreenCTM().inverse());
+    }
+    for (const item of items) {
+      item.addEventListener('pointerdown', event => {
+        if (event.button !== 0) return;
+        const p = point(event), tr = item.getAttribute('transform').match(/translate\(([-\d.]+)[ ,]+([-\d.]+)\)/);
+        active = { item, x: p.x, y: p.y, dx: +(tr?.[1] || 0), dy: +(tr?.[2] || 0) };
+        item.setPointerCapture(event.pointerId); show(item); event.preventDefault();
+      });
+      item.addEventListener('pointermove', event => {
+        if (!active || active.item !== item) return;
+        const p = point(event), dx = active.dx + p.x - active.x, dy = active.dy + p.y - active.y;
+        item.setAttribute('transform', `translate(${dx.toFixed(1)} ${dy.toFixed(1)})`);
+        show(item); save();
+      });
+      item.addEventListener('pointerup', () => { active = null; });
+      item.addEventListener('dblclick', event => {
+        event.preventDefault();
+        const label = item.querySelector('.label');
+        const next = prompt('Label for this item:', label?.textContent || item.dataset.name);
+        if (next?.trim() && label) { label.textContent = next.trim(); save(); show(item); }
+      });
+    }
+    document.querySelector('#reset').addEventListener('click', () => {
+      localStorage.removeItem(storageKey);
+      for (const item of items) item.setAttribute('transform', 'translate(0 0)');
+      items.forEach(item => { const label=item.querySelector('.label'); if (label) label.textContent=defaultLabels.get(item.dataset.id); });
+      updateSummary();
+    });
+    document.querySelector('#download').addEventListener('click', () => {
+      const state = save();
+      const result = { title: 'Pharmacie Arms layout revision', base: 'pharmacie-layout-v1', north: 'up', units: 'BO3 map units', items: {} };
+      for (const item of items) {
+        const s = state[item.dataset.id];
+        result.items[item.dataset.id] = {
+          label: s.label,
+          x: Math.round(+item.dataset.worldX + s.dx / scale),
+          y: Math.round(+item.dataset.worldY - s.dy / scale),
+          offset_x: Math.round(s.dx / scale),
+          offset_y: Math.round(-s.dy / scale)
+        };
+      }
+      const blob = new Blob([JSON.stringify(result, null, 2) + '\n'], { type: 'application/json' });
+      const link = document.createElement('a'); link.href = URL.createObjectURL(blob); link.download = 'pharmacie-layout-revision.json'; link.click(); URL.revokeObjectURL(link.href);
+    });
+    restore();
+  </script>
+</body>
+</html>

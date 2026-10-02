@@ -8,6 +8,7 @@ This repository is a Call of Duty: Black Ops III custom Zombies map inspired by 
 2. Read `MODDING_PLAN.md` for the game/toolchain route and unresolved environment checks.
 3. Read `docs/THE_PHARMACIE_MAP_NOTES.md` for photo-based observations and blockout guidance.
 4. Read `docs/PHOTO_ASSET_PLAN.md` and `references/pharmacie-syston/README.md` before editing or converting reference images.
+5. Read `docs/RADIANT_WORKFLOW.md` before starting Radiant or automating map geometry/build steps.
 
 Keep those notes current when new evidence, decisions, or build results appear. Distinguish observed facts from guesses and unresolved questions.
 

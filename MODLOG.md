@@ -22,12 +22,28 @@ Start with a stock-asset blockout and a working BO3 Zombies template, then add p
 - Rechecked executable metadata on 2026-10-02: `CoDWaW.exe` reports file version `1.7` and product version `1.7x`; the game's `version.inf` still reports `ExtVersion=1.6`, so the discrepancy remains unresolved. The running game's displayed version has not been checked.
 - BO3 install check on 2026-10-02: the game is present at `S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III`; `BlackOps3.exe` exists. Steam reports the game installed (75.6 GB on disk); its manifest still lists pending transfer/staging bytes, so recheck Steam if game files appear incomplete.
 - BO3 Mod Tools check on 2026-10-02: Steam app 455130 is fully installed at `S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130` (build 5284267; 28.1 GB on disk). `bin\Radiant_modtools.exe`, `bin\modlauncher.exe`, and `map_source\zm\zm_giant.map` are present. Optional content DLC 499270 is disabled. Preserve the stock source map; do not edit it in place.
-- Created the first project in the Mod Tools launcher on 2026-10-02 using the Zombies map setup: `zm_pharmacie`. It generated `map_source\zm\zm_pharmacie.map` and `usermaps\zm_pharmacie\scripts\zm\zm_pharmacie.gsc` / `.csc`, confirming the ZM template rather than an MP-only project. No build has run yet. The launcher's map list contains `zm_pharmacie` plus stock maps after creation.
+- Created the project in the Mod Tools launcher on 2026-10-02 using the Zombies map setup: `zm_pharmacie`. Its generated template is preserved in this repository at `map_source/zm/zm_pharmacie.template.map`; working `.map`, GSC/CSC, `.zone`, and `.szc` source files are also tracked. The code generator creates the first pub room and follows the user's Paint layout (see `docs/BLOCKOUT_LAYOUT.md`).
 - User wants the editor/game visible beside the 2K desktop. Radiant is a resizable app window; use BO3 at 1600×900 windowed for game checks, without changing desktop resolution.
 - BO3/Steam source notes: Steam BO3 page https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/ ; Mod Tools hub https://steamcommunity.com/app/455130 ; mapping guide https://steamcommunity.com/sharedfiles/filedetails/?id=3737598953 .
-- No map source, project scripts, compiled map, or game-ready custom texture has been created yet.
+- The first generated room compiled and linked on 2026-10-02 using BO3 Mod Tools build 5284267. Exact commands and findings are below; that first successful build preceded the latest layout iteration.
+- The current sketch-based layout also compiled, generated an AI navmesh, and linked on 2026-10-02. It has not yet been launched in BO3.
 - The installed Universal Modder plugin is a helper for reconnaissance/asset preparation; it does not replace Radiant or the BO3 Mod Tools build pipeline.
-- Handoff portability: paths under `S:\SteamLibrary` and `C:\Users\sam` above are observations from Sam's PC, not portable project paths. On another PC, install BO3 and app 455130 through Steam and locate the actual library. The generated `zm_pharmacie` map/scripts currently reside in Sam's Mod Tools directory and are not tracked in this repository; this repo currently provides project notes and photo references, not a ready-to-open map project. Copy/transfer the generated project before expecting to continue the map itself.
+- Handoff portability: all paths under `S:\SteamLibrary` and `C:\Users\sam` are Sam-PC observations. The editable source and generator are in this repository; another contributor needs BO3 and Mod Tools installed, then must stage source into their own tool tree and rebuild there. Compiled game/tool assets are intentionally not tracked.
+- Radiant reconnaissance (2026-10-02): the Launcher lists `zm_pharmacie`; a direct launch and Launcher Level Editor attempt opened `unnamed.map` (0 brushes, 0 entities), so opening the project in Radiant remains unresolved. A single editor used about 4.6 GB RAM. Found third-party [mcp-radiant](https://github.com/hetri-courses/mcp-radiant), whose README claims geometry/entity/script/build automation; we used its published captured command syntax to run official build executables directly, without installing its code. See `docs/RADIANT_WORKFLOW.md`.
+
+## First code-authored build record
+
+- Working source: repository `map_source/zm/zm_pharmacie.map`, staged byte-for-byte to `S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie.map`.
+- Working directory: `S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin`; process environment set to `TA_GAME_PATH=<Mod Tools root>\`, `TA_LOCAL_ASSET_CACHE=<Mod Tools root>\share\assetconvert\`, and `TA_TOOLS_PATH=<Mod Tools root>\`.
+- Compile command: `cod2map64.exe -platform pc -navmesh -navvolume -loadFrom "<Mod Tools root>\map_source\zm\zm_pharmacie.map" "<Mod Tools root>\share\raw\maps\zm\zm_pharmacie.d3dbsp"`.
+- Result (first simple room): compile succeeded in about one second, writing `zm_pharmacie.d3dbsp`, `zm_pharmacie_navmesh.hkt`, and `zm_pharmacie_navvolume.hkt`. The compiler warned that material `jun_art_wood_plywood_dark03` is missing on template geometry and that navvolume generation had no `nav_volume` brush. Zombie navmesh generation did run.
+- Link command: `linker_modtools.exe -language english -modsource zm_pharmacie`.
+- Result: link succeeded in 2m57.92s for `zm_pharmacie` plus 2.62s for `en_zm_pharmacie`; `usermaps\zm_pharmacie\zone\zm_pharmacie.ff` was 48,513,728 bytes. Stock asset conversion emitted dropped-vertex warnings. Linker reported no Radiant lighting export and used preview lighting, so the map needs a proper Radiant lighting bake.
+- Current layout rebuild used the same full compile command after staging the regenerated map. Result: exit code 0 in about 1.6 seconds, `surfCount` 4→110, a `zm_pharmacie_navmesh.hkt` was written, and the `nav_volume` brush warning remained. The six missing `jun_art_wood_plywood_dark03` material warnings remain on retained template barricade geometry.
+- Current link command: `linker_modtools.exe -language english -modsource zm_pharmacie`.
+- Current result: link exit code 0; `zm_pharmacie` finished in 9.93s and `en_zm_pharmacie` in 3.19s using the warmed asset cache. The earlier first-time link built the cached assets in about three minutes. Check the current `.ff` size/timestamp in the Mod Tools tree; build products are not tracked.
+- Lighting: `Radiant_modtools.exe -ledSilent +medium +localprobes +forceclean +recompute "<Mod Tools root>\\map_source\\zm\\zm_pharmacie.map"` returned exit code 0; it completed asynchronously and wrote `share\\raw\\maps\\zm\\zm_pharmacie.led` (1,718,907 bytes). The subsequent successful linker run followed that artifact's creation, so this package includes the medium-quality Radiant lighting export.
+- Not verified: no game launch, screenshot, spawn, round, door, collision, or zombie route has been checked. AGENTS.md requires asking before copying generated map files into the BO3 game install. The compiled package is currently under the Mod Tools installation only.
 
 ## References and asset decisions
 
@@ -45,11 +61,12 @@ Start with a stock-asset blockout and a working BO3 Zombies template, then add p
 - [x] Wrote shared agent instructions and initial map/photo notes.
 - [x] Install BO3 and the official BO3 Mod Tools; confirm install paths and core files.
 - [x] Create the `zm_pharmacie` project from the BO3 Zombies map template; confirm the generated GSC/CSC and map source paths.
-- [ ] Open Radiant, shape a basic long pub room, then build it and verify multiplayer Zombies in a 1600×900 window; keep optional DLC disabled unless a needed asset is unavailable.
-- [ ] Build and launch the unmodified template/blockout; record exact steps and failures.
+- [x] Regenerate, full-compile, and link the current Paint-layout blockout; zombie navmesh file is generated.
+- [x] Bake medium-quality Radiant lighting. Resolve the missing retained template barricade material and optional nav_volume warnings if they cause an in-game issue.
+- [ ] Get approval to install the linked mod files into the game usermaps folder, then launch offline/private and verify spawn, round progression, zombie routes, doors, and collision.
 - [ ] Replace one wall area with a custom photo-derived material and verify in game.
 - [ ] Expand the pub layout, then implement and test the Noseley boss.
 
 ## Next action
 
-Open `zm_pharmacie` in Radiant, create the first playable pub-room blockout, and build it. Then prepare it for BO3 co-op testing at 1600×900 windowed; ask before copying generated map files into the game install. Keep all stock tool sources and pub photos unchanged.
+The current generated layout is compiled and linked. Next, get an actual Radiant lighting export, then ask before copying linked mod outputs into the BO3 game install for an offline/private test. Keep stock tool sources and source photos unchanged.
