@@ -1,0 +1,42 @@
+{
+  "branch_start": [
+    -55.20847702026367,
+    212.4607696533203,
+    -0.23999999463558197
+  ],
+  "branch_end": [
+    20.57720375061035,
+    239.82266235351562,
+    -0.23999999463558197
+  ],
+  "samples": [
+    {
+      "fraction": 0.03,
+      "overhead": null
+    },
+    {
+      "fraction": 0.1,
+      "overhead": "Syston v25 | B014 | rear scenery mass"
+    },
+    {
+      "fraction": 0.2,
+      "overhead": "Syston v25 | B014 | rear scenery mass"
+    },
+    {
+      "fraction": 0.3,
+      "overhead": null
+    },
+    {
+      "fraction": 0.5,
+      "overhead": null
+    },
+    {
+      "fraction": 0.7,
+      "overhead": null
+    },
+    {
+      "fraction": 0.9,
+      "overhead": null
+    }
+  ]
+}

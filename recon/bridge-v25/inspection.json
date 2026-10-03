@@ -1,0 +1,38 @@
+{
+  "source": "assets\\blender\\pharmacie-syston-street-v25.blend",
+  "source_sha256": "8ca05d0389c916f214a72693eb801e4d025b24a7fbed975d581a9aab265e87db",
+  "read_only_inspection": true,
+  "water_visibility_samples": [
+    {
+      "channel_offset": -12,
+      "first_surface": "Syston v25 | F003 | water under bridge",
+      "height": -0.28,
+      "water_visible": true
+    },
+    {
+      "channel_offset": -8,
+      "first_surface": "Syston v25 | F003 | water under bridge",
+      "height": -0.28,
+      "water_visible": true
+    },
+    {
+      "channel_offset": 8,
+      "first_surface": "Syston v25 | F003 | water under bridge",
+      "height": -0.28,
+      "water_visible": true
+    },
+    {
+      "channel_offset": 12,
+      "first_surface": "Syston v25 | F003 | water under bridge",
+      "height": -0.28,
+      "water_visible": true
+    }
+  ],
+  "views": [
+    "01_bridge_overview",
+    "02_player_west_brook",
+    "03_player_east_brook",
+    "04_bridge_side_structure",
+    "05_bridge_and_access_plan"
+  ]
+}

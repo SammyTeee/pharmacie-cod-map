@@ -18,6 +18,10 @@ is opaque scenery; fine displays and interiors remain future work.
 
 ## Review renders
 
+Subsequent [bridge close-up review](BRIDGE_REVIEW_V25.md) identifies remaining
+brook/landscape detail and a side-access overlap. These base views below are
+not evidence that the bridge area is finished.
+
 Temporary daylight makes the geometry readable; these are Blender renders.
 
 ![Whole route and retained High Street](../recon/v25/01_syston_overview.png)

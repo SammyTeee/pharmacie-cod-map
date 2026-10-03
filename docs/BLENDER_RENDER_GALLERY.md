@@ -4,6 +4,9 @@ Latest complete Blender checkpoint: `assets/blender/pharmacie-syston-street-v25.
 
 # Blender render gallery
 
+[Five bridge/brook close-ups and inspection findings](BRIDGE_REVIEW_V25.md):
+both views over the railings, overview, side structure and access plan.
+
 **New: [six v19 renders of the modelled neighbouring shopfronts](SHOPFRONTS_V19.md)** —
 real recesses, frames, projecting bays and pub-sized upstairs windows.
 

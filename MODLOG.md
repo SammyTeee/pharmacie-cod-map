@@ -688,3 +688,21 @@ build.log, -review.log and -final.log; Blender exceptions can return process0,
 so reports/render outputs/logs were checked rather than relying on exit code.
 Bridge-player camera was shifted with the relocated bridge in final framing
 review, via scripts/frame_syston_bridge_v25.py; build/syston-v25-frame.log.
+
+### Bridge close-up inspection — requested after v25
+Sam requested bridge/detail Blender screenshots. Read F003/F004 and inspected
+native075/077; rendered five1400x1000 Cycles16-sample views via Blender5.2
+`--background assets/blender/pharmacie-syston-street-v25.blend --python
+scripts/render_bridge_review.py`. Log build/bridge-v25-review.log. Inspected all
+five output images. Source SHA2568ca05d0389c916f214a72693eb801e4d025b24a7fbed975d581a9aab265e87db
+unchanged. No geometry edits, new checkpoint, engine build or game inputs.
+
+Findings: visible but very shallow short water strip, almost no bank terrain,
+no substantial bridge underside/abutments/landscape, disconnected schematic
+brook. Current dark rails/brick ends differ from photographed grey rails/pale
+base and vegetation/parking/decorative columns. Four channel visibility rays pass.
+Separate side-road test finds B014 rear mass over Brookside centreline at10%/20%
+of branch length; five other samples clear. Prior390 main-road samples did not
+verify this branch. Black triangular join patch is visible; coincident road
+surfaces suspected, not yet isolated/fixed. docs/BRIDGE_REVIEW_V25.md records
+evidence, five renders and concrete next modelling work. Preserve raw originals.
