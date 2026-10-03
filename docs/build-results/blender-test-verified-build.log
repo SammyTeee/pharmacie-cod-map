@@ -1,0 +1,190 @@
+gdtDB: updating
+processed (0 GDTs) (0 assets) in 1.327 sec
+gdtDB: successfully updated database.
+main: Enter
+FPU Precision set to 64 bits
+CoD2Map: T7
+ Build Changelist: 3421987
+ Build Machine: CODBUILD8-764
+---- cod2map ----
+navmesh = true
+navvolume = full generation
+----- FS_Startup -----
+Current search path:
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\devraw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\devdiscdata
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\devraw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\raw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\discdata
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\devdiscdata
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\devraw
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\raw
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\discdata
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\main
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\main
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\players
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\zone
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\local_storage
+----------------------
+Connected to data signature database
+Loading map file S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie_blender.map
+Layer '000_Global/No Comp' ignored
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+reveal volume decal texture 1x1, 9 bytes. 0 packed 0 unpacked. 0 voldecals.
+WARNING: node without a volume
+node has 3 tiny portals
+node reference point -110.80 -85.46 39.94
+WARNING: node without a volume
+node has 2 tiny portals
+node reference point -110.69 -86.07 41.44
+WARNING: node without a volume
+node has 3 tiny portals
+node reference point -114.32 -89.90 38.22
+WARNING: node without a volume
+node has 3 tiny portals
+node reference point -114.00 -90.81 38.92
+WARNING: node without a volume
+node has 2 tiny portals
+node reference point -114.00 -90.86 40.16
+WARNING: node without a volume
+node has 3 tiny portals
+node reference point -114.00 -90.86 40.16
+WARNING: node without a volume
+node has 2 tiny portals
+node reference point -113.94 -90.86 42.18
+WARNING: node without a volume
+node has 2 tiny portals
+node reference point -113.94 -90.86 42.09
+WARNING: node without a volume
+node has 0 tiny portals
+node reference point 0.00 0.00 0.00
+WARNING: node without a volume
+node has 4 tiny portals
+node reference point -111.92 -93.29 47.33
+WARNING: node without a volume
+node has 3 tiny portals
+node reference point -110.80 -85.46 39.94
+WARNING: node without a volume
+node has 2 tiny portals
+node reference point -110.69 -86.07 41.44
+WARNING: node without a volume
+node has 3 tiny portals
+node reference point -114.32 -89.90 38.22
+WARNING: node without a volume
+node has 3 tiny portals
+node reference point -114.00 -90.81 38.92
+WARNING: node without a volume
+node has 2 tiny portals
+node reference point -114.00 -90.86 40.16
+WARNING: node without a volume
+node has 3 tiny portals
+node reference point -114.00 -90.86 40.16
+WARNING: node without a volume
+node has 2 tiny portals
+node reference point -113.94 -90.86 42.18
+WARNING: node without a volume
+node has 2 tiny portals
+node reference point -113.94 -90.86 42.09
+WARNING: node without a volume
+node has 0 tiny portals
+node reference point 0.00 0.00 0.00
+WARNING: node without a volume
+node has 4 tiny portals
+node reference point -111.92 -93.29 47.33
+writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_blender.d3dprt
+
+finding triangle windings...
+assigning primary lights...
+splitting windings into lightable areas...
+coalescing coincident windings...
+removing occluded winding fragments...
+finding sun shadow casters...
+splitting large windings...
+merging into concave windings...
+fixing t-junctions...
+tethering holes to their concave windings...
+finding index mapping and snapping vertices...
+triangulating all windings...
+0 self-tjunctions fixed
+0 degenerate tris removed
+smoothing normals...
+emitting triangles...
+0 vertices couldn't be merged because the textures point different ways
+emitting cells and portals...
+
+building curve/terrain collision...
+Adding brush neighbor bevels...
+Removing redundant brush collision planes...
+removed 599 brush sides
+elapsed time 0 seconds
+Finished processing world entity
+
+Ignoring empty brush model entity
+Map S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie_blender.map entity 21
+splitting up large himip volumes...
+    surfCount went from 21 to 21
+begin navmesh generation...
+
+Umbra Visibility Groups: 1 groups
+
+<worldvisgroup>      0
+
+
+Umbra Tome Triggers: 0 total
+
+
+
+tome "__default__", UMBRA volume NOT set - defaulting to = -1000000.0,-1000000.0,-1000000.0 ---> 1000000.0,1000000.0,1000000.0
+UMBRA smallest_occluder=72.000 small_hole=4.000
+removed 36 duplicate triangles from set of 12046 - 0.0 seconds
+generating Nav Mesh ...
+Removing tiny boundary edges...
+ done - 0.6 seconds 
+WARNING: NavVolume generation is skipped. Flying units might not behave correctly. This might be due to there is no nav_volume brush in the level, or the generation is skipped purposely by skipping -navvolume option.
+Writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_blender_navmesh.hkt
+Writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_blender_navvolume.hkt
+Writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_blender.d3dbsp
+    3 seconds elapsed
+main: 3.48968 secs
+Linking "zm_pharmacie_blender" (usermaps\zm_pharmacie_blender stable 3421953 v593): processing...UmbraConvert: smallest_occluder=72.000 small_hole=4.000
+[22:53:57] INFO: T: 288 O: 72 H: 4 B: 50
+[22:53:57] INFO: Tile grid 27784x27784x27784 (at -13892,-13892,-13892) created for scene: 277 tiles (0 empties not included) in 0.013 seconds
+WARNING: SN-DBS is not installed, tome will be compiled locally
+WARNING: SN-DBS service is not running, tome will be compiled locally
+UmbraConvert: fetching tiles with 12 worker threads
+[22:53:57] DEBUG: Total allocations 24101, peak 177 (size 1 MB 227 kB 621 B)
+[22:53:57] DEBUG: Total allocations 25424, peak 161 (size 1 MB 297 kB 356 B)
+[22:53:57] DEBUG: Total allocations 9900, peak 495 (size 1 MB 90 kB 272 B)
+[22:53:57] DEBUG: Total allocations 24949, peak 213 (size 772 kB 596 B)
+[22:53:57] DEBUG: Total allocations 24786, peak 139 (size 1 MB 406 kB 533 B)
+[22:53:57] DEBUG: Total allocations 7998, peak 567 (size 1 MB 255 kB 525 B)
+[22:53:57] DEBUG: Total allocations 10934, peak 699 (size 1 MB 278 kB 594 B)
+[22:53:57] DEBUG: Total allocations 14658, peak 879 (size 856 kB 713 B)
+[22:53:57] DEBUG: Total allocations 12135, peak 785 (size 1 MB 1002 kB 517 B)
+[22:53:58] DEBUG: Total allocations 12851, peak 929 (size 2 MB 55 kB 1006 B)
+[22:53:58] DEBUG: Total allocations 14158, peak 945 (size 1 MB 799 kB 998 B)
+[22:53:58] DEBUG: Total allocations 17180, peak 1483 (size 1 MB 1006 kB 960 B)
+UmbraConvert: 0.533 seconds to fetch tile inputs
+UmbraConvert: computing 0 tiles
+[22:53:58] INFO: Strict view volumes: no
+[22:53:58] INFO: Filtered 4/5 inside clusters
+[22:53:58] INFO: Filtered 91/92 global clusters
+[22:53:58] INFO: 360/451 cells reachable after global analysis
+[22:53:58] INFO: collapsed leaf tiles 277 => 27
+[22:53:58] INFO: Generating LOD tiles using 12 threads
+[22:53:58] INFO: Connecting LOD tiles
+[22:53:58] INFO: Compressing lists
+[22:53:58] INFO: Average index range size: 21.19
+[22:53:58] INFO: object list: 208 B, cluster list: 36 B
+[22:53:58] INFO: created tome with 53 tiles, 41 targets and 0 gates
+UmbraConvert: 0 tiles loaded from cache
+UmbraConvert: finished processing tiles in 0:0
+[22:53:58] DEBUG: Total allocations 238364, peak 5935 (size 4 MB 481 kB 89 B)
+done: 0m9.79s
+Linking "en_zm_pharmacie_blender" (usermaps\zm_pharmacie_blender stable 3421953 v593): processing...done: 0m2.52s

@@ -1,0 +1,2658 @@
+{
+  "source_url": "https://www.facebook.com/share/v/18ZXq1yVKY/",
+  "video_id": "4498935063696316",
+  "uploader": "The Great British Pub Crawl",
+  "upload_date": "20260918",
+  "duration_seconds": 146.703,
+  "source_video": "build/video-reference/facebook-18ZXq1yVKY.mp4",
+  "source_sha256": "da6072238e3462b2686daca88dc2e355360d00114245c5e0938cb8dc9aa720ce",
+  "extraction": "OpenCV sequential decode every 0.5 seconds, JPEG95, full native size; separate resized review sheets; originals unchanged",
+  "frames": [
+    {
+      "seconds": 0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0000.0.jpg",
+      "sharpness": 383.77,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 0.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0000.5.jpg",
+      "sharpness": 314.28,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 1.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0001.0.jpg",
+      "sharpness": 326.76,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 1.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0001.5.jpg",
+      "sharpness": 316.41,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 2.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0002.0.jpg",
+      "sharpness": 322.07,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 2.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0002.5.jpg",
+      "sharpness": 320.01,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 3.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0003.0.jpg",
+      "sharpness": 326.41,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 3.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0003.5.jpg",
+      "sharpness": 316.48,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 4.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0004.0.jpg",
+      "sharpness": 353.32,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 4.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0004.5.jpg",
+      "sharpness": 320.09,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 5.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0005.0.jpg",
+      "sharpness": 352.61,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 5.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0005.5.jpg",
+      "sharpness": 315.82,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 6.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0006.0.jpg",
+      "sharpness": 325.87,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 6.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0006.5.jpg",
+      "sharpness": 310.84,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 7.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0007.0.jpg",
+      "sharpness": 290.65,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 7.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0007.5.jpg",
+      "sharpness": 291.96,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 8.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0008.0.jpg",
+      "sharpness": 302.9,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 8.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0008.5.jpg",
+      "sharpness": 300.6,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 9.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0009.0.jpg",
+      "sharpness": 330.73,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 9.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0009.5.jpg",
+      "sharpness": 308.18,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 10.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0010.0.jpg",
+      "sharpness": 314.47,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 10.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0010.5.jpg",
+      "sharpness": 299.2,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 11.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0011.0.jpg",
+      "sharpness": 315.55,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 11.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0011.5.jpg",
+      "sharpness": 308.45,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 12.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0012.0.jpg",
+      "sharpness": 328.23,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 12.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0012.5.jpg",
+      "sharpness": 247.05,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 13.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0013.0.jpg",
+      "sharpness": 266.5,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 13.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0013.5.jpg",
+      "sharpness": 330.24,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 14.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0014.0.jpg",
+      "sharpness": 330.28,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 14.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0014.5.jpg",
+      "sharpness": 324.85,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 15.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0015.0.jpg",
+      "sharpness": 359.82,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 15.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0015.5.jpg",
+      "sharpness": 336.79,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 16.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0016.0.jpg",
+      "sharpness": 331.61,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 16.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0016.5.jpg",
+      "sharpness": 325.27,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 17.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0017.0.jpg",
+      "sharpness": 336.15,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 17.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0017.5.jpg",
+      "sharpness": 270.13,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 18.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0018.0.jpg",
+      "sharpness": 252.33,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 18.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0018.5.jpg",
+      "sharpness": 326.97,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 19.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0019.0.jpg",
+      "sharpness": 314.18,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 19.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0019.5.jpg",
+      "sharpness": 308.94,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 20.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0020.0.jpg",
+      "sharpness": 361.08,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 20.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0020.5.jpg",
+      "sharpness": 326.34,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 21.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0021.0.jpg",
+      "sharpness": 347.58,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 21.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0021.5.jpg",
+      "sharpness": 326.8,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 22.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0022.0.jpg",
+      "sharpness": 343.26,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 22.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0022.5.jpg",
+      "sharpness": 322.88,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 23.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0023.0.jpg",
+      "sharpness": 328.38,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 23.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0023.5.jpg",
+      "sharpness": 314.29,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 24.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0024.0.jpg",
+      "sharpness": 328.35,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 24.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0024.5.jpg",
+      "sharpness": 337.72,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 25.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0025.0.jpg",
+      "sharpness": 341.29,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 25.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0025.5.jpg",
+      "sharpness": 301.1,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 26.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0026.0.jpg",
+      "sharpness": 308.63,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 26.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0026.5.jpg",
+      "sharpness": 301.93,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 27.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0027.0.jpg",
+      "sharpness": 321.13,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 27.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0027.5.jpg",
+      "sharpness": 325.38,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 28.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0028.0.jpg",
+      "sharpness": 332.59,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 28.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0028.5.jpg",
+      "sharpness": 119.84,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 29.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0029.0.jpg",
+      "sharpness": 127.26,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 29.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0029.5.jpg",
+      "sharpness": 130.45,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 30.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0030.0.jpg",
+      "sharpness": 131.85,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 30.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0030.5.jpg",
+      "sharpness": 129.91,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 31.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0031.0.jpg",
+      "sharpness": 138.13,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 31.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0031.5.jpg",
+      "sharpness": 124.99,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 32.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0032.0.jpg",
+      "sharpness": 134.47,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 32.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0032.5.jpg",
+      "sharpness": 136.75,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 33.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0033.0.jpg",
+      "sharpness": 149.07,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 33.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0033.5.jpg",
+      "sharpness": 133.5,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 34.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0034.0.jpg",
+      "sharpness": 134.37,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 34.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0034.5.jpg",
+      "sharpness": 124.01,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 35.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0035.0.jpg",
+      "sharpness": 137.73,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 35.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0035.5.jpg",
+      "sharpness": 126.65,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 36.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0036.0.jpg",
+      "sharpness": 134.71,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 36.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0036.5.jpg",
+      "sharpness": 124.03,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 37.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0037.0.jpg",
+      "sharpness": 136.35,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 37.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0037.5.jpg",
+      "sharpness": 129.46,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 38.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0038.0.jpg",
+      "sharpness": 130.58,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 38.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0038.5.jpg",
+      "sharpness": 128.79,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 39.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0039.0.jpg",
+      "sharpness": 133.38,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 39.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0039.5.jpg",
+      "sharpness": 134.08,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 40.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0040.0.jpg",
+      "sharpness": 129.02,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 40.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0040.5.jpg",
+      "sharpness": 126.54,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 41.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0041.0.jpg",
+      "sharpness": 124.65,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 41.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0041.5.jpg",
+      "sharpness": 141.26,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 42.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0042.0.jpg",
+      "sharpness": 129.58,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 42.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0042.5.jpg",
+      "sharpness": 134.58,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 43.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0043.0.jpg",
+      "sharpness": 142.88,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 43.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0043.5.jpg",
+      "sharpness": 141.03,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 44.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0044.0.jpg",
+      "sharpness": 131.31,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 44.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0044.5.jpg",
+      "sharpness": 130.62,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 45.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0045.0.jpg",
+      "sharpness": 137.37,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 45.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0045.5.jpg",
+      "sharpness": 131.14,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 46.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0046.0.jpg",
+      "sharpness": 134.75,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 46.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0046.5.jpg",
+      "sharpness": 134.52,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 47.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0047.0.jpg",
+      "sharpness": 141.51,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 47.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0047.5.jpg",
+      "sharpness": 135.1,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 48.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0048.0.jpg",
+      "sharpness": 137.28,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 48.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0048.5.jpg",
+      "sharpness": 123.34,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 49.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0049.0.jpg",
+      "sharpness": 133.44,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 49.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0049.5.jpg",
+      "sharpness": 135.11,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 50.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0050.0.jpg",
+      "sharpness": 143.04,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 50.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0050.5.jpg",
+      "sharpness": 127.02,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 51.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0051.0.jpg",
+      "sharpness": 134.32,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 51.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0051.5.jpg",
+      "sharpness": 136.04,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 52.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0052.0.jpg",
+      "sharpness": 131.01,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 52.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0052.5.jpg",
+      "sharpness": 125.2,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 53.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0053.0.jpg",
+      "sharpness": 139.5,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 53.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0053.5.jpg",
+      "sharpness": 130.62,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 54.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0054.0.jpg",
+      "sharpness": 122.59,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 54.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0054.5.jpg",
+      "sharpness": 129.07,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 55.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0055.0.jpg",
+      "sharpness": 134.67,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 55.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0055.5.jpg",
+      "sharpness": 126.11,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 56.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0056.0.jpg",
+      "sharpness": 132.39,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 56.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0056.5.jpg",
+      "sharpness": 319.41,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 57.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0057.0.jpg",
+      "sharpness": 292.85,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 57.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0057.5.jpg",
+      "sharpness": 268.12,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 58.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0058.0.jpg",
+      "sharpness": 238.37,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 58.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0058.5.jpg",
+      "sharpness": 224.74,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 59.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0059.0.jpg",
+      "sharpness": 185.64,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 59.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0059.5.jpg",
+      "sharpness": 233.25,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 60.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0060.0.jpg",
+      "sharpness": 231.71,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 60.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0060.5.jpg",
+      "sharpness": 131.76,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 61.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0061.0.jpg",
+      "sharpness": 145.07,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 61.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0061.5.jpg",
+      "sharpness": 161.77,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 62.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0062.0.jpg",
+      "sharpness": 181.84,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 62.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0062.5.jpg",
+      "sharpness": 184.89,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 63.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0063.0.jpg",
+      "sharpness": 177.09,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 63.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0063.5.jpg",
+      "sharpness": 181.75,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 64.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0064.0.jpg",
+      "sharpness": 216.4,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 64.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0064.5.jpg",
+      "sharpness": 190.62,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 65.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0065.0.jpg",
+      "sharpness": 170.37,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 65.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0065.5.jpg",
+      "sharpness": 175.68,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 66.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0066.0.jpg",
+      "sharpness": 161.12,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 66.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0066.5.jpg",
+      "sharpness": 158.65,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 67.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0067.0.jpg",
+      "sharpness": 160.73,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 67.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0067.5.jpg",
+      "sharpness": 152.8,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 68.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0068.0.jpg",
+      "sharpness": 196.67,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 68.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0068.5.jpg",
+      "sharpness": 182.58,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 69.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0069.0.jpg",
+      "sharpness": 117.79,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 69.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0069.5.jpg",
+      "sharpness": 119.88,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 70.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0070.0.jpg",
+      "sharpness": 160.58,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 70.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0070.5.jpg",
+      "sharpness": 208.57,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 71.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0071.0.jpg",
+      "sharpness": 186.0,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 71.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0071.5.jpg",
+      "sharpness": 176.73,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 72.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0072.0.jpg",
+      "sharpness": 165.67,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 72.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0072.5.jpg",
+      "sharpness": 137.27,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 73.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0073.0.jpg",
+      "sharpness": 153.08,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 73.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0073.5.jpg",
+      "sharpness": 132.74,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 74.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0074.0.jpg",
+      "sharpness": 138.78,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 74.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0074.5.jpg",
+      "sharpness": 130.34,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 75.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0075.0.jpg",
+      "sharpness": 174.98,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 75.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0075.5.jpg",
+      "sharpness": 181.52,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 76.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0076.0.jpg",
+      "sharpness": 144.56,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 76.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0076.5.jpg",
+      "sharpness": 136.44,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 77.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0077.0.jpg",
+      "sharpness": 144.96,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 77.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0077.5.jpg",
+      "sharpness": 168.38,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 78.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0078.0.jpg",
+      "sharpness": 155.18,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 78.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0078.5.jpg",
+      "sharpness": 170.7,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 79.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0079.0.jpg",
+      "sharpness": 152.15,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 79.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0079.5.jpg",
+      "sharpness": 143.06,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 80.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0080.0.jpg",
+      "sharpness": 178.82,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 80.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0080.5.jpg",
+      "sharpness": 149.33,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 81.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0081.0.jpg",
+      "sharpness": 160.64,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 81.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0081.5.jpg",
+      "sharpness": 142.49,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 82.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0082.0.jpg",
+      "sharpness": 135.63,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 82.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0082.5.jpg",
+      "sharpness": 114.08,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 83.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0083.0.jpg",
+      "sharpness": 141.0,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 83.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0083.5.jpg",
+      "sharpness": 149.08,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 84.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0084.0.jpg",
+      "sharpness": 181.07,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 84.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0084.5.jpg",
+      "sharpness": 134.37,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 85.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0085.0.jpg",
+      "sharpness": 157.8,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 85.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0085.5.jpg",
+      "sharpness": 143.35,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 86.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0086.0.jpg",
+      "sharpness": 165.89,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 86.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0086.5.jpg",
+      "sharpness": 191.23,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 87.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0087.0.jpg",
+      "sharpness": 201.68,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 87.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0087.5.jpg",
+      "sharpness": 232.29,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 88.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0088.0.jpg",
+      "sharpness": 248.04,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 88.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0088.5.jpg",
+      "sharpness": 235.91,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 89.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0089.0.jpg",
+      "sharpness": 226.98,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 89.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0089.5.jpg",
+      "sharpness": 223.57,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 90.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0090.0.jpg",
+      "sharpness": 278.14,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 90.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0090.5.jpg",
+      "sharpness": 242.54,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 91.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0091.0.jpg",
+      "sharpness": 241.61,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 91.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0091.5.jpg",
+      "sharpness": 265.97,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 92.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0092.0.jpg",
+      "sharpness": 188.56,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 92.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0092.5.jpg",
+      "sharpness": 196.26,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 93.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0093.0.jpg",
+      "sharpness": 161.21,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 93.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0093.5.jpg",
+      "sharpness": 156.79,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 94.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0094.0.jpg",
+      "sharpness": 192.41,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 94.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0094.5.jpg",
+      "sharpness": 149.68,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 95.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0095.0.jpg",
+      "sharpness": 153.44,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 95.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0095.5.jpg",
+      "sharpness": 186.39,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 96.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0096.0.jpg",
+      "sharpness": 231.62,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 96.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0096.5.jpg",
+      "sharpness": 232.6,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 97.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0097.0.jpg",
+      "sharpness": 171.62,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 97.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0097.5.jpg",
+      "sharpness": 144.13,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 98.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0098.0.jpg",
+      "sharpness": 161.68,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 98.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0098.5.jpg",
+      "sharpness": 148.38,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 99.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0099.0.jpg",
+      "sharpness": 160.05,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 99.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0099.5.jpg",
+      "sharpness": 184.47,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 100.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0100.0.jpg",
+      "sharpness": 204.9,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 100.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0100.5.jpg",
+      "sharpness": 156.56,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 101.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0101.0.jpg",
+      "sharpness": 178.8,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 101.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0101.5.jpg",
+      "sharpness": 150.47,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 102.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0102.0.jpg",
+      "sharpness": 142.62,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 102.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0102.5.jpg",
+      "sharpness": 150.17,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 103.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0103.0.jpg",
+      "sharpness": 160.56,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 103.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0103.5.jpg",
+      "sharpness": 175.87,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 104.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0104.0.jpg",
+      "sharpness": 171.67,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 104.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0104.5.jpg",
+      "sharpness": 163.18,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 105.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0105.0.jpg",
+      "sharpness": 160.3,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 105.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0105.5.jpg",
+      "sharpness": 155.79,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 106.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0106.0.jpg",
+      "sharpness": 139.17,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 106.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0106.5.jpg",
+      "sharpness": 134.87,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 107.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0107.0.jpg",
+      "sharpness": 151.9,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 107.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0107.5.jpg",
+      "sharpness": 180.7,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 108.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0108.0.jpg",
+      "sharpness": 223.5,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 108.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0108.5.jpg",
+      "sharpness": 255.09,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 109.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0109.0.jpg",
+      "sharpness": 155.6,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 109.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0109.5.jpg",
+      "sharpness": 159.86,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 110.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0110.0.jpg",
+      "sharpness": 195.67,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 110.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0110.5.jpg",
+      "sharpness": 154.63,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 111.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0111.0.jpg",
+      "sharpness": 131.81,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 111.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0111.5.jpg",
+      "sharpness": 129.23,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 112.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0112.0.jpg",
+      "sharpness": 201.12,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 112.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0112.5.jpg",
+      "sharpness": 145.52,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 113.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0113.0.jpg",
+      "sharpness": 178.34,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 113.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0113.5.jpg",
+      "sharpness": 143.23,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 114.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0114.0.jpg",
+      "sharpness": 152.12,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 114.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0114.5.jpg",
+      "sharpness": 153.7,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 115.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0115.0.jpg",
+      "sharpness": 148.17,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 115.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0115.5.jpg",
+      "sharpness": 130.79,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 116.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0116.0.jpg",
+      "sharpness": 184.46,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 116.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0116.5.jpg",
+      "sharpness": 185.34,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 117.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0117.0.jpg",
+      "sharpness": 210.02,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 117.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0117.5.jpg",
+      "sharpness": 205.95,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 118.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0118.0.jpg",
+      "sharpness": 208.1,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 118.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0118.5.jpg",
+      "sharpness": 216.8,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 119.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0119.0.jpg",
+      "sharpness": 228.06,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 119.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0119.5.jpg",
+      "sharpness": 220.97,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 120.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0120.0.jpg",
+      "sharpness": 226.43,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 120.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0120.5.jpg",
+      "sharpness": 211.85,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 121.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0121.0.jpg",
+      "sharpness": 250.05,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 121.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0121.5.jpg",
+      "sharpness": 173.99,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 122.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0122.0.jpg",
+      "sharpness": 196.96,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 122.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0122.5.jpg",
+      "sharpness": 203.0,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 123.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0123.0.jpg",
+      "sharpness": 201.66,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 123.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0123.5.jpg",
+      "sharpness": 220.25,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 124.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0124.0.jpg",
+      "sharpness": 283.0,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 124.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0124.5.jpg",
+      "sharpness": 217.61,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 125.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0125.0.jpg",
+      "sharpness": 202.55,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 125.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0125.5.jpg",
+      "sharpness": 180.46,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 126.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0126.0.jpg",
+      "sharpness": 206.9,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 126.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0126.5.jpg",
+      "sharpness": 187.48,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 127.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0127.0.jpg",
+      "sharpness": 214.97,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 127.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0127.5.jpg",
+      "sharpness": 206.27,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 128.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0128.0.jpg",
+      "sharpness": 201.71,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 128.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0128.5.jpg",
+      "sharpness": 204.46,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 129.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0129.0.jpg",
+      "sharpness": 194.78,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 129.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0129.5.jpg",
+      "sharpness": 173.77,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 130.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0130.0.jpg",
+      "sharpness": 205.83,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 130.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0130.5.jpg",
+      "sharpness": 204.24,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 131.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0131.0.jpg",
+      "sharpness": 213.32,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 131.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0131.5.jpg",
+      "sharpness": 160.47,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 132.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0132.0.jpg",
+      "sharpness": 158.4,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 132.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0132.5.jpg",
+      "sharpness": 186.19,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 133.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0133.0.jpg",
+      "sharpness": 206.68,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 133.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0133.5.jpg",
+      "sharpness": 163.74,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 134.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0134.0.jpg",
+      "sharpness": 202.81,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 134.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0134.5.jpg",
+      "sharpness": 241.51,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 135.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0135.0.jpg",
+      "sharpness": 305.16,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 135.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0135.5.jpg",
+      "sharpness": 200.36,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 136.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0136.0.jpg",
+      "sharpness": 203.28,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 136.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0136.5.jpg",
+      "sharpness": 211.97,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 137.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0137.0.jpg",
+      "sharpness": 219.56,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 137.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0137.5.jpg",
+      "sharpness": 241.39,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 138.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0138.0.jpg",
+      "sharpness": 282.14,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 138.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0138.5.jpg",
+      "sharpness": 240.54,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 139.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0139.0.jpg",
+      "sharpness": 261.07,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 139.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0139.5.jpg",
+      "sharpness": 235.52,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 140.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0140.0.jpg",
+      "sharpness": 268.89,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 140.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0140.5.jpg",
+      "sharpness": 236.41,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 141.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0141.0.jpg",
+      "sharpness": 169.32,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 141.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0141.5.jpg",
+      "sharpness": 188.43,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 142.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0142.0.jpg",
+      "sharpness": 220.89,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 142.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0142.5.jpg",
+      "sharpness": 256.89,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 143.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0143.0.jpg",
+      "sharpness": 203.39,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 143.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0143.5.jpg",
+      "sharpness": 194.95,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 144.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0144.0.jpg",
+      "sharpness": 241.81,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 144.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0144.5.jpg",
+      "sharpness": 180.56,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 145.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0145.0.jpg",
+      "sharpness": 234.5,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 145.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0145.5.jpg",
+      "sharpness": 233.21,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 146.0,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0146.0.jpg",
+      "sharpness": 298.44,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "seconds": 146.5,
+      "file": "assets/video-references/facebook-18ZXq1yVKY/stills/0146.5.jpg",
+      "sharpness": 288.46,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    }
+  ]
+}

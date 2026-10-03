@@ -1,0 +1,149 @@
+{
+  "source_url": "https://www.facebook.com/share/v/18ZXq1yVKY/",
+  "assets": [
+    {
+      "name": "fridge-cans",
+      "source": "assets/video-references/facebook-18ZXq1yVKY/stills/0064.0.jpg",
+      "source_sha256": "a66ca4ec27a7fa27c40b928afeaa2dabfeb735a3f39e008e3104355a0c61f561",
+      "file": "assets/video-references/facebook-18ZXq1yVKY/textures/fridge-cans.png",
+      "crop_xyxy": [
+        220,
+        800,
+        1000,
+        1190
+      ],
+      "dimensions": [
+        780,
+        390
+      ],
+      "edits": "Native PNG crop; no sharpening/upscale/repaint; perspective and reflections retained",
+      "status": "Blender only; BO3 material conversion pending"
+    },
+    {
+      "name": "fridge-bottles",
+      "source": "assets/video-references/facebook-18ZXq1yVKY/stills/0063.0.jpg",
+      "source_sha256": "47e1793bcbfce6b473906051f995ebb1db7157928f65d270bdafb037f544c2d8",
+      "file": "assets/video-references/facebook-18ZXq1yVKY/textures/fridge-bottles.png",
+      "crop_xyxy": [
+        200,
+        690,
+        1020,
+        1080
+      ],
+      "dimensions": [
+        820,
+        390
+      ],
+      "edits": "Native PNG crop; no sharpening/upscale/repaint; perspective and reflections retained",
+      "status": "Blender only; BO3 material conversion pending"
+    },
+    {
+      "name": "backbar-tap-bank",
+      "source": "assets/video-references/facebook-18ZXq1yVKY/stills/0090.0.jpg",
+      "source_sha256": "7a28f523d609c26c889a84e39ff614b25c23c7204d40293a4840925d3c324783",
+      "file": "assets/video-references/facebook-18ZXq1yVKY/textures/backbar-tap-bank.png",
+      "crop_xyxy": [
+        236,
+        860,
+        960,
+        1135
+      ],
+      "dimensions": [
+        724,
+        275
+      ],
+      "edits": "Native PNG crop; no sharpening/upscale/repaint; perspective and reflections retained",
+      "status": "Blender only; BO3 material conversion pending"
+    },
+    {
+      "name": "dental-board",
+      "source": "assets/video-references/facebook-18ZXq1yVKY/stills/0124.0.jpg",
+      "source_sha256": "8e906815a477dd8cb0391c4c478dc032ef32e6c51f2ff87e6a6bdf9c14b953fc",
+      "file": "assets/video-references/facebook-18ZXq1yVKY/textures/dental-board.png",
+      "crop_xyxy": [
+        415,
+        693,
+        710,
+        994
+      ],
+      "dimensions": [
+        295,
+        301
+      ],
+      "edits": "Native PNG crop; no sharpening/upscale/repaint; perspective and reflections retained",
+      "status": "Blender only; BO3 material conversion pending"
+    },
+    {
+      "name": "medical-adverts",
+      "source": "assets/video-references/facebook-18ZXq1yVKY/stills/0138.0.jpg",
+      "source_sha256": "381c0e0422f1639197c3b8fdbcf33d5aaa649799631957112838447b13f45b52",
+      "file": "assets/video-references/facebook-18ZXq1yVKY/textures/medical-adverts.png",
+      "crop_xyxy": [
+        90,
+        987,
+        1060,
+        1160
+      ],
+      "dimensions": [
+        970,
+        173
+      ],
+      "edits": "Native PNG crop; no sharpening/upscale/repaint; perspective and reflections retained",
+      "status": "Blender only; BO3 material conversion pending"
+    },
+    {
+      "name": "band-aid-advert",
+      "source": "assets/video-references/facebook-18ZXq1yVKY/stills/0124.0.jpg",
+      "source_sha256": "8e906815a477dd8cb0391c4c478dc032ef32e6c51f2ff87e6a6bdf9c14b953fc",
+      "file": "assets/video-references/facebook-18ZXq1yVKY/textures/band-aid-advert.png",
+      "crop_xyxy": [
+        512,
+        1004,
+        728,
+        1256
+      ],
+      "dimensions": [
+        216,
+        252
+      ],
+      "edits": "Native PNG crop; no sharpening/upscale/repaint; perspective and reflections retained",
+      "status": "Blender only; BO3 material conversion pending"
+    },
+    {
+      "name": "pump-original",
+      "source": "assets/video-references/facebook-18ZXq1yVKY/stills/0071.5.jpg",
+      "source_sha256": "12d963c2c5f0ce442097a960cfe426f97da03039788795ff879bbf39b5e9b143",
+      "file": "assets/video-references/facebook-18ZXq1yVKY/textures/pump-original.png",
+      "crop_xyxy": [
+        624,
+        828,
+        860,
+        1109
+      ],
+      "dimensions": [
+        236,
+        281
+      ],
+      "edits": "Native PNG crop; no sharpening/upscale/repaint; perspective and reflections retained",
+      "status": "Blender only; BO3 material conversion pending"
+    },
+    {
+      "name": "pump-mild",
+      "source": "assets/video-references/facebook-18ZXq1yVKY/stills/0071.5.jpg",
+      "source_sha256": "12d963c2c5f0ce442097a960cfe426f97da03039788795ff879bbf39b5e9b143",
+      "file": "assets/video-references/facebook-18ZXq1yVKY/textures/pump-mild.png",
+      "crop_xyxy": [
+        258,
+        817,
+        434,
+        1060
+      ],
+      "dimensions": [
+        176,
+        243
+      ],
+      "edits": "Native PNG crop; no sharpening/upscale/repaint; perspective and reflections retained",
+      "status": "Blender only; BO3 material conversion pending"
+    }
+  ]
+}

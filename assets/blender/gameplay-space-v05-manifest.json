@@ -1,0 +1,196 @@
+{
+  "file": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-gameplay-space-v05.blend",
+  "safety_copy": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-v03-before-gameplay-edit.blend",
+  "scale_factor": 1.5,
+  "estimated_gameplay_frontage_m": 10.5,
+  "scale_is_gameplay_exaggeration": true,
+  "door_open_angle_degrees": 90,
+  "doorways": [
+    {
+      "name": "First | front office rear | door 0",
+      "opening_before_m": 0.7385320489756668,
+      "opening_after_m": 0.95,
+      "approx_clear_after_scale_m": 1.305
+    },
+    {
+      "name": "First | hall access | door 0",
+      "opening_before_m": 0.9110703360019132,
+      "opening_after_m": 0.95,
+      "approx_clear_after_scale_m": 1.305
+    },
+    {
+      "name": "First | kitchen passage rear | door 0",
+      "opening_before_m": 0.7959022568687115,
+      "opening_after_m": 0.95,
+      "approx_clear_after_scale_m": 1.305
+    },
+    {
+      "name": "First | rear office bottom | door 0",
+      "opening_before_m": 0.6013266612972775,
+      "opening_after_m": 0.95,
+      "approx_clear_after_scale_m": 1.305
+    },
+    {
+      "name": "First | rear office front | door 0",
+      "opening_before_m": 0.6257665303370732,
+      "opening_after_m": 0.95,
+      "approx_clear_after_scale_m": 1.305
+    },
+    {
+      "name": "First | rear store front | door 0",
+      "opening_before_m": 0.7926065515933336,
+      "opening_after_m": 0.95,
+      "approx_clear_after_scale_m": 1.305
+    },
+    {
+      "name": "First | toilets front | door 0",
+      "opening_before_m": 0.7456283928045733,
+      "opening_after_m": 0.95,
+      "approx_clear_after_scale_m": 1.305
+    },
+    {
+      "name": "First | toilets front | door 1",
+      "opening_before_m": 0.7456283928045733,
+      "opening_after_m": 0.95,
+      "approx_clear_after_scale_m": 1.305
+    },
+    {
+      "name": "Ground shell 03 | door 0",
+      "opening_before_m": 0.8846495785935128,
+      "opening_after_m": 0.95,
+      "approx_clear_after_scale_m": 1.305
+    },
+    {
+      "name": "Ground shell 06 | door 0",
+      "opening_before_m": 0.8768476046243427,
+      "opening_after_m": 0.95,
+      "approx_clear_after_scale_m": 1.305
+    },
+    {
+      "name": "Ground | bar lobby divider | door 0",
+      "opening_before_m": 1.2626581149659264,
+      "opening_after_m": 1.2626581149659264,
+      "approx_clear_after_scale_m": 1.7739871724488894
+    },
+    {
+      "name": "Ground | lobby top | door 0",
+      "opening_before_m": 0.7718862780665734,
+      "opening_after_m": 0.95,
+      "approx_clear_after_scale_m": 1.305
+    },
+    {
+      "name": "Ground | WC front | door 0",
+      "opening_before_m": 1.0892088213008266,
+      "opening_after_m": 1.0892088213008266,
+      "approx_clear_after_scale_m": 1.5138132319512398
+    }
+  ],
+  "bar_return_shift_m": 0.25,
+  "street": "50m long; two-way asphalt, dashed white centre, double yellow edges, pavements; illustrative proportions",
+  "player_spawn_m": [
+    5.518130302429199,
+    -2.0,
+    0.10000000149011612
+  ],
+  "zombie_markers": [
+    {
+      "name": "ZOMBIES | planned 1 street left",
+      "position_m": [
+        -12,
+        -6.7,
+        0.1
+      ],
+      "route_goal": "Pub entrance"
+    },
+    {
+      "name": "ZOMBIES | planned 2 street right",
+      "position_m": [
+        20,
+        -6.7,
+        0.1
+      ],
+      "route_goal": "Pub entrance"
+    },
+    {
+      "name": "ZOMBIES | planned 3 rear outside",
+      "position_m": [
+        -3.5,
+        32,
+        0.1
+      ],
+      "route_goal": "Rear-left door"
+    },
+    {
+      "name": "ZOMBIES | planned 4 upstairs",
+      "position_m": [
+        5.2,
+        22.5,
+        4.9
+      ],
+      "route_goal": "L stair arrival, then descend"
+    }
+  ],
+  "radiant_rebuilt": false,
+  "runtime_verified": false,
+  "frontage_width_m": 12.659810066223145,
+  "frontage_width_factor": 1.2056961967831565,
+  "frontage_taper_depth_m": 9.4,
+  "doorway_jamb_world_checks": [
+    {
+      "name": "First | front office rear | door 0",
+      "estimated_frame_gap_m": 1.3050002041197515
+    },
+    {
+      "name": "First | hall access | door 0",
+      "estimated_frame_gap_m": 1.305001124331382
+    },
+    {
+      "name": "First | kitchen passage rear | door 0",
+      "estimated_frame_gap_m": 1.30499920025184
+    },
+    {
+      "name": "First | rear office bottom | door 0",
+      "estimated_frame_gap_m": 1.3050026858978705
+    },
+    {
+      "name": "First | rear office front | door 0",
+      "estimated_frame_gap_m": 1.304999916553495
+    },
+    {
+      "name": "First | rear store front | door 0",
+      "estimated_frame_gap_m": 1.304999880526014
+    },
+    {
+      "name": "First | toilets front | door 0",
+      "estimated_frame_gap_m": 1.3050000457132325
+    },
+    {
+      "name": "First | toilets front | door 1",
+      "estimated_frame_gap_m": 1.3050000457132325
+    },
+    {
+      "name": "Ground shell 03 | door 0",
+      "estimated_frame_gap_m": 1.3049998221141093
+    },
+    {
+      "name": "Ground shell 06 | door 0",
+      "estimated_frame_gap_m": 1.3049977490209694
+    },
+    {
+      "name": "Ground | bar lobby divider | door 0",
+      "estimated_frame_gap_m": 1.773987203919348
+    },
+    {
+      "name": "Ground | lobby top | door 0",
+      "estimated_frame_gap_m": 1.3050008125836166
+    },
+    {
+      "name": "Ground | WC front | door 0",
+      "estimated_frame_gap_m": 1.5138131407464357
+    }
+  ],
+  "bar_main_counter_width_m": 6.313291549682617,
+  "transform_fix": "Update all scene view layers before matrix reads and reparenting",
+  "verified_fascia_width_m": 12.750238418579102,
+  "verified_fascia_height_m": 1.3650000095367432
+}

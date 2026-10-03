@@ -1,0 +1,221 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=q0zBpicUXjg",
+  "assets": [
+    {
+      "name": "music-muddy-waters",
+      "file": "assets/video-references/q0zBpicUXjg/textures/music-muddy-waters.png",
+      "source": "assets/video-references/q0zBpicUXjg/dense/12-31.jpg",
+      "source_sha256": "458554b1184236053e0848c5fc34011c5128350fcc407926d97a0c785f38dd33",
+      "crop_xyxy": [
+        438,
+        55,
+        658,
+        293
+      ],
+      "dimensions": [
+        220,
+        238
+      ],
+      "edits": "Native crop only; PNG; no upscale, sharpening, repaint or perspective correction",
+      "status": "Blender reference texture; BO3 conversion and runtime verification pending"
+    },
+    {
+      "name": "music-elvis",
+      "file": "assets/video-references/q0zBpicUXjg/textures/music-elvis.png",
+      "source": "assets/video-references/q0zBpicUXjg/dense/12-31.jpg",
+      "source_sha256": "458554b1184236053e0848c5fc34011c5128350fcc407926d97a0c785f38dd33",
+      "crop_xyxy": [
+        669,
+        43,
+        883,
+        293
+      ],
+      "dimensions": [
+        214,
+        250
+      ],
+      "edits": "Native crop only; PNG; no upscale, sharpening, repaint or perspective correction",
+      "status": "Blender reference texture; BO3 conversion and runtime verification pending"
+    },
+    {
+      "name": "music-chuck-berry",
+      "file": "assets/video-references/q0zBpicUXjg/textures/music-chuck-berry.png",
+      "source": "assets/video-references/q0zBpicUXjg/dense/12-31.jpg",
+      "source_sha256": "458554b1184236053e0848c5fc34011c5128350fcc407926d97a0c785f38dd33",
+      "crop_xyxy": [
+        455,
+        363,
+        653,
+        594
+      ],
+      "dimensions": [
+        198,
+        231
+      ],
+      "edits": "Native crop only; PNG; no upscale, sharpening, repaint or perspective correction",
+      "status": "Blender reference texture; BO3 conversion and runtime verification pending"
+    },
+    {
+      "name": "music-hit-parade",
+      "file": "assets/video-references/q0zBpicUXjg/textures/music-hit-parade.png",
+      "source": "assets/video-references/q0zBpicUXjg/dense/12-31.jpg",
+      "source_sha256": "458554b1184236053e0848c5fc34011c5128350fcc407926d97a0c785f38dd33",
+      "crop_xyxy": [
+        665,
+        303,
+        879,
+        599
+      ],
+      "dimensions": [
+        214,
+        296
+      ],
+      "edits": "Native crop only; PNG; no upscale, sharpening, repaint or perspective correction",
+      "status": "Blender reference texture; BO3 conversion and runtime verification pending"
+    },
+    {
+      "name": "corridor-beer",
+      "file": "assets/video-references/q0zBpicUXjg/textures/corridor-beer.png",
+      "source": "assets/video-references/q0zBpicUXjg/dense/13-53.jpg",
+      "source_sha256": "9f5d0e91444dc3da4371f3b214419ec8c46ddc6a16788457728b357cc3584269",
+      "crop_xyxy": [
+        580,
+        244,
+        724,
+        450
+      ],
+      "dimensions": [
+        144,
+        206
+      ],
+      "edits": "Native crop only; PNG; no upscale, sharpening, repaint or perspective correction",
+      "status": "Blender reference texture; BO3 conversion and runtime verification pending"
+    },
+    {
+      "name": "medical-board",
+      "file": "assets/video-references/q0zBpicUXjg/textures/medical-board.png",
+      "source": "assets/video-references/q0zBpicUXjg/dense/06-54.jpg",
+      "source_sha256": "733ca898c369c2aa8953501386ceb77850b766cee982659b6f389444b14b686d",
+      "crop_xyxy": [
+        238,
+        90,
+        633,
+        490
+      ],
+      "dimensions": [
+        395,
+        400
+      ],
+      "edits": "Native crop only; PNG; no upscale, sharpening, repaint or perspective correction",
+      "status": "Blender reference texture; BO3 conversion and runtime verification pending"
+    },
+    {
+      "name": "medical-detail",
+      "file": "assets/video-references/q0zBpicUXjg/textures/medical-detail.png",
+      "source": "assets/video-references/q0zBpicUXjg/dense/14-28.jpg",
+      "source_sha256": "dd68af148cbbdc680c7c006bb30983ed77f3a3ab55d53480a7830845f42ec9ff",
+      "crop_xyxy": [
+        170,
+        35,
+        1210,
+        680
+      ],
+      "dimensions": [
+        1040,
+        645
+      ],
+      "edits": "Native crop only; PNG; no upscale, sharpening, repaint or perspective correction",
+      "status": "Blender reference texture; BO3 conversion and runtime verification pending"
+    },
+    {
+      "name": "radio-one",
+      "file": "assets/video-references/q0zBpicUXjg/textures/radio-one.png",
+      "source": "assets/video-references/q0zBpicUXjg/dense/13-30.jpg",
+      "source_sha256": "1f0c6b65ef6e7fc08dc8d91d16fd77eba514510b44796cd5a7b0a747d1fcc934",
+      "crop_xyxy": [
+        190,
+        153,
+        342,
+        245
+      ],
+      "dimensions": [
+        152,
+        92
+      ],
+      "edits": "Native crop only; PNG; no upscale, sharpening, repaint or perspective correction",
+      "status": "Blender reference texture; BO3 conversion and runtime verification pending"
+    },
+    {
+      "name": "radio-two",
+      "file": "assets/video-references/q0zBpicUXjg/textures/radio-two.png",
+      "source": "assets/video-references/q0zBpicUXjg/dense/13-30.jpg",
+      "source_sha256": "1f0c6b65ef6e7fc08dc8d91d16fd77eba514510b44796cd5a7b0a747d1fcc934",
+      "crop_xyxy": [
+        356,
+        151,
+        489,
+        247
+      ],
+      "dimensions": [
+        133,
+        96
+      ],
+      "edits": "Native crop only; PNG; no upscale, sharpening, repaint or perspective correction",
+      "status": "Blender reference texture; BO3 conversion and runtime verification pending"
+    },
+    {
+      "name": "radio-three",
+      "file": "assets/video-references/q0zBpicUXjg/textures/radio-three.png",
+      "source": "assets/video-references/q0zBpicUXjg/dense/13-30.jpg",
+      "source_sha256": "1f0c6b65ef6e7fc08dc8d91d16fd77eba514510b44796cd5a7b0a747d1fcc934",
+      "crop_xyxy": [
+        504,
+        163,
+        632,
+        250
+      ],
+      "dimensions": [
+        128,
+        87
+      ],
+      "edits": "Native crop only; PNG; no upscale, sharpening, repaint or perspective correction",
+      "status": "Blender reference texture; BO3 conversion and runtime verification pending"
+    },
+    {
+      "name": "radio-four",
+      "file": "assets/video-references/q0zBpicUXjg/textures/radio-four.png",
+      "source": "assets/video-references/q0zBpicUXjg/dense/13-30.jpg",
+      "source_sha256": "1f0c6b65ef6e7fc08dc8d91d16fd77eba514510b44796cd5a7b0a747d1fcc934",
+      "crop_xyxy": [
+        652,
+        164,
+        763,
+        249
+      ],
+      "dimensions": [
+        111,
+        85
+      ],
+      "edits": "Native crop only; PNG; no upscale, sharpening, repaint or perspective correction",
+      "status": "Blender reference texture; BO3 conversion and runtime verification pending"
+    },
+    {
+      "name": "book-spines",
+      "file": "assets/video-references/q0zBpicUXjg/textures/book-spines.png",
+      "source": "assets/video-references/q0zBpicUXjg/dense/11-48.jpg",
+      "source_sha256": "8ab2372a5b73b569a23785e2f2d2fcd3613015ffbe5bd1432b87bf36b6914392",
+      "crop_xyxy": [
+        223,
+        83,
+        485,
+        191
+      ],
+      "dimensions": [
+        262,
+        108
+      ],
+      "edits": "Native crop only; PNG; no upscale, sharpening, repaint or perspective correction",
+      "status": "Blender reference texture; BO3 conversion and runtime verification pending"
+    }
+  ]
+}

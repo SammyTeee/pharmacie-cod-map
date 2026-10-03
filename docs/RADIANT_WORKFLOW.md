@@ -1,5 +1,12 @@
 # BO3 Radiant and automation notes
 
+**Documentation review, 2026-10-02:** Read the installed official quick-start, scale, LED, build-light and image guides. See [Blender → Radiant workflow](BLENDER_RADIANT_WORKFLOW.md) for the current conversion, source/page references, verified v03 runtime and requirements for the next gameplay version. Earlier statements below about unverified lighting/runtime describe historical builds. Further conversion remains on Sam's requested hold.
+
+Separate Blender-derived test source: `map_source/zm/zm_pharmacie_blender.map`.
+Build/deploy and conversion limits are in [BLENDER_TO_RADIANT_TEST.md](BLENDER_TO_RADIANT_TEST.md).
+Deployment must include the entire linked zone tree, especially `zone/snd`;
+copying only root files caused a confirmed fatal sound-bank load error.
+
 **Purpose:** reusable findings for building `zm_pharmacie` efficiently, with the editor used where its visual tools matter and repeatable file/build work automated where practical.
 
 **Last checked:** 2026-10-02 on Sam's PC, BO3 Mod Tools build 5284267. Machine-specific install paths are recorded in [MODDING_PLAN.md](../MODDING_PLAN.md). Online project/tool claims below are attributed and still need to be checked against this installed build before adopting them.
@@ -62,3 +69,5 @@ Open the current map in Radiant for visual inspection and run the compiled mod i
 ## SVG build runtime verification (2026-10-02)
 
 The SVG-derived rebuild completed compiler + lighting + linker, then loaded using `BlackOps3.exe +set fs_game zm_pharmacie +set logfile 2 +devmap zm_pharmacie` after the linked zone folder was copied to the separate game installation's usermaps/zm_pharmacie. The user played two rounds with six kills (results screenshot in docs/screenshots). The earlier “not game-tested” statements above describe older builds. See scripts/build-map.ps1 for a parameterized build sequence that waits for actual LED completion.
+
+Second scale test now authorized after v15 detail pass: separate zm_pharmacie_scale with custom no-spawn round callback. General photo/material conversion and enlarged street bounds are implemented by export_scale_test.py/generate_scale_test.py. See SCALE_TEST_V15.md and MODLOG.md for actual build/runtime results.

@@ -1,0 +1,40 @@
+{
+  "file": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-backbar-photo-v08.blend",
+  "source": "references/pharmacie-syston/bar front.jpg",
+  "alternate_reference": "references\\pharmacie-syston\\WhatsApp Image 2026-10-02 at 10.19.05 PM (5).jpeg",
+  "source_hashes": {
+    "references\\pharmacie-syston\\bar front.jpg": "e91a923a278fd0bab628b11364fd253c00d4d2de7428fef8c6b969a5e2de01fe",
+    "references\\pharmacie-syston\\WhatsApp Image 2026-10-02 at 10.19.05 PM (5).jpeg": "147787397e45b201ee9d24cd6951f101ad5b1c30c613dab972b1aa177b538f27"
+  },
+  "source_dimensions": [
+    2000,
+    1325
+  ],
+  "derivative": "No raster edit; packed original with UV crops",
+  "backbar_uv_crop_normalised": [
+    0.205,
+    0.215,
+    0.985,
+    0.585
+  ],
+  "screen_uv_crop_normalised": [
+    0.435,
+    0.262,
+    0.575,
+    0.402
+  ],
+  "panel_bounds_m": {
+    "x": [
+      -0.225,
+      7.784
+    ],
+    "y": 20.72,
+    "z": [
+      1.08,
+      3.61
+    ]
+  },
+  "source_photos_unchanged": true,
+  "radiant_rebuilt": false,
+  "bo3_material_conversion": "Pending next authorized export; existing BO3 generator does not yet distinguish this backbar crop material"
+}

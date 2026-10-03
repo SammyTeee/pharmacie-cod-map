@@ -1,0 +1,120 @@
+Error: Could not find fx "dlc1/castle/fx_mech_foot_step_steam".
+Error: Could not find fx "dlc1/castle/fx_mech_head_light".
+Error: Could not find fx "dlc1/castle/fx_mech_light_dmg".
+Error: Could not find fx "dlc1/castle/fx_mech_wpn_flamethrower".
+Error: Could not find fx "dlc1/castle/fx_wpn_115_muz".
+Error: Could not find fx "dlc2/island/fx_spores_cloud_ambient_lrg".
+Error: Could not find fx "dlc2/island/fx_spores_cloud_ambient_md".
+Error: Could not find fx "dlc2/island/fx_spores_cloud_ambient_sm".
+Error: Could not find fx "dlc2/island/fx_thrash_chest_mouth_drool_1p".
+Error: Could not find fx "dlc2/island/fx_thrash_eye_glow".
+Error: Could not find fx "dlc2/island/fx_thrash_eye_glow_rage".
+Error: Could not find fx "dlc2/island/fx_thrash_pustule_burst".
+Error: Could not find fx "dlc2/island/fx_thrash_pustule_impact".
+Error: Could not find fx "dlc2/island/fx_thrash_pustule_reinflate".
+Error: Could not find fx "dlc2/island/fx_thrash_pustule_spore_exp".
+Error: Could not find fx "dlc2/island/fx_thrash_rage_gas_leg_lft".
+Error: Could not find fx "dlc2/island/fx_thrash_rage_gas_leg_rgt".
+Error: Could not find fx "dlc2/island/fx_thrash_rage_gas_torso".
+Error: Could not find fx "electric/fx_ability_elec_surge_short_robot".
+Error: Could not find fx "electric/fx_elec_warlord_damage_1".
+Error: Could not find fx "electric/fx_elec_warlord_damage_2".
+Error: Could not find fx "electric/fx_elec_warlord_lower_damage_1".
+Error: Could not find fx "electric/fx_elec_warlord_lower_damage_2".
+Error: Could not find fx "explosions/fx_exp_robot_stage3_evb".
+Error: Could not find fx "explosions/fx_exp_warlord_death".
+Error: Could not find fx "light/fx_light_body_glow_warlord".
+Error: Could not find fx "light/fx_light_eye_glow_warlord".
+Error: Could not find fx "player/fx_loot_taunt_e_reaper_main_03".
+Error: Could not find fx "player/fx_loot_taunt_outrider_talon_lights".
+Error: Could not find fx "player/fx_plyr_ability_screen_blur_overdrive".
+Error: Could not find fx "player/fx_plyr_flashback_trail".
+Error: Could not find fx "player/fx_plyr_heat_wave_distortion_volume".
+Error: Could not find fx "player/fx_plyr_heat_wave_distortion_volume_air".
+Error: Could not find fx "player/fx_plyr_shock_field".
+Error: Could not find fx "player/fx_plyr_shock_field_1p".
+Error: Could not find fx "vehicle/fx_exhaust_jetpack_warlord_juke".
+Error: Could not find fx "weapon/fx_hero_blackjack_beam_source".
+Error: Could not find fx "weapon/fx_hero_blackjack_beam_target".
+Error: Could not find fx "zombie/fx_margwa_head_shot_zod_zmb".
+Error: Could not find fx "zombie/fx_margwa_roar_purple_zod_zmb".
+Error: Could not find fx "zombie/fx_margwa_roar_zod_zmb".
+Error: Could not find fx "zombie/fx_margwa_teleport_intro_zod_zmb".
+Error: Could not find fx "zombie/fx_margwa_teleport_tell_zod_zmb".
+Error: Could not find fx "zombie/fx_margwa_teleport_travel_zod_zmb".
+Error: Could not find fx "zombie/fx_margwa_teleport_zod_zmb".
+Error: Could not find fx "zombie/fx_val_chest_burst".
+Error: Could not find tagfx "ability_hero_heat_wave_player_impact".
+Error: Could not find tagfx "gadget_flashback_3p_off".
+Error: Could not find weapon "ball_zm".
+Error: Could not find weapon "ball".
+Error: Could not find weapon "gadget_resurrect_zm".
+Error: Could not find weapon "gadget_resurrect".
+Error: Could not find weapon "dragon_gauntlet_zm".
+Error: Could not find weapon "dragon_gauntlet".
+Error: Could not find weapon "proximity_grenade_zm".
+Error: Could not find weapon "proximity_grenade".
+Error: Could not find weapon "syrette_zod_beast_zm".
+Error: Could not find weapon "pistol_shotgun".
+Error: Could not find weapon "pistol_shotgun_upgraded".
+Error: Could not find weapon "launcher_lockon_zm".
+Error: Could not find weapon "launcher_lockon".
+Error: Could not find weapon "launcher_lockonly".
+Error: Could not find navvolume "maps/zm/zm_pharmacie_blender_navvolume".
+-----------------------------------
+Error: Could not find rawfile "gamedata/constbaselines/zm/bl_little_endian_zm_pharmacie_blender_zclassic.bin".
+Error: Could not find structuredtable "gamedata/tables/common/mod_game_types.json".
+ModLoad done: zm_pharmacie_blender
+execing gamedata/configs/cp/cp_reset_stats_offline.cfg from fastfile
+execing gamedata/configs/cp/cp_reset_loadouts_offline.cfg from fastfile
+execing gamedata/configs/cp/cp_reset_stats_nightmare_offline.cfg from fastfile
+execing gamedata/gamesettings/zm/gamesettings_default.cfg from fastfile
+execing gamedata/gamesettings/zm/gamesettings_zclassic.cfg from fastfile
+Unknown command "bbstart"
+execing gamedata/configs/zm/ragdoll.cfg from fastfile
+Client: Registering configstring index 3241 with data yŊ��
+Client: Registering configstring index 3241 with data yŊ��
+Error: Could not find cgmediatable "cgmedia_zm_pharmacie_blender".
+Error: Could not find fx "weapon/fx_trail_rocket_multi_lob".
+Error: Could not find rawfile "vision/zm_pharmacie_blender.vision".
+Error: Could not find rawfile "gamedata/constbaselines/zm/bl_little_endian_zm_pharmacie_blender_zclassic.bin".
+[msg]sam^7 Connected
+Error: Could not find material "t7_hud_cp_help_indicator".
+Error: Could not find material "t7_hud_cp_grenade_impact_a".
+Error: Could not find material "t7_hud_cp_grenade_impact_b".
+Error: Could not find material "t7_hud_cp_grenade_splash".
+Error: Could not find material "mc/ability_clone_enemy_damage".
+Error: Could not find material "mc/ability_clone_ally_damage".
+Error: Could not find material "mc/ability_clone_enemy".
+Error: Could not find material "mc/ability_clone_ally".
+Error: Could not find material "mc/hud_keyline_ph_yellow".
+Client: Registering configstring index 498 with data ZOMBIE_PERK_QUICKREVIVE500
+Client: Registering configstring index 3241 with data y7J�
+Error: Ent 26 at (-3.4, 185.3, 2.3) failed to find path to goal at (33.4, -326.0, 0.1). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 1 / 1
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (29.3, -335.2, 0.1). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 2 / 3
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-5.6, -307.9, 26.0). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 4 / 7
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-36.5, -322.5, 0.1). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 4 / 11
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-36.5, -322.5, 0.1). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 2 / 13
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-26.0, -254.7, 0.1). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 3 / 16
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (116.9, -215.4, 7.2). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 19 / 35
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (98.4, -193.6, 37.7). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 11 / 46
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-25.7, -53.6, 0.1). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 3 / 49
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-51.2, -25.1, 0.1). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 5 / 54
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-69.7, -22.5, 31.1). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 3 / 57
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-59.9, -8.1, 0.0). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 4 / 61
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-59.9, -8.1, 0.0). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 2 / 63
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-59.9, -8.1, 0.0). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 2 / 65
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-59.9, -8.1, 0.0). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 3 / 68
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-59.9, -8.1, 0.0). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 2 / 70
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-59.9, -8.1, 0.0). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 3 / 73
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-59.9, -8.1, 0.0). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 2 / 75
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-59.9, -8.1, 0.0). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 2 / 77
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-73.6, -119.3, 27.8). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 4 / 81
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (4.6, -213.7, 0.1). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 3 / 84
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (44.6, -279.9, 7.2). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 3 / 87
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-17.3, -304.8, 0.1). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 3 / 90
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-84.7, -236.3, 34.7). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 3 / 93
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (-8.8, -63.1, 0.1). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 3 / 96
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (28.3, -11.1, 0.1). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 7 / 103
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (67.9, -53.7, 7.0). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 5 / 108
+Error: Ent 26 at (-1.0, 184.7, 0.1) failed to find path to goal at (80.8, -53.7, 30.3). Cause: 'PATHFIND_FAILURE_INVALID_START'   Fail Count: 3 / 111

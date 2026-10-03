@@ -1,0 +1,116 @@
+{
+  "file": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-street-details-v12.blend",
+  "additional_neighbours": [
+    {
+      "building": "Wreake Valley Flooring",
+      "source": "left of pub front.png",
+      "source_sha256": "d1ba5d0eeb27fd2c4a15a34dc06fa9d5ec4f00147e32deb5d0d3efc3176df821",
+      "dimensions": [
+        2563,
+        1440
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          633,
+          0
+        ],
+        [
+          1987,
+          0
+        ],
+        [
+          1950,
+          1010
+        ],
+        [
+          658,
+          1010
+        ]
+      ],
+      "world_x": [
+        -13.2,
+        -5.2
+      ],
+      "height_m": 8.3,
+      "front_y": -0.015,
+      "edits": "Untouched packed original, UV quad only; top of source is cropped by supplied screenshot",
+      "placement": "Approximate scenery. Left passage gap retained. No enterable shops."
+    },
+    {
+      "building": "Syston Dry Cleaners",
+      "source": "right side of pub front.png",
+      "source_sha256": "289ab7e78e47ecbee08974635a9882416454437b9b5ffb9bda69dd7ca1483bcb",
+      "dimensions": [
+        2551,
+        1281
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          864,
+          0
+        ],
+        [
+          1490,
+          187
+        ],
+        [
+          1485,
+          835
+        ],
+        [
+          873,
+          943
+        ]
+      ],
+      "world_x": [
+        11.4,
+        18.1
+      ],
+      "height_m": 8.3,
+      "front_y": -0.015,
+      "edits": "Untouched packed original, UV quad only; top of source is cropped by supplied screenshot",
+      "placement": "Approximate scenery. Left passage gap retained. No enterable shops."
+    },
+    {
+      "building": "Nail and Spa shop",
+      "source": "right side of pub front.png",
+      "source_sha256": "289ab7e78e47ecbee08974635a9882416454437b9b5ffb9bda69dd7ca1483bcb",
+      "dimensions": [
+        2551,
+        1281
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          1496,
+          160
+        ],
+        [
+          1848,
+          310
+        ],
+        [
+          1848,
+          724
+        ],
+        [
+          1500,
+          810
+        ]
+      ],
+      "world_x": [
+        18.1,
+        24.5
+      ],
+      "height_m": 7.9,
+      "front_y": -0.015,
+      "edits": "Untouched packed original, UV quad only; top of source is cropped by supplied screenshot",
+      "placement": "Approximate scenery. Left passage gap retained. No enterable shops."
+    }
+  ],
+  "opposite_backing_depth_m": 0.32,
+  "opposite_roof_cap_depth_m": 0.4,
+  "opposite_photo_roof_strips": 5,
+  "reason": "Remove broad exposed blank top surfaces seen in user blender preview.png; photo faces already span pavement to eaves",
+  "radiant_rebuilt": false,
+  "runtime_verified": false
+}

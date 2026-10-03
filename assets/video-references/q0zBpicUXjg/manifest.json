@@ -1,0 +1,1048 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=q0zBpicUXjg",
+  "video_id": "q0zBpicUXjg",
+  "title": "Beer Pharmacie Cask & Tap House In Syston Leicestershire",
+  "uploader": "Blue Van Man",
+  "upload_date": "20190516",
+  "duration_seconds": 1140,
+  "source_video_local": "build/video-reference/q0zBpicUXjg.mp4",
+  "source_video_sha256": "8b10c8566b601a64490e43f2269373cf9de96dbb5f0270717d5b0283ef714691",
+  "download": "yt-dlp best video <=1080 plus best audio, merged mp4; available video720p",
+  "extraction": "ffmpeg -ss seconds -frames:v1 -q:v2; full decoded resolution; no crop/repaint",
+  "contact_sheets": [
+    "assets/video-references/q0zBpicUXjg/overview-01.jpg",
+    "assets/video-references/q0zBpicUXjg/overview-02.jpg",
+    "assets/video-references/q0zBpicUXjg/overview-03.jpg",
+    "assets/video-references/q0zBpicUXjg/overview-04.jpg",
+    "assets/video-references/q0zBpicUXjg/overview-05.jpg"
+  ],
+  "frames": [
+    {
+      "seconds": 0,
+      "time": "00:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/00-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 10,
+      "time": "00:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/00-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 20,
+      "time": "00:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/00-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 30,
+      "time": "00:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/00-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 40,
+      "time": "00:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/00-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 50,
+      "time": "00:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/00-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 60,
+      "time": "01:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/01-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 70,
+      "time": "01:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/01-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 80,
+      "time": "01:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/01-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 90,
+      "time": "01:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/01-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 100,
+      "time": "01:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/01-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 110,
+      "time": "01:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/01-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 120,
+      "time": "02:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/02-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 130,
+      "time": "02:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/02-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 140,
+      "time": "02:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/02-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 150,
+      "time": "02:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/02-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 160,
+      "time": "02:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/02-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 170,
+      "time": "02:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/02-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 180,
+      "time": "03:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/03-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 190,
+      "time": "03:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/03-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 200,
+      "time": "03:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/03-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 210,
+      "time": "03:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/03-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 220,
+      "time": "03:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/03-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 230,
+      "time": "03:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/03-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 240,
+      "time": "04:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/04-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 250,
+      "time": "04:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/04-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 260,
+      "time": "04:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/04-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 270,
+      "time": "04:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/04-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 280,
+      "time": "04:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/04-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 290,
+      "time": "04:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/04-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 300,
+      "time": "05:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/05-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 310,
+      "time": "05:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/05-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 320,
+      "time": "05:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/05-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 330,
+      "time": "05:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/05-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 340,
+      "time": "05:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/05-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 350,
+      "time": "05:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/05-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 360,
+      "time": "06:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/06-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 370,
+      "time": "06:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/06-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 380,
+      "time": "06:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/06-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 390,
+      "time": "06:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/06-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 400,
+      "time": "06:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/06-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 410,
+      "time": "06:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/06-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 420,
+      "time": "07:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/07-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 430,
+      "time": "07:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/07-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 440,
+      "time": "07:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/07-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 450,
+      "time": "07:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/07-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 460,
+      "time": "07:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/07-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 470,
+      "time": "07:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/07-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 480,
+      "time": "08:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/08-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 490,
+      "time": "08:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/08-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 500,
+      "time": "08:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/08-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 510,
+      "time": "08:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/08-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 520,
+      "time": "08:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/08-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 530,
+      "time": "08:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/08-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 540,
+      "time": "09:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/09-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 550,
+      "time": "09:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/09-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 560,
+      "time": "09:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/09-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 570,
+      "time": "09:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/09-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 580,
+      "time": "09:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/09-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 590,
+      "time": "09:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/09-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 600,
+      "time": "10:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/10-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 610,
+      "time": "10:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/10-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 620,
+      "time": "10:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/10-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 630,
+      "time": "10:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/10-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 640,
+      "time": "10:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/10-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 650,
+      "time": "10:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/10-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 660,
+      "time": "11:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/11-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 670,
+      "time": "11:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/11-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 680,
+      "time": "11:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/11-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 690,
+      "time": "11:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/11-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 700,
+      "time": "11:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/11-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 710,
+      "time": "11:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/11-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 720,
+      "time": "12:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/12-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 730,
+      "time": "12:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/12-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 740,
+      "time": "12:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/12-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 750,
+      "time": "12:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/12-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 760,
+      "time": "12:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/12-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 770,
+      "time": "12:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/12-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 780,
+      "time": "13:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/13-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 790,
+      "time": "13:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/13-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 800,
+      "time": "13:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/13-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 810,
+      "time": "13:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/13-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 820,
+      "time": "13:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/13-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 830,
+      "time": "13:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/13-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 840,
+      "time": "14:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/14-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 850,
+      "time": "14:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/14-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 860,
+      "time": "14:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/14-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 870,
+      "time": "14:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/14-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 880,
+      "time": "14:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/14-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 890,
+      "time": "14:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/14-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 900,
+      "time": "15:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/15-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 910,
+      "time": "15:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/15-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 920,
+      "time": "15:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/15-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 930,
+      "time": "15:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/15-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 940,
+      "time": "15:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/15-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 950,
+      "time": "15:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/15-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 960,
+      "time": "16:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/16-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 970,
+      "time": "16:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/16-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 980,
+      "time": "16:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/16-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 990,
+      "time": "16:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/16-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 1000,
+      "time": "16:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/16-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 1010,
+      "time": "16:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/16-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 1020,
+      "time": "17:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/17-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 1030,
+      "time": "17:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/17-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 1040,
+      "time": "17:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/17-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 1050,
+      "time": "17:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/17-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 1060,
+      "time": "17:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/17-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 1070,
+      "time": "17:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/17-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 1080,
+      "time": "18:00",
+      "file": "assets/video-references/q0zBpicUXjg/stills/18-00.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 1090,
+      "time": "18:10",
+      "file": "assets/video-references/q0zBpicUXjg/stills/18-10.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 1100,
+      "time": "18:20",
+      "file": "assets/video-references/q0zBpicUXjg/stills/18-20.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 1110,
+      "time": "18:30",
+      "file": "assets/video-references/q0zBpicUXjg/stills/18-30.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 1120,
+      "time": "18:40",
+      "file": "assets/video-references/q0zBpicUXjg/stills/18-40.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "seconds": 1130,
+      "time": "18:50",
+      "file": "assets/video-references/q0zBpicUXjg/stills/18-50.jpg",
+      "dimensions": [
+        1280,
+        720
+      ]
+    }
+  ],
+  "status": "Unselected reference samples; compare2019 footage against current photos"
+}

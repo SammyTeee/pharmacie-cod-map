@@ -1,0 +1,14 @@
+{
+  "file": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-entrance-fixed-v16.blend",
+  "bounds_m": [
+    4.18,
+    6.85,
+    -0.08,
+    2.6,
+    -0.27,
+    0.003
+  ],
+  "clear_door_width_m": 1.996,
+  "purpose": "Solid floor bridge overlaps pavement and interior at front recessed doorway; 3mm raised top avoids coplanar flicker",
+  "runtime_verified": false
+}

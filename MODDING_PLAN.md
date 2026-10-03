@@ -1,6 +1,13 @@
 # Call of Duty: Black Ops III modding plan
 
+Latest editable Blender source: assets/blender/pharmacie-backbar-photo-v08.blend.
+Enlarged skewed footprint, street and all seven selected layout fixes are saved.
+Radiant rebuild remains on hold; BO3 runs the separate earlier v03 export.
+V08 retains the layout fixes and adds packed photo-backed bar shelves/screen.
+
 ## Latest direction — Blender first (2026-10-02)
+
+Current conversion documentation: [docs/BLENDER_RADIANT_WORKFLOW.md](docs/BLENDER_RADIANT_WORKFLOW.md). The v03 brush/photo conversion has loaded in BO3; detailed model export remains unverified. Newer gameplay Blender work is awaiting a requested conversion. Historical reference-only/export-pending statements below refer to earlier stages.
 
 Sam requested Blender modelling from the new `hq floor plan ai.png` and installed Blender/MCP setup. Blender 5.2.2 LTS and official Blender Lab MCP are installed; a live MCP inspection/edit/save test passed. Reference-only starter: `assets/blender/pharmacie-reference-base.blend`. See `docs/BLENDER_WORKFLOW.md` for exact versions, paths, setup and plan observations. Blender becomes the modelling workspace; BO3 still uses Radiant/official Mod Tools for gameplay and builds. A Blender-to-BO3 asset export route remains to be selected and verified. Preserve the existing playable source until that route works.
 
@@ -29,3 +36,16 @@ Sam's saved SVG now drives world geometry through `scripts/svg_blockout.py`; see
 Latest reference: `Architectural Fire Evacuation Floor Plans.png`; new standalone project `assets/blender/pharmacie-evacuation-plan.blend`. Estimated 7m frontage, shared scale for both floors; tracing setup verified, building meshes and export pending. See docs/BLENDER_WORKFLOW.md.
 
 Latest Blender source is assets/blender/pharmacie-photo-interior-v03.blend: both floors, photo frontage, corrected L stairs and 34 grouped interior objects. Photo evidence/assumptions: docs/PHOTO_OBJECT_PLACEMENT_PLAN.md. Existing playable BO3 source preserved; model export route remains unverified.
+
+Blender brush conversion test now compiles, lighting-exports and links as separate `zm_pharmacie_blender`. See docs/BLENDER_TO_RADIANT_TEST.md. First runtime attempt failed because deployment omitted nested sound banks; recursive, hash-verified deployment fixes that omission. Runtime and stair traversal verification remain tracked in MODLOG.md.
+
+Current Blender source:assets/blender/pharmacie-video-details-v10.blend, incorporating both video references. Texture derivatives are Blender-only; native BO3 conversion and gameplay verification remain pending while rebuild is on hold. See docs/VIDEO_INTERIOR_PASS.md.
+
+
+Latest source supersedes v10:assets/blender/pharmacie-street-details-v12.blend, with eight photo-textured street fronts and user-preview roof/backing correction. Video interior retained; engine rebuild still held. See docs/STREET_PHOTO_FRONTS.md.
+
+Latest Blender source: assets/blender/pharmacie-street-details-v13.blend, correcting Mini Market photo crop. Radiant rebuild remains held.
+
+Latest Blender source pharmacie-detailed-pub-v15.blend. User lifted rebuild hold for a separate zombie-free scale test zm_pharmacie_scale after the new video detail pass; implementation/build/runtime evidence in SCALE_TEST_V15.md and MODLOG.md.
+
+Current Blender source pharmacie-entrance-fixed-v16.blend. Fixes front threshold and developer-only diagnostic in zm_pharmacie_scale. See MODLOG.md for actual build/runtime state.

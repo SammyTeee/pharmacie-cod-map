@@ -39,3 +39,8 @@ Keep local reference copies for this project. Before releasing a map, confirm wh
 ### Blender photo-led object pass (2026-10-02)
 
 Editable Blender source now includes 34 photo-inspired groups and packed-photo UV surfaces. See PHOTO_OBJECT_PLACEMENT_PLAN.md for evidence, placements and assumptions. Originals remain unchanged; AVIF feature wall has a separate lossless PNG of original dimensions for Blender. This is modelling source only, not a newly verified BO3 material/export. Final glass, lighting and photo reflections remain to refine.
+
+### Video and street material sources (2026-10-03)
+Twenty native PNG crops from both reviewed videos are packed in Blender; pixel crop/hash manifests under assets/video-references. Eight street fronts use UV-only regions of untouched user screenshots. See VIDEO_INTERIOR_PASS.md and STREET_PHOTO_FRONTS.md. These are Blender materials; BO3 formats/conversion/compile verification remain pending on the next authorized rebuild.
+
+V15 adds four native crops from inspected YouTube 06:35/07:29 frames; manifest under textures-downstairs. Separate BO3 TIFF/GDT derivatives now prepared in assets/scale-test with source hashes and power-of-two resize dimensions. See SCALE_TEST_V15.md for actual conversion limits.

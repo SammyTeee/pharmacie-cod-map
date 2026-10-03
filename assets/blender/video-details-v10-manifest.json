@@ -1,0 +1,28 @@
+{
+  "file": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-video-details-v10.blend",
+  "new_objects": 101,
+  "new_packed_texture_crops": 8,
+  "source": "https://www.facebook.com/share/v/18ZXq1yVKY/",
+  "placement": "Observed props with inferred world positions; door/stair/room structure retained",
+  "validation": "Visual render and static circulation audit; not BO3 tested",
+  "radiant_rebuilt": false,
+  "final_review": {
+    "bookcase_moved_clear_of_banquette": [
+      "Video | bookcase backing",
+      "Video | bookcase book spines 0",
+      "Video | bookcase book spines 1",
+      "Video | bookcase book spines 2",
+      "Video | bookcase shelf 5.12",
+      "Video | bookcase shelf 5.72",
+      "Video | bookcase shelf 6.32",
+      "Video | bookcase shelf 6.92",
+      "Video | stacked board game 0",
+      "Video | stacked board game 1",
+      "Video | stacked board game 2",
+      "Video | stacked board game 3",
+      "Video | stacked board game 4"
+    ],
+    "new_meshes_parented_to_gameplay_scale": true,
+    "static_checks": "Upstairs centre furniture ends before Y17; rear doorway approach row clear; bookcase beyond banquette; fridge stays left of counter. In-game verification pending."
+  }
+}

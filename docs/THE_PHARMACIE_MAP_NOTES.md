@@ -71,3 +71,14 @@ Use `Architectural Fire Evacuation Floor Plans.png` for the new Blender project.
 ### Photo-led interior evidence (2026-10-02)
 
 All current images, including new WhatsApp files, reviewed and catalogued. Forward/reverse room views place sofa/skeleton along left display wall and raised seating on right when facing bar. Visible objects include medical/glass tables, dark and red-frame stools, cream chairs, paired medicine cabinets, boards/shelves, brass pumps and pendants. Exact positions/counts are inferred; see PHOTO_OBJECT_PLACEMENT_PLAN.md. Sam explicitly located rear exit at back-left when looking head-on, with stairs on right after passing toilets; revised model climbs across back then turns right towards front. Men/women shared wall is solid. These user corrections supersede earlier provisional stair interpretation.
+
+### Historical video evidence (reviewed 2026-10-02)
+Blue Van Man's 2019 video shows rear stairs and upstairs banquettes, tables/stools/chairs, carpet, recessed lights, TV, dartboard, bookcase, piano and vintage radios. These are observed historical details, not verified current placement. Compare with supplied plan and newer photos before changing structure. Timestamped review: docs/VIDEO_REFERENCE_REVIEW.md.
+
+Video dressing applied in v10:Sam selected historical upstairs decor. Newer Facebook views show tall fridge beside bar, tap bank, medical panels and dining chairs/tables. Appearance is observed; object coordinates/counts are inferred within enlarged plan. See VIDEO_INTERIOR_PASS.md for timestamps, implementation and limits.
+
+
+### Street captures supplied 2026-10-03
+Observed opposite row includes Floral Fantasy, Let's Move, Syston Mini Market, Aston and Co and Fox and Hounds. Pub-side shots show Wreake Valley Flooring on left, dry cleaners and nail/spa shop on right. V12 uses simple photo scenery with approximate dimensions; left exterior passage stays available. See STREET_PHOTO_FRONTS.md.
+
+V15 second downstairs pass follows observed camera/medicine displays, advert collage, dark dado, jars/ceramics, ceiling grid, pendants and counter/table details in YouTube06:14–07:32 and Facebook135–143s. Counts/coordinates adapted to widened layout. See SCALE_TEST_V15.md.

@@ -1,0 +1,2838 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=q0zBpicUXjg",
+  "sampling": "1 frame/second in tour segments 05:50\u201309:00 and 10:10\u201314:51; JPEG95, no crop; Laplacian variance selects candidates, visual inspection required",
+  "frames": [
+    {
+      "seconds": 350,
+      "sharpness": 243.85,
+      "file": "assets/video-references/q0zBpicUXjg/dense/05-50.jpg"
+    },
+    {
+      "seconds": 351,
+      "sharpness": 235.05,
+      "file": "assets/video-references/q0zBpicUXjg/dense/05-51.jpg"
+    },
+    {
+      "seconds": 352,
+      "sharpness": 246.35,
+      "file": "assets/video-references/q0zBpicUXjg/dense/05-52.jpg"
+    },
+    {
+      "seconds": 353,
+      "sharpness": 252.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/05-53.jpg"
+    },
+    {
+      "seconds": 354,
+      "sharpness": 222.21,
+      "file": "assets/video-references/q0zBpicUXjg/dense/05-54.jpg"
+    },
+    {
+      "seconds": 355,
+      "sharpness": 202.96,
+      "file": "assets/video-references/q0zBpicUXjg/dense/05-55.jpg"
+    },
+    {
+      "seconds": 356,
+      "sharpness": 212.87,
+      "file": "assets/video-references/q0zBpicUXjg/dense/05-56.jpg"
+    },
+    {
+      "seconds": 357,
+      "sharpness": 153.01,
+      "file": "assets/video-references/q0zBpicUXjg/dense/05-57.jpg"
+    },
+    {
+      "seconds": 358,
+      "sharpness": 108.28,
+      "file": "assets/video-references/q0zBpicUXjg/dense/05-58.jpg"
+    },
+    {
+      "seconds": 359,
+      "sharpness": 101.04,
+      "file": "assets/video-references/q0zBpicUXjg/dense/05-59.jpg"
+    },
+    {
+      "seconds": 360,
+      "sharpness": 37.69,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-00.jpg"
+    },
+    {
+      "seconds": 361,
+      "sharpness": 47.56,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-01.jpg"
+    },
+    {
+      "seconds": 362,
+      "sharpness": 48.81,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-02.jpg"
+    },
+    {
+      "seconds": 363,
+      "sharpness": 59.76,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-03.jpg"
+    },
+    {
+      "seconds": 364,
+      "sharpness": 57.76,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-04.jpg"
+    },
+    {
+      "seconds": 365,
+      "sharpness": 68.65,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-05.jpg"
+    },
+    {
+      "seconds": 366,
+      "sharpness": 84.43,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-06.jpg"
+    },
+    {
+      "seconds": 367,
+      "sharpness": 90.77,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-07.jpg"
+    },
+    {
+      "seconds": 368,
+      "sharpness": 83.24,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-08.jpg"
+    },
+    {
+      "seconds": 369,
+      "sharpness": 46.2,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-09.jpg"
+    },
+    {
+      "seconds": 370,
+      "sharpness": 84.93,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-10.jpg"
+    },
+    {
+      "seconds": 371,
+      "sharpness": 98.3,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-11.jpg"
+    },
+    {
+      "seconds": 372,
+      "sharpness": 105.02,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-12.jpg"
+    },
+    {
+      "seconds": 373,
+      "sharpness": 75.25,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-13.jpg"
+    },
+    {
+      "seconds": 374,
+      "sharpness": 113.34,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-14.jpg"
+    },
+    {
+      "seconds": 375,
+      "sharpness": 102.49,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-15.jpg"
+    },
+    {
+      "seconds": 376,
+      "sharpness": 75.78,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-16.jpg"
+    },
+    {
+      "seconds": 377,
+      "sharpness": 100.49,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-17.jpg"
+    },
+    {
+      "seconds": 378,
+      "sharpness": 111.12,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-18.jpg"
+    },
+    {
+      "seconds": 379,
+      "sharpness": 124.35,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-19.jpg"
+    },
+    {
+      "seconds": 380,
+      "sharpness": 98.21,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-20.jpg"
+    },
+    {
+      "seconds": 381,
+      "sharpness": 58.69,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-21.jpg"
+    },
+    {
+      "seconds": 382,
+      "sharpness": 109.04,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-22.jpg"
+    },
+    {
+      "seconds": 383,
+      "sharpness": 99.24,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-23.jpg"
+    },
+    {
+      "seconds": 384,
+      "sharpness": 75.0,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-24.jpg"
+    },
+    {
+      "seconds": 385,
+      "sharpness": 47.88,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-25.jpg"
+    },
+    {
+      "seconds": 386,
+      "sharpness": 71.38,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-26.jpg"
+    },
+    {
+      "seconds": 387,
+      "sharpness": 66.84,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-27.jpg"
+    },
+    {
+      "seconds": 388,
+      "sharpness": 57.49,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-28.jpg"
+    },
+    {
+      "seconds": 389,
+      "sharpness": 46.59,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-29.jpg"
+    },
+    {
+      "seconds": 390,
+      "sharpness": 50.51,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-30.jpg"
+    },
+    {
+      "seconds": 391,
+      "sharpness": 69.13,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-31.jpg"
+    },
+    {
+      "seconds": 392,
+      "sharpness": 109.82,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-32.jpg"
+    },
+    {
+      "seconds": 393,
+      "sharpness": 117.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-33.jpg"
+    },
+    {
+      "seconds": 394,
+      "sharpness": 159.58,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-34.jpg"
+    },
+    {
+      "seconds": 395,
+      "sharpness": 172.5,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-35.jpg"
+    },
+    {
+      "seconds": 396,
+      "sharpness": 146.05,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-36.jpg"
+    },
+    {
+      "seconds": 397,
+      "sharpness": 141.39,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-37.jpg"
+    },
+    {
+      "seconds": 398,
+      "sharpness": 153.6,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-38.jpg"
+    },
+    {
+      "seconds": 399,
+      "sharpness": 165.65,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-39.jpg"
+    },
+    {
+      "seconds": 400,
+      "sharpness": 183.88,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-40.jpg"
+    },
+    {
+      "seconds": 401,
+      "sharpness": 173.69,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-41.jpg"
+    },
+    {
+      "seconds": 402,
+      "sharpness": 175.79,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-42.jpg"
+    },
+    {
+      "seconds": 403,
+      "sharpness": 153.06,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-43.jpg"
+    },
+    {
+      "seconds": 404,
+      "sharpness": 56.85,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-44.jpg"
+    },
+    {
+      "seconds": 405,
+      "sharpness": 108.58,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-45.jpg"
+    },
+    {
+      "seconds": 406,
+      "sharpness": 160.19,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-46.jpg"
+    },
+    {
+      "seconds": 407,
+      "sharpness": 110.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-47.jpg"
+    },
+    {
+      "seconds": 408,
+      "sharpness": 176.84,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-48.jpg"
+    },
+    {
+      "seconds": 409,
+      "sharpness": 129.9,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-49.jpg"
+    },
+    {
+      "seconds": 410,
+      "sharpness": 149.77,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-50.jpg"
+    },
+    {
+      "seconds": 411,
+      "sharpness": 122.61,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-51.jpg"
+    },
+    {
+      "seconds": 412,
+      "sharpness": 139.88,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-52.jpg"
+    },
+    {
+      "seconds": 413,
+      "sharpness": 164.08,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-53.jpg"
+    },
+    {
+      "seconds": 414,
+      "sharpness": 184.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-54.jpg"
+    },
+    {
+      "seconds": 415,
+      "sharpness": 95.6,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-55.jpg"
+    },
+    {
+      "seconds": 416,
+      "sharpness": 168.2,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-56.jpg"
+    },
+    {
+      "seconds": 417,
+      "sharpness": 180.27,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-57.jpg"
+    },
+    {
+      "seconds": 418,
+      "sharpness": 167.12,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-58.jpg"
+    },
+    {
+      "seconds": 419,
+      "sharpness": 170.59,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-59.jpg"
+    },
+    {
+      "seconds": 420,
+      "sharpness": 197.02,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-00.jpg"
+    },
+    {
+      "seconds": 421,
+      "sharpness": 215.15,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-01.jpg"
+    },
+    {
+      "seconds": 422,
+      "sharpness": 128.75,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-02.jpg"
+    },
+    {
+      "seconds": 423,
+      "sharpness": 174.9,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-03.jpg"
+    },
+    {
+      "seconds": 424,
+      "sharpness": 268.74,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-04.jpg"
+    },
+    {
+      "seconds": 425,
+      "sharpness": 103.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-05.jpg"
+    },
+    {
+      "seconds": 426,
+      "sharpness": 54.5,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-06.jpg"
+    },
+    {
+      "seconds": 427,
+      "sharpness": 166.42,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-07.jpg"
+    },
+    {
+      "seconds": 428,
+      "sharpness": 180.06,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-08.jpg"
+    },
+    {
+      "seconds": 429,
+      "sharpness": 251.81,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-09.jpg"
+    },
+    {
+      "seconds": 430,
+      "sharpness": 123.49,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-10.jpg"
+    },
+    {
+      "seconds": 431,
+      "sharpness": 146.8,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-11.jpg"
+    },
+    {
+      "seconds": 432,
+      "sharpness": 305.73,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-12.jpg"
+    },
+    {
+      "seconds": 433,
+      "sharpness": 187.95,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-13.jpg"
+    },
+    {
+      "seconds": 434,
+      "sharpness": 198.47,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-14.jpg"
+    },
+    {
+      "seconds": 435,
+      "sharpness": 202.27,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-15.jpg"
+    },
+    {
+      "seconds": 436,
+      "sharpness": 80.24,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-16.jpg"
+    },
+    {
+      "seconds": 437,
+      "sharpness": 214.02,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-17.jpg"
+    },
+    {
+      "seconds": 438,
+      "sharpness": 285.13,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-18.jpg"
+    },
+    {
+      "seconds": 439,
+      "sharpness": 211.65,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-19.jpg"
+    },
+    {
+      "seconds": 440,
+      "sharpness": 150.99,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-20.jpg"
+    },
+    {
+      "seconds": 441,
+      "sharpness": 177.59,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-21.jpg"
+    },
+    {
+      "seconds": 442,
+      "sharpness": 151.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-22.jpg"
+    },
+    {
+      "seconds": 443,
+      "sharpness": 170.89,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-23.jpg"
+    },
+    {
+      "seconds": 444,
+      "sharpness": 135.9,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-24.jpg"
+    },
+    {
+      "seconds": 445,
+      "sharpness": 168.6,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-25.jpg"
+    },
+    {
+      "seconds": 446,
+      "sharpness": 118.04,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-26.jpg"
+    },
+    {
+      "seconds": 447,
+      "sharpness": 101.41,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-27.jpg"
+    },
+    {
+      "seconds": 448,
+      "sharpness": 116.43,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-28.jpg"
+    },
+    {
+      "seconds": 449,
+      "sharpness": 207.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-29.jpg"
+    },
+    {
+      "seconds": 450,
+      "sharpness": 123.46,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-30.jpg"
+    },
+    {
+      "seconds": 451,
+      "sharpness": 107.08,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-31.jpg"
+    },
+    {
+      "seconds": 452,
+      "sharpness": 140.86,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-32.jpg"
+    },
+    {
+      "seconds": 453,
+      "sharpness": 68.12,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-33.jpg"
+    },
+    {
+      "seconds": 454,
+      "sharpness": 75.22,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-34.jpg"
+    },
+    {
+      "seconds": 455,
+      "sharpness": 80.59,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-35.jpg"
+    },
+    {
+      "seconds": 456,
+      "sharpness": 68.1,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-36.jpg"
+    },
+    {
+      "seconds": 457,
+      "sharpness": 65.36,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-37.jpg"
+    },
+    {
+      "seconds": 458,
+      "sharpness": 106.62,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-38.jpg"
+    },
+    {
+      "seconds": 459,
+      "sharpness": 101.4,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-39.jpg"
+    },
+    {
+      "seconds": 460,
+      "sharpness": 100.49,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-40.jpg"
+    },
+    {
+      "seconds": 461,
+      "sharpness": 119.38,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-41.jpg"
+    },
+    {
+      "seconds": 462,
+      "sharpness": 113.03,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-42.jpg"
+    },
+    {
+      "seconds": 463,
+      "sharpness": 119.19,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-43.jpg"
+    },
+    {
+      "seconds": 464,
+      "sharpness": 107.28,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-44.jpg"
+    },
+    {
+      "seconds": 465,
+      "sharpness": 106.37,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-45.jpg"
+    },
+    {
+      "seconds": 466,
+      "sharpness": 117.85,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-46.jpg"
+    },
+    {
+      "seconds": 467,
+      "sharpness": 103.19,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-47.jpg"
+    },
+    {
+      "seconds": 468,
+      "sharpness": 86.12,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-48.jpg"
+    },
+    {
+      "seconds": 469,
+      "sharpness": 101.1,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-49.jpg"
+    },
+    {
+      "seconds": 470,
+      "sharpness": 178.41,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-50.jpg"
+    },
+    {
+      "seconds": 471,
+      "sharpness": 180.23,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-51.jpg"
+    },
+    {
+      "seconds": 472,
+      "sharpness": 193.36,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-52.jpg"
+    },
+    {
+      "seconds": 473,
+      "sharpness": 147.69,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-53.jpg"
+    },
+    {
+      "seconds": 474,
+      "sharpness": 152.83,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-54.jpg"
+    },
+    {
+      "seconds": 475,
+      "sharpness": 125.2,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-55.jpg"
+    },
+    {
+      "seconds": 476,
+      "sharpness": 113.49,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-56.jpg"
+    },
+    {
+      "seconds": 477,
+      "sharpness": 86.58,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-57.jpg"
+    },
+    {
+      "seconds": 478,
+      "sharpness": 55.74,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-58.jpg"
+    },
+    {
+      "seconds": 479,
+      "sharpness": 57.94,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-59.jpg"
+    },
+    {
+      "seconds": 480,
+      "sharpness": 61.76,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-00.jpg"
+    },
+    {
+      "seconds": 481,
+      "sharpness": 67.0,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-01.jpg"
+    },
+    {
+      "seconds": 482,
+      "sharpness": 64.19,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-02.jpg"
+    },
+    {
+      "seconds": 483,
+      "sharpness": 63.07,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-03.jpg"
+    },
+    {
+      "seconds": 484,
+      "sharpness": 63.08,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-04.jpg"
+    },
+    {
+      "seconds": 485,
+      "sharpness": 54.88,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-05.jpg"
+    },
+    {
+      "seconds": 486,
+      "sharpness": 39.18,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-06.jpg"
+    },
+    {
+      "seconds": 487,
+      "sharpness": 54.94,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-07.jpg"
+    },
+    {
+      "seconds": 488,
+      "sharpness": 32.26,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-08.jpg"
+    },
+    {
+      "seconds": 489,
+      "sharpness": 14.38,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-09.jpg"
+    },
+    {
+      "seconds": 490,
+      "sharpness": 59.33,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-10.jpg"
+    },
+    {
+      "seconds": 491,
+      "sharpness": 79.74,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-11.jpg"
+    },
+    {
+      "seconds": 492,
+      "sharpness": 80.18,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-12.jpg"
+    },
+    {
+      "seconds": 493,
+      "sharpness": 77.87,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-13.jpg"
+    },
+    {
+      "seconds": 494,
+      "sharpness": 87.46,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-14.jpg"
+    },
+    {
+      "seconds": 495,
+      "sharpness": 87.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-15.jpg"
+    },
+    {
+      "seconds": 496,
+      "sharpness": 72.98,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-16.jpg"
+    },
+    {
+      "seconds": 497,
+      "sharpness": 78.29,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-17.jpg"
+    },
+    {
+      "seconds": 498,
+      "sharpness": 71.74,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-18.jpg"
+    },
+    {
+      "seconds": 499,
+      "sharpness": 80.38,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-19.jpg"
+    },
+    {
+      "seconds": 500,
+      "sharpness": 75.96,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-20.jpg"
+    },
+    {
+      "seconds": 501,
+      "sharpness": 68.8,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-21.jpg"
+    },
+    {
+      "seconds": 502,
+      "sharpness": 85.05,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-22.jpg"
+    },
+    {
+      "seconds": 503,
+      "sharpness": 107.27,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-23.jpg"
+    },
+    {
+      "seconds": 504,
+      "sharpness": 131.67,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-24.jpg"
+    },
+    {
+      "seconds": 505,
+      "sharpness": 111.46,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-25.jpg"
+    },
+    {
+      "seconds": 506,
+      "sharpness": 143.06,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-26.jpg"
+    },
+    {
+      "seconds": 507,
+      "sharpness": 66.79,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-27.jpg"
+    },
+    {
+      "seconds": 508,
+      "sharpness": 83.93,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-28.jpg"
+    },
+    {
+      "seconds": 509,
+      "sharpness": 106.0,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-29.jpg"
+    },
+    {
+      "seconds": 510,
+      "sharpness": 110.99,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-30.jpg"
+    },
+    {
+      "seconds": 511,
+      "sharpness": 93.94,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-31.jpg"
+    },
+    {
+      "seconds": 512,
+      "sharpness": 99.91,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-32.jpg"
+    },
+    {
+      "seconds": 513,
+      "sharpness": 93.24,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-33.jpg"
+    },
+    {
+      "seconds": 514,
+      "sharpness": 107.18,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-34.jpg"
+    },
+    {
+      "seconds": 515,
+      "sharpness": 96.68,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-35.jpg"
+    },
+    {
+      "seconds": 516,
+      "sharpness": 74.47,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-36.jpg"
+    },
+    {
+      "seconds": 517,
+      "sharpness": 92.91,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-37.jpg"
+    },
+    {
+      "seconds": 518,
+      "sharpness": 97.93,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-38.jpg"
+    },
+    {
+      "seconds": 519,
+      "sharpness": 85.52,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-39.jpg"
+    },
+    {
+      "seconds": 520,
+      "sharpness": 87.27,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-40.jpg"
+    },
+    {
+      "seconds": 521,
+      "sharpness": 88.27,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-41.jpg"
+    },
+    {
+      "seconds": 522,
+      "sharpness": 84.71,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-42.jpg"
+    },
+    {
+      "seconds": 523,
+      "sharpness": 106.05,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-43.jpg"
+    },
+    {
+      "seconds": 524,
+      "sharpness": 139.64,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-44.jpg"
+    },
+    {
+      "seconds": 525,
+      "sharpness": 91.49,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-45.jpg"
+    },
+    {
+      "seconds": 526,
+      "sharpness": 101.94,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-46.jpg"
+    },
+    {
+      "seconds": 527,
+      "sharpness": 110.57,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-47.jpg"
+    },
+    {
+      "seconds": 528,
+      "sharpness": 127.55,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-48.jpg"
+    },
+    {
+      "seconds": 529,
+      "sharpness": 46.01,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-49.jpg"
+    },
+    {
+      "seconds": 530,
+      "sharpness": 110.47,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-50.jpg"
+    },
+    {
+      "seconds": 531,
+      "sharpness": 47.38,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-51.jpg"
+    },
+    {
+      "seconds": 532,
+      "sharpness": 38.4,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-52.jpg"
+    },
+    {
+      "seconds": 533,
+      "sharpness": 127.1,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-53.jpg"
+    },
+    {
+      "seconds": 534,
+      "sharpness": 124.65,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-54.jpg"
+    },
+    {
+      "seconds": 535,
+      "sharpness": 96.68,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-55.jpg"
+    },
+    {
+      "seconds": 536,
+      "sharpness": 127.02,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-56.jpg"
+    },
+    {
+      "seconds": 537,
+      "sharpness": 157.62,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-57.jpg"
+    },
+    {
+      "seconds": 538,
+      "sharpness": 74.92,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-58.jpg"
+    },
+    {
+      "seconds": 539,
+      "sharpness": 139.98,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-59.jpg"
+    },
+    {
+      "seconds": 610,
+      "sharpness": 130.62,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-10.jpg"
+    },
+    {
+      "seconds": 611,
+      "sharpness": 210.59,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-11.jpg"
+    },
+    {
+      "seconds": 612,
+      "sharpness": 100.8,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-12.jpg"
+    },
+    {
+      "seconds": 613,
+      "sharpness": 23.16,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-13.jpg"
+    },
+    {
+      "seconds": 614,
+      "sharpness": 13.51,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-14.jpg"
+    },
+    {
+      "seconds": 615,
+      "sharpness": 12.18,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-15.jpg"
+    },
+    {
+      "seconds": 616,
+      "sharpness": 31.65,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-16.jpg"
+    },
+    {
+      "seconds": 617,
+      "sharpness": 38.51,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-17.jpg"
+    },
+    {
+      "seconds": 618,
+      "sharpness": 46.74,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-18.jpg"
+    },
+    {
+      "seconds": 619,
+      "sharpness": 46.8,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-19.jpg"
+    },
+    {
+      "seconds": 620,
+      "sharpness": 54.56,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-20.jpg"
+    },
+    {
+      "seconds": 621,
+      "sharpness": 37.32,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-21.jpg"
+    },
+    {
+      "seconds": 622,
+      "sharpness": 63.67,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-22.jpg"
+    },
+    {
+      "seconds": 623,
+      "sharpness": 7.11,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-23.jpg"
+    },
+    {
+      "seconds": 624,
+      "sharpness": 4.4,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-24.jpg"
+    },
+    {
+      "seconds": 625,
+      "sharpness": 2.95,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-25.jpg"
+    },
+    {
+      "seconds": 626,
+      "sharpness": 2.68,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-26.jpg"
+    },
+    {
+      "seconds": 627,
+      "sharpness": 2.88,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-27.jpg"
+    },
+    {
+      "seconds": 628,
+      "sharpness": 3.34,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-28.jpg"
+    },
+    {
+      "seconds": 629,
+      "sharpness": 2.4,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-29.jpg"
+    },
+    {
+      "seconds": 630,
+      "sharpness": 4.19,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-30.jpg"
+    },
+    {
+      "seconds": 631,
+      "sharpness": 40.53,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-31.jpg"
+    },
+    {
+      "seconds": 632,
+      "sharpness": 4.22,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-32.jpg"
+    },
+    {
+      "seconds": 633,
+      "sharpness": 3.66,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-33.jpg"
+    },
+    {
+      "seconds": 634,
+      "sharpness": 22.53,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-34.jpg"
+    },
+    {
+      "seconds": 635,
+      "sharpness": 15.17,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-35.jpg"
+    },
+    {
+      "seconds": 636,
+      "sharpness": 6.86,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-36.jpg"
+    },
+    {
+      "seconds": 637,
+      "sharpness": 2.44,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-37.jpg"
+    },
+    {
+      "seconds": 638,
+      "sharpness": 2.51,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-38.jpg"
+    },
+    {
+      "seconds": 639,
+      "sharpness": 2.77,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-39.jpg"
+    },
+    {
+      "seconds": 640,
+      "sharpness": 4.06,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-40.jpg"
+    },
+    {
+      "seconds": 641,
+      "sharpness": 9.85,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-41.jpg"
+    },
+    {
+      "seconds": 642,
+      "sharpness": 20.46,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-42.jpg"
+    },
+    {
+      "seconds": 643,
+      "sharpness": 14.47,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-43.jpg"
+    },
+    {
+      "seconds": 644,
+      "sharpness": 10.99,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-44.jpg"
+    },
+    {
+      "seconds": 645,
+      "sharpness": 12.5,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-45.jpg"
+    },
+    {
+      "seconds": 646,
+      "sharpness": 33.54,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-46.jpg"
+    },
+    {
+      "seconds": 647,
+      "sharpness": 36.84,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-47.jpg"
+    },
+    {
+      "seconds": 648,
+      "sharpness": 35.12,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-48.jpg"
+    },
+    {
+      "seconds": 649,
+      "sharpness": 29.18,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-49.jpg"
+    },
+    {
+      "seconds": 650,
+      "sharpness": 50.26,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-50.jpg"
+    },
+    {
+      "seconds": 651,
+      "sharpness": 47.58,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-51.jpg"
+    },
+    {
+      "seconds": 652,
+      "sharpness": 62.31,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-52.jpg"
+    },
+    {
+      "seconds": 653,
+      "sharpness": 58.29,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-53.jpg"
+    },
+    {
+      "seconds": 654,
+      "sharpness": 68.89,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-54.jpg"
+    },
+    {
+      "seconds": 655,
+      "sharpness": 77.68,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-55.jpg"
+    },
+    {
+      "seconds": 656,
+      "sharpness": 87.09,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-56.jpg"
+    },
+    {
+      "seconds": 657,
+      "sharpness": 57.56,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-57.jpg"
+    },
+    {
+      "seconds": 658,
+      "sharpness": 74.78,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-58.jpg"
+    },
+    {
+      "seconds": 659,
+      "sharpness": 51.04,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-59.jpg"
+    },
+    {
+      "seconds": 660,
+      "sharpness": 70.06,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-00.jpg"
+    },
+    {
+      "seconds": 661,
+      "sharpness": 65.87,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-01.jpg"
+    },
+    {
+      "seconds": 662,
+      "sharpness": 66.82,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-02.jpg"
+    },
+    {
+      "seconds": 663,
+      "sharpness": 44.42,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-03.jpg"
+    },
+    {
+      "seconds": 664,
+      "sharpness": 26.06,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-04.jpg"
+    },
+    {
+      "seconds": 665,
+      "sharpness": 28.24,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-05.jpg"
+    },
+    {
+      "seconds": 666,
+      "sharpness": 40.33,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-06.jpg"
+    },
+    {
+      "seconds": 667,
+      "sharpness": 32.22,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-07.jpg"
+    },
+    {
+      "seconds": 668,
+      "sharpness": 26.94,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-08.jpg"
+    },
+    {
+      "seconds": 669,
+      "sharpness": 32.75,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-09.jpg"
+    },
+    {
+      "seconds": 670,
+      "sharpness": 41.42,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-10.jpg"
+    },
+    {
+      "seconds": 671,
+      "sharpness": 16.86,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-11.jpg"
+    },
+    {
+      "seconds": 672,
+      "sharpness": 10.88,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-12.jpg"
+    },
+    {
+      "seconds": 673,
+      "sharpness": 25.46,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-13.jpg"
+    },
+    {
+      "seconds": 674,
+      "sharpness": 20.26,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-14.jpg"
+    },
+    {
+      "seconds": 675,
+      "sharpness": 7.96,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-15.jpg"
+    },
+    {
+      "seconds": 676,
+      "sharpness": 10.77,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-16.jpg"
+    },
+    {
+      "seconds": 677,
+      "sharpness": 38.81,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-17.jpg"
+    },
+    {
+      "seconds": 678,
+      "sharpness": 30.32,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-18.jpg"
+    },
+    {
+      "seconds": 679,
+      "sharpness": 12.58,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-19.jpg"
+    },
+    {
+      "seconds": 680,
+      "sharpness": 17.51,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-20.jpg"
+    },
+    {
+      "seconds": 681,
+      "sharpness": 19.5,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-21.jpg"
+    },
+    {
+      "seconds": 682,
+      "sharpness": 14.18,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-22.jpg"
+    },
+    {
+      "seconds": 683,
+      "sharpness": 25.63,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-23.jpg"
+    },
+    {
+      "seconds": 684,
+      "sharpness": 36.4,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-24.jpg"
+    },
+    {
+      "seconds": 685,
+      "sharpness": 32.81,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-25.jpg"
+    },
+    {
+      "seconds": 686,
+      "sharpness": 13.69,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-26.jpg"
+    },
+    {
+      "seconds": 687,
+      "sharpness": 12.08,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-27.jpg"
+    },
+    {
+      "seconds": 688,
+      "sharpness": 11.73,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-28.jpg"
+    },
+    {
+      "seconds": 689,
+      "sharpness": 14.1,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-29.jpg"
+    },
+    {
+      "seconds": 690,
+      "sharpness": 22.51,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-30.jpg"
+    },
+    {
+      "seconds": 691,
+      "sharpness": 35.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-31.jpg"
+    },
+    {
+      "seconds": 692,
+      "sharpness": 41.92,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-32.jpg"
+    },
+    {
+      "seconds": 693,
+      "sharpness": 75.52,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-33.jpg"
+    },
+    {
+      "seconds": 694,
+      "sharpness": 66.4,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-34.jpg"
+    },
+    {
+      "seconds": 695,
+      "sharpness": 69.94,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-35.jpg"
+    },
+    {
+      "seconds": 696,
+      "sharpness": 66.06,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-36.jpg"
+    },
+    {
+      "seconds": 697,
+      "sharpness": 70.53,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-37.jpg"
+    },
+    {
+      "seconds": 698,
+      "sharpness": 39.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-38.jpg"
+    },
+    {
+      "seconds": 699,
+      "sharpness": 53.68,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-39.jpg"
+    },
+    {
+      "seconds": 700,
+      "sharpness": 30.68,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-40.jpg"
+    },
+    {
+      "seconds": 701,
+      "sharpness": 32.05,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-41.jpg"
+    },
+    {
+      "seconds": 702,
+      "sharpness": 54.24,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-42.jpg"
+    },
+    {
+      "seconds": 703,
+      "sharpness": 54.63,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-43.jpg"
+    },
+    {
+      "seconds": 704,
+      "sharpness": 65.54,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-44.jpg"
+    },
+    {
+      "seconds": 705,
+      "sharpness": 82.15,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-45.jpg"
+    },
+    {
+      "seconds": 706,
+      "sharpness": 83.88,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-46.jpg"
+    },
+    {
+      "seconds": 707,
+      "sharpness": 96.07,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-47.jpg"
+    },
+    {
+      "seconds": 708,
+      "sharpness": 109.08,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-48.jpg"
+    },
+    {
+      "seconds": 709,
+      "sharpness": 69.73,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-49.jpg"
+    },
+    {
+      "seconds": 710,
+      "sharpness": 91.42,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-50.jpg"
+    },
+    {
+      "seconds": 711,
+      "sharpness": 23.28,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-51.jpg"
+    },
+    {
+      "seconds": 712,
+      "sharpness": 26.0,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-52.jpg"
+    },
+    {
+      "seconds": 713,
+      "sharpness": 47.46,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-53.jpg"
+    },
+    {
+      "seconds": 714,
+      "sharpness": 26.6,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-54.jpg"
+    },
+    {
+      "seconds": 715,
+      "sharpness": 17.96,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-55.jpg"
+    },
+    {
+      "seconds": 716,
+      "sharpness": 55.11,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-56.jpg"
+    },
+    {
+      "seconds": 717,
+      "sharpness": 63.89,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-57.jpg"
+    },
+    {
+      "seconds": 718,
+      "sharpness": 40.51,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-58.jpg"
+    },
+    {
+      "seconds": 719,
+      "sharpness": 50.29,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-59.jpg"
+    },
+    {
+      "seconds": 720,
+      "sharpness": 58.82,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-00.jpg"
+    },
+    {
+      "seconds": 721,
+      "sharpness": 58.82,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-01.jpg"
+    },
+    {
+      "seconds": 722,
+      "sharpness": 52.16,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-02.jpg"
+    },
+    {
+      "seconds": 723,
+      "sharpness": 75.67,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-03.jpg"
+    },
+    {
+      "seconds": 724,
+      "sharpness": 25.53,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-04.jpg"
+    },
+    {
+      "seconds": 725,
+      "sharpness": 62.57,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-05.jpg"
+    },
+    {
+      "seconds": 726,
+      "sharpness": 69.1,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-06.jpg"
+    },
+    {
+      "seconds": 727,
+      "sharpness": 79.08,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-07.jpg"
+    },
+    {
+      "seconds": 728,
+      "sharpness": 74.15,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-08.jpg"
+    },
+    {
+      "seconds": 729,
+      "sharpness": 71.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-09.jpg"
+    },
+    {
+      "seconds": 730,
+      "sharpness": 59.98,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-10.jpg"
+    },
+    {
+      "seconds": 731,
+      "sharpness": 65.86,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-11.jpg"
+    },
+    {
+      "seconds": 732,
+      "sharpness": 86.28,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-12.jpg"
+    },
+    {
+      "seconds": 733,
+      "sharpness": 102.08,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-13.jpg"
+    },
+    {
+      "seconds": 734,
+      "sharpness": 79.12,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-14.jpg"
+    },
+    {
+      "seconds": 735,
+      "sharpness": 98.56,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-15.jpg"
+    },
+    {
+      "seconds": 736,
+      "sharpness": 93.79,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-16.jpg"
+    },
+    {
+      "seconds": 737,
+      "sharpness": 63.28,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-17.jpg"
+    },
+    {
+      "seconds": 738,
+      "sharpness": 66.63,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-18.jpg"
+    },
+    {
+      "seconds": 739,
+      "sharpness": 63.66,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-19.jpg"
+    },
+    {
+      "seconds": 740,
+      "sharpness": 70.78,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-20.jpg"
+    },
+    {
+      "seconds": 741,
+      "sharpness": 42.62,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-21.jpg"
+    },
+    {
+      "seconds": 742,
+      "sharpness": 35.98,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-22.jpg"
+    },
+    {
+      "seconds": 743,
+      "sharpness": 34.31,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-23.jpg"
+    },
+    {
+      "seconds": 744,
+      "sharpness": 22.83,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-24.jpg"
+    },
+    {
+      "seconds": 745,
+      "sharpness": 23.21,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-25.jpg"
+    },
+    {
+      "seconds": 746,
+      "sharpness": 30.81,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-26.jpg"
+    },
+    {
+      "seconds": 747,
+      "sharpness": 42.12,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-27.jpg"
+    },
+    {
+      "seconds": 748,
+      "sharpness": 42.58,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-28.jpg"
+    },
+    {
+      "seconds": 749,
+      "sharpness": 50.44,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-29.jpg"
+    },
+    {
+      "seconds": 750,
+      "sharpness": 67.86,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-30.jpg"
+    },
+    {
+      "seconds": 751,
+      "sharpness": 80.75,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-31.jpg"
+    },
+    {
+      "seconds": 752,
+      "sharpness": 74.51,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-32.jpg"
+    },
+    {
+      "seconds": 753,
+      "sharpness": 26.91,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-33.jpg"
+    },
+    {
+      "seconds": 754,
+      "sharpness": 10.83,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-34.jpg"
+    },
+    {
+      "seconds": 755,
+      "sharpness": 23.96,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-35.jpg"
+    },
+    {
+      "seconds": 756,
+      "sharpness": 20.8,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-36.jpg"
+    },
+    {
+      "seconds": 757,
+      "sharpness": 17.93,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-37.jpg"
+    },
+    {
+      "seconds": 758,
+      "sharpness": 12.78,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-38.jpg"
+    },
+    {
+      "seconds": 759,
+      "sharpness": 14.08,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-39.jpg"
+    },
+    {
+      "seconds": 760,
+      "sharpness": 26.02,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-40.jpg"
+    },
+    {
+      "seconds": 761,
+      "sharpness": 20.76,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-41.jpg"
+    },
+    {
+      "seconds": 762,
+      "sharpness": 20.95,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-42.jpg"
+    },
+    {
+      "seconds": 763,
+      "sharpness": 30.55,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-43.jpg"
+    },
+    {
+      "seconds": 764,
+      "sharpness": 18.45,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-44.jpg"
+    },
+    {
+      "seconds": 765,
+      "sharpness": 20.72,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-45.jpg"
+    },
+    {
+      "seconds": 766,
+      "sharpness": 26.76,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-46.jpg"
+    },
+    {
+      "seconds": 767,
+      "sharpness": 44.47,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-47.jpg"
+    },
+    {
+      "seconds": 768,
+      "sharpness": 45.6,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-48.jpg"
+    },
+    {
+      "seconds": 769,
+      "sharpness": 29.54,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-49.jpg"
+    },
+    {
+      "seconds": 770,
+      "sharpness": 28.63,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-50.jpg"
+    },
+    {
+      "seconds": 771,
+      "sharpness": 26.29,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-51.jpg"
+    },
+    {
+      "seconds": 772,
+      "sharpness": 18.58,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-52.jpg"
+    },
+    {
+      "seconds": 773,
+      "sharpness": 32.06,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-53.jpg"
+    },
+    {
+      "seconds": 774,
+      "sharpness": 29.77,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-54.jpg"
+    },
+    {
+      "seconds": 775,
+      "sharpness": 26.23,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-55.jpg"
+    },
+    {
+      "seconds": 776,
+      "sharpness": 32.44,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-56.jpg"
+    },
+    {
+      "seconds": 777,
+      "sharpness": 21.75,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-57.jpg"
+    },
+    {
+      "seconds": 778,
+      "sharpness": 26.73,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-58.jpg"
+    },
+    {
+      "seconds": 779,
+      "sharpness": 12.83,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-59.jpg"
+    },
+    {
+      "seconds": 780,
+      "sharpness": 39.96,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-00.jpg"
+    },
+    {
+      "seconds": 781,
+      "sharpness": 24.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-01.jpg"
+    },
+    {
+      "seconds": 782,
+      "sharpness": 29.66,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-02.jpg"
+    },
+    {
+      "seconds": 783,
+      "sharpness": 22.54,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-03.jpg"
+    },
+    {
+      "seconds": 784,
+      "sharpness": 20.16,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-04.jpg"
+    },
+    {
+      "seconds": 785,
+      "sharpness": 19.14,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-05.jpg"
+    },
+    {
+      "seconds": 786,
+      "sharpness": 25.95,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-06.jpg"
+    },
+    {
+      "seconds": 787,
+      "sharpness": 53.15,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-07.jpg"
+    },
+    {
+      "seconds": 788,
+      "sharpness": 62.2,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-08.jpg"
+    },
+    {
+      "seconds": 789,
+      "sharpness": 61.82,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-09.jpg"
+    },
+    {
+      "seconds": 790,
+      "sharpness": 57.15,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-10.jpg"
+    },
+    {
+      "seconds": 791,
+      "sharpness": 57.84,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-11.jpg"
+    },
+    {
+      "seconds": 792,
+      "sharpness": 54.25,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-12.jpg"
+    },
+    {
+      "seconds": 793,
+      "sharpness": 65.6,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-13.jpg"
+    },
+    {
+      "seconds": 794,
+      "sharpness": 79.88,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-14.jpg"
+    },
+    {
+      "seconds": 795,
+      "sharpness": 66.28,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-15.jpg"
+    },
+    {
+      "seconds": 796,
+      "sharpness": 85.9,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-16.jpg"
+    },
+    {
+      "seconds": 797,
+      "sharpness": 61.91,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-17.jpg"
+    },
+    {
+      "seconds": 798,
+      "sharpness": 67.98,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-18.jpg"
+    },
+    {
+      "seconds": 799,
+      "sharpness": 86.02,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-19.jpg"
+    },
+    {
+      "seconds": 800,
+      "sharpness": 59.25,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-20.jpg"
+    },
+    {
+      "seconds": 801,
+      "sharpness": 43.15,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-21.jpg"
+    },
+    {
+      "seconds": 802,
+      "sharpness": 28.71,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-22.jpg"
+    },
+    {
+      "seconds": 803,
+      "sharpness": 23.11,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-23.jpg"
+    },
+    {
+      "seconds": 804,
+      "sharpness": 11.84,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-24.jpg"
+    },
+    {
+      "seconds": 805,
+      "sharpness": 12.24,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-25.jpg"
+    },
+    {
+      "seconds": 806,
+      "sharpness": 28.71,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-26.jpg"
+    },
+    {
+      "seconds": 807,
+      "sharpness": 30.61,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-27.jpg"
+    },
+    {
+      "seconds": 808,
+      "sharpness": 26.0,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-28.jpg"
+    },
+    {
+      "seconds": 809,
+      "sharpness": 16.84,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-29.jpg"
+    },
+    {
+      "seconds": 810,
+      "sharpness": 43.07,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-30.jpg"
+    },
+    {
+      "seconds": 811,
+      "sharpness": 35.61,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-31.jpg"
+    },
+    {
+      "seconds": 812,
+      "sharpness": 28.14,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-32.jpg"
+    },
+    {
+      "seconds": 813,
+      "sharpness": 16.79,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-33.jpg"
+    },
+    {
+      "seconds": 814,
+      "sharpness": 9.81,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-34.jpg"
+    },
+    {
+      "seconds": 815,
+      "sharpness": 17.52,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-35.jpg"
+    },
+    {
+      "seconds": 816,
+      "sharpness": 13.82,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-36.jpg"
+    },
+    {
+      "seconds": 817,
+      "sharpness": 14.75,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-37.jpg"
+    },
+    {
+      "seconds": 818,
+      "sharpness": 10.61,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-38.jpg"
+    },
+    {
+      "seconds": 819,
+      "sharpness": 9.13,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-39.jpg"
+    },
+    {
+      "seconds": 820,
+      "sharpness": 5.67,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-40.jpg"
+    },
+    {
+      "seconds": 821,
+      "sharpness": 8.9,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-41.jpg"
+    },
+    {
+      "seconds": 822,
+      "sharpness": 14.43,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-42.jpg"
+    },
+    {
+      "seconds": 823,
+      "sharpness": 27.22,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-43.jpg"
+    },
+    {
+      "seconds": 824,
+      "sharpness": 28.06,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-44.jpg"
+    },
+    {
+      "seconds": 825,
+      "sharpness": 13.5,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-45.jpg"
+    },
+    {
+      "seconds": 826,
+      "sharpness": 27.46,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-46.jpg"
+    },
+    {
+      "seconds": 827,
+      "sharpness": 42.33,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-47.jpg"
+    },
+    {
+      "seconds": 828,
+      "sharpness": 15.74,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-48.jpg"
+    },
+    {
+      "seconds": 829,
+      "sharpness": 7.06,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-49.jpg"
+    },
+    {
+      "seconds": 830,
+      "sharpness": 13.39,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-50.jpg"
+    },
+    {
+      "seconds": 831,
+      "sharpness": 31.14,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-51.jpg"
+    },
+    {
+      "seconds": 832,
+      "sharpness": 38.51,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-52.jpg"
+    },
+    {
+      "seconds": 833,
+      "sharpness": 60.57,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-53.jpg"
+    },
+    {
+      "seconds": 834,
+      "sharpness": 15.58,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-54.jpg"
+    },
+    {
+      "seconds": 835,
+      "sharpness": 23.68,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-55.jpg"
+    },
+    {
+      "seconds": 836,
+      "sharpness": 39.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-56.jpg"
+    },
+    {
+      "seconds": 837,
+      "sharpness": 6.34,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-57.jpg"
+    },
+    {
+      "seconds": 838,
+      "sharpness": 22.92,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-58.jpg"
+    },
+    {
+      "seconds": 839,
+      "sharpness": 6.15,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-59.jpg"
+    },
+    {
+      "seconds": 840,
+      "sharpness": 7.54,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-00.jpg"
+    },
+    {
+      "seconds": 841,
+      "sharpness": 25.28,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-01.jpg"
+    },
+    {
+      "seconds": 842,
+      "sharpness": 14.98,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-02.jpg"
+    },
+    {
+      "seconds": 843,
+      "sharpness": 16.47,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-03.jpg"
+    },
+    {
+      "seconds": 844,
+      "sharpness": 47.02,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-04.jpg"
+    },
+    {
+      "seconds": 845,
+      "sharpness": 35.81,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-05.jpg"
+    },
+    {
+      "seconds": 846,
+      "sharpness": 13.61,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-06.jpg"
+    },
+    {
+      "seconds": 847,
+      "sharpness": 21.49,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-07.jpg"
+    },
+    {
+      "seconds": 848,
+      "sharpness": 12.7,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-08.jpg"
+    },
+    {
+      "seconds": 849,
+      "sharpness": 8.89,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-09.jpg"
+    },
+    {
+      "seconds": 850,
+      "sharpness": 29.18,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-10.jpg"
+    },
+    {
+      "seconds": 851,
+      "sharpness": 30.5,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-11.jpg"
+    },
+    {
+      "seconds": 852,
+      "sharpness": 6.77,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-12.jpg"
+    },
+    {
+      "seconds": 853,
+      "sharpness": 13.87,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-13.jpg"
+    },
+    {
+      "seconds": 854,
+      "sharpness": 43.47,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-14.jpg"
+    },
+    {
+      "seconds": 855,
+      "sharpness": 19.24,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-15.jpg"
+    },
+    {
+      "seconds": 856,
+      "sharpness": 22.01,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-16.jpg"
+    },
+    {
+      "seconds": 857,
+      "sharpness": 31.96,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-17.jpg"
+    },
+    {
+      "seconds": 858,
+      "sharpness": 37.47,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-18.jpg"
+    },
+    {
+      "seconds": 859,
+      "sharpness": 42.72,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-19.jpg"
+    },
+    {
+      "seconds": 860,
+      "sharpness": 43.64,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-20.jpg"
+    },
+    {
+      "seconds": 861,
+      "sharpness": 20.65,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-21.jpg"
+    },
+    {
+      "seconds": 862,
+      "sharpness": 8.83,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-22.jpg"
+    },
+    {
+      "seconds": 863,
+      "sharpness": 26.53,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-23.jpg"
+    },
+    {
+      "seconds": 864,
+      "sharpness": 54.13,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-24.jpg"
+    },
+    {
+      "seconds": 865,
+      "sharpness": 27.31,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-25.jpg"
+    },
+    {
+      "seconds": 866,
+      "sharpness": 68.59,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-26.jpg"
+    },
+    {
+      "seconds": 867,
+      "sharpness": 51.36,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-27.jpg"
+    },
+    {
+      "seconds": 868,
+      "sharpness": 71.79,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-28.jpg"
+    },
+    {
+      "seconds": 869,
+      "sharpness": 8.3,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-29.jpg"
+    },
+    {
+      "seconds": 870,
+      "sharpness": 25.24,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-30.jpg"
+    },
+    {
+      "seconds": 871,
+      "sharpness": 7.8,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-31.jpg"
+    },
+    {
+      "seconds": 872,
+      "sharpness": 31.89,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-32.jpg"
+    },
+    {
+      "seconds": 873,
+      "sharpness": 64.02,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-33.jpg"
+    },
+    {
+      "seconds": 874,
+      "sharpness": 116.25,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-34.jpg"
+    },
+    {
+      "seconds": 875,
+      "sharpness": 136.1,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-35.jpg"
+    },
+    {
+      "seconds": 876,
+      "sharpness": 124.0,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-36.jpg"
+    },
+    {
+      "seconds": 877,
+      "sharpness": 62.77,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-37.jpg"
+    },
+    {
+      "seconds": 878,
+      "sharpness": 60.18,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-38.jpg"
+    },
+    {
+      "seconds": 879,
+      "sharpness": 111.89,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-39.jpg"
+    },
+    {
+      "seconds": 880,
+      "sharpness": 135.83,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-40.jpg"
+    },
+    {
+      "seconds": 881,
+      "sharpness": 92.96,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-41.jpg"
+    },
+    {
+      "seconds": 882,
+      "sharpness": 166.34,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-42.jpg"
+    },
+    {
+      "seconds": 883,
+      "sharpness": 156.07,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-43.jpg"
+    },
+    {
+      "seconds": 884,
+      "sharpness": 144.32,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-44.jpg"
+    },
+    {
+      "seconds": 885,
+      "sharpness": 177.51,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-45.jpg"
+    },
+    {
+      "seconds": 886,
+      "sharpness": 168.64,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-46.jpg"
+    },
+    {
+      "seconds": 887,
+      "sharpness": 135.63,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-47.jpg"
+    },
+    {
+      "seconds": 888,
+      "sharpness": 178.55,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-48.jpg"
+    },
+    {
+      "seconds": 889,
+      "sharpness": 156.18,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-49.jpg"
+    },
+    {
+      "seconds": 890,
+      "sharpness": 152.56,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-50.jpg"
+    }
+  ],
+  "review_candidates": [
+    {
+      "seconds": 353,
+      "sharpness": 252.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/05-53.jpg"
+    },
+    {
+      "seconds": 356,
+      "sharpness": 212.87,
+      "file": "assets/video-references/q0zBpicUXjg/dense/05-56.jpg"
+    },
+    {
+      "seconds": 363,
+      "sharpness": 59.76,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-03.jpg"
+    },
+    {
+      "seconds": 367,
+      "sharpness": 90.77,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-07.jpg"
+    },
+    {
+      "seconds": 374,
+      "sharpness": 113.34,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-14.jpg"
+    },
+    {
+      "seconds": 379,
+      "sharpness": 124.35,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-19.jpg"
+    },
+    {
+      "seconds": 382,
+      "sharpness": 109.04,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-22.jpg"
+    },
+    {
+      "seconds": 386,
+      "sharpness": 71.38,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-26.jpg"
+    },
+    {
+      "seconds": 394,
+      "sharpness": 159.58,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-34.jpg"
+    },
+    {
+      "seconds": 395,
+      "sharpness": 172.5,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-35.jpg"
+    },
+    {
+      "seconds": 400,
+      "sharpness": 183.88,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-40.jpg"
+    },
+    {
+      "seconds": 408,
+      "sharpness": 176.84,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-48.jpg"
+    },
+    {
+      "seconds": 414,
+      "sharpness": 184.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-54.jpg"
+    },
+    {
+      "seconds": 417,
+      "sharpness": 180.27,
+      "file": "assets/video-references/q0zBpicUXjg/dense/06-57.jpg"
+    },
+    {
+      "seconds": 424,
+      "sharpness": 268.74,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-04.jpg"
+    },
+    {
+      "seconds": 429,
+      "sharpness": 251.81,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-09.jpg"
+    },
+    {
+      "seconds": 432,
+      "sharpness": 305.73,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-12.jpg"
+    },
+    {
+      "seconds": 438,
+      "sharpness": 285.13,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-18.jpg"
+    },
+    {
+      "seconds": 441,
+      "sharpness": 177.59,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-21.jpg"
+    },
+    {
+      "seconds": 449,
+      "sharpness": 207.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-29.jpg"
+    },
+    {
+      "seconds": 452,
+      "sharpness": 140.86,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-32.jpg"
+    },
+    {
+      "seconds": 458,
+      "sharpness": 106.62,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-38.jpg"
+    },
+    {
+      "seconds": 461,
+      "sharpness": 119.38,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-41.jpg"
+    },
+    {
+      "seconds": 466,
+      "sharpness": 117.85,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-46.jpg"
+    },
+    {
+      "seconds": 472,
+      "sharpness": 193.36,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-52.jpg"
+    },
+    {
+      "seconds": 475,
+      "sharpness": 125.2,
+      "file": "assets/video-references/q0zBpicUXjg/dense/07-55.jpg"
+    },
+    {
+      "seconds": 481,
+      "sharpness": 67.0,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-01.jpg"
+    },
+    {
+      "seconds": 487,
+      "sharpness": 54.94,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-07.jpg"
+    },
+    {
+      "seconds": 494,
+      "sharpness": 87.46,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-14.jpg"
+    },
+    {
+      "seconds": 495,
+      "sharpness": 87.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-15.jpg"
+    },
+    {
+      "seconds": 504,
+      "sharpness": 131.67,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-24.jpg"
+    },
+    {
+      "seconds": 506,
+      "sharpness": 143.06,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-26.jpg"
+    },
+    {
+      "seconds": 510,
+      "sharpness": 110.99,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-30.jpg"
+    },
+    {
+      "seconds": 518,
+      "sharpness": 97.93,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-38.jpg"
+    },
+    {
+      "seconds": 524,
+      "sharpness": 139.64,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-44.jpg"
+    },
+    {
+      "seconds": 528,
+      "sharpness": 127.55,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-48.jpg"
+    },
+    {
+      "seconds": 533,
+      "sharpness": 127.1,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-53.jpg"
+    },
+    {
+      "seconds": 537,
+      "sharpness": 157.62,
+      "file": "assets/video-references/q0zBpicUXjg/dense/08-57.jpg"
+    },
+    {
+      "seconds": 611,
+      "sharpness": 210.59,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-11.jpg"
+    },
+    {
+      "seconds": 619,
+      "sharpness": 46.8,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-19.jpg"
+    },
+    {
+      "seconds": 622,
+      "sharpness": 63.67,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-22.jpg"
+    },
+    {
+      "seconds": 628,
+      "sharpness": 3.34,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-28.jpg"
+    },
+    {
+      "seconds": 631,
+      "sharpness": 40.53,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-31.jpg"
+    },
+    {
+      "seconds": 635,
+      "sharpness": 15.17,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-35.jpg"
+    },
+    {
+      "seconds": 642,
+      "sharpness": 20.46,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-42.jpg"
+    },
+    {
+      "seconds": 647,
+      "sharpness": 36.84,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-47.jpg"
+    },
+    {
+      "seconds": 654,
+      "sharpness": 68.89,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-54.jpg"
+    },
+    {
+      "seconds": 656,
+      "sharpness": 87.09,
+      "file": "assets/video-references/q0zBpicUXjg/dense/10-56.jpg"
+    },
+    {
+      "seconds": 660,
+      "sharpness": 70.06,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-00.jpg"
+    },
+    {
+      "seconds": 666,
+      "sharpness": 40.33,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-06.jpg"
+    },
+    {
+      "seconds": 670,
+      "sharpness": 41.42,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-10.jpg"
+    },
+    {
+      "seconds": 677,
+      "sharpness": 38.81,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-17.jpg"
+    },
+    {
+      "seconds": 684,
+      "sharpness": 36.4,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-24.jpg"
+    },
+    {
+      "seconds": 685,
+      "sharpness": 32.81,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-25.jpg"
+    },
+    {
+      "seconds": 693,
+      "sharpness": 75.52,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-33.jpg"
+    },
+    {
+      "seconds": 697,
+      "sharpness": 70.53,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-37.jpg"
+    },
+    {
+      "seconds": 704,
+      "sharpness": 65.54,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-44.jpg"
+    },
+    {
+      "seconds": 708,
+      "sharpness": 109.08,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-48.jpg"
+    },
+    {
+      "seconds": 710,
+      "sharpness": 91.42,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-50.jpg"
+    },
+    {
+      "seconds": 717,
+      "sharpness": 63.89,
+      "file": "assets/video-references/q0zBpicUXjg/dense/11-57.jpg"
+    },
+    {
+      "seconds": 723,
+      "sharpness": 75.67,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-03.jpg"
+    },
+    {
+      "seconds": 727,
+      "sharpness": 79.08,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-07.jpg"
+    },
+    {
+      "seconds": 733,
+      "sharpness": 102.08,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-13.jpg"
+    },
+    {
+      "seconds": 735,
+      "sharpness": 98.56,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-15.jpg"
+    },
+    {
+      "seconds": 740,
+      "sharpness": 70.78,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-20.jpg"
+    },
+    {
+      "seconds": 749,
+      "sharpness": 50.44,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-29.jpg"
+    },
+    {
+      "seconds": 751,
+      "sharpness": 80.75,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-31.jpg"
+    },
+    {
+      "seconds": 755,
+      "sharpness": 23.96,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-35.jpg"
+    },
+    {
+      "seconds": 763,
+      "sharpness": 30.55,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-43.jpg"
+    },
+    {
+      "seconds": 768,
+      "sharpness": 45.6,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-48.jpg"
+    },
+    {
+      "seconds": 773,
+      "sharpness": 32.06,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-53.jpg"
+    },
+    {
+      "seconds": 776,
+      "sharpness": 32.44,
+      "file": "assets/video-references/q0zBpicUXjg/dense/12-56.jpg"
+    },
+    {
+      "seconds": 780,
+      "sharpness": 39.96,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-00.jpg"
+    },
+    {
+      "seconds": 788,
+      "sharpness": 62.2,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-08.jpg"
+    },
+    {
+      "seconds": 794,
+      "sharpness": 79.88,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-14.jpg"
+    },
+    {
+      "seconds": 799,
+      "sharpness": 86.02,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-19.jpg"
+    },
+    {
+      "seconds": 800,
+      "sharpness": 59.25,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-20.jpg"
+    },
+    {
+      "seconds": 807,
+      "sharpness": 30.61,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-27.jpg"
+    },
+    {
+      "seconds": 810,
+      "sharpness": 43.07,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-30.jpg"
+    },
+    {
+      "seconds": 815,
+      "sharpness": 17.52,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-35.jpg"
+    },
+    {
+      "seconds": 824,
+      "sharpness": 28.06,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-44.jpg"
+    },
+    {
+      "seconds": 827,
+      "sharpness": 42.33,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-47.jpg"
+    },
+    {
+      "seconds": 833,
+      "sharpness": 60.57,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-53.jpg"
+    },
+    {
+      "seconds": 836,
+      "sharpness": 39.97,
+      "file": "assets/video-references/q0zBpicUXjg/dense/13-56.jpg"
+    },
+    {
+      "seconds": 844,
+      "sharpness": 47.02,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-04.jpg"
+    },
+    {
+      "seconds": 845,
+      "sharpness": 35.81,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-05.jpg"
+    },
+    {
+      "seconds": 854,
+      "sharpness": 43.47,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-14.jpg"
+    },
+    {
+      "seconds": 859,
+      "sharpness": 42.72,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-19.jpg"
+    },
+    {
+      "seconds": 864,
+      "sharpness": 54.13,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-24.jpg"
+    },
+    {
+      "seconds": 868,
+      "sharpness": 71.79,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-28.jpg"
+    },
+    {
+      "seconds": 874,
+      "sharpness": 116.25,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-34.jpg"
+    },
+    {
+      "seconds": 875,
+      "sharpness": 136.1,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-35.jpg"
+    },
+    {
+      "seconds": 882,
+      "sharpness": 166.34,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-42.jpg"
+    },
+    {
+      "seconds": 888,
+      "sharpness": 178.55,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-48.jpg"
+    },
+    {
+      "seconds": 890,
+      "sharpness": 152.56,
+      "file": "assets/video-references/q0zBpicUXjg/dense/14-50.jpg"
+    }
+  ]
+}

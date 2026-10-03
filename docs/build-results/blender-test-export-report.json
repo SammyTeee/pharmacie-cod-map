@@ -1,0 +1,26 @@
+{
+  "convex_mesh_brushes": 607,
+  "slab_triangle_brushes": 38,
+  "photo_patches": 12,
+  "skipped": [
+    {
+      "name": "Right platform | instrument photo face",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    }
+  ],
+  "source_objects": 624,
+  "simplified_high_facet_details": 7,
+  "map": "C:\\Users\\sam\\pharmacie-cod-map\\map_source\\zm\\zm_pharmacie_blender.map",
+  "project": "zm_pharmacie_blender",
+  "scale_map_units_per_metre": 39.37007874015748,
+  "translation_metres": [
+    -3.5,
+    -10,
+    0
+  ],
+  "source_blend": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-photo-interior-v03.blend",
+  "initial_spawns": 8,
+  "riser_locations": 3,
+  "conversion": "Convex meshes -> brushes, concave horizontal slabs -> triangle prisms, known photo quads -> iwmap meshes",
+  "limitations": "Stock placeholder materials on props; micro-detail omitted; photo instrument board omitted; no xmodel export; collision and traversal pending"
+}

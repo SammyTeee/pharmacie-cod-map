@@ -1,0 +1,190 @@
+{
+  "file": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-street-fronts-v11.blend",
+  "fronts": [
+    {
+      "building": "Fox and Hounds",
+      "source": "opposite front.png",
+      "source_sha256": "7077eb643569bebfe9e7b782ae211df084bad3fb7d634ecb5a096bacfa235a2b",
+      "source_dimensions": [
+        2560,
+        1286
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          1090,
+          390
+        ],
+        [
+          2260,
+          446
+        ],
+        [
+          2268,
+          806
+        ],
+        [
+          1090,
+          838
+        ]
+      ],
+      "world_x": [
+        -15,
+        -3
+      ],
+      "front_y": -12.985,
+      "height_m": 5.4,
+      "raster_derivative": "None; original packed image mapped with UV source quad",
+      "placement": "Inferred row opposite pub; observed order retained, gameplay widths not surveyed",
+      "limitations": "Perspective, occlusions and baked shadows remain; no functional doors/interiors"
+    },
+    {
+      "building": "Aston and Co",
+      "source": "opposite front.png",
+      "source_sha256": "7077eb643569bebfe9e7b782ae211df084bad3fb7d634ecb5a096bacfa235a2b",
+      "source_dimensions": [
+        2560,
+        1286
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          714,
+          246
+        ],
+        [
+          1084,
+          259
+        ],
+        [
+          1072,
+          770
+        ],
+        [
+          690,
+          807
+        ]
+      ],
+      "world_x": [
+        -3,
+        1
+      ],
+      "front_y": -12.985,
+      "height_m": 7.1,
+      "raster_derivative": "None; original packed image mapped with UV source quad",
+      "placement": "Inferred row opposite pub; observed order retained, gameplay widths not surveyed",
+      "limitations": "Perspective, occlusions and baked shadows remain; no functional doors/interiors"
+    },
+    {
+      "building": "Syston Mini Market",
+      "source": "opposite front zoomed out better view flat for texture.png",
+      "source_sha256": "04ab57e8d18c33a53fcf50da334581590b110c984a5f194b530d183b1dabe076",
+      "source_dimensions": [
+        2560,
+        1440
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          1024,
+          307
+        ],
+        [
+          1740,
+          324
+        ],
+        [
+          1722,
+          751
+        ],
+        [
+          1030,
+          751
+        ]
+      ],
+      "world_x": [
+        1,
+        10
+      ],
+      "front_y": -12.985,
+      "height_m": 7.2,
+      "raster_derivative": "None; original packed image mapped with UV source quad",
+      "placement": "Inferred row opposite pub; observed order retained, gameplay widths not surveyed",
+      "limitations": "Perspective, occlusions and baked shadows remain; no functional doors/interiors"
+    },
+    {
+      "building": "Lets Move estate agents",
+      "source": "opposite fornt further left.png",
+      "source_sha256": "670e0deb186ac8c6522631d7ecce43637462b878fe337edec728280f3f7767c9",
+      "source_dimensions": [
+        2567,
+        1296
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          902,
+          335
+        ],
+        [
+          1500,
+          390
+        ],
+        [
+          1500,
+          824
+        ],
+        [
+          902,
+          903
+        ]
+      ],
+      "world_x": [
+        10,
+        17
+      ],
+      "front_y": -12.985,
+      "height_m": 6.9,
+      "raster_derivative": "None; original packed image mapped with UV source quad",
+      "placement": "Inferred row opposite pub; observed order retained, gameplay widths not surveyed",
+      "limitations": "Perspective, occlusions and baked shadows remain; no functional doors/interiors"
+    },
+    {
+      "building": "Floral Fantasy",
+      "source": "opposite fornt further left.png",
+      "source_sha256": "670e0deb186ac8c6522631d7ecce43637462b878fe337edec728280f3f7767c9",
+      "source_dimensions": [
+        2567,
+        1296
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          103,
+          228
+        ],
+        [
+          902,
+          335
+        ],
+        [
+          902,
+          927
+        ],
+        [
+          100,
+          974
+        ]
+      ],
+      "world_x": [
+        17,
+        24
+      ],
+      "front_y": -12.985,
+      "height_m": 7.0,
+      "raster_derivative": "None; original packed image mapped with UV source quad",
+      "placement": "Inferred row opposite pub; observed order retained, gameplay widths not surveyed",
+      "limitations": "Perspective, occlusions and baked shadows remain; no functional doors/interiors"
+    }
+  ],
+  "new_objects": 29,
+  "preserved_sources": true,
+  "radiant_rebuilt": false,
+  "runtime_verified": false,
+  "distribution_rights": "Reference captures; not established for publication"
+}

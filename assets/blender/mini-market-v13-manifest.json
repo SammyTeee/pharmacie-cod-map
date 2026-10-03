@@ -1,0 +1,25 @@
+{
+  "file": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-street-details-v13.blend",
+  "source": "opposite front zoomed out better view flat for texture.png",
+  "sha256": "04ab57e8d18c33a53fcf50da334581590b110c984a5f194b530d183b1dabe076",
+  "pixel_quad_TL_TR_BR_BL": [
+    [
+      1010,
+      238
+    ],
+    [
+      1770,
+      260
+    ],
+    [
+      1750,
+      840
+    ],
+    [
+      1030,
+      840
+    ]
+  ],
+  "source_unchanged": true,
+  "note": "Expanded upper and lower UV bounds; full shopfront and roof, original parked car retained. No Radiant rebuild."
+}

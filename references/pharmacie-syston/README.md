@@ -54,3 +54,22 @@ Sam supplied root file `Architectural Fire Evacuation Floor Plans.png` (1393x112
 ## Full Blender photo review (2026-10-02)
 
 New WhatsApp images reviewed alongside all earlier photos. assets/blender/photo-review/catalog.json records 28 original reference images with SHA256 and dimensions (includes 2 layout drawings); four labelled review sheets are separate derivatives. Sources remain unchanged. Feature-wall AVIF decoded separately to assets/blender/photo-review/feature-wall-lossless.png (1973x1227 RGBA, no crop/resize/repaint). Packed originals/UV regions supply the Blender frontage, drawer front and instrument panel; see docs/PHOTO_OBJECT_PLACEMENT_PLAN.md and photo-interior-v03-manifest.json. WhatsApp provenance/date/ownership is user-supplied and not independently established; some views duplicate earlier pictures. No distribution permission inferred.
+
+Sam explicitly selected bar front.jpg and WhatsApp Image 2026-10-02 at
+10.19.05 PM (5).jpeg for the back-bar texture. V08 uses the original
+2000x1325 bar front.jpg packed into Blender, with UV-only crops for the backing
+and television. No raster derivative/edit was made. Both source hashes were
+checked before/after; details in assets/blender/backbar-photo-v08-manifest.json.
+
+## Additional video reference
+Sam supplied https://www.youtube.com/watch?v=q0zBpicUXjg (Blue Van Man, uploaded 2019-05-16). Separate unmodified frame extractions, source metadata and selected contact sheet are in assets/video-references/q0zBpicUXjg; raw downloaded video is in ignored build/video-reference. See docs/VIDEO_REFERENCE_REVIEW.md for timestamped observations. Historical reference only; no distribution rights inferred.
+
+Detailed video reference derivatives:assets/video-references/q0zBpicUXjg and assets/video-references/facebook-18ZXq1yVKY. Facebook source https://www.facebook.com/share/v/18ZXq1yVKY/ resolves to4498935063696316, uploader The Great British Pub Crawl, upload metadata2026-09-18. Both raw videos stay in ignored build/video-reference. Exact frame timestamps, original hashes and crop recipes in derivative manifests. See docs/VIDEO_INTERIOR_PASS.md; no redistribution rights inferred.
+
+
+## User street captures (2026-10-03)
+Six PNG originals are supplied in repository root:opposite front.png; opposite front further right.png; opposite fornt further left.png; opposite front zoomed out better view flat for texture.png; left of pub front.png; right side of pub front.png. Visible UI identifies Google Street View Apr2026. Inspected all; selected original pixel quads packed unchanged into Blender v12 for eight scenery fronts. Exact source hashes/dimensions/UV selections in assets/blender/street-fronts-v11-manifest.json and street-details-v12-manifest.json. No original edit. See docs/STREET_PHOTO_FRONTS.md; distribution rights not established.
+
+Mini Market v13 uses the same untouched opposite front zoomed out better view flat for texture.png, with wider vertical UV bounds recorded in assets/blender/mini-market-v13-manifest.json.
+
+Additional downstairs video crops: assets/video-references/q0zBpicUXjg/textures-downstairs/manifest.json. BO3 derivatives and source hashes: assets/scale-test/manifest.json. Original sources unchanged.

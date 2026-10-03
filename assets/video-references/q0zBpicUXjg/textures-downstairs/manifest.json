@@ -1,0 +1,72 @@
+{
+  "assets": [
+    {
+      "name": "camera-cabinet",
+      "source": "assets\\video-references\\q0zBpicUXjg\\dense\\07-29.jpg",
+      "source_sha256": "3a0dfb28a0df0b8fc19ca2ac89f4074b52b69a6d4db48cbdfef27ec9267357c2",
+      "file": "assets\\video-references\\q0zBpicUXjg\\textures-downstairs\\camera-cabinet.png",
+      "crop_xyxy": [
+        6,
+        45,
+        762,
+        426
+      ],
+      "dimensions": [
+        756,
+        381
+      ],
+      "edits": "Native crop only, no repaint or upscale"
+    },
+    {
+      "name": "camera-adverts",
+      "source": "assets\\video-references\\q0zBpicUXjg\\dense\\07-29.jpg",
+      "source_sha256": "3a0dfb28a0df0b8fc19ca2ac89f4074b52b69a6d4db48cbdfef27ec9267357c2",
+      "file": "assets\\video-references\\q0zBpicUXjg\\textures-downstairs\\camera-adverts.png",
+      "crop_xyxy": [
+        9,
+        440,
+        1130,
+        710
+      ],
+      "dimensions": [
+        1121,
+        270
+      ],
+      "edits": "Native crop only, no repaint or upscale"
+    },
+    {
+      "name": "medicine-adverts",
+      "source": "assets\\video-references\\q0zBpicUXjg\\dense\\06-35.jpg",
+      "source_sha256": "d067f5607bcdda6ddedb0295e905585b78c3c6f9c932c6e043a761a33f79c31a",
+      "file": "assets\\video-references\\q0zBpicUXjg\\textures-downstairs\\medicine-adverts.png",
+      "crop_xyxy": [
+        2,
+        489,
+        1130,
+        713
+      ],
+      "dimensions": [
+        1128,
+        224
+      ],
+      "edits": "Native crop only, no repaint or upscale"
+    },
+    {
+      "name": "medical-shelf",
+      "source": "assets\\video-references\\q0zBpicUXjg\\dense\\06-35.jpg",
+      "source_sha256": "d067f5607bcdda6ddedb0295e905585b78c3c6f9c932c6e043a761a33f79c31a",
+      "file": "assets\\video-references\\q0zBpicUXjg\\textures-downstairs\\medical-shelf.png",
+      "crop_xyxy": [
+        1007,
+        179,
+        1270,
+        438
+      ],
+      "dimensions": [
+        263,
+        259
+      ],
+      "edits": "Native crop only, no repaint or upscale"
+    }
+  ]
+}
