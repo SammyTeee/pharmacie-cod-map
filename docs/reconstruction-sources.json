@@ -1,0 +1,623 @@
+{
+  "review_date": "2026-10-03",
+  "purpose": "Source identity and visual-review coverage for text reconstruction notes",
+  "units": "Image dimensions in pixels; no world dimensions inferred",
+  "sources": [
+    {
+      "id": "S01",
+      "path": "left of pub front.png",
+      "dimensions": [
+        2563,
+        1440
+      ],
+      "format": "PNG",
+      "sha256": "d1ba5d0eeb27fd2c4a15a34dc06fa9d5ec4f00147e32deb5d0d3efc3176df821",
+      "review": "Full image visually inspected in this review",
+      "use": "Wreake Valley shop joinery, adjoining pub, alley edge",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S02",
+      "path": "right side of pub front.png",
+      "dimensions": [
+        2551,
+        1281
+      ],
+      "format": "PNG",
+      "sha256": "289ab7e78e47ecbee08974635a9882416454437b9b5ffb9bda69dd7ca1483bcb",
+      "review": "Full image visually inspected in this review",
+      "use": "Dry cleaners, nail/spa frontage, pub-side approach to crossing",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S03",
+      "path": "opposite front.png",
+      "dimensions": [
+        2560,
+        1286
+      ],
+      "format": "PNG",
+      "sha256": "7077eb643569bebfe9e7b782ae211df084bad3fb7d634ecb5a096bacfa235a2b",
+      "review": "Full image visually inspected in this review",
+      "use": "Mini Market/Aston/Fox elevation and roof transition",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S04",
+      "path": "opposite front further right.png",
+      "dimensions": [
+        2341,
+        1224
+      ],
+      "format": "PNG",
+      "sha256": "80f86f5f290c1578628000e27839f5fc72e2e87428391c78201552af0c7c7dbb",
+      "review": "Full image visually inspected in this review",
+      "use": "Second overlapping Mini Market/Aston/Fox elevation",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S05",
+      "path": "opposite fornt further left.png",
+      "dimensions": [
+        2567,
+        1296
+      ],
+      "format": "PNG",
+      "sha256": "670e0deb186ac8c6522631d7ecce43637462b878fe337edec728280f3f7767c9",
+      "review": "Full image visually inspected in this review",
+      "use": "Floral Fantasy/Lets Move bays, parking and kerb build-out",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S06",
+      "path": "opposite front zoomed out better view flat for texture.png",
+      "dimensions": [
+        2560,
+        1440
+      ],
+      "format": "PNG",
+      "sha256": "04ab57e8d18c33a53fcf50da334581590b110c984a5f194b530d183b1dabe076",
+      "review": "Full image visually inspected in this review",
+      "use": "Near-frontal Mini Market and adjoining units, parking markings",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S07",
+      "path": "references/what alley should look lkike - building right pushed up to pharmacie, then the alley way.png",
+      "dimensions": [
+        2035,
+        1224
+      ],
+      "format": "PNG",
+      "sha256": "4b0982a7fde4643dea0c8952eb00d9bffb0f2ef32aef301f68d632cba97eb164",
+      "review": "Full image visually inspected in this review",
+      "use": "Alley outside Wreake Valley, deep side wall, terrace attachment",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S08",
+      "path": "references/down from natty wells to pub.png",
+      "dimensions": [
+        2333,
+        1224
+      ],
+      "format": "PNG",
+      "sha256": "bcb2af3a038d71c26193c55ee83f24f98990c1ff1c31b44f1f2ca7cd65f885b1",
+      "review": "Full image visually inspected in this review",
+      "use": "Post Office crossing and whole-street sightline towards junction",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S09",
+      "path": "references/post office head on.png",
+      "dimensions": [
+        2559,
+        1224
+      ],
+      "format": "PNG",
+      "sha256": "99a71fadf6d1751d8237ae42988b73278087e5e2d1ed9117f8092d451e820112",
+      "review": "Full image visually inspected in this review",
+      "use": "Natural Wellbeing access lane, Post Office, Papermoon, Pasha",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S10",
+      "path": "references/right of post office.png",
+      "dimensions": [
+        2560,
+        1224
+      ],
+      "format": "PNG",
+      "sha256": "2df2dbdd9fe8b56fbc0b21282f63305fb55e67768fe19376fabbd827c5ecc761",
+      "review": "Full image visually inspected in this review",
+      "use": "Post Office/Papermoon/Pasha/Floral elevations and street furniture",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S11",
+      "path": "references/opposite pub.png",
+      "dimensions": [
+        2550,
+        1224
+      ],
+      "format": "PNG",
+      "sha256": "4c21994f28129534eaefd643dbadadf6fe22b159781213d8fe393209825e9270",
+      "review": "Full image visually inspected in this review",
+      "use": "Floral/Lets Move/Mini Market/Aston/Fox spatial sequence",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S12",
+      "path": "references/shut down flotal sohop opposite pub.png",
+      "dimensions": [
+        2554,
+        1224
+      ],
+      "format": "PNG",
+      "sha256": "aac5e5db6d9d3da73c03fa1b49c6eebabdb9621d3e5aa544d308a6179e834ad7",
+      "review": "Full image visually inspected in this review",
+      "use": "Papermoon/Pasha/Floral/Lets Move/Mini Market overlapping sequence",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S13",
+      "path": "references/fox and hounds opposite poub rightside of red minimart.png",
+      "dimensions": [
+        2558,
+        1224
+      ],
+      "format": "PNG",
+      "sha256": "9734293b0424f0ac25b43eb4fcaf2132d9fee2663a714dedcd4f479a8ca775d2",
+      "review": "Full image visually inspected in this review",
+      "use": "Fox front and corner return, junction, island and signs",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S14",
+      "path": "alt/nattywells/front on natty wells.png",
+      "dimensions": [
+        1512,
+        1224
+      ],
+      "format": "PNG",
+      "sha256": "4cc7c2f87407535c4e85b1cb51ec024c9cbacae555aa30f0c90c765f9f008811",
+      "review": "Full image visually inspected in this review",
+      "use": "Natural Wellbeing gable/front windows/sign/door",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S15",
+      "path": "alt/nattywells/natty wells right corner.png",
+      "dimensions": [
+        1512,
+        1224
+      ],
+      "format": "PNG",
+      "sha256": "1a964f02380f3ed2d1f17e2c880e762c53a35e1dddf905dfa7ab164719662dba",
+      "review": "Full image visually inspected in this review",
+      "use": "Natural Wellbeing deep side wall, access lane and roof",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "S16",
+      "path": "alt/nattywells/natty wells front right.png",
+      "dimensions": [
+        1512,
+        1224
+      ],
+      "format": "PNG",
+      "sha256": "8c9375c569838f2776073716fa5ef97de66dc9ede1ad06d3d2e43a7a1ecff4c4",
+      "review": "Full image visually inspected in this review",
+      "use": "Second Natural Wellbeing corner view, lane without truck obstruction",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": null
+    },
+    {
+      "id": "P01",
+      "path": "references/pharmacie-syston/2.jpg",
+      "dimensions": [
+        452,
+        679
+      ],
+      "format": "JPEG",
+      "sha256": "707a3c13b47b92c01d9f7859454528dff05d087420435f86e213e4357d0e8355",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P02",
+      "path": "references/pharmacie-syston/53737352757_c7dacdf5d8_c.jpg",
+      "dimensions": [
+        800,
+        600
+      ],
+      "format": "JPEG",
+      "sha256": "18952825555325962b32bd02b57c559739f0f3e785b63b62c2ccec96234845df",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P03",
+      "path": "references/pharmacie-syston/87288_9216d8f5.jpg",
+      "dimensions": [
+        700,
+        525
+      ],
+      "format": "JPEG",
+      "sha256": "bafee8db19957ee3208ee152f337e6a96672d273a9e758f02966320296820ca8",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P04",
+      "path": "references/pharmacie-syston/87288_fa420e50.jpg",
+      "dimensions": [
+        525,
+        700
+      ],
+      "format": "JPEG",
+      "sha256": "f496e80c50b8a04c812759b73f8af6441489cc7359e2137628837b189d2e99c3",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P05",
+      "path": "references/pharmacie-syston/aaaa.jpg",
+      "dimensions": [
+        679,
+        452
+      ],
+      "format": "JPEG",
+      "sha256": "f8f087a70ed8a7a32ab2690c1ad277ffd42653736ca6ddd5d1fce8f5a206b481",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P06",
+      "path": "references/pharmacie-syston/bar front.jpg",
+      "dimensions": [
+        2000,
+        1325
+      ],
+      "format": "JPEG",
+      "sha256": "e91a923a278fd0bab628b11364fd253c00d4d2de7428fef8c6b969a5e2de01fe",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P07",
+      "path": "references/pharmacie-syston/exterior-high-street.jpg",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "format": "JPEG",
+      "sha256": "ef4bb0b88b904fc670e478ca05b0681997079bf978916f1492761d851e8f8f81",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P08",
+      "path": "references/pharmacie-syston/exterior-pubfront.jpg",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "format": "JPEG",
+      "sha256": "d235b48e81996c91e9b2b08464ea11e5b9fde921fd7c8bc2c14419336172b669",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P09",
+      "path": "references/pharmacie-syston/eyJidWNrZXQiOiJ3aGF0cHViIiwia2V5IjoiTEVJXC9MRUkrNTI1LTE2ODI1NC0xNTAwLTIwMDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxNTAwLCJoZWlnaHQiOjIwMDAsImZpdCI6ImNvdmVyIn0sInJvdGF0ZSI6bnVsbH19.jpg",
+      "dimensions": [
+        1500,
+        2000
+      ],
+      "format": "JPEG",
+      "sha256": "a675cb392ec9652aa18da4eb8e8f74decd4007a1c653a747f08872862079afeb",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P10",
+      "path": "references/pharmacie-syston/eyJidWNrZXQiOiJ3aGF0cHViIiwia2V5IjoiTEVJXC9MRUkrNTI1LTExMjUxNy0yNDAwLTE4MDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6NjAwLCJmaXQiOiJjb3ZlciJ9LCJyb3RhdGUiOm51bGx9fQ==.jpg",
+      "dimensions": [
+        800,
+        600
+      ],
+      "format": "JPEG",
+      "sha256": "cd199412d25f11d9ba90938766ee51f049e028d6bd8326094a11d37954f84915",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P11",
+      "path": "references/pharmacie-syston/eyJidWNrZXQiOiJ3aGF0cHViIiwia2V5IjoiTEVJXC9MRUkrNTI1LTEzMDU2MC0yMDAwLTE1MDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoyMDAwLCJoZWlnaHQiOjE1MDAsImZpdCI6ImNvdmVyIn0sInJvdGF0ZSI6bnVsbH19.jpg",
+      "dimensions": [
+        2000,
+        1500
+      ],
+      "format": "JPEG",
+      "sha256": "199e45d5dcc1dc02df3945d860d0551b4a8942335f15f0f45ae18d0eef4317bb",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P12",
+      "path": "references/pharmacie-syston/great for texture.avif",
+      "dimensions": [
+        1973,
+        1227
+      ],
+      "format": "AVIF",
+      "sha256": "03eda1b1be09fcb7e2e07467a1bb4535285f4c299636da6e6629c1a06e32034b",
+      "review": "Existing same-size lossless PNG visually inspected; source catalogued unchanged",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P13",
+      "path": "references/pharmacie-syston/images.jpg",
+      "dimensions": [
+        641,
+        312
+      ],
+      "format": "JPEG",
+      "sha256": "7c077bc91e2a32ed949d901fab8b0cf41ccfdc0f70d155ffd00e7af9f0700d23",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P14",
+      "path": "references/pharmacie-syston/pharmacie-arms-syston-1.jpg",
+      "dimensions": [
+        1024,
+        528
+      ],
+      "format": "JPEG",
+      "sha256": "fdca8863946868b3807cee12bff444b220aacda72d6fce68d70ed946e10d2d4b",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P15",
+      "path": "references/pharmacie-syston/pharmacie-arms-syston-2.jpg",
+      "dimensions": [
+        1024,
+        751
+      ],
+      "format": "JPEG",
+      "sha256": "846df20c00665cca564b0505ec6123b5e11c3bfe50d77483dd429b23fea3a6ef",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P16",
+      "path": "references/pharmacie-syston/pharmacie-layout.jpg",
+      "dimensions": [
+        1700,
+        2000
+      ],
+      "format": "JPEG",
+      "sha256": "2c002bb87bce11f363551227c7c67405fd20907ad87ad5ae67c203df71d46343",
+      "review": "Drawing on existing contact sheet; not photographic building evidence",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P17",
+      "path": "references/pharmacie-syston/textures wall.jpg",
+      "dimensions": [
+        451,
+        679
+      ],
+      "format": "JPEG",
+      "sha256": "3356a1e31bca7b120c6b627283b45b0be372099c6b4a1a676f5f68e4d75c2e4a",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P18",
+      "path": "references/pharmacie-syston/WhatsApp Image 2026-10-02 at 10.19.04 PM.jpeg",
+      "dimensions": [
+        2048,
+        917
+      ],
+      "format": "JPEG",
+      "sha256": "2e8bef7fd841a09bd5f62b87bbd49c989ec4fa555929ad5f378837f716d3010f",
+      "review": "Drawing on existing contact sheet; not photographic building evidence",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P19",
+      "path": "references/pharmacie-syston/WhatsApp Image 2026-10-02 at 10.19.05 PM (1).jpeg",
+      "dimensions": [
+        640,
+        480
+      ],
+      "format": "JPEG",
+      "sha256": "224e306a079b4945efb76b544ab46ba2c9cd326001aac21b8c9016e7e1ec4bd9",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P20",
+      "path": "references/pharmacie-syston/WhatsApp Image 2026-10-02 at 10.19.05 PM (2).jpeg",
+      "dimensions": [
+        588,
+        390
+      ],
+      "format": "JPEG",
+      "sha256": "df2501f3c6744a0f01f2d932c873c78b5159c5581aee14c93d96e558e809aeb7",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P21",
+      "path": "references/pharmacie-syston/WhatsApp Image 2026-10-02 at 10.19.05 PM (3).jpeg",
+      "dimensions": [
+        456,
+        438
+      ],
+      "format": "JPEG",
+      "sha256": "d506167ba4cba5da9965e694bb962b29ede88368e5699395698b327beafc0d3e",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P22",
+      "path": "references/pharmacie-syston/WhatsApp Image 2026-10-02 at 10.19.05 PM (4).jpeg",
+      "dimensions": [
+        1200,
+        798
+      ],
+      "format": "JPEG",
+      "sha256": "d6985de8e14f97c80c5f7491380452ff6633a9524c74e5c81bf1e6a2bf0710dc",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P23",
+      "path": "references/pharmacie-syston/WhatsApp Image 2026-10-02 at 10.19.05 PM (5).jpeg",
+      "dimensions": [
+        2000,
+        1325
+      ],
+      "format": "JPEG",
+      "sha256": "147787397e45b201ee9d24cd6951f101ad5b1c30c613dab972b1aa177b538f27",
+      "review": "Existing numbered contact sheet visually inspected; alternate/duplicate view",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P24",
+      "path": "references/pharmacie-syston/WhatsApp Image 2026-10-02 at 10.19.05 PM (6).jpeg",
+      "dimensions": [
+        1024,
+        528
+      ],
+      "format": "JPEG",
+      "sha256": "f70daf6fe328c4cb10b0bfb50d22a2549541d8b531da345a1e7d8e692b166178",
+      "review": "Existing numbered contact sheet visually inspected; alternate/duplicate view",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P25",
+      "path": "references/pharmacie-syston/WhatsApp Image 2026-10-02 at 10.19.05 PM (7).jpeg",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "format": "JPEG",
+      "sha256": "df7fd1e9b8d50ea448c5b14f75e4c9ae9b36c4bf27cf397f59bcff26b439efd6",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P26",
+      "path": "references/pharmacie-syston/WhatsApp Image 2026-10-02 at 10.19.05 PM.jpeg",
+      "dimensions": [
+        194,
+        259
+      ],
+      "format": "JPEG",
+      "sha256": "7090114b202d9eacc7baff85127b23fdece458416f908412e867697bce6dee0a",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P27",
+      "path": "references/pharmacie-syston/WhatsApp Image 2026-10-02 at 10.19.06 PM (1).jpeg",
+      "dimensions": [
+        2000,
+        1500
+      ],
+      "format": "JPEG",
+      "sha256": "5b364006bf7bc3623181ea182ad6b46305ad4bebc867d5f1f3f7036ff8f64df3",
+      "review": "Existing numbered contact sheet visually inspected; alternate/duplicate view",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    },
+    {
+      "id": "P28",
+      "path": "references/pharmacie-syston/WhatsApp Image 2026-10-02 at 10.19.06 PM.jpeg",
+      "dimensions": [
+        1500,
+        1125
+      ],
+      "format": "JPEG",
+      "sha256": "350ff254145b0155049f23badffb4acfbb2f928a1ef8101ce5f73000dc41182f",
+      "review": "Full image and existing numbered contact sheet visually inspected",
+      "use": "See PUB_PHOTO_RECONSTRUCTION.md source ledger and STREET_PHOTO_RECONSTRUCTION.md",
+      "source_unchanged_during_catalog": true,
+      "matches_existing_catalog": true
+    }
+  ]
+}

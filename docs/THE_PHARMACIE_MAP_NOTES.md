@@ -1,5 +1,17 @@
 # The Pharmacie Arms — map reference notes
 
+## Detailed reconstruction reference — 2026-10-03
+
+Latest player cleanup: [recon/v18/README.md](../recon/v18/README.md), including
+clearance checks, intended gameplay adaptations and unchanged photo provenance.
+Starting-area/door/zone proposal: [ZOMBIES_PROGRESSION_V18.md](ZOMBIES_PROGRESSION_V18.md).
+
+Implemented street pass: [STREET_REBUILD_V17.md](STREET_REBUILD_V17.md). V17 uses
+the observed order and user-confirmed neighbour/alley correction, with approximate
+gameplay dimensions. Earlier isolated/shallow fronts and pub-side alley are superseded.
+
+Before rebuilding visible architecture, read [STREET_PHOTO_RECONSTRUCTION.md](STREET_PHOTO_RECONSTRUCTION.md) and [PUB_PHOTO_RECONSTRUCTION.md](PUB_PHOTO_RECONSTRUCTION.md). These contain the detailed source-tagged facade/interior/road descriptions, adjacency constraints, photographed state differences and unknowns. [RECONSTRUCTION_SOURCE_INDEX.md](RECONSTRUCTION_SOURCE_INDEX.md) resolves 44 references with exact names, pixel dimensions and review coverage; reconstruction-sources.json records hashes. Existing gameplay-enlarged Blender dimensions are not 1:1 survey evidence. These detailed observations supplement and correct the earlier summaries below; explicit user layout/stair corrections remain authoritative.
+
 ## New floor-plan reference — 2026-10-02
 
 Sam supplied `hq floor plan ai.png` and requested it as the Blender base. It shows both floors with rear service/toilet/store/stairs and subdivided upstairs spaces, superseding the simplified sketch for new modelling. Its provenance/date/as-built status and scale remain unverified; the seven-metre frontage is an estimate. External seating is explicitly labelled proposed. See `BLENDER_WORKFLOW.md` for observations and the packed reference-only Blender scene. Do not treat red fire-safety annotations as wall geometry.
@@ -79,6 +91,10 @@ Video dressing applied in v10:Sam selected historical upstairs decor. Newer Face
 
 
 ### Street captures supplied 2026-10-03
+
+Sam's subsequent correction supersedes the retained beside-pub passage: viewed facing the pub, the order is alley, left neighbouring building, Pharmacie, right neighbouring buildings. Neighbours adjoin the pub; alley belongs beyond the left neighbour. Repair plan: TEXTURE_LAYOUT_FIX_PLAN.md. Current v16 geometry still follows the earlier assumption.
+
+New street captures inspected: Post Office/crossing, Papermoon and Pasha Barber, Natural Wellbeing and its side access, Floral Fantasy/Let's Move projecting upper bays, and Fox & Hounds corner/junction. They support extending both street rows with simple building masses/rooflines, crossing and junction rather than isolated flat fronts. Exact street distances and extended pub-side order remain unresolved. See TEXTURE_LAYOUT_FIX_PLAN.md for reviewed sources and intended blockout.
 Observed opposite row includes Floral Fantasy, Let's Move, Syston Mini Market, Aston and Co and Fox and Hounds. Pub-side shots show Wreake Valley Flooring on left, dry cleaners and nail/spa shop on right. V12 uses simple photo scenery with approximate dimensions; left exterior passage stays available. See STREET_PHOTO_FRONTS.md.
 
 V15 second downstairs pass follows observed camera/medicine displays, advert collage, dark dado, jars/ceramics, ceiling grid, pendants and counter/table details in YouTube06:14–07:32 and Facebook135–143s. Counts/coordinates adapted to widened layout. See SCALE_TEST_V15.md.

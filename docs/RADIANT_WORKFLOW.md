@@ -1,5 +1,11 @@
 # BO3 Radiant and automation notes
 
+Before the next conversion, read [player recon](../recon/v18/README.md) and
+[Zombies progression proposal](ZOMBIES_PROGRESSION_V18.md). Blender v18 is the
+current source. Named door/zone/item markers require explicit Radiant/game
+implementation; they are not automatic entity exports. Conversion remains held
+while Blender/reference refinements and UV/export calibration are addressed.
+
 **Documentation review, 2026-10-02:** Read the installed official quick-start, scale, LED, build-light and image guides. See [Blender → Radiant workflow](BLENDER_RADIANT_WORKFLOW.md) for the current conversion, source/page references, verified v03 runtime and requirements for the next gameplay version. Earlier statements below about unverified lighting/runtime describe historical builds. Further conversion remains on Sam's requested hold.
 
 Separate Blender-derived test source: `map_source/zm/zm_pharmacie_blender.map`.

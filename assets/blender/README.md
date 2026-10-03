@@ -1,6 +1,6 @@
 # Saved Blender work
 
-Open **pharmacie-entrance-fixed-v16.blend** for the current editable model. Reference
+Open **pharmacie-player-cleanup-v18.blend** for the current editable model. Reference
 images are packed into the file. Blender 5.2.2 LTS was used locally.
 
 Scenes:
@@ -9,7 +9,21 @@ Scenes:
 - 02 First floor - mapped rooms
 - 03 Both floors - assembled exterior
 - 04 Photo frontage - inspection
-- 05 Interior - photo-led dressing (default, frontage included)
+- 05 Interior - photo-led dressing
+
+V18 opens scene 03 with a player-height entrance camera. The recon pass clears
+aisle chairs, corrects15 mirrored wall images, smooths stairs, adds a smaller
+platform step, closes upstairs ceiling/roof, lights stairs and eases the upper
+arrival corner. Upper ceiling/roof has a named collection to toggle for cutaway.
+See ../../recon/v18/README.md for72 screenshots and measured clearance results,
+and ../../docs/ZOMBIES_PROGRESSION_V18.md for proposed doors/zones/item placement.
+Markers are planning only, not functioning game entities.
+
+V17 attaches both neighbours,
+relocates the alley beyond Wreake Valley Flooring, and adds deeper roofed building
+rows, the Post Office / Natural Wellbeing end, crossing and junction placeholders.
+See ../../docs/STREET_REBUILD_V17.md and street-rebuilt-v17-manifest.json for
+estimated dimensions, source provenance, review cameras and conversion limits.
 
 Select a named object root Empty to move its whole furniture group. Geometry,
 photo surfaces and UV maps remain editable. The suspended ceiling is hidden

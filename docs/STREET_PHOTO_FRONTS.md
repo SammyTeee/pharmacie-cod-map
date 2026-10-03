@@ -1,5 +1,7 @@
 # Street photo fronts — 2026-10-03
 
+For the next rebuild use [STREET_PHOTO_RECONSTRUCTION.md](STREET_PHOTO_RECONSTRUCTION.md): detailed facade, roof, street, alley and crossing evidence with source IDs. Existing dimensions below are historical gameplay scenery choices. The later user correction places the alley beyond Wreake Valley, with Wreake directly adjoining pub, superseding the retained gap described here.
+
 Current Blender source: `assets/blender/pharmacie-street-details-v12.blend`. Includes all v10 video interiors and v11 opposite-street scenery. Live safety copies preserve unsaved user state before each pass.
 
 Five opposite fronts: Fox and Hounds, Aston and Co, Syston Mini Market, Let's Move estate agents and Floral Fantasy. Three new pub-side neighbours: Wreake Valley Flooring to the left; Syston Dry Cleaners and nail/spa shop to the right. Building order comes from photos. Widths, heights and offsets are approximate gameplay scenery rather than surveyed geography.
@@ -15,3 +17,9 @@ Street fronts linked into scenes01/03/04/05. New lamp-post positions are illustr
 Scripts: add_street_photo_fronts.py; fix_street_fronts_and_neighbours.py; preview_street_details.py. Use version guards and preserve existing saves when reproducing.
 
 V13 Mini Market correction: the v11/v12 crop clipped the lower shopfront and roof. Expanded the UV selection on the same original zoomed-out flat screenshot to include the full building face. Exact corners and original hash: assets/blender/mini-market-v13-manifest.json. Original parked car remains an occlusion; redundant sampled slate strip hidden. Latest Blender file: pharmacie-street-details-v13.blend.
+# Superseded by v17 street reconstruction
+
+Current editable source is `assets/blender/pharmacie-street-rebuilt-v17.blend`.
+See [STREET_REBUILD_V17.md](STREET_REBUILD_V17.md) for attached neighbours, relocated
+alley, deeper street buildings and isolated facade derivatives. Earlier shallow
+scenery and retained pub-side gap described below are historical.

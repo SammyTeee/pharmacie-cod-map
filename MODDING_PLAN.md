@@ -1,9 +1,24 @@
 # Call of Duty: Black Ops III modding plan
 
-Latest editable Blender source: assets/blender/pharmacie-backbar-photo-v08.blend.
+Photo reconstruction specification (2026-10-03): docs/STREET_PHOTO_RECONSTRUCTION.md and docs/PUB_PHOTO_RECONSTRUCTION.md contain detailed source-tagged rebuilding descriptions; docs/RECONSTRUCTION_SOURCE_INDEX.md and reconstruction-sources.json resolve 44 images with dimensions/review coverage/hashes. Read before the planned texture/street repair. Distinguish observed facade proportions from the intentionally enlarged gameplay scene; exact 1:1 dimensions still require calibration.
+
+Current priority (2026-10-03): finish/reference-check Blender before another
+Radiant conversion. Neighbour/alley geometry was corrected in v17, player cleanup
+in v18. The v16 engine UV/material defect still needs calibration; investigation
+and conversion plan: docs/TEXTURE_LAYOUT_FIX_PLAN.md. No v17/v18 engine build yet.
+
+Latest editable Blender source: assets/blender/pharmacie-player-cleanup-v18.blend.
+Recon/fixes/evidence: recon/v18/README.md. Zombies progression proposal:
+docs/ZOMBIES_PROGRESSION_V18.md (start pub; front street purchase; stair-foot
+purchase; linked rear alley loop; zones/items/spawns are planning markers only).
+V17 street implementation and Blender validation: docs/STREET_REBUILD_V17.md.
+Attached neighbours, outer-left alley, fuller roofed street rows and crossing/junction
+blockout are saved and open. Per-facade derivatives are ready for Blender review;
+Radiant UV/exporter calibration and runtime verification remain pending.
 Enlarged skewed footprint, street and all seven selected layout fixes are saved.
-Radiant rebuild remains on hold; BO3 runs the separate earlier v03 export.
-V08 retains the layout fixes and adds packed photo-backed bar shelves/screen.
+Radiant rebuild remains on hold while Blender is reviewed. The separate engine
+scale test is still the v16 architecture package; earlier playable prototypes are
+retained. Engine UV correctness, traversal and co-op remain unverified for v18.
 
 ## Latest direction — Blender first (2026-10-02)
 

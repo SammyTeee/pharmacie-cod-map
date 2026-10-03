@@ -1,5 +1,11 @@
 # Blender workspace — 2026-10-02
 
+Current editable map (2026-10-03): `assets/blender/pharmacie-player-cleanup-v18.blend`.
+Use `scripts/open-blender.ps1`. Player recon, fixes, measured limits and72 review
+screenshots: [recon/v18/README.md](../recon/v18/README.md). Proposed Zombies
+progression: [ZOMBIES_PROGRESSION_V18.md](ZOMBIES_PROGRESSION_V18.md). Earlier
+"current/latest" statements below document historical milestones.
+
 Sam requested a Blender-first modelling workflow using `hq floor plan ai.png`, then requested Blender and an MCP installation.
 
 ## Installed and verified on Sam's PC

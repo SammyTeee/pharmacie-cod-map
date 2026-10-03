@@ -4,12 +4,11 @@ A Call of Duty: Black Ops III custom Zombies map inspired by The Pharmacie Arms 
 
 ## Current status
 
-- Latest saved version: [pharmacie-entrance-fixed-v16.blend](assets/blender/pharmacie-entrance-fixed-v16.blend), with a continuous front threshold, eight street photo fronts and another 180 downstairs decorative objects. [Downstairs](assets/blender/video-downstairs-v15.png), [display wall](assets/blender/video-right-displays-v15.png), [upstairs](assets/blender/video-upstairs-v10.png). A separate zombie-free second scale test is `zm_pharmacie_scale`; see [conversion and results](docs/SCALE_TEST_V15.md).
-
-- **Current Blender edits:** [pharmacie-layout-fixed-v07.blend](assets/blender/pharmacie-layout-fixed-v07.blend) includes the enlarged skewed pub/street and all seven layout-review fixes: clearer seating/bar approaches, usable furniture heights, supported platform seating, corrected outside passage and upstairs stairwell guards. Spawn/zombie locations are planning markers. [Interior preview](assets/blender/layout-fixed-interior-v07.png), [upstairs preview](assets/blender/layout-fixed-upstairs-v07.png). The next Radiant rebuild is on hold at Sam's request; BO3 still uses the v03 conversion below.
-
-- **Latest modelling workspace:** open [pharmacie-photo-interior-v03.blend](assets/blender/pharmacie-photo-interior-v03.blend) in Blender. It includes the photo-based frontage, both floor layouts, corrected rear L-shaped stairs and 34 grouped interior furnishings. The default interior view includes the finished frontage. A separate [Blender-to-Radiant test](docs/BLENDER_TO_RADIANT_TEST.md), `zm_pharmacie_blender`, now compiles and loads in BO3; gameplay routes and collision still need inspection. The existing playable BO3 source below is an earlier prototype.
-- Read [Blender workflow](docs/BLENDER_WORKFLOW.md) and [photo/object placement plan](docs/PHOTO_OBJECT_PLACEMENT_PLAN.md). The `.blend` packs its reference images; [current preview](assets/blender/photo-interior-with-front-v03.png) shows the saved arrangement. Frontage is estimated at 7m; heights and furniture positions remain provisional.
+- Latest editable map: [pharmacie-player-cleanup-v18.blend](assets/blender/pharmacie-player-cleanup-v18.blend). Open with `scripts/open-blender.ps1`. Includes attached neighbours, relocated outer-left alley, fuller roofed street rows and player recon fixes: clear aisle, corrected wall UVs, smoother stairs, ceiling/roof closure, stair lights and a wider upper arrival.
+- [Player recon report](recon/v18/README.md):72 before/after player-height screenshots, measured route/geometry checks and remaining work. [Offline comparison gallery](recon/v18/index.html), [main room](recon/v18/after/04_main_room_to_bar.png), [stairs](recon/v18/after/12_stairs_start.png), [upstairs](recon/v18/after/17_upstairs_seating.png). The map is still an estimated blockout; Blender checks are not game collision/playtesting.
+- [Proposed Zombies progression](docs/ZOMBIES_PROGRESSION_V18.md): start in the main pub, buy access to street or upstairs, and open a rear alley loop. Three proposed zones/21 named Blender anchors reserve doors, starts, items and zombie entrances. They are planning markers, not working game entities.
+- [Detailed street](docs/STREET_PHOTO_RECONSTRUCTION.md) and [interior](docs/PUB_PHOTO_RECONSTRUCTION.md) text references describe44 preserved photos. [v17 street implementation](docs/STREET_REBUILD_V17.md) records isolated facade derivatives and placement estimates. [Blender workflow](docs/BLENDER_WORKFLOW.md) covers the tool setup and older milestones.
+- Finish/review Blender before the next Radiant conversion. The separate zombie-free engine scale test remains `zm_pharmacie_scale` from v16; [conversion/results](docs/SCALE_TEST_V15.md). The storefront engine UV fault, actual traversal and co-op still require verification. Older playable source/build statements below describe earlier prototypes.
 
 - The project uses the official BO3 Mod Tools and the Zombies template named `zm_pharmacie`.
 - A code-authored first-pass blockout is in `map_source/zm/zm_pharmacie.map`, with its preserved BO3-generated template, repeatable generator, and GSC/CSC/zone source files in this repository.
@@ -32,6 +31,10 @@ Keep work offline/private. Do not edit stock tool maps or game files. Read `AGEN
 ## Project notes
 
 - [Mod log and next action](MODLOG.md)
+- [Player recon and screenshot evidence](recon/v18/README.md)
+- [Zombies door/zone/item progression proposal](docs/ZOMBIES_PROGRESSION_V18.md)
+- [Photo-to-text street reconstruction](docs/STREET_PHOTO_RECONSTRUCTION.md)
+- [Photo-to-text pub reconstruction](docs/PUB_PHOTO_RECONSTRUCTION.md)
 - [BO3 setup and handoff plan](MODDING_PLAN.md)
 - [Radiant workflow and automation findings](docs/RADIANT_WORKFLOW.md)
 - [Blockout layout and clean plan](docs/BLOCKOUT_LAYOUT.md)

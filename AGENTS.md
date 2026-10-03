@@ -14,6 +14,12 @@ Keep those notes current when new evidence, decisions, or build results appear. 
 
 ## Project priorities
 
+Current direction (2026-10-03): finish/reference-check the Blender map before
+another Radiant conversion. Latest file is `assets/blender/pharmacie-player-cleanup-v18.blend`.
+Read `recon/v18/README.md` and `docs/ZOMBIES_PROGRESSION_V18.md` before new edits.
+Preserve progression proposals as planning only until actual BO3 door/zone/script
+implementation is authorized. Do not treat Blender ray checks as runtime validation.
+
 - First goal: a small, playable cooperative Zombies blockout using the official BO3 Mod Tools and Radiant, with player spawns, playable space, zombie routes, and round logic. Use stock assets and simple geometry first.
 - Use the BO3 Zombies map naming/template conventions (normally a lowercase `zm_` name); settle the name before creating tool-generated project files.
 - Build the recognizable pub from the outside inward: frontage, long main room, bar wall, pharmacy-ad display wall, then side spaces and bespoke props.

@@ -1,5 +1,25 @@
 # Mod log
 
+## 2026-10-03 — Detailed photographic text reconstruction specifications
+
+- Sam requested as much useful photo-to-text description as possible for near-1:1 rebuilding. Re-inspected all 16 supplied street views, all four existing pub contact sheets, 22 pub references directly at full-image level, and existing lossless AVIF derivative; alternate copies/drawings/contact-only coverage recorded honestly. Existing video notes cross-referenced, not represented as a fresh full-video review.
+- Added docs/STREET_PHOTO_RECONSTRUCTION.md: source map; explicit orientation/adjoining-shop and access-lane topology; detailed 13 building descriptions and separate alley/doorways; shared terrace modules; upper-window counts, facade/recess/glass/sign profiles, roof heights/bays/chimneys, crossing/parking/kerb/junction/island, street furniture; tracing anchors, state/occlusion hazards, visual acceptance and targeted missing evidence.
+- Added docs/PUB_PHOTO_RECONSTRUCTION.md: all 28-source descriptive ledger; room orientation/sightlines; collage/dado, paired lit cabinets, distinct apparatus/dental/optician boards, shelf props, clinical tables/trolley/stool/chair/sofa families, skeleton/dentist chair, platform, five visible bar drawer rows, pumps/backbar/screen, ceiling/projector/lighting, structural evidence boundaries and rendering checks. Observations distinguished from existing model placements and gameplay modifications.
+- Added read-only source-catalog script and docs/RECONSTRUCTION_SOURCE_INDEX.md / reconstruction-sources.json: 44 original references, exact paths/dimensions/SHA256/review levels. Command `python scripts/catalog_reconstruction_sources.py` exit0; all28 prior source hashes match, no source mutation during inspection. AVIF original unchanged. No new raster assets or live Street View capture.
+- Linked specifications from starting notes, asset plan, provenance README and current repair plan. Documentation/metadata only; no Blender/map regeneration, compiler/game run, deployment or push. Exact world dimensions/rear connections still unresolved; no claimed 1:1 survey or repair success.
+
+## 2026-10-03 — Gameplay prefab placement and new street-photo review
+
+- Checked actual scale-map prefab anchors against generator: power (5.8,9.8,0)m, box (0.7,-1.4,0), Quick Revive (1,1.2,0), shotgun (6.4,9.6,0), all angles 0/90/0. These are original hard-coded test placements, not updated Blender wall/marker placements; no prefab bounds/clearance verification exists. Proposed named anchors, placement manifest and deliberate street/rear-service positions documented in docs/TEXTURE_LAYOUT_FIX_PLAN.md. No gameplay changes yet.
+- Visually inspected seven new references/*.png captures, three alt/nattywells/*.png views and two root v16 game screenshots. Confirmed adjoining Wreake Valley/pub with alley outside neighbour; Post Office/Papermoon/Pasha/Natural Wellbeing/crossing and Fox & Hounds junction support fuller street blockout with closed placeholder masses and pitched roofs. Screenshots show extensive source-photo content on individual fronts; exact texture-conversion fault still unproven.
+- Added extended street and gameplay placement plan; originals unchanged. No Blender/map edits, regeneration, build, game input/deployment or push. New reference provenance recorded in reference README.
+
+## 2026-10-03 — Texture/layout investigation and repair plan
+
+- Sam reports incorrect shopfront texture display after Blender-to-Radiant conversion and corrects street order: facing pub, alley then left neighbour then Pharmacie then right neighbours. Reviewed v16 export/material manifest and conversion/street scripts; eight shopfront source-image bindings match expected originals. Wrong-image selection not confirmed; shared screenshot UV crops and actual compiled dimensions require visual comparison.
+- Confirmed exporter weaknesses: material slot zero only, first linked image node, active UV only, no per-face material indices or shader Mapping resolution. Left-neighbour script deliberately retained alley beside pub, explaining wrong layout. Detailed findings and planned derivative-per-front/material/UV audit and alley relocation: docs/TEXTURE_LAYOUT_FIX_PLAN.md.
+- Investigation/planning only; no Blender modification, map regeneration, compiler/game run, deployment or push. Runtime texture cause remains unresolved.
+
 ## 2026-10-02 — Radiant documentation and conversion review
 
 - Sam requested documentation research while Blender work continues. Read installed official Radiant_Launcher_QuickStart (8 pages), Scale_Standards (7), Generate_LED (1), Build_light (3), Images (3), and relevant material guidance via existing local pypdf; checked official Treyarch Steam announcement online. Bundled quick-start contains historical beta caveats; verified local builds take precedence.
@@ -243,3 +263,84 @@ Initial v15 scale package compiled/linked/deployed, but direct executable launch
 V16 official compiler/navmesh, fresh LED and both fastfile links succeeded (exit0), scale-test-v16-build.log. Complete zone/snd tree deployed with per-file hashes via launch-blender-test.ps1 -MapName zm_pharmacie_scale; backup before-blender-test-20261003-010241. Threshold preview rendered/inspected; temporary objects removed. Attempted relaunch; successful runtime not yet confirmed.
 
 Steam console confirms launch Action12 is waiting for user response to ShowGameArgs for +set fs_game zm_pharmacie_scale +set logfile2 +devmap zm_pharmacie_scale. No game window yet; user may accept Steam's confirmation or load manually. No automatic game/UI input sent.
+
+## 2026-10-03 — Photo-led street rebuild v17, opened in Blender
+Sam requested opening Blender and updating the map to the expanded photo notes.
+Existing unsaved Blender PID13784 had no MCP listener; a targeted console recovery
+attempt did not establish a connection. Left that unsaved session intact and used
+the saved v16 as baseline. Created isolated facade derivatives with
+`python scripts/prepare_street_v17.py`: ten 1024x1024 RGB PNGs, source hashes verified.
+Background Blender `--background assets/blender/pharmacie-entrance-fixed-v16.blend
+--python scripts/rebuild_street_v17.py` saved 499 new objects / 22 building masses.
+Initial runs stopped on unsupported MATERIAL viewport enum and a threshold check;
+fixed enum and explicitly retained the threshold/rear landing from archived street.
+Opened `assets/blender/pharmacie-street-rebuilt-v17.blend` visibly; its official MCP
+connected and ran `refine_street_v17.py` live, saving a safety copy before refinements.
+
+Neighbours attached to nominal pub edges; alley relocated outside Wreake with
+rear connector; neighbour backs tapered to clear skewed pub. Added deeper pitched
+roof/chimney street rows, upper bay relief, Post Office/Papermoon/Pasha/HM blockout,
+Natural Wellbeing gable and separate lane, crossing/parking/build-out/junction and
+unnamed placeholder fronts. Proposed gameplay anchors only, no stock entity changes.
+Four camera previews rendered with `--background assets/blender/pharmacie-street-rebuilt-v17.blend
+--python scripts/preview_street_v17.py`, exit0, and inspected. Corrected blocked
+cameras, shared roof height, side brick projection and coplanar junction asphalt.
+`--background assets/blender/pharmacie-street-rebuilt-v17.blend --python
+scripts/check_street_v17.py` passed, exit0:1315 preserved pub meshes exact versus
+v16, all44 reference hashes identical, threshold retained, old passage absent,
+2.58m outer alley / 3m separate Natural Wellbeing lane. See STREET_REBUILD_V17.md,
+street-rebuilt-v17-manifest.json, facade manifest and build/street-v17-check.json.
+Default opener updated. Distances remain gameplay estimates; procedural brick
+requires baking/replacement and photo occlusions remain. No Radiant conversion,
+compiler/game verification, deployment, game installation write or push this pass.
+
+## 2026-10-03 — Player recon, v18 cleanup and Zombies progression proposal
+Sam requested a recon folder, programmatic player-perspective inspection, practical
+Blender fixes before Radiant, full Blender control, then explicitly asked to push
+the latest work and update project documentation. Saved dirty live v17 as local
+`recon/v18/input-live-v17.blend` before edits. Safety snapshots remain local/ignored;
+numbered v17/v18 milestones and screenshot/report evidence are tracked.
+
+`scripts/recon_blender_players.py` run with background Blender on the live input
+and final `assets/blender/pharmacie-player-cleanup-v18.blend`:36 viewpoints each,
+72 saved1100x700 player-eye renders plus six contact sheets/offline comparison
+gallery. Inspected all contact sheets and targeted full frames. Inspection uses
+temporary fill/daylight, never saved into model. Final route sampling covers ten
+chosen routes /572 samples at0.20m spacing; 0.35m radial and overhead/support rays
+pass. Wider0.42m radius sensitivity caught an upper-arrival corner; tapered WC
+outer-wall rear end20cm and rechecked all572 samples successfully. Prior sensitivity
+evidence retained. These are preliminary mesh/ray checks, not BO3 collision/navmesh.
+
+Live official Blender bridge ran `fix_player_recon_v18.py`, `light_recon_stairs_v18.py`,
+`plan_zombies_blender_v18.py`, and `ease_upper_arrival_v18.py`, saving v18. Cleared
+two aisle chairs; corrected15 mirrored image quads; raised rear floor join8mm;
+replaced18 tall stair treads with26 at190/178mm rises in same footprint, retaining
+rails/landings; added135mm platform intermediate step; closed upper ceiling/roof
+with removable proxy cap; added four stair lights; eased upper-arrival corner.
+New fixtures' inward face winding was found and corrected. Camera/route false
+positives were resolved by actual doorway/left-bar approaches rather than removing
+valid walls. Existing MEN/WOMEN divider remains solid with no connecting door.
+
+Sam then asked to plan play/doors before Radiant. Added three proposed zones and
+21 named Empty anchors: start in main pub, buy street at front or upstairs at stair
+foot, linked rear/alley escape loop, provisional items/spawn entries/street limits.
+Archived/unlinked competing old planning collections, including the old clearance
+guide. No actual door locks, prices, game zones, prefab placements or scripts changed.
+See `docs/ZOMBIES_PROGRESSION_V18.md` / `recon/v18/zombies-progression.json`.
+
+Validation command: Blender `--background assets/blender/pharmacie-player-cleanup-v18.blend
+--python scripts/check_player_recon_v18.py`. Report `recon/v18/validation.json`:
+all44 original hashes unchanged; untouched pre-existing meshes retain exact world
+vertices/faces; deliberate chair/connector/wall/stair edits excluded explicitly;
+all60 new solid meshes closed with outward winding;72 images; final camera support
+and route checks pass. First comparison rejected the intentionally retired clearance
+guide; explicitly excluded that non-render planning guide, retaining architectural
+checks. `python scripts/recon_gallery.py` / `recon_contact_sheets.py` build review
+artifacts. Current source/opener and README, AGENTS, workflow/reference/asset notes
+updated. Portable v16 facade input metadata now tracked for cross-machine reproduction.
+
+Remaining: photo occlusions/Street View artefacts, detailed placeholder fronts and
+roof geometry, exact gameplay/prefab sizes, collision design, progression door states,
+exporter/material calibration and eventual compiler/game/co-op verification. No
+Radiant conversion/deployment/game installation writes. User authorized repository
+commit/push for this checkpoint; no map release or external publication requested.

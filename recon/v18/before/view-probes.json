@@ -1,0 +1,1701 @@
+{
+  "phase": "before",
+  "blend": "C:\\Users\\sam\\pharmacie-cod-map\\recon\\v18\\input-live-v17.blend",
+  "views": [
+    {
+      "view": "01_street_to_pub",
+      "feet": [
+        5.5,
+        -2,
+        0
+      ],
+      "eye": [
+        5.5,
+        -2,
+        1.65
+      ],
+      "look_at": [
+        5.5,
+        3,
+        1.65
+      ],
+      "support": {
+        "object": "Street v17 | Pub-side extended pavement",
+        "point": [
+          5.5,
+          -2.0,
+          0.0
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.3199999928474426
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "02_threshold_inward",
+      "feet": [
+        5.5,
+        0.5,
+        0
+      ],
+      "eye": [
+        5.5,
+        0.5,
+        1.65
+      ],
+      "look_at": [
+        5.5,
+        8,
+        1.65
+      ],
+      "support": {
+        "object": "Front | continuous entrance threshold - no floor gap",
+        "point": [
+          5.5,
+          0.5,
+          0.0029999911785125732
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.31700000166893005
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "03_entrance_reverse",
+      "feet": [
+        5.5,
+        3,
+        0
+      ],
+      "eye": [
+        5.5,
+        3,
+        1.65
+      ],
+      "look_at": [
+        5.5,
+        -3,
+        1.4
+      ],
+      "support": {
+        "object": "Ground | continuous timber floor",
+        "point": [
+          5.5,
+          3.0,
+          -2.9802322387695312e-08
+        ],
+        "normal": [
+          -0.0,
+          0.0,
+          -0.9999999403953552
+        ],
+        "distance": 0.320000022649765
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "04_main_room_to_bar",
+      "feet": [
+        5.5,
+        6,
+        0
+      ],
+      "eye": [
+        5.5,
+        6,
+        1.65
+      ],
+      "look_at": [
+        4.5,
+        16,
+        1.65
+      ],
+      "support": {
+        "object": "Ground | continuous timber floor",
+        "point": [
+          5.5,
+          6.0,
+          -2.9802322387695312e-08
+        ],
+        "normal": [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        "distance": 0.320000022649765
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "05_left_display_wall",
+      "feet": [
+        4.8,
+        8,
+        0
+      ],
+      "eye": [
+        4.8,
+        8,
+        1.65
+      ],
+      "look_at": [
+        -0.7,
+        9,
+        1.6
+      ],
+      "support": {
+        "object": "Ground | continuous timber floor",
+        "point": [
+          4.800000190734863,
+          8.0,
+          -2.9802322387695312e-08
+        ],
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ],
+        "distance": 0.320000022649765
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "06_right_platform",
+      "feet": [
+        5.5,
+        10,
+        0
+      ],
+      "eye": [
+        5.5,
+        10,
+        1.65
+      ],
+      "look_at": [
+        9,
+        11,
+        1.6
+      ],
+      "support": {
+        "object": "Ground | continuous timber floor",
+        "point": [
+          5.5,
+          10.0,
+          -2.9802322387695312e-08
+        ],
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ],
+        "distance": 0.320000022649765
+      },
+      "headroom_hit": {
+        "object": "Video | downstairs dining 10.2 chair 1 seat",
+        "point": [
+          5.5,
+          10.0,
+          0.4350000023841858
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          -1.0
+        ],
+        "distance": 0.33500000834465027
+      },
+      "body_clearance_hits": [
+        {
+          "object": "Video | downstairs dining 10.2 chair 1 seat",
+          "point": [
+            5.764999866485596,
+            10.0,
+            0.44999998807907104
+          ],
+          "normal": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 0.2649998664855957
+        },
+        {
+          "object": "Video | downstairs dining 10.2 chair 1 seat",
+          "point": [
+            5.335000038146973,
+            10.164999961853027,
+            0.44999998807907104
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 0.2333451509475708
+        },
+        {
+          "object": "Video | downstairs dining 10.2 chair 1 seat",
+          "point": [
+            5.335000038146973,
+            10.0,
+            0.44999998807907104
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 0.16499997675418854
+        },
+        {
+          "object": "Video | downstairs dining 10.2 chair 1 seat",
+          "point": [
+            5.484999656677246,
+            9.984999656677246,
+            0.44999998807907104
+          ],
+          "normal": [
+            0.0,
+            -0.9999999403953552,
+            0.0
+          ],
+          "distance": 0.02121368609368801
+        },
+        {
+          "object": "Video | downstairs dining 10.2 chair 1 seat",
+          "point": [
+            5.5,
+            9.984999656677246,
+            0.44999998807907104
+          ],
+          "normal": [
+            0.0,
+            -0.9999999403953552,
+            0.0
+          ],
+          "distance": 0.01500034425407648
+        },
+        {
+          "object": "Video | downstairs dining 10.2 chair 1 seat",
+          "point": [
+            5.515000343322754,
+            9.984999656677246,
+            0.44999998807907104
+          ],
+          "normal": [
+            0.0,
+            -0.9999999403953552,
+            0.0
+          ],
+          "distance": 0.02121368981897831
+        },
+        {
+          "object": "Video | downstairs dining 10.2 chair 1 back",
+          "point": [
+            5.712500095367432,
+            10.0,
+            1.0
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 0.21250009536743164
+        },
+        {
+          "object": "Video | downstairs dining 10.2 chair 1 back",
+          "point": [
+            5.712500095367432,
+            10.21250057220459,
+            1.0
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 0.30052050948143005
+        }
+      ],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "07_medical_tables",
+      "feet": [
+        4.3,
+        12,
+        0
+      ],
+      "eye": [
+        4.3,
+        12,
+        1.65
+      ],
+      "look_at": [
+        2.7,
+        12,
+        1
+      ],
+      "support": {
+        "object": "Ground | continuous timber floor",
+        "point": [
+          4.300000190734863,
+          12.0,
+          0.0
+        ],
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ],
+        "distance": 0.3199999928474426
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "08_bar_front",
+      "feet": [
+        4.5,
+        14,
+        0
+      ],
+      "eye": [
+        4.5,
+        14,
+        1.65
+      ],
+      "look_at": [
+        3.7,
+        17,
+        1.65
+      ],
+      "support": {
+        "object": "Ground | continuous timber floor",
+        "point": [
+          4.5,
+          14.0,
+          0.0
+        ],
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ],
+        "distance": 0.3199999928474426
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "09_bar_route_right",
+      "feet": [
+        8.8,
+        16,
+        0
+      ],
+      "eye": [
+        8.8,
+        16,
+        1.65
+      ],
+      "look_at": [
+        8.7,
+        22,
+        1.65
+      ],
+      "support": {
+        "object": "Ground | continuous timber floor",
+        "point": [
+          8.800000190734863,
+          16.0,
+          -2.9802322387695312e-08
+        ],
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ],
+        "distance": 0.320000022649765
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "10_rear_service",
+      "feet": [
+        7.3,
+        22,
+        0
+      ],
+      "eye": [
+        7.3,
+        22,
+        1.65
+      ],
+      "look_at": [
+        5,
+        27,
+        1.65
+      ],
+      "support": {
+        "object": "Ground | continuous timber floor",
+        "point": [
+          7.300000190734863,
+          22.0,
+          0.0
+        ],
+        "normal": [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        "distance": 0.3199999928474426
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "11_rear_exit",
+      "feet": [
+        -3.9,
+        30,
+        0
+      ],
+      "eye": [
+        -3.9,
+        30,
+        1.65
+      ],
+      "look_at": [
+        -7.5,
+        32,
+        1.65
+      ],
+      "support": {
+        "object": "Ground | continuous timber floor",
+        "point": [
+          -3.9000000953674316,
+          30.0,
+          -2.9802322387695312e-08
+        ],
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ],
+        "distance": 0.320000022649765
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "12_stairs_start",
+      "feet": [
+        -1.5,
+        29.75,
+        0
+      ],
+      "eye": [
+        -1.5,
+        29.75,
+        1.65
+      ],
+      "look_at": [
+        3,
+        29.75,
+        2.6
+      ],
+      "support": {
+        "object": "Ground | continuous timber floor",
+        "point": [
+          -1.5,
+          29.75,
+          -2.9802322387695312e-08
+        ],
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ],
+        "distance": 0.320000022649765
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "13_stairs_lower_mid",
+      "feet": [
+        2.7,
+        29.75,
+        1.6
+      ],
+      "eye": [
+        2.7,
+        29.75,
+        3.25
+      ],
+      "look_at": [
+        6.4,
+        29.7,
+        4
+      ],
+      "support": {
+        "object": "Stairs | across-back lower tread 06",
+        "point": [
+          2.700000047683716,
+          29.75,
+          1.6000003814697266
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.319999635219574
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "14_stairs_turn",
+      "feet": [
+        6.6,
+        29.75,
+        2.667
+      ],
+      "eye": [
+        6.6,
+        29.75,
+        4.317
+      ],
+      "look_at": [
+        6.6,
+        26,
+        5.5
+      ],
+      "support": {
+        "object": "Stairs | RIGHT turn landing",
+        "point": [
+          6.599999904632568,
+          29.75,
+          2.6666669845581055
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.32033300399780273
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "15_stairs_upper",
+      "feet": [
+        6.6,
+        26.65,
+        4.267
+      ],
+      "eye": [
+        6.6,
+        26.65,
+        5.917
+      ],
+      "look_at": [
+        6.6,
+        24,
+        6.45
+      ],
+      "support": {
+        "object": "Stairs | right-turn upper tread 06",
+        "point": [
+          6.599999904632568,
+          26.649999618530273,
+          4.266667366027832
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.32033249735832214
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "16_upper_arrival",
+      "feet": [
+        6.6,
+        24.85,
+        4.8
+      ],
+      "eye": [
+        6.6,
+        24.85,
+        6.449999999999999
+      ],
+      "look_at": [
+        4,
+        21,
+        6.45
+      ],
+      "support": {
+        "object": "First | floor with corrected L stairwell opening",
+        "point": [
+          6.599999904632568,
+          24.850000381469727,
+          4.800000190734863
+        ],
+        "normal": [
+          4.7584176599002603e-08,
+          0.0,
+          1.0
+        ],
+        "distance": 0.31999966502189636
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "17_upstairs_seating",
+      "feet": [
+        4.5,
+        18,
+        4.8
+      ],
+      "eye": [
+        4.5,
+        18,
+        6.449999999999999
+      ],
+      "look_at": [
+        3,
+        8,
+        6.45
+      ],
+      "support": {
+        "object": "First | floor with corrected L stairwell opening",
+        "point": [
+          4.5,
+          18.0,
+          4.800000190734863
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.31999969482421875
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "18_upstairs_front",
+      "feet": [
+        4.5,
+        5,
+        4.8
+      ],
+      "eye": [
+        4.5,
+        5,
+        6.449999999999999
+      ],
+      "look_at": [
+        4.5,
+        15,
+        6.45
+      ],
+      "support": {
+        "object": "First | floor with corrected L stairwell opening",
+        "point": [
+          4.5,
+          5.0,
+          4.800000190734863
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.31999966502189636
+      },
+      "headroom_hit": {
+        "object": "Kitchen | sink and hob run",
+        "point": [
+          4.5,
+          5.0,
+          5.699999809265137
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.7999996542930603
+      },
+      "body_clearance_hits": [
+        {
+          "object": "Kitchen | sink and hob run",
+          "point": [
+            4.67462682723999,
+            5.0,
+            5.25
+          ],
+          "normal": [
+            0.9999914765357971,
+            -0.004118630662560463,
+            0.0
+          ],
+          "distance": 0.17462679743766785
+        },
+        {
+          "object": "Kitchen | sink and hob run",
+          "point": [
+            4.675349235534668,
+            5.175349235534668,
+            5.25
+          ],
+          "normal": [
+            0.9999914765357971,
+            -0.004118630662560463,
+            0.0
+          ],
+          "distance": 0.24798095226287842
+        },
+        {
+          "object": "Kitchen | sink and hob run",
+          "point": [
+            4.673910617828369,
+            4.826089382171631,
+            5.25
+          ],
+          "normal": [
+            0.9999914765357971,
+            -0.004118630662560463,
+            0.0
+          ],
+          "distance": 0.24594660103321075
+        }
+      ],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "19_upstairs_rear",
+      "feet": [
+        3,
+        23,
+        4.8
+      ],
+      "eye": [
+        3,
+        23,
+        6.449999999999999
+      ],
+      "look_at": [
+        2,
+        28,
+        6.45
+      ],
+      "support": {
+        "object": "First | floor with corrected L stairwell opening",
+        "point": [
+          3.0,
+          23.0,
+          4.800000190734863
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.31999972462654114
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            3.1024727821350098,
+            23.0,
+            5.25
+          ],
+          "normal": [
+            0.9951639771461487,
+            0.09822794795036316,
+            0.0
+          ],
+          "distance": 0.10247274488210678
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            3.093266725540161,
+            23.0932674407959,
+            5.25
+          ],
+          "normal": [
+            0.9951639771461487,
+            0.09822794795036316,
+            0.0
+          ],
+          "distance": 0.1318991631269455
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            2.8094253540039062,
+            23.190574645996094,
+            5.25
+          ],
+          "normal": [
+            -0.9951639175415039,
+            -0.09822791069746017,
+            0.0
+          ],
+          "distance": 0.26951324939727783
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            2.8282361030578613,
+            23.0,
+            5.25
+          ],
+          "normal": [
+            -0.9951639175415039,
+            -0.09822791069746017,
+            0.0
+          ],
+          "distance": 0.17176391184329987
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            2.8436670303344727,
+            22.843666076660156,
+            5.25
+          ],
+          "normal": [
+            -0.9951639175415039,
+            -0.09822791069746017,
+            0.0
+          ],
+          "distance": 0.22108832001686096
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            3.1136951446533203,
+            22.88630485534668,
+            5.25
+          ],
+          "normal": [
+            0.9951639771461487,
+            0.09822794795036316,
+            0.0
+          ],
+          "distance": 0.16078904271125793
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            3.1024727821350098,
+            23.0,
+            5.800000190734863
+          ],
+          "normal": [
+            0.9951639771461487,
+            0.09822794795036316,
+            0.0
+          ],
+          "distance": 0.10247272253036499
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            3.0932669639587402,
+            23.0932674407959,
+            5.800000190734863
+          ],
+          "normal": [
+            0.9951639771461487,
+            0.09822794795036316,
+            0.0
+          ],
+          "distance": 0.13189926743507385
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            2.8094253540039062,
+            23.190574645996094,
+            5.800000190734863
+          ],
+          "normal": [
+            -0.9951639175415039,
+            -0.09822791069746017,
+            0.0
+          ],
+          "distance": 0.26951321959495544
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            2.8282361030578613,
+            23.0,
+            5.800000190734863
+          ],
+          "normal": [
+            -0.9951639175415039,
+            -0.09822791069746017,
+            0.0
+          ],
+          "distance": 0.17176392674446106
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            2.8436670303344727,
+            22.843666076660156,
+            5.800000190734863
+          ],
+          "normal": [
+            -0.9951639175415039,
+            -0.09822791069746017,
+            0.0
+          ],
+          "distance": 0.22108827531337738
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            3.1136951446533203,
+            22.88630485534668,
+            5.800000190734863
+          ],
+          "normal": [
+            0.9951639771461487,
+            0.09822794795036316,
+            0.0
+          ],
+          "distance": 0.16078904271125793
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            3.1024727821350098,
+            23.0,
+            6.449999809265137
+          ],
+          "normal": [
+            0.9951639771461487,
+            0.09822794795036316,
+            0.0
+          ],
+          "distance": 0.10247272253036499
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            3.093266725540161,
+            23.0932674407959,
+            6.449999809265137
+          ],
+          "normal": [
+            0.9951639771461487,
+            0.09822794795036316,
+            0.0
+          ],
+          "distance": 0.1318991631269455
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            2.8094253540039062,
+            23.190574645996094,
+            6.449999809265137
+          ],
+          "normal": [
+            -0.9951639175415039,
+            -0.09822791069746017,
+            0.0
+          ],
+          "distance": 0.26951324939727783
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            2.8282361030578613,
+            23.0,
+            6.449999809265137
+          ],
+          "normal": [
+            -0.9951639175415039,
+            -0.09822791069746017,
+            0.0
+          ],
+          "distance": 0.17176389694213867
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            2.8436670303344727,
+            22.843666076660156,
+            6.449999809265137
+          ],
+          "normal": [
+            -0.9951639175415039,
+            -0.09822791069746017,
+            0.0
+          ],
+          "distance": 0.22108818590641022
+        },
+        {
+          "object": "First | MEN / WOMEN solid divider - NO connecting door | wall end",
+          "point": [
+            3.1136951446533203,
+            22.88630485534668,
+            6.449999809265137
+          ],
+          "normal": [
+            0.9951639771461487,
+            0.09822794795036316,
+            0.0
+          ],
+          "distance": 0.16078904271125793
+        }
+      ],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "20_alley_entrance",
+      "feet": [
+        -11.4,
+        1,
+        0
+      ],
+      "eye": [
+        -11.4,
+        1,
+        1.65
+      ],
+      "look_at": [
+        -11.4,
+        12,
+        1.65
+      ],
+      "support": {
+        "object": "Street v17 | Outer-left alley walkable floor",
+        "point": [
+          -11.399999618530273,
+          1.0,
+          0.0
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.3199999928474426
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "21_alley_mid",
+      "feet": [
+        -11.4,
+        13,
+        0
+      ],
+      "eye": [
+        -11.4,
+        13,
+        1.65
+      ],
+      "look_at": [
+        -11.4,
+        25,
+        1.65
+      ],
+      "support": {
+        "object": "Street v17 | Outer-left alley walkable floor",
+        "point": [
+          -11.399999618530273,
+          13.0,
+          -2.9802322387695312e-08
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.320000022649765
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "22_alley_rear",
+      "feet": [
+        -11.4,
+        31.8,
+        0
+      ],
+      "eye": [
+        -11.4,
+        31.8,
+        1.65
+      ],
+      "look_at": [
+        -6.5,
+        31.8,
+        1.65
+      ],
+      "support": {
+        "object": "Street v17 | Outer-left alley walkable floor",
+        "point": [
+          -11.399999618530273,
+          31.799999237060547,
+          0.0
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.3199999928474426
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "23_rear_connector",
+      "feet": [
+        -7,
+        32,
+        0
+      ],
+      "eye": [
+        -7,
+        32,
+        1.65
+      ],
+      "look_at": [
+        -4,
+        30.5,
+        1.65
+      ],
+      "support": {
+        "object": "Street | rear exit landing",
+        "point": [
+          -7.0,
+          32.0,
+          2.9802322387695312e-08
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.31999996304512024
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "24_opposite_row",
+      "feet": [
+        5.5,
+        -6.5,
+        -0.08
+      ],
+      "eye": [
+        5.5,
+        -6.5,
+        1.5699999999999998
+      ],
+      "look_at": [
+        5.5,
+        -13,
+        2.4
+      ],
+      "support": {
+        "object": "Street v17 | High Street continuous road",
+        "point": [
+          5.5,
+          -6.5,
+          -0.07999999821186066
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.3199999928474426
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "25_crossing",
+      "feet": [
+        40,
+        -6.5,
+        -0.08
+      ],
+      "eye": [
+        40,
+        -6.5,
+        1.5699999999999998
+      ],
+      "look_at": [
+        40,
+        -13,
+        2.4
+      ],
+      "support": {
+        "object": "Street v17 | High Street continuous road",
+        "point": [
+          40.0,
+          -6.5,
+          -0.07999999821186066
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.3199999928474426
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "26_wellbeing_lane",
+      "feet": [
+        46.5,
+        -14,
+        0
+      ],
+      "eye": [
+        46.5,
+        -14,
+        1.65
+      ],
+      "look_at": [
+        46.5,
+        -26,
+        1.65
+      ],
+      "support": {
+        "object": "Street v17 | Natural Wellbeing side lane",
+        "point": [
+          46.5,
+          -14.0,
+          0.0
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.3199999928474426
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "27_fox_junction",
+      "feet": [
+        -22,
+        -6.5,
+        -0.08
+      ],
+      "eye": [
+        -22,
+        -6.5,
+        1.5699999999999998
+      ],
+      "look_at": [
+        -12,
+        -13,
+        2.2
+      ],
+      "support": {
+        "object": "Street v17 | High Street continuous road",
+        "point": [
+          -22.0,
+          -6.5,
+          -0.07999999821186066
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.3199999928474426
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "28_street_right",
+      "feet": [
+        20,
+        -1.5,
+        0
+      ],
+      "eye": [
+        20,
+        -1.5,
+        1.65
+      ],
+      "look_at": [
+        42,
+        -1.5,
+        1.65
+      ],
+      "support": {
+        "object": "Street v17 | Pub-side extended pavement",
+        "point": [
+          20.0,
+          -1.5,
+          0.0
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.3199999928474426
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "29_upper_hall_clear",
+      "feet": [
+        7.7,
+        24.85,
+        4.8
+      ],
+      "eye": [
+        7.7,
+        24.85,
+        6.449999999999999
+      ],
+      "look_at": [
+        7.7,
+        20,
+        6.45
+      ],
+      "support": {
+        "object": "First | floor with corrected L stairwell opening",
+        "point": [
+          7.699999809265137,
+          24.850000381469727,
+          4.800000190734863
+        ],
+        "normal": [
+          4.7584176599002603e-08,
+          0.0,
+          1.0
+        ],
+        "distance": 0.31999969482421875
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "30_upper_front_clear",
+      "feet": [
+        6.5,
+        5,
+        4.8
+      ],
+      "eye": [
+        6.5,
+        5,
+        6.449999999999999
+      ],
+      "look_at": [
+        4.5,
+        14,
+        6.45
+      ],
+      "support": {
+        "object": "First | floor with corrected L stairwell opening",
+        "point": [
+          6.5,
+          5.0,
+          4.800000190734863
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.31999972462654114
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "31_upper_rear_clear",
+      "feet": [
+        7.7,
+        23.5,
+        4.8
+      ],
+      "eye": [
+        7.7,
+        23.5,
+        6.449999999999999
+      ],
+      "look_at": [
+        7.7,
+        27,
+        6.45
+      ],
+      "support": {
+        "object": "First | floor with corrected L stairwell opening",
+        "point": [
+          7.699999809265137,
+          23.5,
+          4.800000190734863
+        ],
+        "normal": [
+          4.7584176599002603e-08,
+          0.0,
+          1.0
+        ],
+        "distance": 0.31999969482421875
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "32_rear_exit_clear",
+      "feet": [
+        -3,
+        29.75,
+        0
+      ],
+      "eye": [
+        -3,
+        29.75,
+        1.65
+      ],
+      "look_at": [
+        -3,
+        32,
+        1.65
+      ],
+      "support": {
+        "object": "Ground | continuous timber floor",
+        "point": [
+          -3.0,
+          29.75,
+          -2.9802322387695312e-08
+        ],
+        "normal": [
+          -0.0,
+          0.0,
+          -1.0
+        ],
+        "distance": 0.320000022649765
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "33_service_store",
+      "feet": [
+        6.6,
+        23.6,
+        0
+      ],
+      "eye": [
+        6.6,
+        23.6,
+        1.65
+      ],
+      "look_at": [
+        6.5,
+        26,
+        1.65
+      ],
+      "support": {
+        "object": "Ground | continuous timber floor",
+        "point": [
+          6.599999904632568,
+          23.600000381469727,
+          0.0
+        ],
+        "normal": [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        "distance": 0.3199999928474426
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "34_left_bar_route",
+      "feet": [
+        -1.5,
+        14,
+        0
+      ],
+      "eye": [
+        -1.5,
+        14,
+        1.65
+      ],
+      "look_at": [
+        -2,
+        23,
+        1.65
+      ],
+      "support": {
+        "object": "Ground | continuous timber floor",
+        "point": [
+          -1.5,
+          14.0,
+          0.0
+        ],
+        "normal": [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        "distance": 0.3199999928474426
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "35_stage_step",
+      "feet": [
+        7,
+        2.3,
+        0
+      ],
+      "eye": [
+        7,
+        2.3,
+        1.65
+      ],
+      "look_at": [
+        7,
+        4,
+        0.9
+      ],
+      "support": {
+        "object": "Ground | continuous timber floor",
+        "point": [
+          7.0,
+          2.299999952316284,
+          2.9802322387695312e-08
+        ],
+        "normal": [
+          -0.0,
+          0.0,
+          -0.9999999403953552
+        ],
+        "distance": 0.31999996304512024
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    },
+    {
+      "view": "36_alley_connection",
+      "feet": [
+        -6.5,
+        32.6,
+        0.008
+      ],
+      "eye": [
+        -6.5,
+        32.6,
+        1.658
+      ],
+      "look_at": [
+        -3,
+        32.6,
+        1.65
+      ],
+      "support": {
+        "object": "Street | rear exit landing",
+        "point": [
+          -6.5,
+          32.599998474121094,
+          2.9802322387695312e-08
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 0.3279999792575836
+      },
+      "headroom_hit": null,
+      "body_clearance_hits": [],
+      "assumptions": "Eye 1.65m, radius 0.35m; rays only, not a BO3 capsule sweep"
+    }
+  ]
+}

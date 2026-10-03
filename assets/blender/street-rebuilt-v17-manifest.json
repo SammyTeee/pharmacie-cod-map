@@ -1,0 +1,469 @@
+{
+  "version": 17,
+  "input": "pharmacie-entrance-fixed-v16.blend",
+  "output": "pharmacie-street-rebuilt-v17.blend",
+  "new_objects": 499,
+  "buildings": [
+    {
+      "name": "Wreake Valley Flooring",
+      "x": [
+        -10.16,
+        -2.16
+      ],
+      "y": [
+        0,
+        15
+      ],
+      "eaves": 9.5,
+      "depth": 15,
+      "texture": "Wreake Valley Flooring",
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Syston Dry Cleaners",
+      "x": [
+        10.5,
+        17.2
+      ],
+      "y": [
+        0,
+        13
+      ],
+      "eaves": 9.6,
+      "depth": 13,
+      "texture": "Syston Dry Cleaners",
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Nail and Spa shop",
+      "x": [
+        17.2,
+        23.6
+      ],
+      "y": [
+        0,
+        12
+      ],
+      "eaves": 9.2,
+      "depth": 12,
+      "texture": "Nail and Spa shop",
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Fox and Hounds",
+      "x": [
+        -15,
+        -3
+      ],
+      "y": [
+        -25,
+        -13
+      ],
+      "eaves": 5.4,
+      "depth": 12,
+      "texture": "Fox and Hounds",
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Aston and Co",
+      "x": [
+        -3,
+        1
+      ],
+      "y": [
+        -25,
+        -13
+      ],
+      "eaves": 7.1,
+      "depth": 12,
+      "texture": "Aston and Co",
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Syston Mini Market",
+      "x": [
+        1,
+        10
+      ],
+      "y": [
+        -25,
+        -13
+      ],
+      "eaves": 7.2,
+      "depth": 12,
+      "texture": "Syston Mini Market",
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Lets Move estate agents",
+      "x": [
+        10,
+        17
+      ],
+      "y": [
+        -25,
+        -13
+      ],
+      "eaves": 6.9,
+      "depth": 12,
+      "texture": "Lets Move estate agents",
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Floral Fantasy",
+      "x": [
+        17,
+        24
+      ],
+      "y": [
+        -25,
+        -13
+      ],
+      "eaves": 7.0,
+      "depth": 12,
+      "texture": "Floral Fantasy",
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Pasha Barber",
+      "x": [
+        24,
+        29
+      ],
+      "y": [
+        -26,
+        -13
+      ],
+      "eaves": 6.9,
+      "depth": 13,
+      "texture": null,
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "HM private entrance",
+      "x": [
+        29,
+        30
+      ],
+      "y": [
+        -26,
+        -13
+      ],
+      "eaves": 6.9,
+      "depth": 13,
+      "texture": null,
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Papermoon",
+      "x": [
+        30,
+        36
+      ],
+      "y": [
+        -26,
+        -13
+      ],
+      "eaves": 6.9,
+      "depth": 13,
+      "texture": null,
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Post Office",
+      "x": [
+        36,
+        45
+      ],
+      "y": [
+        -26,
+        -13
+      ],
+      "eaves": 6.9,
+      "depth": 13,
+      "texture": "Post Office",
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Natural Wellbeing",
+      "x": [
+        48,
+        57
+      ],
+      "y": [
+        -30,
+        -13
+      ],
+      "eaves": 7.7,
+      "depth": 17,
+      "texture": null,
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Pub-side placeholder 1",
+      "x": [
+        23.6,
+        30
+      ],
+      "y": [
+        0,
+        14
+      ],
+      "eaves": 8.0,
+      "depth": 14,
+      "texture": null,
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Pub-side placeholder 2",
+      "x": [
+        30,
+        37
+      ],
+      "y": [
+        0,
+        14
+      ],
+      "eaves": 8.7,
+      "depth": 14,
+      "texture": null,
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Pub-side placeholder 3",
+      "x": [
+        37,
+        44
+      ],
+      "y": [
+        0,
+        14
+      ],
+      "eaves": 8.0,
+      "depth": 14,
+      "texture": null,
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Pub-side placeholder 4",
+      "x": [
+        44,
+        51
+      ],
+      "y": [
+        0,
+        14
+      ],
+      "eaves": 8.3,
+      "depth": 14,
+      "texture": null,
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Pub-side placeholder 5",
+      "x": [
+        51,
+        59
+      ],
+      "y": [
+        0,
+        14
+      ],
+      "eaves": 7.9,
+      "depth": 14,
+      "texture": null,
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Junction distant placeholder 1",
+      "x": [
+        -29,
+        -22
+      ],
+      "y": [
+        0,
+        13
+      ],
+      "eaves": 7.0,
+      "depth": 13,
+      "texture": null,
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Junction distant placeholder 2",
+      "x": [
+        -22,
+        -15
+      ],
+      "y": [
+        0,
+        13
+      ],
+      "eaves": 7.0,
+      "depth": 13,
+      "texture": null,
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Crossing distant placeholder 59",
+      "x": [
+        59,
+        66
+      ],
+      "y": [
+        -25,
+        -13
+      ],
+      "eaves": 7.5,
+      "depth": 12,
+      "texture": null,
+      "placement": "Photographic order; gameplay-scale estimate"
+    },
+    {
+      "name": "Crossing distant placeholder 66",
+      "x": [
+        66,
+        73
+      ],
+      "y": [
+        -25,
+        -13
+      ],
+      "eaves": 7.5,
+      "depth": 12,
+      "texture": null,
+      "placement": "Photographic order; gameplay-scale estimate"
+    }
+  ],
+  "alley": {
+    "x": [
+      -12.74,
+      -10.16
+    ],
+    "y": [
+      0,
+      32
+    ],
+    "rear_connector_y": [
+      31,
+      33
+    ],
+    "width_m": 2.58
+  },
+  "archived_v16_objects": [
+    "Video | Fox and Hounds simple building mass",
+    "Video | Fox and Hounds photographic front",
+    "Video | Fox and Hounds simple roof",
+    "Video | Fox and Hounds pavement plinth",
+    "Video | Aston and Co simple building mass",
+    "Video | Aston and Co photographic front",
+    "Video | Aston and Co simple roof",
+    "Video | Aston and Co pavement plinth",
+    "Video | Syston Mini Market simple building mass",
+    "Video | Syston Mini Market photographic front",
+    "Video | Syston Mini Market simple roof",
+    "Video | Syston Mini Market pavement plinth",
+    "Video | Lets Move estate agents simple building mass",
+    "Video | Lets Move estate agents photographic front",
+    "Video | Lets Move estate agents simple roof",
+    "Video | Lets Move estate agents pavement plinth",
+    "Video | Floral Fantasy simple building mass",
+    "Video | Floral Fantasy photographic front",
+    "Video | Floral Fantasy simple roof",
+    "Video | Floral Fantasy pavement plinth",
+    "Video | opposite street lamp post",
+    "Video | opposite street lamp arm",
+    "Video | opposite street lamp head",
+    "Video | opposite street lamp post.001",
+    "Video | opposite street lamp arm.001",
+    "Video | opposite street lamp head.001",
+    "Video | opposite street lamp post.002",
+    "Video | opposite street lamp arm.002",
+    "Video | opposite street lamp head.002",
+    "Video | Video | Aston and Co photographic front roof slates",
+    "Video | Video | Floral Fantasy photographic front roof slates",
+    "Video | Video | Fox and Hounds photographic front roof slates",
+    "Video | Video | Lets Move estate agents photographic front roof slates",
+    "Video | Video | Syston Mini Market photographic front roof slates",
+    "Video | Wreake Valley Flooring shallow scenery backing",
+    "Video | Wreake Valley Flooring photographic front",
+    "Video | Wreake Valley Flooring shallow roof edge",
+    "Video | Syston Dry Cleaners shallow scenery backing",
+    "Video | Syston Dry Cleaners photographic front",
+    "Video | Syston Dry Cleaners shallow roof edge",
+    "Video | Nail and Spa shop shallow scenery backing",
+    "Video | Nail and Spa shop photographic front",
+    "Video | Nail and Spa shop shallow roof edge",
+    "Street | two-way carriageway",
+    "Street | pub-side pavement",
+    "Street | opposite pavement",
+    "Street | pub-side kerb",
+    "Street | opposite kerb",
+    "Street | dashed white centre line 01",
+    "Street | dashed white centre line 02",
+    "Street | dashed white centre line 03",
+    "Street | dashed white centre line 04",
+    "Street | dashed white centre line 05",
+    "Street | dashed white centre line 06",
+    "Street | dashed white centre line 07",
+    "Street | dashed white centre line 08",
+    "Street | pub double yellow 1",
+    "Street | pub double yellow 2",
+    "Street | opposite double yellow 1",
+    "Street | opposite double yellow 2",
+    "Street | left side passage",
+    "Street | rear exit landing",
+    "Front | continuous entrance threshold - no floor gap",
+    "Street | left side passage"
+  ],
+  "anchors": [
+    {
+      "name": "Street start / player review",
+      "location": [
+        5.5,
+        -2,
+        0.1
+      ],
+      "status": "Proposal, not placed BO3 prefab"
+    },
+    {
+      "name": "Quick Revive proposal",
+      "location": [
+        12,
+        -1.6,
+        0.1
+      ],
+      "status": "Proposal, not placed BO3 prefab"
+    },
+    {
+      "name": "Rear yard box proposal",
+      "location": [
+        -5.5,
+        32,
+        0.1
+      ],
+      "status": "Proposal, not placed BO3 prefab"
+    },
+    {
+      "name": "Rear service power proposal",
+      "location": [
+        7,
+        28,
+        0.1
+      ],
+      "status": "Proposal, not placed BO3 prefab"
+    }
+  ],
+  "preserved": "Pub interior, stairs and v16 threshold; source photo hashes verified",
+  "limitations": [
+    "Approximate gameplay-scaled blockout, not survey or 1:1",
+    "New Papermoon/Pasha fronts are geometry placeholders",
+    "Original photo occlusions/perspective and some cropped roof pixels remain",
+    "Rear alley connection inferred, not photographed",
+    "No Radiant export, compiler, collision or gameplay verification",
+    "Procedural brick shader must be baked/replaced for BO3; it is not an engine material"
+  ],
+  "radiant_rebuilt": false,
+  "runtime_verified": false,
+  "review_refinements": "Roof heights aligned to enlarged pub; street cameras corrected; procedural brick coursing for Blender review"
+}

@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 build/
 *.blend[0-9]*
+# Local safety snapshots; numbered editable milestones are tracked separately.
+/recon/**/*.blend
+/assets/blender/*-before-*.blend

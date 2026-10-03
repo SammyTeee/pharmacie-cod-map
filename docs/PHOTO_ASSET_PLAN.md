@@ -1,6 +1,17 @@
 # Photo-to-asset plan
 
+Detailed source-to-feature descriptions: [STREET_PHOTO_RECONSTRUCTION.md](STREET_PHOTO_RECONSTRUCTION.md) and [PUB_PHOTO_RECONSTRUCTION.md](PUB_PHOTO_RECONSTRUCTION.md). Stable IDs, original dimensions and hash provenance: RECONSTRUCTION_SOURCE_INDEX.md / reconstruction-sources.json. This 2026-10-03 review created text/metadata only, no new raster derivatives. Use described facade-plane boundaries and occlusion warnings before making individual shop textures; reflected shops, people/cars, Google UI and blank screenshot margins must not become architecture.
+
 ## Recommendation
+
+V18 player recon corrected15 mirrored right-wall image UVs while retaining
+their original raster sources. No source photo was edited. Full review and
+remaining photo-cleanup/export limits: [recon/v18/README.md](../recon/v18/README.md).
+
+V17 now includes ten isolated, rectified street facade PNG derivatives with
+full-panel UVs; provenance in `assets/street/v17/manifest.json`. Source originals
+hash-verified unchanged. These are Blender preview assets; engine calibration and
+photo-occlusion cleanup remain pending. See [STREET_REBUILD_V17.md](STREET_REBUILD_V17.md).
 
 Use the photos in two different ways. Build the pub's shape, collision, doors, bar, cases, furniture, and boss arena as real Radiant geometry or validated game models. Use selected near-frontal photo regions as custom wall panels, posters, cabinet inserts, and small decals. Do not turn a full-room photo into the whole map, and do not use a Gaussian splat as gameplay geometry.
 

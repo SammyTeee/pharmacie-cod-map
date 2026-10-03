@@ -1,5 +1,22 @@
 # The Pharmacie Arms, Syston — map references
 
+## Detailed text reconstruction catalogue — 2026-10-03
+
+V18 player recon checked all44 original hashes again and corrected mirrored UVs
+in15 Blender display/poster objects; source rasters are unchanged. Review evidence
+and remaining photographic occlusions: `../../recon/v18/README.md`.
+
+Subsequent v17 street pass created ten separate facade derivatives in
+`../../assets/street/v17/`, with source hashes and exact quadrilaterals in its
+manifest. All44 original references still match catalogue hashes. Geometry/pass
+limits and review previews: `../../docs/STREET_REBUILD_V17.md`.
+
+Sam requested turning the photos into detailed reusable building descriptions. See ../../docs/STREET_PHOTO_RECONSTRUCTION.md (street facades, topology, roads, roof/side details), ../../docs/PUB_PHOTO_RECONSTRUCTION.md (room, furniture, medical displays, counter, photo ledger), and ../../docs/RECONSTRUCTION_SOURCE_INDEX.md. Source IDs S01–S16 cover supplied street captures; P01–P28 preserve existing photo-catalog IDs. Metadata/hashes in ../../docs/reconstruction-sources.json. All earlier 28 source hashes still match; no originals modified and no new image derivatives made. AVIF reviewed through existing same-size lossless PNG; drawings and contact-sheet-only/alternate views are explicitly distinguished. Script ../../scripts/catalog_reconstruction_sources.py reproduces text/metadata catalogue without image mutation. Photo state changes and unseen/uncalibrated geometry are marked so reconstruction does not treat guesses or gameplay enlargement as survey facts.
+
+## Expanded street references reviewed 2026-10-03
+
+Sam supplied seven street PNG captures in the parent references directory (`../*.png`) showing the alley beyond Wreake Valley, Post Office/crossing, Papermoon/Pasha Barber, opposite pub row and Fox & Hounds junction. Three additional Natural Wellbeing views are in `../../alt/nattywells/`. All ten visually inspected unchanged; visible Street View UI on several captures indicates Apr2026, while watermark dates vary. Source ownership/capture provenance is user-supplied; no live Street View visit or distribution permission inferred. Filenames remain unchanged, including spelling errors. Use these for street order, roof/side-wall/crossing blockout references; dimensions remain approximate. Observations and intended uses: `../../docs/TEXTURE_LAYOUT_FIX_PLAN.md`. No derivatives produced in this review. The two root v16 game screenshots are runtime evidence of broken crops, not texture sources.
+
 ## Council-plan reference and estimated Blender scale (2026-10-02)
 
 `floor plan of downstairs and upstairs council to scale.png` is a user-supplied 1264×874 raster floor-plan reference. Filename suggests council provenance, but document date, source URL, original page scale and as-built status have not been independently established. Source remains unchanged. Sam estimates frontage at 7m and has no confirmed measurement. Blender uses that estimate and the original plan's proportions in separate UV reference planes; see `../../docs/BLENDER_WORKFLOW.md` for pixel anchors, regions and verification. `hq floor plan ai.png` in the repository root is the clearer supplied composite reference; use the original council-plan raster for tracing rather than treating AI cleanup as surveyed geometry.

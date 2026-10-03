@@ -1,0 +1,166 @@
+{
+  "input_snapshot": "recon/v18/input-live-v17.blend",
+  "output": "assets\\blender\\pharmacie-player-cleanup-v18.blend",
+  "changes": [
+    {
+      "id": "R01",
+      "action": "Rotate aisle-side chair to table end",
+      "table_y": 6.7,
+      "objects": [
+        "Video | downstairs dining 6.7 chair 1 seat",
+        "Video | downstairs dining 6.7 chair 1 back",
+        "Video | downstairs dining 6.7 chair leg.004",
+        "Video | downstairs dining 6.7 chair leg.005",
+        "Video | downstairs dining 6.7 chair leg.006",
+        "Video | downstairs dining 6.7 chair leg.007"
+      ]
+    },
+    {
+      "id": "R01",
+      "action": "Rotate aisle-side chair to table end",
+      "table_y": 10.2,
+      "objects": [
+        "Video | downstairs dining 10.2 chair 1 seat",
+        "Video | downstairs dining 10.2 chair 1 back",
+        "Video | downstairs dining 10.2 chair leg.004",
+        "Video | downstairs dining 10.2 chair leg.005",
+        "Video | downstairs dining 10.2 chair leg.006",
+        "Video | downstairs dining 10.2 chair leg.007"
+      ]
+    },
+    {
+      "id": "R02",
+      "action": "Correct mirrored right-wall photo UVs",
+      "objects": [
+        "Video | right music poster 0.0",
+        "Video | right music poster 0.1",
+        "Video | right music poster 0.2",
+        "Video | right music poster 0.3",
+        "Video | right music poster 1.0",
+        "Video | right music poster 1.1",
+        "Video | right music poster 1.2",
+        "Video | right music poster 1.3",
+        "Video | right music poster 2.0",
+        "Video | right music poster 2.1",
+        "Video | right music poster 2.2",
+        "Video | right medical advert collage",
+        "Video | right medical advert collage.001",
+        "Video | vintage camera display contents",
+        "Video | vintage camera display contents.001"
+      ]
+    },
+    {
+      "id": "R03",
+      "action": "Rear connector top raised 8mm to remove coplanar overlap; no source floor removed"
+    },
+    {
+      "id": "R04",
+      "action": "18 treads replaced by 26 in same footprint; rails/landings retained",
+      "lower_rise_m": 0.19047621318272182,
+      "upper_rise_m": 0.17777776718139648,
+      "previous_rise_m": 0.26666669845581054,
+      "venue_fact": false
+    },
+    {
+      "id": "R05",
+      "action": "135mm intermediate front platform step; keeps main aisle clear",
+      "venue_fact": false
+    },
+    {
+      "id": "R06",
+      "action": "Close missing upper ceiling and roof; angled outer perimeter, removable collection",
+      "limitations": "Flat rear cap and ceiling perimeter inferred; detailed roof pitch remains a future reference task"
+    },
+    {
+      "id": "R07",
+      "action": "Four warm stair/arrival light fixtures after roof closure exposed poor visibility",
+      "fixtures": [
+        {
+          "position": [
+            0,
+            29.75,
+            4.3
+          ],
+          "watts_blender": 90
+        },
+        {
+          "position": [
+            4,
+            29.75,
+            4.3
+          ],
+          "watts_blender": 90
+        },
+        {
+          "position": [
+            6.6,
+            29.75,
+            8.85
+          ],
+          "watts_blender": 180
+        },
+        {
+          "position": [
+            7.7,
+            23.6,
+            8.85
+          ],
+          "watts_blender": 90
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "id": "R08",
+      "action": "Ease upper stair-arrival corner by tapering female WC outer wall rear end 20cm; no connecting door or divider removal",
+      "object": "First | female WC bottom | wall end",
+      "before_world_vertices": [
+        [
+          6.626916408538818,
+          21.055400848388672,
+          4.799999713897705
+        ],
+        [
+          6.626916408538818,
+          21.055400848388672,
+          9.149999618530273
+        ],
+        [
+          6.354428291320801,
+          21.03778839111328,
+          4.799999713897705
+        ],
+        [
+          6.354428291320801,
+          21.03778839111328,
+          9.149999618530273
+        ],
+        [
+          6.125171661376953,
+          25.633329391479492,
+          4.799999713897705
+        ],
+        [
+          6.125171661376953,
+          25.633329391479492,
+          9.149999618530273
+        ],
+        [
+          5.852682590484619,
+          25.615718841552734,
+          4.799999713897705
+        ],
+        [
+          5.852682590484619,
+          25.615718841552734,
+          9.149999618530273
+        ]
+      ],
+      "radius_probe_m": 0.42,
+      "design": "Gameplay clearance adaptation, not surveyed venue dimension"
+    }
+  ],
+  "new_meshes": 60,
+  "radiant_rebuilt": false,
+  "runtime_verified": false
+}

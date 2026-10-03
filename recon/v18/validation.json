@@ -1,0 +1,20 @@
+{
+  "source_photos_hash_identical": 44,
+  "protected_meshes_identical": 1762,
+  "intentional_moved_or_changed_meshes": 14,
+  "archived_stair_meshes": 36,
+  "retired_planning_guides": [
+    "CLEARANCE | BO3 player 32x32x72 map units"
+  ],
+  "new_closed_outward_meshes": 60,
+  "player_views_each_phase": 36,
+  "screenshots": 72,
+  "route_samples": 572,
+  "wider_radius_sensitivity_samples": 572,
+  "wider_radius_m": 0.42,
+  "route_blockers_after": 0,
+  "unsupported_route_samples_after": 0,
+  "invalid_inspection_cameras_after": 0,
+  "zombies_plan": "21 Empty anchors / 3 proposed zones; no game entities",
+  "radiant_or_runtime_verified": false
+}

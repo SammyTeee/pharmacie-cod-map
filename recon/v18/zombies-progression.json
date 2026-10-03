@@ -1,0 +1,325 @@
+{
+  "version": 18,
+  "status": "Rough gameplay proposal only",
+  "start": "Main ground-floor pub room, not behind counter",
+  "zones": [
+    {
+      "id": "start_pub",
+      "initially_open": true,
+      "includes": "Ground pub, left rear approach and stair-foot landing"
+    },
+    {
+      "id": "street",
+      "initially_open": false,
+      "bounds_x_m": [
+        -18,
+        30
+      ],
+      "includes": "Short street section, outer alley and rear loop"
+    },
+    {
+      "id": "upstairs",
+      "initially_open": false,
+      "includes": "Upper hall/seating and selected service rooms"
+    }
+  ],
+  "anchors": [
+    {
+      "id": "S1",
+      "label": "Main pub co-op start",
+      "location_m": [
+        5.5,
+        3.2,
+        0
+      ],
+      "kind": "player_start",
+      "zone": "start_pub",
+      "status": "proposed",
+      "footprint_verified": false
+    },
+    {
+      "id": "S2",
+      "label": "Main pub co-op start",
+      "location_m": [
+        5.5,
+        4.4,
+        0
+      ],
+      "kind": "player_start",
+      "zone": "start_pub",
+      "status": "proposed",
+      "footprint_verified": false
+    },
+    {
+      "id": "S3",
+      "label": "Main pub co-op start",
+      "location_m": [
+        5.5,
+        5.6,
+        0
+      ],
+      "kind": "player_start",
+      "zone": "start_pub",
+      "status": "proposed",
+      "footprint_verified": false
+    },
+    {
+      "id": "S4",
+      "label": "Main pub co-op start",
+      "location_m": [
+        5.5,
+        8.4,
+        0
+      ],
+      "kind": "player_start",
+      "zone": "start_pub",
+      "status": "proposed",
+      "footprint_verified": false
+    },
+    {
+      "id": "D01",
+      "label": "Front entrance buys street",
+      "location_m": [
+        5.5,
+        0.55,
+        0
+      ],
+      "kind": "door",
+      "zone": "start_pub",
+      "status": "proposed",
+      "unlocks": "street",
+      "opening_width_m": 1.996,
+      "opening_height_m": 3.1,
+      "price": null,
+      "approach": "Both sides of existing threshold",
+      "linked_rear_door": "D03",
+      "orientation": "Door plane across X; player exits toward -Y"
+    },
+    {
+      "id": "D02",
+      "label": "Stair-foot gate buys upstairs",
+      "location_m": [
+        -1.35,
+        29.75,
+        0
+      ],
+      "kind": "door",
+      "zone": "start_pub",
+      "status": "proposed",
+      "unlocks": "upstairs",
+      "opening_width_m": 1.41,
+      "price": null,
+      "approach": "Flat floor before first tread; keep purchase trigger off stairs",
+      "orientation": "Door plane across Y; player climbs toward +X",
+      "geometry": "Planning marker only; create gate in Radiant or later model pass"
+    },
+    {
+      "id": "D03",
+      "label": "Rear exit joins alley loop",
+      "location_m": [
+        -3.05,
+        30.74,
+        0
+      ],
+      "kind": "door",
+      "zone": "start_pub",
+      "status": "proposed",
+      "unlocks": "street",
+      "linked_to": "D01",
+      "price": null,
+      "design": "Default proposal: opens with front street purchase; independent price is an alternative"
+    },
+    {
+      "id": "P01",
+      "label": "Quick Revive near start",
+      "location_m": [
+        0.2,
+        2.7,
+        0
+      ],
+      "kind": "perk",
+      "zone": "start_pub",
+      "status": "proposed",
+      "prefab_bounds_verified": false
+    },
+    {
+      "id": "W01",
+      "label": "First wall weapon",
+      "location_m": [
+        -1.9,
+        3.0,
+        0
+      ],
+      "kind": "weapon",
+      "zone": "start_pub",
+      "status": "proposed",
+      "prefab_bounds_verified": false
+    },
+    {
+      "id": "PWR",
+      "label": "Power reward upstairs",
+      "location_m": [
+        7.6,
+        6,
+        4.8
+      ],
+      "kind": "power",
+      "zone": "upstairs",
+      "status": "proposed",
+      "placement": "Reserve a solid service wall after checking prefab dimensions; provisional"
+    },
+    {
+      "id": "BOX",
+      "label": "Street-side mystery box",
+      "location_m": [
+        -16,
+        -1.3,
+        0
+      ],
+      "kind": "box",
+      "zone": "street",
+      "status": "proposed",
+      "placement": "Pavement placeholder; avoid alley entrance; prefab dimensions pending"
+    },
+    {
+      "id": "Z01",
+      "label": "Zombie entry candidate",
+      "location_m": [
+        1,
+        1.8,
+        0
+      ],
+      "kind": "zombie_entry",
+      "zone": "start_pub",
+      "status": "proposed",
+      "placement": "Candidate only: barrier/riser, visibility, clearance and paths still require design"
+    },
+    {
+      "id": "Z02",
+      "label": "Zombie entry candidate",
+      "location_m": [
+        9,
+        1.4,
+        0
+      ],
+      "kind": "zombie_entry",
+      "zone": "start_pub",
+      "status": "proposed",
+      "placement": "Candidate only: barrier/riser, visibility, clearance and paths still require design"
+    },
+    {
+      "id": "Z03",
+      "label": "Zombie entry candidate",
+      "location_m": [
+        -2.8,
+        25,
+        0
+      ],
+      "kind": "zombie_entry",
+      "zone": "start_pub",
+      "status": "proposed",
+      "placement": "Candidate only: barrier/riser, visibility, clearance and paths still require design"
+    },
+    {
+      "id": "Z04",
+      "label": "Zombie entry candidate",
+      "location_m": [
+        2,
+        -11.5,
+        0
+      ],
+      "kind": "zombie_entry",
+      "zone": "street",
+      "status": "proposed",
+      "placement": "Candidate only: barrier/riser, visibility, clearance and paths still require design"
+    },
+    {
+      "id": "Z05",
+      "label": "Zombie entry candidate",
+      "location_m": [
+        23,
+        -11.5,
+        0
+      ],
+      "kind": "zombie_entry",
+      "zone": "street",
+      "status": "proposed",
+      "placement": "Candidate only: barrier/riser, visibility, clearance and paths still require design"
+    },
+    {
+      "id": "Z06",
+      "label": "Zombie entry candidate",
+      "location_m": [
+        -14,
+        -1.5,
+        0
+      ],
+      "kind": "zombie_entry",
+      "zone": "street",
+      "status": "proposed",
+      "placement": "Candidate only: barrier/riser, visibility, clearance and paths still require design"
+    },
+    {
+      "id": "Z07",
+      "label": "Zombie entry candidate",
+      "location_m": [
+        -1,
+        12,
+        4.8
+      ],
+      "kind": "zombie_entry",
+      "zone": "upstairs",
+      "status": "proposed",
+      "placement": "Candidate only: barrier/riser, visibility, clearance and paths still require design"
+    },
+    {
+      "id": "Z08",
+      "label": "Zombie entry candidate",
+      "location_m": [
+        8,
+        16,
+        4.8
+      ],
+      "kind": "zombie_entry",
+      "zone": "upstairs",
+      "status": "proposed",
+      "placement": "Candidate only: barrier/riser, visibility, clearance and paths still require design"
+    },
+    {
+      "id": "B01",
+      "label": "Initial street combat boundary",
+      "location_m": [
+        -18,
+        -6.5,
+        -0.08
+      ],
+      "kind": "scenery_boundary",
+      "zone": "street",
+      "status": "proposed",
+      "design": "Future visual barrier; scenery continues beyond; not a collider"
+    },
+    {
+      "id": "B02",
+      "label": "Initial street combat boundary",
+      "location_m": [
+        30,
+        -6.5,
+        -0.08
+      ],
+      "kind": "scenery_boundary",
+      "zone": "street",
+      "status": "proposed",
+      "design": "Future visual barrier; scenery continues beyond; not a collider"
+    }
+  ],
+  "rules": [
+    "Closed front and rear street exits must share a coherent unlock rule",
+    "Upstairs zombie entries stay disabled until stair gate opens",
+    "Purchase volumes must be on flat, supported approaches with space to retreat",
+    "Scenery shop interiors stay blocked",
+    "All existing geometry doors remain static; markers do not implement locks",
+    "Price, prefab orientation/offset, zone volumes and script flags are unimplemented"
+  ],
+  "radiant_changed": false,
+  "runtime_verified": false
+}

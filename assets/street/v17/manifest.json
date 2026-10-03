@@ -1,0 +1,355 @@
+{
+  "fronts": [
+    {
+      "name": "Fox and Hounds",
+      "source": "opposite front.png",
+      "source_sha256": "7077eb643569bebfe9e7b782ae211df084bad3fb7d634ecb5a096bacfa235a2b",
+      "source_dimensions": [
+        2560,
+        1286
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          1090.0,
+          389.9999849796295
+        ],
+        [
+          2260.0,
+          446.0000146627426
+        ],
+        [
+          2268.000030517578,
+          805.999991953373
+        ],
+        [
+          1090.0,
+          837.9999924898148
+        ]
+      ],
+      "derivative": "assets\\street\\v17\\fox-and-hounds.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "RGB PNG",
+      "edits": "Isolated existing approved UV quadrilateral; QUAD rectification; full-panel UVs. Original occlusions retained; no repainting.",
+      "status": "Blender preview; BO3 calibration pending"
+    },
+    {
+      "name": "Aston and Co",
+      "source": "opposite front.png",
+      "source_sha256": "7077eb643569bebfe9e7b782ae211df084bad3fb7d634ecb5a096bacfa235a2b",
+      "source_dimensions": [
+        2560,
+        1286
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          714.0000152587891,
+          245.9999634027481
+        ],
+        [
+          1084.000015258789,
+          258.99999356269836
+        ],
+        [
+          1071.9999694824219,
+          770.0000057220459
+        ],
+        [
+          690.0,
+          806.9999883770943
+        ]
+      ],
+      "derivative": "assets\\street\\v17\\aston-and-co.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "RGB PNG",
+      "edits": "Isolated existing approved UV quadrilateral; QUAD rectification; full-panel UVs. Original occlusions retained; no repainting.",
+      "status": "Blender preview; BO3 calibration pending"
+    },
+    {
+      "name": "Syston Mini Market",
+      "source": "opposite front zoomed out better view flat for texture.png",
+      "source_sha256": "04ab57e8d18c33a53fcf50da334581590b110c984a5f194b530d183b1dabe076",
+      "source_dimensions": [
+        2560,
+        1440
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          1010.0,
+          238.00000190734863
+        ],
+        [
+          1770.0,
+          260.00003814697266
+        ],
+        [
+          1750.0,
+          840.0000143051147
+        ],
+        [
+          1030.0,
+          840.0000143051147
+        ]
+      ],
+      "derivative": "assets\\street\\v17\\syston-mini-market.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "RGB PNG",
+      "edits": "Isolated existing approved UV quadrilateral; QUAD rectification; full-panel UVs. Original occlusions retained; no repainting.",
+      "status": "Blender preview; BO3 calibration pending"
+    },
+    {
+      "name": "Lets Move estate agents",
+      "source": "opposite fornt further left.png",
+      "source_sha256": "670e0deb186ac8c6522631d7ecce43637462b878fe337edec728280f3f7767c9",
+      "source_dimensions": [
+        2567,
+        1296
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          902.0000095665455,
+          334.9999837875366
+        ],
+        [
+          1499.9999541640282,
+          389.99997997283936
+        ],
+        [
+          1499.9999541640282,
+          824.0000109672546
+        ],
+        [
+          902.0000095665455,
+          902.9999928474426
+        ]
+      ],
+      "derivative": "assets\\street\\v17\\lets-move-estate-agents.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "RGB PNG",
+      "edits": "Isolated existing approved UV quadrilateral; QUAD rectification; full-panel UVs. Original occlusions retained; no repainting.",
+      "status": "Blender preview; BO3 calibration pending"
+    },
+    {
+      "name": "Floral Fantasy",
+      "source": "opposite fornt further left.png",
+      "source_sha256": "670e0deb186ac8c6522631d7ecce43637462b878fe337edec728280f3f7767c9",
+      "source_dimensions": [
+        2567,
+        1296
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          102.99999835714698,
+          227.99997997283936
+        ],
+        [
+          902.0000095665455,
+          334.9999837875366
+        ],
+        [
+          902.0000095665455,
+          927.0000171661377
+        ],
+        [
+          99.99999821931124,
+          973.9999988079071
+        ]
+      ],
+      "derivative": "assets\\street\\v17\\floral-fantasy.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "RGB PNG",
+      "edits": "Isolated existing approved UV quadrilateral; QUAD rectification; full-panel UVs. Original occlusions retained; no repainting.",
+      "status": "Blender preview; BO3 calibration pending"
+    },
+    {
+      "name": "Wreake Valley Flooring",
+      "source": "left of pub front.png",
+      "source_sha256": "d1ba5d0eeb27fd2c4a15a34dc06fa9d5ec4f00147e32deb5d0d3efc3176df821",
+      "source_dimensions": [
+        2563,
+        1440
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          632.9999923110008,
+          0.0
+        ],
+        [
+          1987.0000149607658,
+          0.0
+        ],
+        [
+          1950.0000718832016,
+          1010.0000095367432
+        ],
+        [
+          658.0000343620777,
+          1010.0000095367432
+        ]
+      ],
+      "derivative": "assets\\street\\v17\\wreake-valley-flooring.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "RGB PNG",
+      "edits": "Isolated existing approved UV quadrilateral; QUAD rectification; full-panel UVs. Original occlusions retained; no repainting.",
+      "status": "Blender preview; BO3 calibration pending"
+    },
+    {
+      "name": "Syston Dry Cleaners",
+      "source": "right side of pub front.png",
+      "source_sha256": "289ab7e78e47ecbee08974635a9882416454437b9b5ffb9bda69dd7ca1483bcb",
+      "source_dimensions": [
+        2551,
+        1281
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          863.999970972538,
+          0.0
+        ],
+        [
+          1490.0000432133675,
+          186.99999886751175
+        ],
+        [
+          1484.999983370304,
+          835.00001719594
+        ],
+        [
+          872.9999722540379,
+          943.0000138878822
+        ]
+      ],
+      "derivative": "assets\\street\\v17\\syston-dry-cleaners.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "RGB PNG",
+      "edits": "Isolated existing approved UV quadrilateral; QUAD rectification; full-panel UVs. Original occlusions retained; no repainting.",
+      "status": "Blender preview; BO3 calibration pending"
+    },
+    {
+      "name": "Nail and Spa shop",
+      "source": "right side of pub front.png",
+      "source_sha256": "289ab7e78e47ecbee08974635a9882416454437b9b5ffb9bda69dd7ca1483bcb",
+      "source_dimensions": [
+        2551,
+        1281
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          1495.9999933838844,
+          160.00000923871994
+        ],
+        [
+          1848.000009715557,
+          309.9999940395355
+        ],
+        [
+          1848.000009715557,
+          724.0000131726265
+        ],
+        [
+          1500.0000108480453,
+          809.9999942779541
+        ]
+      ],
+      "derivative": "assets\\street\\v17\\nail-and-spa-shop.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "RGB PNG",
+      "edits": "Isolated existing approved UV quadrilateral; QUAD rectification; full-panel UVs. Original occlusions retained; no repainting.",
+      "status": "Blender preview; BO3 calibration pending"
+    },
+    {
+      "name": "Natural Wellbeing",
+      "source": "alt\\nattywells\\front on natty wells.png",
+      "source_sha256": "4cc7c2f87407535c4e85b1cb51ec024c9cbacae555aa30f0c90c765f9f008811",
+      "source_dimensions": [
+        1512,
+        1224
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          37,
+          535
+        ],
+        [
+          720,
+          535
+        ],
+        [
+          714,
+          833
+        ],
+        [
+          36,
+          836
+        ]
+      ],
+      "derivative": "assets\\street\\v17\\natural-wellbeing.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "RGB PNG",
+      "edits": "S14 ground-floor facade only; excludes blank canvas, roof, sky and access lane; pedestrians remain at lower edge.",
+      "status": "Blender preview; BO3 calibration pending"
+    },
+    {
+      "name": "Post Office",
+      "source": "references\\post office head on.png",
+      "source_sha256": "99a71fadf6d1751d8237ae42988b73278087e5e2d1ed9117f8092d451e820112",
+      "source_dimensions": [
+        2559,
+        1224
+      ],
+      "pixel_quad_TL_TR_BR_BL": [
+        [
+          937.1337890625,
+          364.70204081632653
+        ],
+        [
+          1724.326171875,
+          402.1714285714286
+        ],
+        [
+          1718.07861328125,
+          810.5877551020408
+        ],
+        [
+          937.1337890625,
+          814.334693877551
+        ]
+      ],
+      "derivative": "assets\\street\\v17\\post-office.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "RGB PNG",
+      "edits": "S09 isolated wall/window/shop facade; poles occlude some signage; roof and sky excluded.",
+      "status": "Blender preview; BO3 calibration pending"
+    }
+  ],
+  "rights": "Private reference use; publication rights not established"
+}
