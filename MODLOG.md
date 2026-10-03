@@ -540,3 +540,45 @@ pending; no game takeover, installation change or release publishing here.
 
 Sam requested more Blender gallery shots. Expanded docs/BLENDER_RENDER_GALLERY.md from12 to36 saved v18 renders, adding24 entrance, platform, bar approaches, service/rear rooms, complete stairs/upstairs, alley/rear connection and wider street views. All added image targets verified. These are existing Cycles inspection renders, not newly rendered or current BO3 screenshots. No model/game changes. Gallery update committed/pushed under existing authorization.
 
+Sam authorized opening Blender and modelling the neighbouring shops in3D,
+without interiors. Opened saved v18, preserved it, generated a new checkpoint
+assets/blender/pharmacie-shopfronts-v19.blend. Replaced three full-facade photo
+planes with editable frontage geometry; old planes remain in an unlinked archive.
+Wreake has sage pilasters, cream sign, sharp text, angled glass returns, recessed
+double doors/transom/threshold; cleaner has multicolour sign, left recess and
+terracotta threshold, projecting chamfered three-pane display/brick plinth; spa
+has sharp blue fascia, white frames, actual diamond grille and upper bay relief.
+Selected unchanged v17 photo UV regions remain opaque display/door proxies.
+
+During work Sam requested matching scale to the pub. Reused the first pub sash
+assembly's12 actual mesh parts for7 neighbour windows, retaining width1.68016m,
+glass height2.61000m and Z5.865..8.475 sill/head levels. Neighbour upper masses,
+roofs/gutters/chimneys adjusted to fit eavesZ9.5; deliberate user-directed scale
+adaptation, not surveyed heights. Pub remains unchanged. Sharp sign wording
+transcribed from reviewed reference images; fonts/colours approximate.
+
+Initial renders exposed wall brick mapping onto a horizontal axis; corrected
+vertical mapping and prism winding. Wide camera initially sat inside an opposite
+building; moved onto street and rerendered. Reviewed six1200x800 Cycles20sample
+denoised renders in recon/v19; temporary daylight not saved to scene. Six review
+cameras persist; opened new v19 editor, left other Blender sessions intact.
+Generation/render/check logs in ignored build/shopfronts-v19*.log. Validation
+recon/v19/validation.json passes218 closed outward solids,14 deliberate photo
+quads,7 equal-size/equal-height windows,3 archived facade planes absent from scene,
+44 original hashes intact. Generator compares1339 preserved non-street pub meshes
+for identical world vertices/faces. First checker missed Blender-numbered window
+names; corrected its selector, final check passes. No geometry failure claimed.
+
+Added docs/SHOPFRONTS_V19.md with all6 new previews, provenance/depth estimates,
+scale choices and engine limitations; linked main gallery/README and updated
+default open-Blender script. Procedural brick and FONT signage still need an
+appropriate BO3 conversion. No Radiant, retail install, door scripts or pending
+crossing/bar package altered. Save/repo workflow continues under prior push
+authorization; local first-pass checkpoints preserved in ignored build backups.
+
+
+### 3D opposite shopfronts and fridge — v20/v21
+Five opposite shopfronts added with projecting frames, signs, bays and recessed closed doors. Main signs use geometry lettering. No shop interiors. V20 checks passed: 259 closed outward solids, 18 intentional display quads, nine pub-sized windows, five archived full-facade planes, all 44 original reference hashes unchanged. Screenshot review caught the Fox doorway hidden by a backing wall; fixed the opening and rerendered. Door raycast now reaches its recessed glazing.
+V21 moves the entire 16-mesh fridge assembly beside the left bar return, with 5 mm clearance from the outermost counter edge and 0.28 m forward movement. Reference: Facebook walkthrough still 0061.0.jpg; exact placement is estimated. Rigid-transform bounds checks are part of scripts/update_fridge_v21.py. Temporary render lights are not saved. Live dirty v19 session preserved as ignored build/live-v19-preserved.blend before opening the new checkpoint; previous editor remains intact.
+New page: docs/3D_SHOPFRONT_GALLERY.md, twelve shopfront renders plus fridge preview. V19/v20 notes retain milestone context. No Radiant export, compile, deployment or game verification performed for v19-v21. New text geometry/procedural materials need an export plan before engine conversion.
+

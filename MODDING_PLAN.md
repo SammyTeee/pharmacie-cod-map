@@ -1,4 +1,12 @@
+Latest complete Blender checkpoint: `assets/blender/pharmacie-shopfronts-fridge-v21.blend`. Eight 3D shopfronts and the fridge placement are saved. See [3D shopfront gallery](docs/3D_SHOPFRONT_GALLERY.md). New geometry is Blender-only; engine deployment remains unchanged.
+
 # Call of Duty: Black Ops III modding plan
+
+Latest Blender work: `assets/blender/pharmacie-shopfronts-v19.blend`, three
+modelled neighbouring shopfronts. Read docs/SHOPFRONTS_V19.md. Sam requested
+matching pub scale: seven upstairs window assemblies clone the first pub window
+geometry/dimensions and sill/head heights. Six new renders and geometry checks
+are saved. No v19 Radiant build; pending crossing/bar engine package unchanged.
 
 Latest handover: [docs/HANDOVER_2026-10-03.md](docs/HANDOVER_2026-10-03.md).
 Sharp-window result is user-confirmed. Crossing-wall/bar-region package built

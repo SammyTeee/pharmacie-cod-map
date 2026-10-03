@@ -1,5 +1,13 @@
 # Photo-to-asset plan
 
+V19 models Wreake Valley Flooring, Syston Dry Cleaners and Syston Nails & Spa
+as real frontage relief, retaining selected unchanged v17 image regions only for
+display/door inserts. No new source photo edits. Mesh UV crop metadata and
+estimated depths: assets/blender/shopfronts-v19-manifest.json. Sharp signs are
+FONT geometry with approximate typefaces; engine conversion pending. Sam's
+requested pub-window scale overrides the differing photographic upper-window
+proportions for this gameplay reconstruction. See SHOPFRONTS_V19.md.
+
 Detailed source-to-feature descriptions: [STREET_PHOTO_RECONSTRUCTION.md](STREET_PHOTO_RECONSTRUCTION.md) and [PUB_PHOTO_RECONSTRUCTION.md](PUB_PHOTO_RECONSTRUCTION.md). Stable IDs, original dimensions and hash provenance: RECONSTRUCTION_SOURCE_INDEX.md / reconstruction-sources.json. This 2026-10-03 review created text/metadata only, no new raster derivatives. Use described facade-plane boundaries and occlusion warnings before making individual shop textures; reflected shops, people/cars, Google UI and blank screenshot margins must not become architecture.
 
 ## Recommendation

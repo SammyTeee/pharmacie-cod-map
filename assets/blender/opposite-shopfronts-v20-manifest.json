@@ -1,0 +1,222 @@
+{
+  "checkpoint": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-opposite-shopfronts-v20.blend",
+  "shops": [
+    "Fox and Hounds",
+    "Aston and Co",
+    "Syston Mini Market",
+    "Lets Move estate agents",
+    "Floral Fantasy"
+  ],
+  "new_objects": 284,
+  "closed_outward_solids": 259,
+  "selected_photo_quads": 18,
+  "preserved_existing_meshes": 2003,
+  "original_hashes_unchanged": 44,
+  "upper_windows": "9 pub-template windows; original size/height, opposite-facing Y reflection and reversed winding",
+  "window_regions": [
+    {
+      "object": "Shop v20 | Fox ground sash 0 selected display",
+      "shop": "Fox and Hounds",
+      "derivative": "assets\\street\\v17\\fox-and-hounds.png",
+      "crop_pixels": [
+        839,
+        548,
+        935,
+        771
+      ]
+    },
+    {
+      "object": "Shop v20 | Fox ground sash 1 selected display",
+      "shop": "Fox and Hounds",
+      "derivative": "assets\\street\\v17\\fox-and-hounds.png",
+      "crop_pixels": [
+        408,
+        581,
+        474,
+        807
+      ]
+    },
+    {
+      "object": "Shop v20 | Fox ground sash 2 selected display",
+      "shop": "Fox and Hounds",
+      "derivative": "assets\\street\\v17\\fox-and-hounds.png",
+      "crop_pixels": [
+        189,
+        578,
+        352,
+        805
+      ]
+    },
+    {
+      "object": "Shop v20 | Fox closed entry recessed glazing selected display",
+      "shop": "Fox and Hounds",
+      "derivative": "assets\\street\\v17\\fox-and-hounds.png",
+      "crop_pixels": [
+        575,
+        491,
+        647,
+        846
+      ]
+    },
+    {
+      "object": "Shop v20 | Aston right listing window selected display",
+      "shop": "Aston and Co",
+      "derivative": "assets\\street\\v17\\aston-and-co.png",
+      "crop_pixels": [
+        42,
+        660,
+        296,
+        917
+      ]
+    },
+    {
+      "object": "Shop v20 | Aston left listing window selected display",
+      "shop": "Aston and Co",
+      "derivative": "assets\\street\\v17\\aston-and-co.png",
+      "crop_pixels": [
+        355,
+        668,
+        583,
+        917
+      ]
+    },
+    {
+      "object": "Shop v20 | Aston red entry recessed glazing selected display",
+      "shop": "Aston and Co",
+      "derivative": "assets\\street\\v17\\aston-and-co.png",
+      "crop_pixels": [
+        780,
+        730,
+        958,
+        916
+      ]
+    },
+    {
+      "object": "Shop v20 | Market product panel 0 selected display",
+      "shop": "Syston Mini Market",
+      "derivative": "assets\\street\\v17\\syston-mini-market.png",
+      "crop_pixels": [
+        683,
+        714,
+        842,
+        913
+      ]
+    },
+    {
+      "object": "Shop v20 | Market product panel 1 selected display",
+      "shop": "Syston Mini Market",
+      "derivative": "assets\\street\\v17\\syston-mini-market.png",
+      "crop_pixels": [
+        407,
+        713,
+        549,
+        912
+      ]
+    },
+    {
+      "object": "Shop v20 | Market product panel 2 selected display",
+      "shop": "Syston Mini Market",
+      "derivative": "assets\\street\\v17\\syston-mini-market.png",
+      "crop_pixels": [
+        255,
+        710,
+        386,
+        841
+      ]
+    },
+    {
+      "object": "Shop v20 | Market product panel 3 selected display",
+      "shop": "Syston Mini Market",
+      "derivative": "assets\\street\\v17\\syston-mini-market.png",
+      "crop_pixels": [
+        77,
+        711,
+        216,
+        841
+      ]
+    },
+    {
+      "object": "Shop v20 | Market right entry recessed glazing selected display",
+      "shop": "Syston Mini Market",
+      "derivative": "assets\\street\\v17\\syston-mini-market.png",
+      "crop_pixels": [
+        563,
+        694,
+        650,
+        952
+      ]
+    },
+    {
+      "object": "Shop v20 | Lets Move recessed entry recessed glazing selected display",
+      "shop": "Lets Move estate agents",
+      "derivative": "assets\\street\\v17\\lets-move-estate-agents.png",
+      "crop_pixels": [
+        171,
+        566,
+        322,
+        934
+      ]
+    },
+    {
+      "object": "Shop v20 | Lets Move listing window 1 selected display",
+      "shop": "Lets Move estate agents",
+      "derivative": "assets\\street\\v17\\lets-move-estate-agents.png",
+      "crop_pixels": [
+        668,
+        592,
+        833,
+        785
+      ]
+    },
+    {
+      "object": "Shop v20 | Lets Move listing window 2 selected display",
+      "shop": "Lets Move estate agents",
+      "derivative": "assets\\street\\v17\\lets-move-estate-agents.png",
+      "crop_pixels": [
+        449,
+        592,
+        646,
+        785
+      ]
+    },
+    {
+      "object": "Shop v20 | Floral Fantasy pale entry recessed glazing selected display",
+      "shop": "Floral Fantasy",
+      "derivative": "assets\\street\\v17\\floral-fantasy.png",
+      "crop_pixels": [
+        154,
+        642,
+        424,
+        935
+      ]
+    },
+    {
+      "object": "Shop v20 | Floral patterned glass 1 selected display",
+      "shop": "Floral Fantasy",
+      "derivative": "assets\\street\\v17\\floral-fantasy.png",
+      "crop_pixels": [
+        754,
+        519,
+        997,
+        899
+      ]
+    },
+    {
+      "object": "Shop v20 | Floral patterned glass 2 selected display",
+      "shop": "Floral Fantasy",
+      "derivative": "assets\\street\\v17\\floral-fantasy.png",
+      "crop_pixels": [
+        491,
+        519,
+        722,
+        899
+      ]
+    }
+  ],
+  "estimated_depths_m": {
+    "closed_door_recess": 0.48,
+    "bay_projection": 0.57,
+    "fascia_projection": 0.23
+  },
+  "limits": "Static scenery only, opaque photographic displays; no interiors. Heights approximate gameplay scaling; no Radiant/BO3 conversion. Fonts approximate; some photographic baked reflections remain."
+}

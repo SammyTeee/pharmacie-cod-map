@@ -1,3 +1,5 @@
+Latest complete Blender checkpoint: `assets/blender/pharmacie-shopfronts-fridge-v21.blend`. Eight 3D shopfronts and the fridge placement are saved. See [3D shopfront gallery](docs/3D_SHOPFRONT_GALLERY.md). New geometry is Blender-only; engine deployment remains unchanged.
+
 # The Pharmacie Arms: BO3 Zombies Map
 
 A Call of Duty: Black Ops III custom Zombies map inspired by The Pharmacie Arms in Syston, Leicestershire. The first milestone is a small cooperative playable blockout; the Noseley-inspired boss and detailed pub dressing come later.
@@ -15,7 +17,7 @@ Post Office/Natural Wellbeing. It compiled, lit and linked successfully but is
 The gallery shows saved v18 Blender renders, before these engine-only additions.
 Older prototype status below is historical where superseded by the handover.
 
-- Latest editable map: [pharmacie-player-cleanup-v18.blend](assets/blender/pharmacie-player-cleanup-v18.blend). Open with `scripts/open-blender.ps1`. Includes attached neighbours, relocated outer-left alley, fuller roofed street rows and player recon fixes: clear aisle, corrected wall UVs, smoother stairs, ceiling/roof closure, stair lights and a wider upper arrival.
+- Latest editable map: [pharmacie-shopfronts-v19.blend](assets/blender/pharmacie-shopfronts-v19.blend). Open with `scripts/open-blender.ps1`. [Six new renders and modelling notes](docs/SHOPFRONTS_V19.md) show real neighbour-shop recesses, frames, bays and grille, with upstairs windows copied at the pub's scale. V18 player cleanup is retained; v19 has not been converted to BO3.
 - [Player recon report](recon/v18/README.md):72 before/after player-height screenshots, measured route/geometry checks and remaining work. [Offline comparison gallery](recon/v18/index.html), [main room](recon/v18/after/04_main_room_to_bar.png), [stairs](recon/v18/after/12_stairs_start.png), [upstairs](recon/v18/after/17_upstairs_seating.png). The map is still an estimated blockout; Blender checks are not game collision/playtesting.
 - [Proposed Zombies progression](docs/ZOMBIES_PROGRESSION_V18.md): start in the main pub, buy access to street or upstairs, and open a rear alley loop. Three proposed zones/21 named Blender anchors reserve doors, starts, items and zombie entrances. They are planning markers, not working game entities.
 - [Detailed street](docs/STREET_PHOTO_RECONSTRUCTION.md) and [interior](docs/PUB_PHOTO_RECONSTRUCTION.md) text references describe44 preserved photos. [v17 street implementation](docs/STREET_REBUILD_V17.md) records isolated facade derivatives and placement estimates. [Blender workflow](docs/BLENDER_WORKFLOW.md) covers the tool setup and older milestones.

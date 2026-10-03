@@ -1,8 +1,15 @@
+Latest complete Blender checkpoint: `assets/blender/pharmacie-shopfronts-fridge-v21.blend`. Eight 3D shopfronts and the fridge placement are saved. See [3D shopfront gallery](docs/3D_SHOPFRONT_GALLERY.md). New geometry is Blender-only; engine deployment remains unchanged.
+
 # Project instructions
 
 This repository is a Call of Duty: Black Ops III custom Zombies map inspired by The Pharmacie Arms in Syston, Leicestershire. The user is new to mapping and wants agents to do as much of the implementation as practical, explaining important choices plainly.
 
 ## Start here
+
+Latest Blender checkpoint: `assets/blender/pharmacie-shopfronts-v19.blend`.
+Read `docs/SHOPFRONTS_V19.md`: three neighbouring shopfronts modelled, with
+user-requested upstairs windows copied at the pub's scale. V18 engine test and
+pending crossing/bar package remain separate; v19 has no engine conversion yet.
 
 Latest handover: read `docs/HANDOVER_2026-10-03.md` before resuming. Sharp-window
 result and existing doors are user-confirmed; crossing-wall/bar-region package

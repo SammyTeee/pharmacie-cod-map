@@ -1,0 +1,185 @@
+{
+  "checkpoint": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-shopfronts-v19.blend",
+  "new_objects": 235,
+  "protected_pub_meshes_unchanged": 1339,
+  "original_photos_hash_identical": 44,
+  "user_scale_reference": {
+    "object": "Front | sash recessed glass",
+    "glass_width_m": 1.6801600456237793,
+    "glass_height_m": 2.6100006103515625,
+    "glass_bottom_z": 5.864999771118164,
+    "glass_top_z": 8.475000381469727,
+    "copied_window_parts": 12,
+    "new_window_instances": 7,
+    "shop_eaves_z": 9.5
+  },
+  "shops": [
+    "Wreake Valley Flooring",
+    "Syston Dry Cleaners",
+    "Nail and Spa shop"
+  ],
+  "window_regions": [
+    {
+      "object": "Shop v19 | Wreake left window display inset",
+      "shop": "Wreake Valley Flooring",
+      "derivative": "assets\\street\\v17\\wreake-valley-flooring.png",
+      "crop_pixels": [
+        48,
+        537,
+        262,
+        971
+      ]
+    },
+    {
+      "object": "Shop v19 | Wreake left angled return display inset",
+      "shop": "Wreake Valley Flooring",
+      "derivative": "assets\\street\\v17\\wreake-valley-flooring.png",
+      "crop_pixels": [
+        297,
+        540,
+        395,
+        966
+      ]
+    },
+    {
+      "object": "Shop v19 | Wreake right angled return display inset",
+      "shop": "Wreake Valley Flooring",
+      "derivative": "assets\\street\\v17\\wreake-valley-flooring.png",
+      "crop_pixels": [
+        626,
+        540,
+        729,
+        966
+      ]
+    },
+    {
+      "object": "Shop v19 | Wreake right window display inset",
+      "shop": "Wreake Valley Flooring",
+      "derivative": "assets\\street\\v17\\wreake-valley-flooring.png",
+      "crop_pixels": [
+        759,
+        538,
+        985,
+        972
+      ]
+    },
+    {
+      "object": "Shop v19 | Wreake closed door 0 display inset",
+      "shop": "Wreake Valley Flooring",
+      "derivative": "assets\\street\\v17\\wreake-valley-flooring.png",
+      "crop_pixels": [
+        406,
+        654,
+        497,
+        855
+      ]
+    },
+    {
+      "object": "Shop v19 | Wreake closed door 1 display inset",
+      "shop": "Wreake Valley Flooring",
+      "derivative": "assets\\street\\v17\\wreake-valley-flooring.png",
+      "crop_pixels": [
+        506,
+        654,
+        597,
+        855
+      ]
+    },
+    {
+      "object": "Shop v19 | Wreake door transom display inset",
+      "shop": "Wreake Valley Flooring",
+      "derivative": "assets\\street\\v17\\wreake-valley-flooring.png",
+      "crop_pixels": [
+        407,
+        541,
+        599,
+        645
+      ]
+    },
+    {
+      "object": "Shop v19 | Cleaner closed entry door display inset",
+      "shop": "Syston Dry Cleaners",
+      "derivative": "assets\\street\\v17\\syston-dry-cleaners.png",
+      "crop_pixels": [
+        153,
+        466,
+        260,
+        873
+      ]
+    },
+    {
+      "object": "Shop v19 | Cleaner display pane 0 display inset",
+      "shop": "Syston Dry Cleaners",
+      "derivative": "assets\\street\\v17\\syston-dry-cleaners.png",
+      "crop_pixels": [
+        290,
+        476,
+        506,
+        846
+      ]
+    },
+    {
+      "object": "Shop v19 | Cleaner display pane 1 display inset",
+      "shop": "Syston Dry Cleaners",
+      "derivative": "assets\\street\\v17\\syston-dry-cleaners.png",
+      "crop_pixels": [
+        558,
+        476,
+        770,
+        846
+      ]
+    },
+    {
+      "object": "Shop v19 | Cleaner display pane 2 display inset",
+      "shop": "Syston Dry Cleaners",
+      "derivative": "assets\\street\\v17\\syston-dry-cleaners.png",
+      "crop_pixels": [
+        811,
+        476,
+        950,
+        847
+      ]
+    },
+    {
+      "object": "Shop v19 | Spa left display behind grille display inset",
+      "shop": "Nail and Spa shop",
+      "derivative": "assets\\street\\v17\\nail-and-spa-shop.png",
+      "crop_pixels": [
+        34,
+        505,
+        318,
+        807
+      ]
+    },
+    {
+      "object": "Shop v19 | Spa right display display inset",
+      "shop": "Nail and Spa shop",
+      "derivative": "assets\\street\\v17\\nail-and-spa-shop.png",
+      "crop_pixels": [
+        452,
+        480,
+        723,
+        874
+      ]
+    },
+    {
+      "object": "Shop v19 | Spa closed right entry display inset",
+      "shop": "Nail and Spa shop",
+      "derivative": "assets\\street\\v17\\nail-and-spa-shop.png",
+      "crop_pixels": [
+        762,
+        505,
+        963,
+        855
+      ]
+    }
+  ],
+  "estimated_depths_m": {
+    "Wreake recess": 0.78,
+    "Cleaner entry": 0.68,
+    "Cleaner display projection": 0.36,
+    "Spa door recess": 0.36,
+    "Spa upper bays": 0.37
+  },
+  "limitations": "Photographic displays/reflections remain opaque and contain baked detail; depths inferred; spa sign transcribed from reviewed image using approximate typeface; no shop interiors; no Radiant/game build"
+}

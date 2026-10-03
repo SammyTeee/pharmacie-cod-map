@@ -1,4 +1,9 @@
+Latest complete Blender checkpoint: `assets/blender/pharmacie-shopfronts-fridge-v21.blend`. Eight 3D shopfronts and the fridge placement are saved. See [3D shopfront gallery](3D_SHOPFRONT_GALLERY.md). New geometry is Blender-only; engine deployment remains unchanged.
+
 # Blender render gallery
+
+**New: [six v19 renders of the modelled neighbouring shopfronts](SHOPFRONTS_V19.md)** —
+real recesses, frames, projecting bays and pub-sized upstairs windows.
 
 Player-height views of The Pharmacie Arms map: frontage, main room, bar,
 stairs, upstairs and surrounding street. Select any image to open it full size.

@@ -1,0 +1,12 @@
+{
+  "moved_meshes": 16,
+  "world_translation_m": [
+    0.341625452041626,
+    -0.2800000011920929,
+    0.0
+  ],
+  "minimum_bar_end_clearance_m": 0.005,
+  "reference": "assets/video-references/facebook-18ZXq1yVKY/stills/0061.0.jpg",
+  "placement": "Beside left bar return; front brought forward 0.28 m. Exact appliance position is estimated, not surveyed.",
+  "radiant_or_game_verified": false
+}
