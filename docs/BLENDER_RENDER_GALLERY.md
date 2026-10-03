@@ -64,3 +64,63 @@ row, crossing and Natural Wellbeing lane provide the next expansion area.
 
 Dimensions and placement remain photo-led estimates with gameplay adaptations.
 See the [recon report](../recon/v18/README.md) for coverage and limitations.
+
+## More views — 24 additional Blender renders
+
+These additional saved v18 views complete the 36-camera tour.
+
+### More entrance and room views
+
+[![threshold inward](../recon/v18/after/02_threshold_inward.png)](../recon/v18/after/02_threshold_inward.png)
+
+[![entrance reverse](../recon/v18/after/03_entrance_reverse.png)](../recon/v18/after/03_entrance_reverse.png)
+
+[![medical tables](../recon/v18/after/07_medical_tables.png)](../recon/v18/after/07_medical_tables.png)
+
+[![stage step](../recon/v18/after/35_stage_step.png)](../recon/v18/after/35_stage_step.png)
+
+### Bar approaches and rear rooms
+
+[![bar route right](../recon/v18/after/09_bar_route_right.png)](../recon/v18/after/09_bar_route_right.png)
+
+[![left bar route](../recon/v18/after/34_left_bar_route.png)](../recon/v18/after/34_left_bar_route.png)
+
+[![rear service](../recon/v18/after/10_rear_service.png)](../recon/v18/after/10_rear_service.png)
+
+[![service store](../recon/v18/after/33_service_store.png)](../recon/v18/after/33_service_store.png)
+
+[![rear exit](../recon/v18/after/11_rear_exit.png)](../recon/v18/after/11_rear_exit.png)
+
+[![rear exit clear](../recon/v18/after/32_rear_exit_clear.png)](../recon/v18/after/32_rear_exit_clear.png)
+
+### The complete stair route and upstairs
+
+[![stairs lower mid](../recon/v18/after/13_stairs_lower_mid.png)](../recon/v18/after/13_stairs_lower_mid.png)
+
+[![stairs upper](../recon/v18/after/15_stairs_upper.png)](../recon/v18/after/15_stairs_upper.png)
+
+[![upper arrival](../recon/v18/after/16_upper_arrival.png)](../recon/v18/after/16_upper_arrival.png)
+
+[![upstairs front](../recon/v18/after/18_upstairs_front.png)](../recon/v18/after/18_upstairs_front.png)
+
+[![upstairs rear](../recon/v18/after/19_upstairs_rear.png)](../recon/v18/after/19_upstairs_rear.png)
+
+[![upper hall clear](../recon/v18/after/29_upper_hall_clear.png)](../recon/v18/after/29_upper_hall_clear.png)
+
+[![upper front clear](../recon/v18/after/30_upper_front_clear.png)](../recon/v18/after/30_upper_front_clear.png)
+
+[![upper rear clear](../recon/v18/after/31_upper_rear_clear.png)](../recon/v18/after/31_upper_rear_clear.png)
+
+### Alley, rear connection and wider street
+
+[![alley mid](../recon/v18/after/21_alley_mid.png)](../recon/v18/after/21_alley_mid.png)
+
+[![alley rear](../recon/v18/after/22_alley_rear.png)](../recon/v18/after/22_alley_rear.png)
+
+[![rear connector](../recon/v18/after/23_rear_connector.png)](../recon/v18/after/23_rear_connector.png)
+
+[![alley connection](../recon/v18/after/36_alley_connection.png)](../recon/v18/after/36_alley_connection.png)
+
+[![fox junction](../recon/v18/after/27_fox_junction.png)](../recon/v18/after/27_fox_junction.png)
+
+[![street right](../recon/v18/after/28_street_right.png)](../recon/v18/after/28_street_right.png)

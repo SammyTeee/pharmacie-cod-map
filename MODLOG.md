@@ -537,3 +537,6 @@ currently referenced textures retained in asset folder. Includes existing
 modified v18 .blend as requested latest work; our conversion scripts did not
 save it. Git commit/push follows. Pending crossing/bar deployment remains
 pending; no game takeover, installation change or release publishing here.
+
+Sam requested more Blender gallery shots. Expanded docs/BLENDER_RENDER_GALLERY.md from12 to36 saved v18 renders, adding24 entrance, platform, bar approaches, service/rear rooms, complete stairs/upstairs, alley/rear connection and wider street views. All added image targets verified. These are existing Cycles inspection renders, not newly rendered or current BO3 screenshots. No model/game changes. Gallery update committed/pushed under existing authorization.
+
