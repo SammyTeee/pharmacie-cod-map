@@ -50,3 +50,10 @@ Appliance dimensions and all 16 parts are preserved.
 [Opposite modelling notes](SHOPFRONTS_V20.md) ·
 [Fridge validation](../recon/v21/validation.json) ·
 [Earlier pub gallery](BLENDER_RENDER_GALLERY.md)
+
+## Melton Road and Taraj addition
+
+[Taraj frontage renders and pub-to-Taraj plan](TARAJ_V23.md) and [road extension renders](MELTON_ROAD_V22.md) are now saved in the complete v23 map.
+
+
+[Latest Taraj renders: corrected opposite roadside](TARAJ_V24.md).

@@ -98,3 +98,5 @@ New street captures inspected: Post Office/crossing, Papermoon and Pasha Barber,
 Observed opposite row includes Floral Fantasy, Let's Move, Syston Mini Market, Aston and Co and Fox and Hounds. Pub-side shots show Wreake Valley Flooring on left, dry cleaners and nail/spa shop on right. V12 uses simple photo scenery with approximate dimensions; left exterior passage stays available. See STREET_PHOTO_FRONTS.md.
 
 V15 second downstairs pass follows observed camera/medicine displays, advert collage, dark dado, jars/ceramics, ceiling grid, pendants and counter/table details in YouTube06:14–07:32 and Facebook135–143s. Counts/coordinates adapted to widened layout. See SCALE_TEST_V15.md.
+
+Latest street extension: docs/MELTON_ROAD_V22.md and docs/TARAJ_V23.md. Taraj is placed beyond Brookside on the right/east side of Melton Road from the High Street roundabout. Scale remains estimated to the enlarged Blender pub. Complete source: assets/blender/pharmacie-taraj-front-v23.blend; roads and new facade are Blender-only.

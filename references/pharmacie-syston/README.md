@@ -95,3 +95,7 @@ Six PNG originals are supplied in repository root:opposite front.png; opposite f
 Mini Market v13 uses the same untouched opposite front zoomed out better view flat for texture.png, with wider vertical UV bounds recorded in assets/blender/mini-market-v13-manifest.json.
 
 Additional downstairs video crops: assets/video-references/q0zBpicUXjg/textures-downstairs/manifest.json. BO3 derivatives and source hashes: assets/scale-test/manifest.json. Original sources unchanged.
+
+## Melton Road / Taraj references — 2026-10-03
+
+New user-supplied labelled and unmasked maps and Taraj day/night frontage views in the parent references directory were reviewed unchanged. Four Taraj/corroborating source hashes are in ../../recon/v23/validation.json; labelled route map hash is in ../../recon/v22/validation.json. See ../../docs/MELTON_ROAD_V22.md and ../../docs/TARAJ_V23.md for observations, estimated scale and render evidence. The file right side of taraj.png actually depicts neighbouring Costcutter. Interior references remain for a later pass; no interior reconstruction claimed. No original crops/recompression/renames or new bitmap derivatives were made. New facade lettering and geometry are approximations, not photo reprojections.

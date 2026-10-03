@@ -1,4 +1,6 @@
-Latest complete Blender checkpoint: `assets/blender/pharmacie-shopfronts-fridge-v21.blend`. Eight 3D shopfronts and the fridge placement are saved. See [3D shopfront gallery](3D_SHOPFRONT_GALLERY.md). New geometry is Blender-only; engine deployment remains unchanged.
+[Taraj renders and placement plan](TARAJ_V24.md) — latest source and map relationship.
+
+Latest complete Blender checkpoint: `assets/blender/pharmacie-taraj-opposite-v24.blend`. Melton Road, roundabout, rough street buildings and the photo-led Taraj exterior are saved; pub/shopfront/fridge work is retained. See [3D shopfront gallery](3D_SHOPFRONT_GALLERY.md). New geometry is Blender-only; engine deployment remains unchanged.
 
 # Blender render gallery
 

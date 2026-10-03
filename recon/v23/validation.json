@@ -1,0 +1,23 @@
+{
+  "closed_outward_solids": 151,
+  "preserved_meshes": 2729,
+  "references": [
+    {
+      "file": "references\\AN OUTISDE VIEW OF TARAJ SLIGHTLY FORM THE RIGHT ANGLE.png",
+      "sha256": "251b51aca8d758a1af7fb9f54cfa860998471f0c17ef95bc5bc85c66806e43c3"
+    },
+    {
+      "file": "references\\taraj front left side alley way - has the entrance door in.png",
+      "sha256": "21f181a5593501f848af7c7b43f2811b9461cf0551f00882ac81dc05f79e8ddd"
+    },
+    {
+      "file": "references\\right side of taraj.png",
+      "sha256": "c729eff498aff9dea7b77e40d7f0e8a2afe8ce333d4458d29b296246305742ba"
+    },
+    {
+      "file": "references\\non blanked out map for better lables of taraj.png",
+      "sha256": "397778017cb55a82e61899446399c913081eefb6baee72657ca34a82b60bf072"
+    }
+  ],
+  "radiant_or_game_verified": false
+}

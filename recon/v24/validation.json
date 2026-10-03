@@ -1,0 +1,25 @@
+{
+  "user_directed_correction": "Move Taraj to opposite road side; same chainage and scale",
+  "old_front": [
+    -46.13884735107422,
+    270.87945556640625
+  ],
+  "road_pivot": [
+    -53.326229095458984,
+    271.3055114746094
+  ],
+  "new_front": [
+    -60.51361083984375,
+    271.7315673828125
+  ],
+  "rigid_rotation_degrees": 180,
+  "moved_objects": 158,
+  "closed_outward_taraj_solids": 151,
+  "preserved_meshes": 2711,
+  "cleared_placeholder_buildings": [
+    "Melton placeholder 5-1-0",
+    "Melton placeholder 5-1-1"
+  ],
+  "archived_objects": 18,
+  "radiant_or_game_verified": false
+}

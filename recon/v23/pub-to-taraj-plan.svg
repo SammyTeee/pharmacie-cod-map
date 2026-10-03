@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="250 100 950 1000"><rect x="250" y="100" width="950" height="1000" fill="#18222b"/>
+<style>text{font-family:Arial,sans-serif;fill:#eef4f7;font-size:20px}.small{font-size:15px;fill:#a9bccb}</style>
+<text x="290" y="140">Pharmacie → roundabout → Melton Road → Taraj</text>
+<text class="small" x="290" y="166">Reference-oriented plan · estimated gameplay scale</text>
+<polyline points="858.73,195.01 1065.00,352.00" fill="none" stroke="#5d7180" stroke-width="28" stroke-linejoin="round"/>
+<polyline points="1065.00,352.00 1020.00,455.00 970.00,555.00 910.00,645.00 835.00,730.00 765.00,815.00 703.00,885.00 642.00,956.00 615.00,990.00" fill="none" stroke="#5d7180" stroke-width="30" stroke-linejoin="round"/>
+<circle cx="1065" cy="352" r="27" fill="#5d7180"/><circle cx="1065" cy="352" r="7" fill="#e1e5df"/>
+<path d="M770 801 L582 742" stroke="#5d7180" stroke-width="20"/><text x="470" y="745">Brookside</text>
+<circle cx="969.46" cy="299.87" r="9" fill="#efbc53"/><text x="784.46" y="299.87">Pharmacie Arms</text>
+<circle cx="894.33" cy="202.74" r="9" fill="#9acc91"/><text x="794.33" y="177.74">Natural Wellbeing</text>
+<circle cx="665.83" cy="901.25" r="9" fill="#ef785f"/><text x="685.83" y="906.25">Taraj Palace</text>
+<text x="1000" y="415">Roundabout</text>
+<text x="850" y="600" transform="rotate(-55 850 600)">Melton Road</text>
+<text class="small" x="290" y="1040">Taraj is beyond Brookside on the right when travelling from the roundabout.</text>
+<text class="small" x="290" y="1070">Positions follow supplied maps; exact real-world metres remain unconfirmed.</text>
+</svg>

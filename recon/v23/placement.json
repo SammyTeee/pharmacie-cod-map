@@ -1,0 +1,22 @@
+{
+  "pub_front_anchor_world": [
+    4,
+    0
+  ],
+  "natural_wellbeing_front_world": [
+    52.5,
+    -13
+  ],
+  "roundabout_world": [
+    -40,
+    -6.7
+  ],
+  "taraj_front_world": [
+    -46.13884735107422,
+    270.87945556640625
+  ],
+  "taraj_side": "east/right when travelling down Melton Road from roundabout",
+  "relation": "Beyond Brookside; pub retained on High Street",
+  "full_melton_blockout_centreline_length_m": 321.56398402471524,
+  "scale_status": "Estimated against enlarged gameplay scene, not a surveyed real-world distance"
+}

@@ -1,0 +1,11 @@
+{
+  "closed_outward_route_and_taraj_solids": 569,
+  "upper_glazing_ray_hits": [
+    "Taraj v23 | upper recessed glass",
+    "Taraj v23 | upper recessed glass.001",
+    "Taraj v23 | upper recessed glass.002"
+  ],
+  "passage_ray_hits": "Taraj v23 | left entry glazing",
+  "new_reference_hashes_unchanged": 4,
+  "radiant_or_game_verified": false
+}
