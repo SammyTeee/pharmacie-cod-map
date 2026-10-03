@@ -1,6 +1,6 @@
-[Taraj renders and placement plan](TARAJ_V24.md) — latest source and map relationship.
+[New Syston street renders](SYSTON_V25.md) · [Taraj placement plan](TARAJ_V24.md).
 
-Latest complete Blender checkpoint: `assets/blender/pharmacie-taraj-opposite-v24.blend`. Melton Road, roundabout, rough street buildings and the photo-led Taraj exterior are saved; pub/shopfront/fridge work is retained. See [3D shopfront gallery](3D_SHOPFRONT_GALLERY.md). New geometry is Blender-only; engine deployment remains unchanged.
+Latest complete Blender checkpoint: `assets/blender/pharmacie-syston-street-v25.blend`. The46 catalogue-led Melton frontages and street details have [seven new inspection views](SYSTON_V25.md). Pub/shopfront/fridge/Taraj work is retained. New geometry is Blender-only.
 
 # Blender render gallery
 

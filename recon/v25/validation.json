@@ -1,0 +1,694 @@
+{
+  "checkpoint": "assets\\blender\\pharmacie-syston-street-v25.blend",
+  "input_sha256": "39d520d11bb51fc9d8e0c9fc0eb354d31e7290ba86c46d4dc16957ce261df9ed",
+  "catalogue_frontages": [
+    {
+      "id": "B047",
+      "name": "Bistro Oggi corner",
+      "chainage_m_estimate": 41.072,
+      "width_m_estimate": 13.242,
+      "side": "east",
+      "photos": [
+        "00251",
+        "00263",
+        "00269",
+        "00271",
+        "00277"
+      ],
+      "terrace_group": "T18"
+    },
+    {
+      "id": "B046",
+      "name": "Josiah Hincks Solicitors",
+      "chainage_m_estimate": 55.958,
+      "width_m_estimate": 15.929,
+      "side": "east",
+      "photos": [
+        "00239",
+        "00251",
+        "00257",
+        "00259"
+      ],
+      "terrace_group": "T17"
+    },
+    {
+      "id": "B045",
+      "name": "Costa Coffee",
+      "chainage_m_estimate": 70.992,
+      "width_m_estimate": 13.54,
+      "side": "east",
+      "photos": [
+        "00227",
+        "00233",
+        "00235",
+        "00239",
+        "00245",
+        "00247"
+      ],
+      "terrace_group": "T16"
+    },
+    {
+      "id": "B044",
+      "name": "Betfred",
+      "chainage_m_estimate": 83.506,
+      "width_m_estimate": 10.887,
+      "side": "east",
+      "photos": [
+        "00215",
+        "00221",
+        "00223",
+        "00227"
+      ],
+      "terrace_group": "T15"
+    },
+    {
+      "id": "B043",
+      "name": "Syston Sizzler",
+      "chainage_m_estimate": 94.606,
+      "width_m_estimate": 10.712,
+      "side": "east",
+      "photos": [
+        "00203",
+        "00209",
+        "00211",
+        "00215"
+      ],
+      "terrace_group": "T14"
+    },
+    {
+      "id": "B042",
+      "name": "Spencers",
+      "chainage_m_estimate": 106.528,
+      "width_m_estimate": 12.531,
+      "side": "east",
+      "photos": [
+        "00171",
+        "00183",
+        "00191",
+        "00197",
+        "00199"
+      ],
+      "terrace_group": "T13"
+    },
+    {
+      "id": "B041",
+      "name": "Syston DIY / Firework Deals Store",
+      "chainage_m_estimate": 121.46,
+      "width_m_estimate": 16.733,
+      "side": "east",
+      "photos": [
+        "00159",
+        "00165",
+        "00171",
+        "00177",
+        "00179"
+      ],
+      "terrace_group": "T12"
+    },
+    {
+      "id": "B038",
+      "name": "Food Warehouse retail block",
+      "chainage_m_estimate": 136.067,
+      "width_m_estimate": 11.881,
+      "side": "east",
+      "photos": [
+        "00129",
+        "00133",
+        "00147",
+        "00153",
+        "00177",
+        "00199"
+      ],
+      "terrace_group": "T11"
+    },
+    {
+      "id": "B039",
+      "name": "cardfactory",
+      "chainage_m_estimate": 144.818,
+      "width_m_estimate": 5.02,
+      "side": "east",
+      "photos": [
+        "00147",
+        "00153",
+        "00155",
+        "00177"
+      ],
+      "terrace_group": "T11"
+    },
+    {
+      "id": "B051",
+      "name": "Oxfam lower frontage",
+      "chainage_m_estimate": 150.138,
+      "width_m_estimate": 5.02,
+      "side": "east",
+      "photos": [
+        "00147",
+        "00177"
+      ],
+      "terrace_group": "T11"
+    },
+    {
+      "id": "B040",
+      "name": "Savers",
+      "chainage_m_estimate": 158.222,
+      "width_m_estimate": 10.548,
+      "side": "east",
+      "photos": [
+        "00131",
+        "00135",
+        "00141",
+        "00143",
+        "00147",
+        "00153"
+      ],
+      "terrace_group": "T11"
+    },
+    {
+      "id": "B036",
+      "name": "Syston Jewellers",
+      "chainage_m_estimate": 169.15,
+      "width_m_estimate": 10.708,
+      "side": "east",
+      "photos": [
+        "00101",
+        "00113",
+        "00125"
+      ],
+      "terrace_group": "T10"
+    },
+    {
+      "id": "B035",
+      "name": "Designer Daisies",
+      "chainage_m_estimate": 177.234,
+      "width_m_estimate": 4.86,
+      "side": "east",
+      "photos": [
+        "00095",
+        "00101",
+        "00113"
+      ],
+      "terrace_group": "T10"
+    },
+    {
+      "id": "B037",
+      "name": "End bay beside the bus shelter \u2014 name unresolved",
+      "chainage_m_estimate": 182.314,
+      "width_m_estimate": 4.7,
+      "side": "east",
+      "photos": [
+        "00101",
+        "00113",
+        "00125"
+      ],
+      "terrace_group": "T10",
+      "review_note": "Shortened bridge-adjacent facade to retain open brook/access gap"
+    },
+    {
+      "id": "B034",
+      "name": "Golden Barber",
+      "chainage_m_estimate": 198.475,
+      "width_m_estimate": 11.0,
+      "side": "east",
+      "photos": [
+        "00095",
+        "00101",
+        "00107",
+        "00113",
+        "00115"
+      ],
+      "terrace_group": "T10",
+      "review_note": "Shortened bridge-adjacent facade to retain open brook/access gap"
+    },
+    {
+      "id": "B004",
+      "name": "Halls of Syston fruit-and-veg corner",
+      "chainage_m_estimate": 227.294,
+      "width_m_estimate": 11,
+      "side": "east",
+      "photos": [
+        "00059",
+        "00065",
+        "00067",
+        "00077"
+      ],
+      "terrace_group": "T03",
+      "review_note": "Shortened Halls bay to restore open bridge-side space"
+    },
+    {
+      "id": "B003",
+      "name": "Man-Made Gentleman Barbers",
+      "chainage_m_estimate": 247.915,
+      "width_m_estimate": 10.626,
+      "side": "east",
+      "photos": [
+        "00047",
+        "00053",
+        "00055",
+        "00059"
+      ],
+      "terrace_group": "T02"
+    },
+    {
+      "id": "B002",
+      "name": "Costcutter Carpets & Beds",
+      "chainage_m_estimate": 258.845,
+      "width_m_estimate": 10.632,
+      "side": "east",
+      "photos": [
+        "00023",
+        "00029",
+        "00035",
+        "00041",
+        "00043"
+      ],
+      "terrace_group": "T01"
+    },
+    {
+      "id": "B033",
+      "name": "GLO corner frontage",
+      "chainage_m_estimate": 25.491,
+      "width_m_estimate": 8.656,
+      "side": "west",
+      "photos": [
+        "00273",
+        "00280",
+        "00285",
+        "00292",
+        "00294",
+        "00296"
+      ],
+      "terrace_group": "T09"
+    },
+    {
+      "id": "B032",
+      "name": "Amy Clarke Hair",
+      "chainage_m_estimate": 34.089,
+      "width_m_estimate": 7.94,
+      "side": "west",
+      "photos": [
+        "00270",
+        "00279",
+        "00280",
+        "00282",
+        "00284"
+      ],
+      "terrace_group": "T09"
+    },
+    {
+      "id": "B031",
+      "name": "Town Square recessed passage frontage",
+      "chainage_m_estimate": 42.197,
+      "width_m_estimate": 7.677,
+      "side": "west",
+      "photos": [
+        "00267",
+        "00270",
+        "00272"
+      ],
+      "terrace_group": "T09"
+    },
+    {
+      "id": "B030",
+      "name": "We Vape frontage \u2014 verify exact styling",
+      "chainage_m_estimate": 49.143,
+      "width_m_estimate": 5.614,
+      "side": "west",
+      "photos": [
+        "00255",
+        "00258",
+        "00267",
+        "00270"
+      ],
+      "terrace_group": "T09"
+    },
+    {
+      "id": "B029",
+      "name": "Marine fish-and-chips frontage",
+      "chainage_m_estimate": 57.554,
+      "width_m_estimate": 10.608,
+      "side": "west",
+      "photos": [
+        "00255",
+        "00258",
+        "00260"
+      ],
+      "terrace_group": "T09"
+    },
+    {
+      "id": "B028",
+      "name": "Town Square Shopping Centre gable",
+      "chainage_m_estimate": 71.524,
+      "width_m_estimate": 16.733,
+      "side": "west",
+      "photos": [
+        "00231",
+        "00234",
+        "00236",
+        "00243",
+        "00246"
+      ],
+      "terrace_group": "T08"
+    },
+    {
+      "id": "B027",
+      "name": "B&M gabled frontage",
+      "chainage_m_estimate": 88.64,
+      "width_m_estimate": 16.898,
+      "side": "west",
+      "photos": [
+        "00207",
+        "00210",
+        "00219",
+        "00222",
+        "00224",
+        "00231"
+      ],
+      "terrace_group": "T08"
+    },
+    {
+      "id": "B026",
+      "name": "Sunlit Chemist",
+      "chainage_m_estimate": 104.027,
+      "width_m_estimate": 13.276,
+      "side": "west",
+      "photos": [
+        "00187",
+        "00195",
+        "00198",
+        "00200",
+        "00210"
+      ],
+      "terrace_group": "T07"
+    },
+    {
+      "id": "B025",
+      "name": "Hays Travel",
+      "chainage_m_estimate": 115.29,
+      "width_m_estimate": 8.648,
+      "side": "west",
+      "photos": [
+        "00175",
+        "00178",
+        "00195",
+        "00198"
+      ],
+      "terrace_group": "T07"
+    },
+    {
+      "id": "B024",
+      "name": "Greggs",
+      "chainage_m_estimate": 122.876,
+      "width_m_estimate": 5.924,
+      "side": "west",
+      "photos": [
+        "00157",
+        "00163",
+        "00166",
+        "00175",
+        "00178"
+      ],
+      "terrace_group": "T07"
+    },
+    {
+      "id": "B023",
+      "name": "Byrite Electricals",
+      "chainage_m_estimate": 128.647,
+      "width_m_estimate": 5.018,
+      "side": "west",
+      "photos": [
+        "00163",
+        "00166",
+        "00168",
+        "00173"
+      ],
+      "terrace_group": "T07"
+    },
+    {
+      "id": "B022",
+      "name": "Smith Hamylton",
+      "chainage_m_estimate": 134.897,
+      "width_m_estimate": 6.881,
+      "side": "west",
+      "photos": [
+        "00162",
+        "00163",
+        "00166",
+        "00168"
+      ],
+      "terrace_group": "T07"
+    },
+    {
+      "id": "B021",
+      "name": "William Hill",
+      "chainage_m_estimate": 142.572,
+      "width_m_estimate": 7.869,
+      "side": "west",
+      "photos": [
+        "00151",
+        "00154",
+        "00156"
+      ],
+      "terrace_group": "T07"
+    },
+    {
+      "id": "B020",
+      "name": "Subway",
+      "chainage_m_estimate": 150.688,
+      "width_m_estimate": 7.763,
+      "side": "west",
+      "photos": [
+        "00139",
+        "00142",
+        "00144",
+        "00151",
+        "00154"
+      ],
+      "terrace_group": "T07"
+    },
+    {
+      "id": "B019",
+      "name": "LOROS",
+      "chainage_m_estimate": 158.167,
+      "width_m_estimate": 6.596,
+      "side": "west",
+      "photos": [
+        "00139",
+        "00142",
+        "00144",
+        "00154"
+      ],
+      "terrace_group": "T06"
+    },
+    {
+      "id": "B018",
+      "name": "Mind",
+      "chainage_m_estimate": 164.337,
+      "width_m_estimate": 5.145,
+      "side": "west",
+      "photos": [
+        "00123",
+        "00126",
+        "00139",
+        "00142",
+        "00154"
+      ],
+      "terrace_group": "T06"
+    },
+    {
+      "id": "B016",
+      "name": "Today's Catch",
+      "chainage_m_estimate": 169.713,
+      "width_m_estimate": 5.005,
+      "side": "west",
+      "photos": [
+        "00111",
+        "00114",
+        "00123",
+        "00126",
+        "00154"
+      ],
+      "terrace_group": "T06"
+    },
+    {
+      "id": "B017",
+      "name": "Age UK",
+      "chainage_m_estimate": 177.081,
+      "width_m_estimate": 9.13,
+      "side": "west",
+      "photos": [
+        "00123",
+        "00126",
+        "00154"
+      ],
+      "terrace_group": "T06"
+    },
+    {
+      "id": "B015",
+      "name": "Specsavers / audiology corner",
+      "chainage_m_estimate": 197.319,
+      "width_m_estimate": 11.0,
+      "side": "west",
+      "photos": [
+        "00087",
+        "00090",
+        "00099",
+        "00102",
+        "00114"
+      ],
+      "terrace_group": "T06",
+      "review_note": "Shortened bridge-adjacent facade to retain open brook/access gap"
+    },
+    {
+      "id": "B014",
+      "name": "Banking Hub and adjoining glazed corner bays",
+      "chainage_m_estimate": 228.179,
+      "width_m_estimate": 11.0,
+      "side": "west",
+      "photos": [
+        "00051",
+        "00063",
+        "00066",
+        "00068"
+      ],
+      "terrace_group": "T05",
+      "review_note": "Shortened bridge-adjacent facade to retain open brook/access gap"
+    },
+    {
+      "id": "B013",
+      "name": "Flames",
+      "chainage_m_estimate": 248.979,
+      "width_m_estimate": 10.626,
+      "side": "west",
+      "photos": [
+        "00039",
+        "00042",
+        "00051",
+        "00054",
+        "00063"
+      ],
+      "terrace_group": "T05"
+    },
+    {
+      "id": "B012",
+      "name": "Vista",
+      "chainage_m_estimate": 257.947,
+      "width_m_estimate": 6.709,
+      "side": "west",
+      "photos": [
+        "00039",
+        "00042",
+        "00051",
+        "00054"
+      ],
+      "terrace_group": "T05"
+    },
+    {
+      "id": "B010",
+      "name": "Newton Fallowell estate-agent frontage",
+      "chainage_m_estimate": 264.022,
+      "width_m_estimate": 4.841,
+      "side": "west",
+      "photos": [
+        "00027",
+        "00030",
+        "00039",
+        "00042"
+      ],
+      "terrace_group": "T05"
+    },
+    {
+      "id": "B011",
+      "name": "Syston House takeaway",
+      "chainage_m_estimate": 269.092,
+      "width_m_estimate": 4.7,
+      "side": "west",
+      "photos": [
+        "00030",
+        "00039",
+        "00042",
+        "00044"
+      ],
+      "terrace_group": "T05"
+    },
+    {
+      "id": "B009",
+      "name": "FOX Barbers",
+      "chainage_m_estimate": 274.092,
+      "width_m_estimate": 4.7,
+      "side": "west",
+      "photos": [
+        "00027",
+        "00030",
+        "00032"
+      ],
+      "terrace_group": "T05"
+    },
+    {
+      "id": "B008",
+      "name": "Grove",
+      "chainage_m_estimate": 279.092,
+      "width_m_estimate": 4.7,
+      "side": "west",
+      "photos": [
+        "00027",
+        "00030",
+        "00032"
+      ],
+      "terrace_group": "T05"
+    },
+    {
+      "id": "B007",
+      "name": "Delish",
+      "chainage_m_estimate": 284.092,
+      "width_m_estimate": 4.7,
+      "side": "west",
+      "photos": [
+        "00015",
+        "00018",
+        "00020",
+        "00027"
+      ],
+      "terrace_group": "T05"
+    },
+    {
+      "id": "B006",
+      "name": "The Studio",
+      "chainage_m_estimate": 290.592,
+      "width_m_estimate": 7.7,
+      "side": "west",
+      "photos": [
+        "00015",
+        "00018",
+        "00020"
+      ],
+      "terrace_group": "T05"
+    }
+  ],
+  "frontage_count": 46,
+  "closed_outward_solids": 2888,
+  "preserved_meshes": 2500,
+  "archived_generic_objects": 344,
+  "route_scale_estimate": 1.0640686414704417,
+  "retained_taraj_chainage": 280.4776514724095,
+  "limits": [
+    "Approximate gameplay scale/parcel widths; catalogue markers are not surveyed footprints.",
+    "Historical shop occupancy mixed between dated panoramas; final occupancy requires chosen date.",
+    "Opaque scenery glazing, no invented shop interiors.",
+    "No Radiant compiler or in-game verification in this Blender-only pass."
+  ],
+  "radiant_or_game_verified": false,
+  "road_clearance_samples": 390,
+  "review_fixes": [
+    "Shortened four bridge-adjacent bays to restore gap",
+    "Larger geometric lettering",
+    "Pitched shelter roof",
+    "Separate brook water/banks",
+    "B&M Y frame"
+  ],
+  "final_gap_review": {
+    "bridge_chainage_estimate_m": 214,
+    "both_sides_gap_samples": 10,
+    "halls_width_m_estimate": 11,
+    "observed_corner_finish": "GLO white ground-floor masonry"
+  }
+}

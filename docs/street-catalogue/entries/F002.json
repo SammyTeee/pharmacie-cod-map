@@ -1,0 +1,41 @@
+{
+  "id": "F002",
+  "name": "Pavements, kerbs and drainage",
+  "kind": "street-feature",
+  "side": "centre",
+  "anchor_stop": "route-012",
+  "along_offset_m_estimate": 0,
+  "primary_photos": [
+    "00019",
+    "00031",
+    "00055",
+    "00080",
+    "00115",
+    "00155",
+    "00180",
+    "00223",
+    "00271",
+    "00296"
+  ],
+  "terrace_group": "route",
+  "observations": [
+    "Light paved footways run directly in front of shop bays with raised kerbs towards roadway.",
+    "Some areas use brick/block paving, especially near brook-side bus shelter; others are plain slabs or patched surface.",
+    "Manhole/service covers, gullies and threshold aprons interrupt pavement.",
+    "Shop access steps/ramps and widened corners change levels/widths locally.",
+    "Use actual depth/kerb geometry and decals only for surface markings; avoid photo people/shadows becoming permanent surface detail."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6983732,
+    "longitude": -1.0738386,
+    "east_m": 85.02,
+    "north_m": 100.48,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S03"
+}

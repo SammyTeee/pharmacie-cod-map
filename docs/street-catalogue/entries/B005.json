@@ -1,0 +1,36 @@
+{
+  "id": "B005",
+  "name": "Natural World Pet Superstore — southern context",
+  "kind": "building-frontage",
+  "side": "east",
+  "anchor_stop": "route-001",
+  "along_offset_m_estimate": -22,
+  "primary_photos": [
+    "00005",
+    "00006",
+    "00012",
+    "00013",
+    "00019"
+  ],
+  "terrace_group": "T04",
+  "observations": [
+    "Low broad retail facade behind an open forecourt, visible south of Taraj.",
+    "Long dark-blue fascia contains light Pet Superstore lettering and animal image panels beneath.",
+    "Forecourt has short bollards, plant baskets and trees near road edge.",
+    "Flat/shallow industrial retail roof differs from attached two-storey shop terraces.",
+    "Only contextual/oblique views available; main entrance and full facade rhythm not established."
+  ],
+  "unknowns": [
+    "No close head-on capture. Full footprint and relative forecourt depth uncertain; use a rough background mass until needed."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6972511,
+    "longitude": -1.0751916,
+    "east_m": -6.16,
+    "north_m": -24.29,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S01"
+}

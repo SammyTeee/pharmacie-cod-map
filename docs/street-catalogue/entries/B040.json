@@ -1,0 +1,38 @@
+{
+  "id": "B040",
+  "name": "Savers",
+  "kind": "building-frontage",
+  "side": "east",
+  "anchor_stop": "route-011",
+  "along_offset_m_estimate": 1,
+  "primary_photos": [
+    "00131",
+    "00135",
+    "00141",
+    "00143",
+    "00147",
+    "00153"
+  ],
+  "terrace_group": "T11",
+  "observations": [
+    "Pale/light fascia with blue-green savers wording above lower entrance/display glazing.",
+    "Large wall poster/menu-like product graphics sit beside a lower bay towards the block end.",
+    "Short flight of steps and a ramp/rail arrangement run parallel/perpendicular to frontage.",
+    "Brick return, low wall and brook-side access gap visible at the end.",
+    "Upper small windows/sign panels are part of shared Food Warehouse block.",
+    "Keep access ramp and stairs as geometry; do not bake handrails into the display texture."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6982216,
+    "longitude": -1.0737805,
+    "east_m": 88.93,
+    "north_m": 83.61,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S03"
+}

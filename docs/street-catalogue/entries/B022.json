@@ -1,0 +1,35 @@
+{
+  "id": "B022",
+  "name": "Smith Hamylton",
+  "kind": "building-frontage",
+  "side": "west",
+  "anchor_stop": "route-013",
+  "along_offset_m_estimate": -6,
+  "primary_photos": [
+    "00162",
+    "00163",
+    "00166",
+    "00168"
+  ],
+  "terrace_group": "T07",
+  "observations": [
+    "Dark/grey fascia carrying Smith Hamylton wording; lower glazed shop bays sit below red-brick upper face.",
+    "Light stone-like lintels/sills and dark/light upper window frames vary across the terrace.",
+    "Adjoins Byrite and then Greggs along the northbound row.",
+    "Crossing signal/lamp and parked vehicles interrupt the lower frontage view.",
+    "Check native lettering before final typesetting; thumbnail transcription is a label, not a font specification."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.698467,
+    "longitude": -1.073996,
+    "east_m": 74.41,
+    "north_m": 110.91,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S03"
+}

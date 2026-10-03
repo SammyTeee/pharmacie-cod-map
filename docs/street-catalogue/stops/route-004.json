@@ -1,0 +1,137 @@
+{
+  "stop": "route-004",
+  "photos": [
+    {
+      "photo_id": "00045",
+      "stop": "route-004",
+      "section": "S01",
+      "role": "road-forward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B002 B003 B012 B013 B014 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00045 | Taraj and southern terrace | road-forward"
+    },
+    {
+      "photo_id": "00046",
+      "stop": "route-004",
+      "section": "S01",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B002 B003",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00046 | Taraj and southern terrace | right-forward-angle"
+    },
+    {
+      "photo_id": "00047",
+      "stop": "route-004",
+      "section": "S01",
+      "role": "right-frontage",
+      "observed_ids": "B003",
+      "nearby_candidate_ids": "B002 B003",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00047 | Taraj and southern terrace | right-frontage | Man-Made Gentleman Barbers"
+    },
+    {
+      "photo_id": "00048",
+      "stop": "route-004",
+      "section": "S01",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B002 B003",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00048 | Taraj and southern terrace | right-rear-angle"
+    },
+    {
+      "photo_id": "00049",
+      "stop": "route-004",
+      "section": "S01",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B002 B003 B012 B013 B014 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00049 | Taraj and southern terrace | road-backward"
+    },
+    {
+      "photo_id": "00050",
+      "stop": "route-004",
+      "section": "S01",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B012 B013 B014",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00050 | Taraj and southern terrace | left-rear-angle"
+    },
+    {
+      "photo_id": "00051",
+      "stop": "route-004",
+      "section": "S01",
+      "role": "left-frontage",
+      "observed_ids": "B012 B013 B014",
+      "nearby_candidate_ids": "B012 B013 B014",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00051 | Taraj and southern terrace | left-frontage | Vista, Flames, Banking Hub and adjoining glazed corner bays"
+    },
+    {
+      "photo_id": "00052",
+      "stop": "route-004",
+      "section": "S01",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B012 B013 B014",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00052 | Taraj and southern terrace | left-forward-angle"
+    },
+    {
+      "photo_id": "00053",
+      "stop": "route-004",
+      "section": "S01",
+      "role": "right-frontage-detail",
+      "observed_ids": "B003",
+      "nearby_candidate_ids": "B002 B003",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00053 | Taraj and southern terrace | right-frontage-detail | Man-Made Gentleman Barbers"
+    },
+    {
+      "photo_id": "00054",
+      "stop": "route-004",
+      "section": "S01",
+      "role": "left-frontage-detail",
+      "observed_ids": "B012 B013",
+      "nearby_candidate_ids": "B012 B013 B014",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00054 | Taraj and southern terrace | left-frontage-detail | Vista, Flames"
+    },
+    {
+      "photo_id": "00055",
+      "stop": "route-004",
+      "section": "S01",
+      "role": "right-pavement-detail",
+      "observed_ids": "B003 F002",
+      "nearby_candidate_ids": "B002 B003",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00055 | Taraj and southern terrace | right-pavement-detail | Man-Made Gentleman Barbers, Pavements, kerbs and drainage"
+    },
+    {
+      "photo_id": "00056",
+      "stop": "route-004",
+      "section": "S01",
+      "role": "left-pavement-detail",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B012 B013 B014",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00056 | Taraj and southern terrace | left-pavement-detail"
+    }
+  ]
+}

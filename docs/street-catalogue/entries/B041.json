@@ -1,0 +1,38 @@
+{
+  "id": "B041",
+  "name": "Syston DIY / Firework Deals Store",
+  "kind": "building-frontage",
+  "side": "east",
+  "anchor_stop": "route-014",
+  "along_offset_m_estimate": -3,
+  "primary_photos": [
+    "00159",
+    "00165",
+    "00171",
+    "00177",
+    "00179"
+  ],
+  "terrace_group": "T12",
+  "observations": [
+    "Native177: cream-painted two-storey brick facade, visibly weathered/flaking in places.",
+    "Two tall white multi-pane upper windows have black decorative lintel blocks and dark sills.",
+    "Broad pale fascia carries FIREWORK DEALS STORE lettering and Syston DIY/Hardware wording.",
+    "Lower left display window is crowded with tools/products; door at image-right is open/recessed in this view.",
+    "Brooms, buckets, racks and KEYS CUT HERE pavement board are separate shop props.",
+    "Black rainwater pipe and wall cables/camera fittings cross the upper/lower transition.",
+    "Do not infer a surveyed interior from clutter behind glazing."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6984468,
+    "longitude": -1.0736162,
+    "east_m": 100.0,
+    "north_m": 108.66,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S03"
+}

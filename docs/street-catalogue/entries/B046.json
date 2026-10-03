@@ -1,0 +1,36 @@
+{
+  "id": "B046",
+  "name": "Josiah Hincks Solicitors",
+  "kind": "building-frontage",
+  "side": "east",
+  "anchor_stop": "route-020",
+  "along_offset_m_estimate": -5,
+  "primary_photos": [
+    "00239",
+    "00251",
+    "00257",
+    "00259"
+  ],
+  "terrace_group": "T17",
+  "observations": [
+    "Red-brick frontage with vivid red lower surround/fascia and white JOSIAH HINCKS SOLICITORS wording.",
+    "Lower red-framed door/display glazing has frosted/printed lettering panels.",
+    "Upper windows have red/light frames and a dentil-like eaves/cornice line.",
+    "Exposed brick gable/side wall and exterior AC unit visible towards Costa passage.",
+    "Black metal fence/gate runs in the inter-building gap.",
+    "Keep branded lower frame and upper brick materials separate for sharpness."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6988924,
+    "longitude": -1.0731059,
+    "east_m": 134.39,
+    "north_m": 158.21,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S04"
+}

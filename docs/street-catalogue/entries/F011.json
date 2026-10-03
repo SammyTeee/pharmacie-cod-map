@@ -1,0 +1,36 @@
+{
+  "id": "F011",
+  "name": "Iron-gated gap beside Costa",
+  "kind": "street-feature",
+  "side": "east",
+  "anchor_stop": "route-019",
+  "along_offset_m_estimate": -3,
+  "primary_photos": [
+    "00239",
+    "00245",
+    "00247",
+    "00257",
+    "00259"
+  ],
+  "terrace_group": "north-gap",
+  "observations": [
+    "Narrow open gap between Costa and Josiah Hincks side wall.",
+    "Tall black vertical iron gate/fence with pointed/slim bars frames entry.",
+    "Brick end walls and side elevations are visible; a glimpse behind gate does not establish full passage destination.",
+    "Retain depth and separation rather than joining the two storefronts into one wall.",
+    "Gate can be a closed placeholder; gameplay door decision is separate from photographic geometry."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6988378,
+    "longitude": -1.0731462,
+    "east_m": 131.67,
+    "north_m": 152.14,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S04"
+}

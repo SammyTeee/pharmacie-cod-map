@@ -1,0 +1,34 @@
+{
+  "id": "B037",
+  "name": "End bay beside the bus shelter — name unresolved",
+  "kind": "building-frontage",
+  "side": "east",
+  "anchor_stop": "route-008",
+  "along_offset_m_estimate": 7,
+  "primary_photos": [
+    "00101",
+    "00113",
+    "00125"
+  ],
+  "terrace_group": "T10",
+  "observations": [
+    "Compact dark lower fascia and glazed frontage at the end of the Golden Barber/Jewellers block.",
+    "Part of the sign ends in CELEBRITY-like wording, but the full business name is not reliably resolved.",
+    "Green bus shelter directly overlaps the lower opening and makes unit limits hard to establish.",
+    "Upper red brick and light windows continue the corner block.",
+    "Keep an anonymous framed shop bay for now; do not invent a readable business name."
+  ],
+  "unknowns": [
+    "Full sign transcription, exact frontage width and door location require closer review/another view."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6980351,
+    "longitude": -1.0740817,
+    "east_m": 68.63,
+    "north_m": 62.89,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S02"
+}

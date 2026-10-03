@@ -1,0 +1,137 @@
+{
+  "stop": "route-014",
+  "photos": [
+    {
+      "photo_id": "00169",
+      "stop": "route-014",
+      "section": "S03",
+      "role": "road-forward",
+      "observed_ids": "F014",
+      "nearby_candidate_ids": "B041 B042 B051 B023 B024 B025 B026 F001 F002",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00169 | Main retail and crossing | road-forward | Street furniture: lamps, bins and planting"
+    },
+    {
+      "photo_id": "00170",
+      "stop": "route-014",
+      "section": "S03",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B041 B042 B051",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00170 | Main retail and crossing | right-forward-angle"
+    },
+    {
+      "photo_id": "00171",
+      "stop": "route-014",
+      "section": "S03",
+      "role": "right-frontage",
+      "observed_ids": "B041 B042",
+      "nearby_candidate_ids": "B041 B042 B051",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00171 | Main retail and crossing | right-frontage | Syston DIY / Firework Deals Store, Spencers"
+    },
+    {
+      "photo_id": "00172",
+      "stop": "route-014",
+      "section": "S03",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B041 B042 B051",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00172 | Main retail and crossing | right-rear-angle"
+    },
+    {
+      "photo_id": "00173",
+      "stop": "route-014",
+      "section": "S03",
+      "role": "road-backward",
+      "observed_ids": "B023",
+      "nearby_candidate_ids": "B041 B042 B051 B023 B024 B025 B026 F001 F002",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00173 | Main retail and crossing | road-backward | Byrite Electricals"
+    },
+    {
+      "photo_id": "00174",
+      "stop": "route-014",
+      "section": "S03",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B023 B024 B025 B026",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00174 | Main retail and crossing | left-rear-angle"
+    },
+    {
+      "photo_id": "00175",
+      "stop": "route-014",
+      "section": "S03",
+      "role": "left-frontage",
+      "observed_ids": "B024 B025",
+      "nearby_candidate_ids": "B023 B024 B025 B026",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00175 | Main retail and crossing | left-frontage | Greggs, Hays Travel"
+    },
+    {
+      "photo_id": "00176",
+      "stop": "route-014",
+      "section": "S03",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B023 B024 B025 B026",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00176 | Main retail and crossing | left-forward-angle"
+    },
+    {
+      "photo_id": "00177",
+      "stop": "route-014",
+      "section": "S03",
+      "role": "right-frontage-detail",
+      "observed_ids": "B038 B039 B041 B051 F008 F015",
+      "nearby_candidate_ids": "B041 B042 B051",
+      "imagery_date": "Apr 2026",
+      "review": "native-original-and-contact-sheet-reviewed",
+      "label": "00177 | Main retail and crossing | right-frontage-detail | Food Warehouse retail block, cardfactory, Syston DIY / Firework Deals Store, Oxfam lower frontage, Greggs / DIY traffic-controlled crossing, Facade utilities and roof services"
+    },
+    {
+      "photo_id": "00178",
+      "stop": "route-014",
+      "section": "S03",
+      "role": "left-frontage-detail",
+      "observed_ids": "B024 B025",
+      "nearby_candidate_ids": "B023 B024 B025 B026",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00178 | Main retail and crossing | left-frontage-detail | Greggs, Hays Travel"
+    },
+    {
+      "photo_id": "00179",
+      "stop": "route-014",
+      "section": "S03",
+      "role": "right-pavement-detail",
+      "observed_ids": "B041",
+      "nearby_candidate_ids": "B041 B042 B051",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00179 | Main retail and crossing | right-pavement-detail | Syston DIY / Firework Deals Store"
+    },
+    {
+      "photo_id": "00180",
+      "stop": "route-014",
+      "section": "S03",
+      "role": "left-pavement-detail",
+      "observed_ids": "F002",
+      "nearby_candidate_ids": "B023 B024 B025 B026",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00180 | Main retail and crossing | left-pavement-detail | Pavements, kerbs and drainage"
+    }
+  ]
+}

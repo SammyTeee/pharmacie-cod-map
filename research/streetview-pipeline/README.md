@@ -1,7 +1,28 @@
-# Automated head-on frontage references — deferred idea
+# Draw a street route → Blender reconstruction pipeline
+
+Sam clarified the desired workflow on 3 October 2026: draw a line along roads,
+bring that route into Blender, move through street-level views to collect the
+surroundings, then build 3D shopfronts like the Pharmacie/Taraj work.
+
+[Concrete pipeline plan and verified sources](PIPELINE_PLAN.md).
+
+Current implementation: [working Firefox capture workflow](FIREFOX_CAPTURE.md).
+Sam authorised visible-browser screenshot collection for the personal project.
+The collector walks geographic waypoints, saves twelve surroundings/detail views
+per stop, records camera coordinates and produces a searchable labelling gallery,
+CSV catalogue, contact sheets and camera-route GeoJSON. Originals stay locally
+inside the repository under ignored `references/streetview-capture/`.
+The [numbered street catalogue](../../docs/street-catalogue/index.html) now
+organises all296 captures into68 individual building/feature dossiers, with
+separate per-camera files and CSV lookup. Drawing a route remains a future stage;
+the first catalogue-led Blender scenery pass is underway. No paid API requests.
+The Google usage restrictions recorded in the research plan remain unresolved;
+the implementation does not establish redistribution rights.
+
+The earlier idea notes below are historical proposals, not verified permissions.
 
 Sam requested a folder for investigating this after the Melton Road/Taraj pass.
-No downloader, paid API, scraping process or account setup has been started.
+These earlier proposals predate the authorised Firefox screenshot implementation.
 
 Possible workflow to investigate:
 

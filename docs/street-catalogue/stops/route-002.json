@@ -1,0 +1,137 @@
+{
+  "stop": "route-002",
+  "photos": [
+    {
+      "photo_id": "00021",
+      "stop": "route-002",
+      "section": "S01",
+      "role": "road-forward",
+      "observed_ids": "F001",
+      "nearby_candidate_ids": "B001 B002 B008 B009 B010 B011 F001 F002",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00021 | Taraj and southern terrace | road-forward | Melton Road carriageway and route"
+    },
+    {
+      "photo_id": "00022",
+      "stop": "route-002",
+      "section": "S01",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B001 B002",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00022 | Taraj and southern terrace | right-forward-angle"
+    },
+    {
+      "photo_id": "00023",
+      "stop": "route-002",
+      "section": "S01",
+      "role": "right-frontage",
+      "observed_ids": "B001 B002",
+      "nearby_candidate_ids": "B001 B002",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00023 | Taraj and southern terrace | right-frontage | Taraj Palace, Costcutter Carpets & Beds"
+    },
+    {
+      "photo_id": "00024",
+      "stop": "route-002",
+      "section": "S01",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B001 B002",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00024 | Taraj and southern terrace | right-rear-angle"
+    },
+    {
+      "photo_id": "00025",
+      "stop": "route-002",
+      "section": "S01",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B001 B002 B008 B009 B010 B011 F001 F002",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00025 | Taraj and southern terrace | road-backward"
+    },
+    {
+      "photo_id": "00026",
+      "stop": "route-002",
+      "section": "S01",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B008 B009 B010 B011",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00026 | Taraj and southern terrace | left-rear-angle"
+    },
+    {
+      "photo_id": "00027",
+      "stop": "route-002",
+      "section": "S01",
+      "role": "left-frontage",
+      "observed_ids": "B007 B008 B009 B010",
+      "nearby_candidate_ids": "B008 B009 B010 B011",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00027 | Taraj and southern terrace | left-frontage | Delish, Grove, FOX Barbers, Newton Fallowell estate-agent frontage"
+    },
+    {
+      "photo_id": "00028",
+      "stop": "route-002",
+      "section": "S01",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B008 B009 B010 B011",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00028 | Taraj and southern terrace | left-forward-angle"
+    },
+    {
+      "photo_id": "00029",
+      "stop": "route-002",
+      "section": "S01",
+      "role": "right-frontage-detail",
+      "observed_ids": "B001 B002",
+      "nearby_candidate_ids": "B001 B002",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00029 | Taraj and southern terrace | right-frontage-detail | Taraj Palace, Costcutter Carpets & Beds"
+    },
+    {
+      "photo_id": "00030",
+      "stop": "route-002",
+      "section": "S01",
+      "role": "left-frontage-detail",
+      "observed_ids": "B008 B009 B010 B011 F015",
+      "nearby_candidate_ids": "B008 B009 B010 B011",
+      "imagery_date": "Aug 2024",
+      "review": "native-original-and-contact-sheet-reviewed",
+      "label": "00030 | Taraj and southern terrace | left-frontage-detail | Grove, FOX Barbers, Newton Fallowell estate-agent frontage, Syston House takeaway, Facade utilities and roof services"
+    },
+    {
+      "photo_id": "00031",
+      "stop": "route-002",
+      "section": "S01",
+      "role": "right-pavement-detail",
+      "observed_ids": "F002",
+      "nearby_candidate_ids": "B001 B002",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00031 | Taraj and southern terrace | right-pavement-detail | Pavements, kerbs and drainage"
+    },
+    {
+      "photo_id": "00032",
+      "stop": "route-002",
+      "section": "S01",
+      "role": "left-pavement-detail",
+      "observed_ids": "B008 B009",
+      "nearby_candidate_ids": "B008 B009 B010 B011",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00032 | Taraj and southern terrace | left-pavement-detail | Grove, FOX Barbers"
+    }
+  ]
+}

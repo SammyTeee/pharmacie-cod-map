@@ -1,0 +1,9 @@
+{
+  "name": "Taraj to Pharmacie via Melton Road and High Street",
+  "source": "User authorised route; endpoint pin read from visible Google Maps. Intermediate waypoint estimates require screenshot/navigation review.",
+  "waypoints": [
+    {"name": "Melton Road north of bridge", "position": [52.6981, -1.0743], "arrival_radius_m": 15},
+    {"name": "High Street / Melton Road roundabout approach", "position": [52.69921, -1.07289], "arrival_radius_m": 20},
+    {"name": "Pharmacie Arms street frontage", "position": [52.6994153, -1.0733271], "arrival_radius_m": 14}
+  ]
+}

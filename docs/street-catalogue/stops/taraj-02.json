@@ -1,0 +1,16 @@
+{
+  "stop": "taraj-02",
+  "photos": [
+    {
+      "photo_id": "00007",
+      "stop": "taraj-02",
+      "section": "S00",
+      "role": "navigation-check",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B001 B002 B005 B006 B007 B008",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00007 | Pilot and endpoint map | navigation-check"
+    }
+  ]
+}

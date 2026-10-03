@@ -592,3 +592,99 @@ No Radiant export/build/deployment or BO3 controls/settings/install changes. New
 
 ### Taraj roadside correction — v24
 Sam explicitly approved the overall first pass but requested Taraj on the opposite road side. This overrides the previous inferred east/right interpretation. scripts/relocate_taraj_v24.py rigidly rotates all158 objects(151 meshes) and three review cameras180 degrees about road pivot(-53.3262,271.3055), keeping chainage and scale. New front(-60.5136,271.7316). Two conflicting opposite-side placeholder buildings(18 objects) archived unlinked;2711 other meshes checked unchanged. Four fresh renders saved in recon/v24. docs/TARAJ_V24.md and updated SVG/JSON record corrected placement and supersede v23 side notes. No Radiant or game changes. Default source/open script now v24.
+
+### Route-to-Blender pipeline research — 3 October 2026
+Sam clarified desired draw-road-line -> street-view surroundings -> Blender 3D workflow. Investigated current official Google Street View service, camera request parameters, Maps URLs, Static policies, Maps Platform terms, Geo Guidelines; also OSM licence/tile policy. Technically, panorama lookup/view controls exist, but published Google rules restrict screenshots/offline downloads/imagery extraction and derived content, so no supported automatic Google screenshot-to-modelling collector is claimed. Detailed provider-independent route/observation/reference/import/review plan saved in research/streetview-pipeline/PIPELINE_PLAN.md; README updated. Proposed first slice: route editor -> metre-based Blender roads and markers -> user-owned photo references. Asked whether an OSM-based drawing interface is acceptable. No app built, image downloads, API credentials/billing, map geometry edits or game changes in this research pass.
+
+### Personal Firefox screenshot collector — 3 October 2026
+Sam subsequently explicitly requested using Google Street View in the existing
+Firefox window, authorised browser control, confirmed Taraj -> bridge -> Melton
+Road -> roundabout -> High Street/Pharmacie, requested as many both-side/detail
+screenshots as practical, and went AFK. Implemented visible desktop capture and
+waypoint walker in research/streetview-pipeline; no API keys/accounts/billing or
+image endpoint downloads. Published usage restrictions remain recorded; this
+does not establish redistribution rights. Raw originals are inside ignored
+references/streetview-capture/taraj-to-pharmacie, separate from user sources.
+
+Each route stop saves eight overlapping surroundings views and four tighter
+frontage/pavement views, canonical camera coordinates/angles/panorama ID, visible
+browser title, timestamp and SHA256. Searchable local gallery supports role/search
+filters and editable labels/notes with review.json export. CSV/JSON, contact
+sheets, camera-route GeoJSON and integrity audit accompany originals. Coordinates
+are camera positions, not surveyed building points. No existing Blender edits,
+Radiant build/deployment or BO3 inputs in this pass.
+
+Desktop access requires escalated execution: sandbox window discovery initially
+returned stale/inaccessible handles. Escalated approved python helper commands
+work. Initial heading sweep hit the enabled mouse corner fail-safe after five
+views; originals kept. Controlled STOP/restarts preserve partial sweeps. Older
+April2016 panorama restored stale encoded thumbnail yaw despite changed main
+URL; fixed url_view to synchronise both viewer angle copies and check detail
+rotation. Originals126/128 initially suspected of wrong-side capture; later native
+review proved the images show the correct west row with stale URL metadata.
+Reviewed newer views
+show April2026 and bridge views August2024: imagery date differs from screenshot
+date and is recorded only when observed. Intermediate roundabout waypoint was
+tightened using the saved visible endpoint map. Six pure parser/route regression
+tests pass, including legacy encoded angle consistency; running integrity checks
+verify original hashes, panorama identity and complete role coverage, separately
+flagging historical wrong-heading views. Final route result recorded below.
+
+### Capture stopped and numbered catalogue completed
+Sam stopped further collection after the roundabout:296 original PNGs,23 completed
+panorama stops,531,836,154 original bytes. High Street/pub close-up extension was
+not newly captured. Originals/manifest remain unchanged and ignored in Git.
+Native evidence dates span April2016, April2019, April2023, August2024 and
+April2026; copyright watermark is not an imagery date. The two audit warnings
+00126/00128 concern stale URL headings, not incorrect photographic sides.
+`python research/streetview-pipeline/audit_capture.py` verifies all hashes, complete
+role sets and matching panoramas with zero errors and those two annotated warnings.
+
+`docs/street-catalogue/` contains51 building/frontage dossiers B001–B051 and17
+street features F001–F017, each in a small JSON/source, Markdown and HTML file.
+The numbered searchable map, INDEX.csv and per-stop files allow selective reading.
+All296 images labelled; nearby candidate IDs are distinguished from observed IDs.
+Map positions are approximate markers, never surveyed footprints. Terrace groups
+prevent assuming every shop is an independent building. Uncertain names/occluded
+details and historical occupancy are explicit. Reusable builder and headlessChrome
+UI verification cover search, type filters, zoom/reset, photo loading and saved/
+exported annotations; all pass. No Firefox input was sent during UI tests.
+
+Sam authorised the next Blender base pass after labelling. Connected live editor
+was dirty v23; preserved a copy at ignored build/before-v25-live-editor.blend before
+any switch. New work starts from saved v24 and preserves its pub/Taraj arrangement.
+
+### Catalogue-led Syston base — Blender v25
+Generated assets/blender/pharmacie-syston-street-v25.blend from the current saved
+v24 using `Blender 5.2 --background assets/blender/pharmacie-taraj-opposite-v24.blend
+--python scripts/model_syston_v25.py`. Source SHA256 is recorded in recon/v25/
+validation.json.46 named catalogue frontages replace344 generic objects archived
+unlinked.2500 retained meshes compare exactly in world vertices and topology,
+including the pub/detailed neighbours/fridge/Taraj. New frontages have closed
+static masses, framed displays, recessed closed entrances, sills, gutters,
+geometric lettering and pub-scale upper sash heights. B&M/Town Square/Costa have
+gables; B&M has projecting Y-frame bay, Costa burgundy canopy/patio rail. Bridge
+rails, shelter, lamps/bins, zebra and a painted mini-roundabout added. No raw
+Google captures are embedded in these new materials.
+
+First generator check found inward gable winding; recalculated closed face
+normals and reran before saving. Native review found overextended bays consuming
+the brook gap. `--background ...v25.blend --python scripts/review_syston_v25.py`
+shortens bridge-adjacent bays, enlarges text, pitches shelter roof and adds brook
+water/banks/Y-frame. Its first run found an unused material purged during save;
+switched to the retained brook material and reran successfully.2888 closed outward
+solids and390 player-road overhead clearance samples pass. Final native review
+places bridge in the open214m chainage gap, shortens Halls and applies photographed
+GLO white ground-floor finish via scripts/finish_syston_v25.py;10 additional
+both-side bridge-gap samples pass. Seven review renders in recon/v25 and
+docs/SYSTON_V25.md use temporary unsaved daylight. Scripts/open-blender.ps1 defaults
+to v25. Live editor opened v25 after preserving dirty v23 in ignored build.
+
+This is a recognisable base pass, not a surveyed 1:1 finished street. Facade widths,
+rear depths and route calibration remain estimates; historical occupancy mixed
+across explicitly dated panoramas, opaque displays/no invented interiors. No
+Radiant compile, export, deployment or BO3 inputs. Exact logs build/syston-v25-
+build.log, -review.log and -final.log; Blender exceptions can return process0,
+so reports/render outputs/logs were checked rather than relying on exit code.
+Bridge-player camera was shifted with the relocated bridge in final framing
+review, via scripts/frame_syston_bridge_v25.py; build/syston-v25-frame.log.

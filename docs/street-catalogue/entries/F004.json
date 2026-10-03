@@ -1,0 +1,36 @@
+{
+  "id": "F004",
+  "name": "Brookside / bridge-side junction and access",
+  "kind": "street-feature",
+  "side": "east",
+  "anchor_stop": "route-007",
+  "along_offset_m_estimate": 0,
+  "primary_photos": [
+    "00070",
+    "00077",
+    "00079",
+    "00082",
+    "00089",
+    "00091"
+  ],
+  "terrace_group": "brook",
+  "observations": [
+    "Open side-road/access area joins the main road near the brook and Golden Barber corner.",
+    "Yellow box-like markings and kerb returns visible across opening.",
+    "Corner shop block, bridge railings and car parking define the space; keep it open.",
+    "User supplied top-down map names Brookside; exact photographed branch-to-map naming should be cross-checked before road labels are final."
+  ],
+  "unknowns": [
+    "Street/access connectivity and surveyed road width uncertain; no invisible rear routes inferred."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6979191,
+    "longitude": -1.0742749,
+    "east_m": 55.61,
+    "north_m": 49.98,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S02"
+}

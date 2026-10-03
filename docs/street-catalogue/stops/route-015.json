@@ -1,0 +1,225 @@
+{
+  "stop": "route-015",
+  "photos": [
+    {
+      "photo_id": "00181",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "road-forward",
+      "observed_ids": "F009",
+      "nearby_candidate_ids": "B042 F009 B024 B025 B026 B027 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00181 | Main retail and crossing | road-forward | Retail car-park entrance and yellow box"
+    },
+    {
+      "photo_id": "00182",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "right-forward-angle",
+      "observed_ids": "F009",
+      "nearby_candidate_ids": "B042 F009",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00182 | Main retail and crossing | right-forward-angle | Retail car-park entrance and yellow box"
+    },
+    {
+      "photo_id": "00183",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "right-frontage",
+      "observed_ids": "B042",
+      "nearby_candidate_ids": "B042 F009",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00183 | Main retail and crossing | right-frontage | Spencers"
+    },
+    {
+      "photo_id": "00184",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B042 F009",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00184 | Main retail and crossing | right-rear-angle"
+    },
+    {
+      "photo_id": "00185",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B042 F009 B024 B025 B026 B027 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00185 | Main retail and crossing | road-backward"
+    },
+    {
+      "photo_id": "00186",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B024 B025 B026 B027",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00186 | Main retail and crossing | left-rear-angle"
+    },
+    {
+      "photo_id": "00187",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "left-frontage",
+      "observed_ids": "B026",
+      "nearby_candidate_ids": "B024 B025 B026 B027",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00187 | Main retail and crossing | left-frontage | Sunlit Chemist"
+    },
+    {
+      "photo_id": "00188",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B024 B025 B026 B027",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00188 | Main retail and crossing | left-forward-angle"
+    },
+    {
+      "photo_id": "00189",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "road-forward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B042 F009 B024 B025 B026 B027 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00189 | Main retail and crossing | road-forward"
+    },
+    {
+      "photo_id": "00190",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B042 F009",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00190 | Main retail and crossing | right-forward-angle"
+    },
+    {
+      "photo_id": "00191",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "right-frontage",
+      "observed_ids": "B042",
+      "nearby_candidate_ids": "B042 F009",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00191 | Main retail and crossing | right-frontage | Spencers"
+    },
+    {
+      "photo_id": "00192",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B042 F009",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00192 | Main retail and crossing | right-rear-angle"
+    },
+    {
+      "photo_id": "00193",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B042 F009 B024 B025 B026 B027 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00193 | Main retail and crossing | road-backward"
+    },
+    {
+      "photo_id": "00194",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B024 B025 B026 B027",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00194 | Main retail and crossing | left-rear-angle"
+    },
+    {
+      "photo_id": "00195",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "left-frontage",
+      "observed_ids": "B025 B026",
+      "nearby_candidate_ids": "B024 B025 B026 B027",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00195 | Main retail and crossing | left-frontage | Hays Travel, Sunlit Chemist"
+    },
+    {
+      "photo_id": "00196",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B024 B025 B026 B027",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00196 | Main retail and crossing | left-forward-angle"
+    },
+    {
+      "photo_id": "00197",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "right-frontage-detail",
+      "observed_ids": "B042 F009",
+      "nearby_candidate_ids": "B042 F009",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00197 | Main retail and crossing | right-frontage-detail | Spencers, Retail car-park entrance and yellow box"
+    },
+    {
+      "photo_id": "00198",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "left-frontage-detail",
+      "observed_ids": "B025 B026",
+      "nearby_candidate_ids": "B024 B025 B026 B027",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00198 | Main retail and crossing | left-frontage-detail | Hays Travel, Sunlit Chemist"
+    },
+    {
+      "photo_id": "00199",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "right-pavement-detail",
+      "observed_ids": "B038 B042 F009",
+      "nearby_candidate_ids": "B042 F009",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00199 | Main retail and crossing | right-pavement-detail | Food Warehouse retail block, Spencers, Retail car-park entrance and yellow box"
+    },
+    {
+      "photo_id": "00200",
+      "stop": "route-015",
+      "section": "S03",
+      "role": "left-pavement-detail",
+      "observed_ids": "B026",
+      "nearby_candidate_ids": "B024 B025 B026 B027",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00200 | Main retail and crossing | left-pavement-detail | Sunlit Chemist"
+    }
+  ]
+}

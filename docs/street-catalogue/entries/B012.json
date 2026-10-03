@@ -1,0 +1,35 @@
+{
+  "id": "B012",
+  "name": "Vista",
+  "kind": "building-frontage",
+  "side": "west",
+  "anchor_stop": "route-003",
+  "along_offset_m_estimate": 0,
+  "primary_photos": [
+    "00039",
+    "00042",
+    "00051",
+    "00054"
+  ],
+  "terrace_group": "T05",
+  "observations": [
+    "Light fascia with large dark blue vista wording and smaller advertising text.",
+    "Lower light-framed display/door arrangement, image panels and a contrasting coloured lower trim.",
+    "Upper light/cream wall has white framed windows and dish/cable details.",
+    "Adjoins Syston House and red Flames sign; street sequence is stronger evidence than guessed frontage dimensions.",
+    "Cars hide parts of the lower bays; read adjacent obliques for frame positions."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6976738,
+    "longitude": -1.0750342,
+    "east_m": 4.45,
+    "north_m": 22.71,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S01"
+}

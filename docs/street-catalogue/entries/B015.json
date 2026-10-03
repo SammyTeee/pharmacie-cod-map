@@ -1,0 +1,37 @@
+{
+  "id": "B015",
+  "name": "Specsavers / audiology corner",
+  "kind": "building-frontage",
+  "side": "west",
+  "anchor_stop": "route-008",
+  "along_offset_m_estimate": 0,
+  "primary_photos": [
+    "00087",
+    "00090",
+    "00099",
+    "00102",
+    "00114"
+  ],
+  "terrace_group": "T06",
+  "observations": [
+    "Broad green fascia with white Specsavers emblems and optician/audiologist wording.",
+    "Lower glazed doors/displays framed in light colours; bright green advertising panels occupy some windows.",
+    "Upper red brick has a long row of light rectangular windows, with different internal blinds.",
+    "Corner has an open forecourt/pavement widening and short bollards near parked cars.",
+    "Low pitched roof and gutter form a continuous northbound retail row.",
+    "Brook/bridge is directly nearby; no infill building should seal that opening."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6981363,
+    "longitude": -1.074413,
+    "east_m": 46.31,
+    "north_m": 74.13,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S02"
+}

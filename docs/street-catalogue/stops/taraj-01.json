@@ -1,0 +1,71 @@
+{
+  "stop": "taraj-01",
+  "photos": [
+    {
+      "photo_id": "00001",
+      "stop": "taraj-01",
+      "section": "S00",
+      "role": "facade-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B001 B002 B005 B006 B007 B008",
+      "imagery_date": "Aug 2024",
+      "review": "native-original-and-contact-sheet-reviewed",
+      "label": "00001 | Pilot and endpoint map | facade-angle"
+    },
+    {
+      "photo_id": "00002",
+      "stop": "taraj-01",
+      "section": "S00",
+      "role": "panorama-surroundings",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B001 B002 B005 B006 B007 B008",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00002 | Pilot and endpoint map | panorama-surroundings"
+    },
+    {
+      "photo_id": "00003",
+      "stop": "taraj-01",
+      "section": "S00",
+      "role": "panorama-surroundings",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B001 B002 B005 B006 B007 B008",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00003 | Pilot and endpoint map | panorama-surroundings"
+    },
+    {
+      "photo_id": "00004",
+      "stop": "taraj-01",
+      "section": "S00",
+      "role": "panorama-surroundings",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B001 B002 B005 B006 B007 B008",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00004 | Pilot and endpoint map | panorama-surroundings"
+    },
+    {
+      "photo_id": "00005",
+      "stop": "taraj-01",
+      "section": "S00",
+      "role": "panorama-surroundings",
+      "observed_ids": "B005",
+      "nearby_candidate_ids": "B001 B002 B005 B006 B007 B008",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00005 | Pilot and endpoint map | panorama-surroundings | Natural World Pet Superstore — southern context"
+    },
+    {
+      "photo_id": "00006",
+      "stop": "taraj-01",
+      "section": "S00",
+      "role": "panorama-surroundings",
+      "observed_ids": "B005",
+      "nearby_candidate_ids": "B001 B002 B005 B006 B007 B008",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00006 | Pilot and endpoint map | panorama-surroundings | Natural World Pet Superstore — southern context"
+    }
+  ]
+}

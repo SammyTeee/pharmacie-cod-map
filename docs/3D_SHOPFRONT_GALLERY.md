@@ -1,11 +1,15 @@
 # 3D shopfront Blender renders
 
+Latest street extension: [Syston v25 gallery](SYSTON_V25.md), with46 additional
+catalogue-led Melton frontages. The eight detailed High Street fronts below are
+retained in the current checkpoint.
+
 Eight shopfronts now have modelled frames, projecting signs, recessed closed
 doors and upper windows. Upstairs window dimensions match the pub at Sam's
 request. Shop interiors are not modelled; selected display photos remain inside
 the new frames. Main lettering is geometry with approximate typefaces.
 
-Latest complete source: [v21 Blender map](../assets/blender/pharmacie-shopfronts-fridge-v21.blend).
+Latest complete source: [v25 Blender map](../assets/blender/pharmacie-syston-street-v25.blend).
 These are Blender previews with temporary review lighting. The new fronts have
 not been exported or verified in Radiant/BO3. Original reference photos are unchanged.
 

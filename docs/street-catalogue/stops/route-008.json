@@ -1,0 +1,137 @@
+{
+  "stop": "route-008",
+  "photos": [
+    {
+      "photo_id": "00093",
+      "stop": "route-008",
+      "section": "S02",
+      "role": "road-forward",
+      "observed_ids": "F001",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006 B015 B016 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00093 | Brook, bridge and corner shops | road-forward | Melton Road carriageway and route"
+    },
+    {
+      "photo_id": "00094",
+      "stop": "route-008",
+      "section": "S02",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00094 | Brook, bridge and corner shops | right-forward-angle"
+    },
+    {
+      "photo_id": "00095",
+      "stop": "route-008",
+      "section": "S02",
+      "role": "right-frontage",
+      "observed_ids": "B034 B035 F006",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00095 | Brook, bridge and corner shops | right-frontage | Golden Barber, Designer Daisies, Green bus shelter beside corner shops"
+    },
+    {
+      "photo_id": "00096",
+      "stop": "route-008",
+      "section": "S02",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00096 | Brook, bridge and corner shops | right-rear-angle"
+    },
+    {
+      "photo_id": "00097",
+      "stop": "route-008",
+      "section": "S02",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006 B015 B016 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00097 | Brook, bridge and corner shops | road-backward"
+    },
+    {
+      "photo_id": "00098",
+      "stop": "route-008",
+      "section": "S02",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B015 B016",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00098 | Brook, bridge and corner shops | left-rear-angle"
+    },
+    {
+      "photo_id": "00099",
+      "stop": "route-008",
+      "section": "S02",
+      "role": "left-frontage",
+      "observed_ids": "B015",
+      "nearby_candidate_ids": "B015 B016",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00099 | Brook, bridge and corner shops | left-frontage | Specsavers / audiology corner"
+    },
+    {
+      "photo_id": "00100",
+      "stop": "route-008",
+      "section": "S02",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B015 B016",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00100 | Brook, bridge and corner shops | left-forward-angle"
+    },
+    {
+      "photo_id": "00101",
+      "stop": "route-008",
+      "section": "S02",
+      "role": "right-frontage-detail",
+      "observed_ids": "B034 B035 B036 B037 F006",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00101 | Brook, bridge and corner shops | right-frontage-detail | Golden Barber, Designer Daisies, Syston Jewellers, End bay beside the bus shelter — name unresolved, Green bus shelter beside corner shops"
+    },
+    {
+      "photo_id": "00102",
+      "stop": "route-008",
+      "section": "S02",
+      "role": "left-frontage-detail",
+      "observed_ids": "B015",
+      "nearby_candidate_ids": "B015 B016",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00102 | Brook, bridge and corner shops | left-frontage-detail | Specsavers / audiology corner"
+    },
+    {
+      "photo_id": "00103",
+      "stop": "route-008",
+      "section": "S02",
+      "role": "right-pavement-detail",
+      "observed_ids": "F006",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00103 | Brook, bridge and corner shops | right-pavement-detail | Green bus shelter beside corner shops"
+    },
+    {
+      "photo_id": "00104",
+      "stop": "route-008",
+      "section": "S02",
+      "role": "left-pavement-detail",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B015 B016",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00104 | Brook, bridge and corner shops | left-pavement-detail"
+    }
+  ]
+}

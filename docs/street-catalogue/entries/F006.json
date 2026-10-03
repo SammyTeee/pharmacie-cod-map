@@ -1,0 +1,36 @@
+{
+  "id": "F006",
+  "name": "Green bus shelter beside corner shops",
+  "kind": "street-feature",
+  "side": "east",
+  "anchor_stop": "route-008",
+  "along_offset_m_estimate": 3,
+  "primary_photos": [
+    "00095",
+    "00101",
+    "00103",
+    "00113",
+    "00115"
+  ],
+  "terrace_group": "brook",
+  "observations": [
+    "Dark-green framed shelter with pitched translucent-looking roof and glazed panel sides.",
+    "Shelter sits on brick/block paved area directly in front of the end shop bay.",
+    "Dark bin and bus-stop/pole furniture stand nearby; passengers are transient.",
+    "Roof, posts, glass and bench/inner furniture should be separate elements.",
+    "Do not treat shelter roof as extension of shop canopy or infer a shelter at every bus symbol on minimap."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6980088,
+    "longitude": -1.0741222,
+    "east_m": 65.9,
+    "north_m": 59.96,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S02"
+}

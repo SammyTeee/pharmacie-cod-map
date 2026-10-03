@@ -1,0 +1,37 @@
+{
+  "id": "F005",
+  "name": "Bridge railings and brook boundary walls",
+  "kind": "street-feature",
+  "side": "west",
+  "anchor_stop": "route-006",
+  "along_offset_m_estimate": 0,
+  "primary_photos": [
+    "00074",
+    "00075",
+    "00078",
+    "00080",
+    "00086",
+    "00092"
+  ],
+  "terrace_group": "brook",
+  "observations": [
+    "Repeated slim grey metal vertical bars with a top rail run across bridge footway.",
+    "Short concrete/stone-like plinth supports rails; notices/banners hang from some spans in older image.",
+    "Brick boundary walls and timber/metal fencing continue on adjoining banks.",
+    "Build repeatable rail sections with end posts, leaving watercourse/side access unobstructed.",
+    "Weathering/poster banners are dated optional details, not structural spacing evidence."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6979863,
+    "longitude": -1.0746564,
+    "east_m": 29.91,
+    "north_m": 57.45,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S02"
+}

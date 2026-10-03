@@ -1,0 +1,36 @@
+{
+  "id": "B003",
+  "name": "Man-Made Gentleman Barbers",
+  "kind": "building-frontage",
+  "side": "east",
+  "anchor_stop": "route-004",
+  "along_offset_m_estimate": 0,
+  "primary_photos": [
+    "00047",
+    "00053",
+    "00055",
+    "00059"
+  ],
+  "terrace_group": "T02",
+  "observations": [
+    "Cream upper facade with dark framed multi-pane windows; broad dark/black lower frontage surround.",
+    "Black fascia carries large light MAN-MADE/GENTLEMAN BARBERS lettering and circular emblems.",
+    "Lower glazing divided into display window and door with transom; vertical black service boards flank the opening.",
+    "Barber poles/brackets project near fascia ends; lettering and poles should be separate sharp assets.",
+    "Dark window framing contrasts with pale wall and neighbouring white Costcutter block.",
+    "Sidewalk is shallow and flush to lower facade; roadside vehicle is an occlusion, not part of the frontage."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6976124,
+    "longitude": -1.0746626,
+    "east_m": 29.49,
+    "north_m": 15.88,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S01"
+}

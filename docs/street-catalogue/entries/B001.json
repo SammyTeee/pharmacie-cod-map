@@ -1,0 +1,38 @@
+{
+  "id": "B001",
+  "name": "Taraj Palace",
+  "kind": "building-frontage",
+  "side": "east",
+  "anchor_stop": "route-001",
+  "along_offset_m_estimate": 0,
+  "primary_photos": [
+    "00011",
+    "00017",
+    "00019",
+    "00023",
+    "00029"
+  ],
+  "terrace_group": "T01",
+  "observations": [
+    "Cream/off-white upper frontage with three tall white-framed windows over a broad sign.",
+    "Large blue TARAJ PALACE letters on light fascia; dark-blue lower restaurant/takeaway fascia spans the bays.",
+    "Image-left opening is a substantial recessed passage with brick returns and visible depth; keep this open recess separate from the flatter window/door bay.",
+    "Lower bays have pale piers, tan brick backing, framed glazing and low black metal bars/fence.",
+    "Roof/eaves join adjacent rendered block; exposed side wall projects towards the pet-store area.",
+    "Pavement, tall lighting column, utility cabinet and planted hanging basket overlap frontage. They are separate objects."
+  ],
+  "unknowns": [
+    "Exact frontage width/depth, passage terminus and behind-glass interior unknown.",
+    "Existing Blender Taraj placement was explicitly moved to the opposite side by Sam; preserve that approved gameplay placement until a calibrated reconciliation is agreed."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6973962,
+    "longitude": -1.0749696,
+    "east_m": 8.8,
+    "north_m": -8.16,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S01"
+}

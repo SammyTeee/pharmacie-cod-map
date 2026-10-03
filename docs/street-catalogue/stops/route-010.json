@@ -1,0 +1,137 @@
+{
+  "stop": "route-010",
+  "photos": [
+    {
+      "photo_id": "00117",
+      "stop": "route-010",
+      "section": "S02",
+      "role": "road-forward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036 B015 B016 B017 B018 B019 F001 F002",
+      "imagery_date": "Apr 2016",
+      "review": "contact-sheet-reviewed",
+      "label": "00117 | Brook, bridge and corner shops | road-forward"
+    },
+    {
+      "photo_id": "00118",
+      "stop": "route-010",
+      "section": "S02",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036",
+      "imagery_date": "Apr 2016",
+      "review": "contact-sheet-reviewed",
+      "label": "00118 | Brook, bridge and corner shops | right-forward-angle"
+    },
+    {
+      "photo_id": "00119",
+      "stop": "route-010",
+      "section": "S02",
+      "role": "right-frontage",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036",
+      "imagery_date": "Apr 2016",
+      "review": "contact-sheet-reviewed",
+      "label": "00119 | Brook, bridge and corner shops | right-frontage"
+    },
+    {
+      "photo_id": "00120",
+      "stop": "route-010",
+      "section": "S02",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036",
+      "imagery_date": "Apr 2016",
+      "review": "contact-sheet-reviewed",
+      "label": "00120 | Brook, bridge and corner shops | right-rear-angle"
+    },
+    {
+      "photo_id": "00121",
+      "stop": "route-010",
+      "section": "S02",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036 B015 B016 B017 B018 B019 F001 F002",
+      "imagery_date": "Apr 2016",
+      "review": "contact-sheet-reviewed",
+      "label": "00121 | Brook, bridge and corner shops | road-backward"
+    },
+    {
+      "photo_id": "00122",
+      "stop": "route-010",
+      "section": "S02",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B015 B016 B017 B018 B019",
+      "imagery_date": "Apr 2016",
+      "review": "contact-sheet-reviewed",
+      "label": "00122 | Brook, bridge and corner shops | left-rear-angle"
+    },
+    {
+      "photo_id": "00123",
+      "stop": "route-010",
+      "section": "S02",
+      "role": "left-frontage",
+      "observed_ids": "B016 B017 B018",
+      "nearby_candidate_ids": "B015 B016 B017 B018 B019",
+      "imagery_date": "Apr 2016",
+      "review": "contact-sheet-reviewed",
+      "label": "00123 | Brook, bridge and corner shops | left-frontage | Today's Catch, Age UK, Mind"
+    },
+    {
+      "photo_id": "00124",
+      "stop": "route-010",
+      "section": "S02",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B015 B016 B017 B018 B019",
+      "imagery_date": "Apr 2016",
+      "review": "contact-sheet-reviewed",
+      "label": "00124 | Brook, bridge and corner shops | left-forward-angle"
+    },
+    {
+      "photo_id": "00125",
+      "stop": "route-010",
+      "section": "S02",
+      "role": "right-frontage-detail",
+      "observed_ids": "B036 B037",
+      "nearby_candidate_ids": "B034 B035 B036",
+      "imagery_date": "Apr 2016",
+      "review": "contact-sheet-reviewed",
+      "label": "00125 | Brook, bridge and corner shops | right-frontage-detail | Syston Jewellers, End bay beside the bus shelter — name unresolved"
+    },
+    {
+      "photo_id": "00126",
+      "stop": "route-010",
+      "section": "S02",
+      "role": "left-frontage-detail",
+      "observed_ids": "B016 B017 B018",
+      "nearby_candidate_ids": "B015 B016 B017 B018 B019",
+      "imagery_date": "Apr 2016",
+      "review": "native-original-and-contact-sheet-reviewed",
+      "label": "00126 | Brook, bridge and corner shops | left-frontage-detail | Today's Catch, Age UK, Mind"
+    },
+    {
+      "photo_id": "00127",
+      "stop": "route-010",
+      "section": "S02",
+      "role": "right-pavement-detail",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036",
+      "imagery_date": "Apr 2016",
+      "review": "contact-sheet-reviewed",
+      "label": "00127 | Brook, bridge and corner shops | right-pavement-detail"
+    },
+    {
+      "photo_id": "00128",
+      "stop": "route-010",
+      "section": "S02",
+      "role": "left-pavement-detail",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B015 B016 B017 B018 B019",
+      "imagery_date": "Apr 2016",
+      "review": "contact-sheet-reviewed",
+      "label": "00128 | Brook, bridge and corner shops | left-pavement-detail"
+    }
+  ]
+}

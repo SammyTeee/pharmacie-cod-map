@@ -1,0 +1,33 @@
+{
+  "id": "F016",
+  "name": "Narrow access bay between LOROS and Subway",
+  "kind": "street-feature",
+  "side": "west",
+  "anchor_stop": "route-011",
+  "along_offset_m_estimate": -3,
+  "primary_photos": [
+    "00139",
+    "00142",
+    "00154"
+  ],
+  "terrace_group": "T06-T07",
+  "observations": [
+    "Native154 shows a narrow white-sign/dark doorway bay at the change between older charity row and Subway.",
+    "Door/opening is narrower than neighbouring display windows.",
+    "Upper projecting bay/roof-height transition above makes this a useful terrace boundary marker.",
+    "Do not expand it into a full-width public street or infer ownership of the upstairs rooms."
+  ],
+  "unknowns": [
+    "Exact sign text/occupancy and access destination unknown."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6983391,
+    "longitude": -1.0740851,
+    "east_m": 68.4,
+    "north_m": 96.68,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S03"
+}

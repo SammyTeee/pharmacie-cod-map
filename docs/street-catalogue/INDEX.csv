@@ -1,0 +1,69 @@
+﻿id,name,kind,side,section,anchor_stop,notes
+B001,Taraj Palace,building-frontage,east,S01,route-001,entries/B001.md
+B002,Costcutter Carpets & Beds,building-frontage,east,S01,route-003,entries/B002.md
+B003,Man-Made Gentleman Barbers,building-frontage,east,S01,route-004,entries/B003.md
+B004,Halls of Syston fruit-and-veg corner,building-frontage,east,S01,route-005,entries/B004.md
+B005,Natural World Pet Superstore — southern context,building-frontage,east,S01,route-001,entries/B005.md
+B006,The Studio,building-frontage,west,S01,route-001,entries/B006.md
+B007,Delish,building-frontage,west,S01,route-001,entries/B007.md
+B008,Grove,building-frontage,west,S01,route-002,entries/B008.md
+B009,FOX Barbers,building-frontage,west,S01,route-002,entries/B009.md
+B010,Newton Fallowell estate-agent frontage,building-frontage,west,S01,route-002,entries/B010.md
+B011,Syston House takeaway,building-frontage,west,S01,route-003,entries/B011.md
+B012,Vista,building-frontage,west,S01,route-003,entries/B012.md
+B013,Flames,building-frontage,west,S01,route-004,entries/B013.md
+B014,Banking Hub and adjoining glazed corner bays,building-frontage,west,S01,route-005,entries/B014.md
+B015,Specsavers / audiology corner,building-frontage,west,S02,route-008,entries/B015.md
+B016,Today's Catch,building-frontage,west,S02,route-009,entries/B016.md
+B017,Age UK,building-frontage,west,S02,route-010,entries/B017.md
+B018,Mind,building-frontage,west,S02,route-010,entries/B018.md
+B019,LOROS,building-frontage,west,S03,route-011,entries/B019.md
+B020,Subway,building-frontage,west,S03,route-011,entries/B020.md
+B021,William Hill,building-frontage,west,S03,route-012,entries/B021.md
+B022,Smith Hamylton,building-frontage,west,S03,route-013,entries/B022.md
+B023,Byrite Electricals,building-frontage,west,S03,route-013,entries/B023.md
+B024,Greggs,building-frontage,west,S03,route-014,entries/B024.md
+B025,Hays Travel,building-frontage,west,S03,route-014,entries/B025.md
+B026,Sunlit Chemist,building-frontage,west,S03,route-015,entries/B026.md
+B027,B&M gabled frontage,building-frontage,west,S04,route-017,entries/B027.md
+B028,Town Square Shopping Centre gable,building-frontage,west,S04,route-018,entries/B028.md
+B029,Marine fish-and-chips frontage,building-frontage,west,S04,route-020,entries/B029.md
+B030,We Vape frontage — verify exact styling,building-frontage,west,S04,route-021,entries/B030.md
+B031,Town Square recessed passage frontage,building-frontage,west,S04,route-021,entries/B031.md
+B032,Amy Clarke Hair,building-frontage,west,S05,route-022,entries/B032.md
+B033,GLO corner frontage,building-frontage,west,S05,route-023,entries/B033.md
+B034,Golden Barber,building-frontage,east,S02,route-009,entries/B034.md
+B035,Designer Daisies,building-frontage,east,S02,route-009,entries/B035.md
+B036,Syston Jewellers,building-frontage,east,S02,route-009,entries/B036.md
+B037,End bay beside the bus shelter — name unresolved,building-frontage,east,S02,route-008,entries/B037.md
+B038,Food Warehouse retail block,building-frontage,east,S03,route-012,entries/B038.md
+B039,cardfactory,building-frontage,east,S03,route-012,entries/B039.md
+B040,Savers,building-frontage,east,S03,route-011,entries/B040.md
+B041,Syston DIY / Firework Deals Store,building-frontage,east,S03,route-014,entries/B041.md
+B042,Spencers,building-frontage,east,S03,route-015,entries/B042.md
+B043,Syston Sizzler,building-frontage,east,S04,route-016,entries/B043.md
+B044,Betfred,building-frontage,east,S04,route-017,entries/B044.md
+B045,Costa Coffee,building-frontage,east,S04,route-018,entries/B045.md
+B046,Josiah Hincks Solicitors,building-frontage,east,S04,route-020,entries/B046.md
+B047,Bistro Oggi corner,building-frontage,east,S04,route-021,entries/B047.md
+B048,Fox & Hounds — junction context,building-frontage,north,S05,route-023,entries/B048.md
+B049,Northern junction retail row — identities unresolved,building-frontage,north,S05,route-023,entries/B049.md
+B050,Pharmacie Arms — existing reference anchor,building-frontage,north,S05,route-023,entries/B050.md
+B051,Oxfam lower frontage,building-frontage,east,S03,route-012,entries/B051.md
+F001,Melton Road carriageway and route,street-feature,centre,S03,route-012,entries/F001.md
+F002,"Pavements, kerbs and drainage",street-feature,centre,S03,route-012,entries/F002.md
+F003,Brook and bridge,street-feature,centre,S02,route-006,entries/F003.md
+F004,Brookside / bridge-side junction and access,street-feature,east,S02,route-007,entries/F004.md
+F005,Bridge railings and brook boundary walls,street-feature,west,S02,route-006,entries/F005.md
+F006,Green bus shelter beside corner shops,street-feature,east,S02,route-008,entries/F006.md
+F007,Southern traffic-controlled crossing,street-feature,centre,S01,route-001,entries/F007.md
+F008,Greggs / DIY traffic-controlled crossing,street-feature,centre,S03,route-013,entries/F008.md
+F009,Retail car-park entrance and yellow box,street-feature,east,S03,route-015,entries/F009.md
+F010,B&M market canopies and pavement stalls,street-feature,west,S04,route-017,entries/F010.md
+F011,Iron-gated gap beside Costa,street-feature,east,S04,route-019,entries/F011.md
+F012,Zebra crossing and beacon approach,street-feature,centre,S05,route-022,entries/F012.md
+F013,Mini-roundabout and traffic island,street-feature,centre,S05,route-023,entries/F013.md
+F014,"Street furniture: lamps, bins and planting",street-feature,centre,S04,route-018,entries/F014.md
+F015,Facade utilities and roof services,street-feature,west,S04,route-020,entries/F015.md
+F016,Narrow access bay between LOROS and Subway,street-feature,west,S03,route-011,entries/F016.md
+F017,White access door between Marine and vape,street-feature,west,S04,route-020,entries/F017.md

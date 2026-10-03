@@ -1,0 +1,40 @@
+{
+  "id": "F003",
+  "name": "Brook and bridge",
+  "kind": "street-feature",
+  "side": "centre",
+  "anchor_stop": "route-006",
+  "along_offset_m_estimate": 0,
+  "primary_photos": [
+    "00069",
+    "00073",
+    "00075",
+    "00077",
+    "00078",
+    "00080",
+    "00086",
+    "00090"
+  ],
+  "terrace_group": "brook",
+  "observations": [
+    "Native075 shows a narrow watercourse below the bridge, vegetated banks and tree canopy.",
+    "Grey vertical-bar metal railings span the pavement edge above water; concrete/stone-like base strip at bottom.",
+    "Low brick walls, side buildings and distant upper windows frame the brook.",
+    "Overhead wires and utility pole appear independently above; do not model them as facade edges.",
+    "Native075 is April2019 imagery; its old background/shop state differs from newer route captures.",
+    "Create bridge deck, water, banks and railings as separate assets."
+  ],
+  "unknowns": [
+    "Channel depth, underside structure and drainage details are not visible. Width/direction inferred from photographs only."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.69792,
+    "longitude": -1.0745158,
+    "east_m": 39.38,
+    "north_m": 50.08,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S02"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "B004",
+  "name": "Halls of Syston fruit-and-veg corner",
+  "kind": "building-frontage",
+  "side": "east",
+  "anchor_stop": "route-005",
+  "along_offset_m_estimate": 0,
+  "primary_photos": [
+    "00059",
+    "00065",
+    "00067",
+    "00077"
+  ],
+  "terrace_group": "T03",
+  "observations": [
+    "Red-brick two-storey corner mass with shallow pitched roof and repeated light-framed rectangular upper windows.",
+    "Green shop fascia and projecting green canopy/awning run along ground-floor bays.",
+    "Fruit/vegetable boxes and displays occupy the pavement in front of glazing.",
+    "End gable/brick return faces the brook-side opening; do not extend a continuous terrace across the watercourse.",
+    "Wide bridge/side-road views provide context beyond the shop face; signage partly blocked by delivery van.",
+    "Delivery van wording helps identify the business but is not a measured shop sign source."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6976888,
+    "longitude": -1.074569,
+    "east_m": 35.8,
+    "north_m": 24.38,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S01"
+}

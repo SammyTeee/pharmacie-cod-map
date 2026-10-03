@@ -1,0 +1,137 @@
+{
+  "stop": "route-023",
+  "photos": [
+    {
+      "photo_id": "00285",
+      "stop": "route-023",
+      "section": "S05",
+      "role": "road-forward",
+      "observed_ids": "B033 B048 F001 F014",
+      "nearby_candidate_ids": "B048 B049 F013 B033 B032 F012 F001 F002",
+      "imagery_date": "Apr 2026",
+      "review": "native-original-and-contact-sheet-reviewed",
+      "label": "00285 | Mini-roundabout and junction | road-forward | GLO corner frontage, Fox & Hounds — junction context, Melton Road carriageway and route, Street furniture: lamps, bins and planting"
+    },
+    {
+      "photo_id": "00286",
+      "stop": "route-023",
+      "section": "S05",
+      "role": "right-forward-angle",
+      "observed_ids": "B048 F013",
+      "nearby_candidate_ids": "B048 B049 F013",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00286 | Mini-roundabout and junction | right-forward-angle | Fox & Hounds — junction context, Mini-roundabout and traffic island"
+    },
+    {
+      "photo_id": "00287",
+      "stop": "route-023",
+      "section": "S05",
+      "role": "right-frontage",
+      "observed_ids": "B048 B049 F013",
+      "nearby_candidate_ids": "B048 B049 F013",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00287 | Mini-roundabout and junction | right-frontage | Fox & Hounds — junction context, Northern junction retail row — identities unresolved, Mini-roundabout and traffic island"
+    },
+    {
+      "photo_id": "00288",
+      "stop": "route-023",
+      "section": "S05",
+      "role": "right-rear-angle",
+      "observed_ids": "F012 F013",
+      "nearby_candidate_ids": "B048 B049 F013",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00288 | Mini-roundabout and junction | right-rear-angle | Zebra crossing and beacon approach, Mini-roundabout and traffic island"
+    },
+    {
+      "photo_id": "00289",
+      "stop": "route-023",
+      "section": "S05",
+      "role": "road-backward",
+      "observed_ids": "F013",
+      "nearby_candidate_ids": "B048 B049 F013 B033 B032 F012 F001 F002",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00289 | Mini-roundabout and junction | road-backward | Mini-roundabout and traffic island"
+    },
+    {
+      "photo_id": "00290",
+      "stop": "route-023",
+      "section": "S05",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B033 B032 F012",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00290 | Mini-roundabout and junction | left-rear-angle"
+    },
+    {
+      "photo_id": "00291",
+      "stop": "route-023",
+      "section": "S05",
+      "role": "left-frontage",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B033 B032 F012",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00291 | Mini-roundabout and junction | left-frontage"
+    },
+    {
+      "photo_id": "00292",
+      "stop": "route-023",
+      "section": "S05",
+      "role": "left-forward-angle",
+      "observed_ids": "B033",
+      "nearby_candidate_ids": "B033 B032 F012",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00292 | Mini-roundabout and junction | left-forward-angle | GLO corner frontage"
+    },
+    {
+      "photo_id": "00293",
+      "stop": "route-023",
+      "section": "S05",
+      "role": "right-frontage-detail",
+      "observed_ids": "B048 B049 F013",
+      "nearby_candidate_ids": "B048 B049 F013",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00293 | Mini-roundabout and junction | right-frontage-detail | Fox & Hounds — junction context, Northern junction retail row — identities unresolved, Mini-roundabout and traffic island"
+    },
+    {
+      "photo_id": "00294",
+      "stop": "route-023",
+      "section": "S05",
+      "role": "left-frontage-detail",
+      "observed_ids": "B033",
+      "nearby_candidate_ids": "B033 B032 F012",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00294 | Mini-roundabout and junction | left-frontage-detail | GLO corner frontage"
+    },
+    {
+      "photo_id": "00295",
+      "stop": "route-023",
+      "section": "S05",
+      "role": "right-pavement-detail",
+      "observed_ids": "B048 F013",
+      "nearby_candidate_ids": "B048 B049 F013",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00295 | Mini-roundabout and junction | right-pavement-detail | Fox & Hounds — junction context, Mini-roundabout and traffic island"
+    },
+    {
+      "photo_id": "00296",
+      "stop": "route-023",
+      "section": "S05",
+      "role": "left-pavement-detail",
+      "observed_ids": "B033 F002 F012",
+      "nearby_candidate_ids": "B033 B032 F012",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00296 | Mini-roundabout and junction | left-pavement-detail | GLO corner frontage, Pavements, kerbs and drainage, Zebra crossing and beacon approach"
+    }
+  ]
+}

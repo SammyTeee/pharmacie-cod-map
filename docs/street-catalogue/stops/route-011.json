@@ -1,0 +1,181 @@
+{
+  "stop": "route-011",
+  "photos": [
+    {
+      "photo_id": "00129",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "road-forward",
+      "observed_ids": "B038",
+      "nearby_candidate_ids": "B038 B040 B018 B019 B020 B021 F016 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00129 | Main retail and crossing | road-forward | Food Warehouse retail block"
+    },
+    {
+      "photo_id": "00130",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B038 B040",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00130 | Main retail and crossing | right-forward-angle"
+    },
+    {
+      "photo_id": "00131",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "right-frontage",
+      "observed_ids": "B040",
+      "nearby_candidate_ids": "B038 B040",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00131 | Main retail and crossing | right-frontage | Savers"
+    },
+    {
+      "photo_id": "00132",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B038 B040",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00132 | Main retail and crossing | right-rear-angle"
+    },
+    {
+      "photo_id": "00133",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "road-forward",
+      "observed_ids": "B038",
+      "nearby_candidate_ids": "B038 B040 B018 B019 B020 B021 F016 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00133 | Main retail and crossing | road-forward | Food Warehouse retail block"
+    },
+    {
+      "photo_id": "00134",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B038 B040",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00134 | Main retail and crossing | right-forward-angle"
+    },
+    {
+      "photo_id": "00135",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "right-frontage",
+      "observed_ids": "B040",
+      "nearby_candidate_ids": "B038 B040",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00135 | Main retail and crossing | right-frontage | Savers"
+    },
+    {
+      "photo_id": "00136",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B038 B040",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00136 | Main retail and crossing | right-rear-angle"
+    },
+    {
+      "photo_id": "00137",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B038 B040 B018 B019 B020 B021 F016 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00137 | Main retail and crossing | road-backward"
+    },
+    {
+      "photo_id": "00138",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B018 B019 B020 B021 F016",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00138 | Main retail and crossing | left-rear-angle"
+    },
+    {
+      "photo_id": "00139",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "left-frontage",
+      "observed_ids": "B018 B019 B020 F016",
+      "nearby_candidate_ids": "B018 B019 B020 B021 F016",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00139 | Main retail and crossing | left-frontage | Mind, LOROS, Subway, Narrow access bay between LOROS and Subway"
+    },
+    {
+      "photo_id": "00140",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B018 B019 B020 B021 F016",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00140 | Main retail and crossing | left-forward-angle"
+    },
+    {
+      "photo_id": "00141",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "right-frontage-detail",
+      "observed_ids": "B040",
+      "nearby_candidate_ids": "B038 B040",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00141 | Main retail and crossing | right-frontage-detail | Savers"
+    },
+    {
+      "photo_id": "00142",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "left-frontage-detail",
+      "observed_ids": "B018 B019 B020 F016",
+      "nearby_candidate_ids": "B018 B019 B020 B021 F016",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00142 | Main retail and crossing | left-frontage-detail | Mind, LOROS, Subway, Narrow access bay between LOROS and Subway"
+    },
+    {
+      "photo_id": "00143",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "right-pavement-detail",
+      "observed_ids": "B040",
+      "nearby_candidate_ids": "B038 B040",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00143 | Main retail and crossing | right-pavement-detail | Savers"
+    },
+    {
+      "photo_id": "00144",
+      "stop": "route-011",
+      "section": "S03",
+      "role": "left-pavement-detail",
+      "observed_ids": "B019 B020",
+      "nearby_candidate_ids": "B018 B019 B020 B021 F016",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00144 | Main retail and crossing | left-pavement-detail | LOROS, Subway"
+    }
+  ]
+}

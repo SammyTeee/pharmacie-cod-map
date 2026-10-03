@@ -1,0 +1,137 @@
+{
+  "stop": "route-019",
+  "photos": [
+    {
+      "photo_id": "00237",
+      "stop": "route-019",
+      "section": "S04",
+      "role": "road-forward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B045 B046 F011 B028 B029 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00237 | Shopping centre to Bistro | road-forward"
+    },
+    {
+      "photo_id": "00238",
+      "stop": "route-019",
+      "section": "S04",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B045 B046 F011",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00238 | Shopping centre to Bistro | right-forward-angle"
+    },
+    {
+      "photo_id": "00239",
+      "stop": "route-019",
+      "section": "S04",
+      "role": "right-frontage",
+      "observed_ids": "B045 B046 F011",
+      "nearby_candidate_ids": "B045 B046 F011",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00239 | Shopping centre to Bistro | right-frontage | Costa Coffee, Josiah Hincks Solicitors, Iron-gated gap beside Costa"
+    },
+    {
+      "photo_id": "00240",
+      "stop": "route-019",
+      "section": "S04",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B045 B046 F011",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00240 | Shopping centre to Bistro | right-rear-angle"
+    },
+    {
+      "photo_id": "00241",
+      "stop": "route-019",
+      "section": "S04",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B045 B046 F011 B028 B029 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00241 | Shopping centre to Bistro | road-backward"
+    },
+    {
+      "photo_id": "00242",
+      "stop": "route-019",
+      "section": "S04",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B028 B029",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00242 | Shopping centre to Bistro | left-rear-angle"
+    },
+    {
+      "photo_id": "00243",
+      "stop": "route-019",
+      "section": "S04",
+      "role": "left-frontage",
+      "observed_ids": "B028",
+      "nearby_candidate_ids": "B028 B029",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00243 | Shopping centre to Bistro | left-frontage | Town Square Shopping Centre gable"
+    },
+    {
+      "photo_id": "00244",
+      "stop": "route-019",
+      "section": "S04",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B028 B029",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00244 | Shopping centre to Bistro | left-forward-angle"
+    },
+    {
+      "photo_id": "00245",
+      "stop": "route-019",
+      "section": "S04",
+      "role": "right-frontage-detail",
+      "observed_ids": "B045 F011",
+      "nearby_candidate_ids": "B045 B046 F011",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00245 | Shopping centre to Bistro | right-frontage-detail | Costa Coffee, Iron-gated gap beside Costa"
+    },
+    {
+      "photo_id": "00246",
+      "stop": "route-019",
+      "section": "S04",
+      "role": "left-frontage-detail",
+      "observed_ids": "B028",
+      "nearby_candidate_ids": "B028 B029",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00246 | Shopping centre to Bistro | left-frontage-detail | Town Square Shopping Centre gable"
+    },
+    {
+      "photo_id": "00247",
+      "stop": "route-019",
+      "section": "S04",
+      "role": "right-pavement-detail",
+      "observed_ids": "B045 F011",
+      "nearby_candidate_ids": "B045 B046 F011",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00247 | Shopping centre to Bistro | right-pavement-detail | Costa Coffee, Iron-gated gap beside Costa"
+    },
+    {
+      "photo_id": "00248",
+      "stop": "route-019",
+      "section": "S04",
+      "role": "left-pavement-detail",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B028 B029",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00248 | Shopping centre to Bistro | left-pavement-detail"
+    }
+  ]
+}

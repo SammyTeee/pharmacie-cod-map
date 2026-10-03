@@ -1,0 +1,35 @@
+{
+  "id": "B021",
+  "name": "William Hill",
+  "kind": "building-frontage",
+  "side": "west",
+  "anchor_stop": "route-012",
+  "along_offset_m_estimate": -3,
+  "primary_photos": [
+    "00151",
+    "00154",
+    "00156"
+  ],
+  "terrace_group": "T07",
+  "observations": [
+    "Dark blue fascia with yellow script William Hill wording and pale right-hand lettering.",
+    "Deep/dark recessed glazed entrance/display arrangement with red/blue advertising panels.",
+    "Upper facade includes a projecting multi-pane bay with dark framing/cornice, next to tall flat sash-like windows.",
+    "Brick dentil/eaves detail and pale stone-like lintels/sills make this row distinct.",
+    "Create the bay as projecting geometry rather than a flat texture.",
+    "Interior and accurate projection depth are unknown."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6983897,
+    "longitude": -1.0740201,
+    "east_m": 72.78,
+    "north_m": 102.31,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S03"
+}

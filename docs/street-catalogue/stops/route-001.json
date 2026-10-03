@@ -1,0 +1,137 @@
+{
+  "stop": "route-001",
+  "photos": [
+    {
+      "photo_id": "00009",
+      "stop": "route-001",
+      "section": "S01",
+      "role": "road-forward",
+      "observed_ids": "F001",
+      "nearby_candidate_ids": "B001 B006 B007 B008 F001 F002",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00009 | Taraj and southern terrace | road-forward | Melton Road carriageway and route"
+    },
+    {
+      "photo_id": "00010",
+      "stop": "route-001",
+      "section": "S01",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B001",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00010 | Taraj and southern terrace | right-forward-angle"
+    },
+    {
+      "photo_id": "00011",
+      "stop": "route-001",
+      "section": "S01",
+      "role": "right-frontage",
+      "observed_ids": "B001",
+      "nearby_candidate_ids": "B001",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00011 | Taraj and southern terrace | right-frontage | Taraj Palace"
+    },
+    {
+      "photo_id": "00012",
+      "stop": "route-001",
+      "section": "S01",
+      "role": "right-rear-angle",
+      "observed_ids": "B005",
+      "nearby_candidate_ids": "B001",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00012 | Taraj and southern terrace | right-rear-angle | Natural World Pet Superstore — southern context"
+    },
+    {
+      "photo_id": "00013",
+      "stop": "route-001",
+      "section": "S01",
+      "role": "road-backward",
+      "observed_ids": "B005 F007",
+      "nearby_candidate_ids": "B001 B006 B007 B008 F001 F002",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00013 | Taraj and southern terrace | road-backward | Natural World Pet Superstore — southern context, Southern traffic-controlled crossing"
+    },
+    {
+      "photo_id": "00014",
+      "stop": "route-001",
+      "section": "S01",
+      "role": "left-rear-angle",
+      "observed_ids": "F007",
+      "nearby_candidate_ids": "B006 B007 B008",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00014 | Taraj and southern terrace | left-rear-angle | Southern traffic-controlled crossing"
+    },
+    {
+      "photo_id": "00015",
+      "stop": "route-001",
+      "section": "S01",
+      "role": "left-frontage",
+      "observed_ids": "B006 B007",
+      "nearby_candidate_ids": "B006 B007 B008",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00015 | Taraj and southern terrace | left-frontage | The Studio, Delish"
+    },
+    {
+      "photo_id": "00016",
+      "stop": "route-001",
+      "section": "S01",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B006 B007 B008",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00016 | Taraj and southern terrace | left-forward-angle"
+    },
+    {
+      "photo_id": "00017",
+      "stop": "route-001",
+      "section": "S01",
+      "role": "right-frontage-detail",
+      "observed_ids": "B001",
+      "nearby_candidate_ids": "B001",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00017 | Taraj and southern terrace | right-frontage-detail | Taraj Palace"
+    },
+    {
+      "photo_id": "00018",
+      "stop": "route-001",
+      "section": "S01",
+      "role": "left-frontage-detail",
+      "observed_ids": "B006 B007",
+      "nearby_candidate_ids": "B006 B007 B008",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00018 | Taraj and southern terrace | left-frontage-detail | The Studio, Delish"
+    },
+    {
+      "photo_id": "00019",
+      "stop": "route-001",
+      "section": "S01",
+      "role": "right-pavement-detail",
+      "observed_ids": "B001 B005 F002 F007 F014",
+      "nearby_candidate_ids": "B001",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00019 | Taraj and southern terrace | right-pavement-detail | Taraj Palace, Natural World Pet Superstore — southern context, Pavements, kerbs and drainage, Southern traffic-controlled crossing, Street furniture: lamps, bins and planting"
+    },
+    {
+      "photo_id": "00020",
+      "stop": "route-001",
+      "section": "S01",
+      "role": "left-pavement-detail",
+      "observed_ids": "B006 B007 F007",
+      "nearby_candidate_ids": "B006 B007 B008",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00020 | Taraj and southern terrace | left-pavement-detail | The Studio, Delish, Southern traffic-controlled crossing"
+    }
+  ]
+}

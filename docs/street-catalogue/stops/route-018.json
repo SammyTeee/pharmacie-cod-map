@@ -1,0 +1,137 @@
+{
+  "stop": "route-018",
+  "photos": [
+    {
+      "photo_id": "00225",
+      "stop": "route-018",
+      "section": "S04",
+      "role": "road-forward",
+      "observed_ids": "F014",
+      "nearby_candidate_ids": "B044 B045 B027 B028 F010 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00225 | Shopping centre to Bistro | road-forward | Street furniture: lamps, bins and planting"
+    },
+    {
+      "photo_id": "00226",
+      "stop": "route-018",
+      "section": "S04",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B044 B045",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00226 | Shopping centre to Bistro | right-forward-angle"
+    },
+    {
+      "photo_id": "00227",
+      "stop": "route-018",
+      "section": "S04",
+      "role": "right-frontage",
+      "observed_ids": "B044 B045",
+      "nearby_candidate_ids": "B044 B045",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00227 | Shopping centre to Bistro | right-frontage | Betfred, Costa Coffee"
+    },
+    {
+      "photo_id": "00228",
+      "stop": "route-018",
+      "section": "S04",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B044 B045",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00228 | Shopping centre to Bistro | right-rear-angle"
+    },
+    {
+      "photo_id": "00229",
+      "stop": "route-018",
+      "section": "S04",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B044 B045 B027 B028 F010 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00229 | Shopping centre to Bistro | road-backward"
+    },
+    {
+      "photo_id": "00230",
+      "stop": "route-018",
+      "section": "S04",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B027 B028 F010",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00230 | Shopping centre to Bistro | left-rear-angle"
+    },
+    {
+      "photo_id": "00231",
+      "stop": "route-018",
+      "section": "S04",
+      "role": "left-frontage",
+      "observed_ids": "B027 B028 F010",
+      "nearby_candidate_ids": "B027 B028 F010",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00231 | Shopping centre to Bistro | left-frontage | B&M gabled frontage, Town Square Shopping Centre gable, B&M market canopies and pavement stalls"
+    },
+    {
+      "photo_id": "00232",
+      "stop": "route-018",
+      "section": "S04",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B027 B028 F010",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00232 | Shopping centre to Bistro | left-forward-angle"
+    },
+    {
+      "photo_id": "00233",
+      "stop": "route-018",
+      "section": "S04",
+      "role": "right-frontage-detail",
+      "observed_ids": "B045",
+      "nearby_candidate_ids": "B044 B045",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00233 | Shopping centre to Bistro | right-frontage-detail | Costa Coffee"
+    },
+    {
+      "photo_id": "00234",
+      "stop": "route-018",
+      "section": "S04",
+      "role": "left-frontage-detail",
+      "observed_ids": "B028 F010",
+      "nearby_candidate_ids": "B027 B028 F010",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00234 | Shopping centre to Bistro | left-frontage-detail | Town Square Shopping Centre gable, B&M market canopies and pavement stalls"
+    },
+    {
+      "photo_id": "00235",
+      "stop": "route-018",
+      "section": "S04",
+      "role": "right-pavement-detail",
+      "observed_ids": "B045",
+      "nearby_candidate_ids": "B044 B045",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00235 | Shopping centre to Bistro | right-pavement-detail | Costa Coffee"
+    },
+    {
+      "photo_id": "00236",
+      "stop": "route-018",
+      "section": "S04",
+      "role": "left-pavement-detail",
+      "observed_ids": "B028",
+      "nearby_candidate_ids": "B027 B028 F010",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00236 | Shopping centre to Bistro | left-pavement-detail | Town Square Shopping Centre gable"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "B049",
+  "name": "Northern junction retail row — identities unresolved",
+  "kind": "building-frontage",
+  "side": "north",
+  "anchor_stop": "route-023",
+  "along_offset_m_estimate": 10,
+  "primary_photos": [
+    "00274",
+    "00281",
+    "00287",
+    "00293"
+  ],
+  "terrace_group": "T20",
+  "observations": [
+    "Pale two/three-storey frontage and attached green/black retail row visible beyond the mini-roundabout.",
+    "Contrasting fascias and shop glazing appear in wide views; individual sign names are not reliably readable here.",
+    "Upper rectangular windows and varied roof heights establish a continuous town-centre edge.",
+    "Do not merge this distant row into Fox & Hounds or invent its individual shop names.",
+    "Existing High Street references may resolve some units, but identity matching is a separate comparison task."
+  ],
+  "unknowns": [
+    "This is a contextual group marker, not a claim that the entire row is one building. Split into new stable IDs when evidence resolves it."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6994649,
+    "longitude": -1.0729095,
+    "east_m": 147.63,
+    "north_m": 221.87,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S05"
+}

@@ -1,0 +1,137 @@
+{
+  "stop": "route-007",
+  "photos": [
+    {
+      "photo_id": "00081",
+      "stop": "route-007",
+      "section": "S02",
+      "role": "road-forward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006 B015 F003 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00081 | Brook, bridge and corner shops | road-forward"
+    },
+    {
+      "photo_id": "00082",
+      "stop": "route-007",
+      "section": "S02",
+      "role": "right-forward-angle",
+      "observed_ids": "F004",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00082 | Brook, bridge and corner shops | right-forward-angle | Brookside / bridge-side junction and access"
+    },
+    {
+      "photo_id": "00083",
+      "stop": "route-007",
+      "section": "S02",
+      "role": "right-frontage",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00083 | Brook, bridge and corner shops | right-frontage"
+    },
+    {
+      "photo_id": "00084",
+      "stop": "route-007",
+      "section": "S02",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00084 | Brook, bridge and corner shops | right-rear-angle"
+    },
+    {
+      "photo_id": "00085",
+      "stop": "route-007",
+      "section": "S02",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006 B015 F003 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00085 | Brook, bridge and corner shops | road-backward"
+    },
+    {
+      "photo_id": "00086",
+      "stop": "route-007",
+      "section": "S02",
+      "role": "left-rear-angle",
+      "observed_ids": "F003 F005",
+      "nearby_candidate_ids": "B015 F003",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00086 | Brook, bridge and corner shops | left-rear-angle | Brook and bridge, Bridge railings and brook boundary walls"
+    },
+    {
+      "photo_id": "00087",
+      "stop": "route-007",
+      "section": "S02",
+      "role": "left-frontage",
+      "observed_ids": "B015",
+      "nearby_candidate_ids": "B015 F003",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00087 | Brook, bridge and corner shops | left-frontage | Specsavers / audiology corner"
+    },
+    {
+      "photo_id": "00088",
+      "stop": "route-007",
+      "section": "S02",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B015 F003",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00088 | Brook, bridge and corner shops | left-forward-angle"
+    },
+    {
+      "photo_id": "00089",
+      "stop": "route-007",
+      "section": "S02",
+      "role": "right-frontage-detail",
+      "observed_ids": "F004",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00089 | Brook, bridge and corner shops | right-frontage-detail | Brookside / bridge-side junction and access"
+    },
+    {
+      "photo_id": "00090",
+      "stop": "route-007",
+      "section": "S02",
+      "role": "left-frontage-detail",
+      "observed_ids": "B015 F003 F014",
+      "nearby_candidate_ids": "B015 F003",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00090 | Brook, bridge and corner shops | left-frontage-detail | Specsavers / audiology corner, Brook and bridge, Street furniture: lamps, bins and planting"
+    },
+    {
+      "photo_id": "00091",
+      "stop": "route-007",
+      "section": "S02",
+      "role": "right-pavement-detail",
+      "observed_ids": "F004",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00091 | Brook, bridge and corner shops | right-pavement-detail | Brookside / bridge-side junction and access"
+    },
+    {
+      "photo_id": "00092",
+      "stop": "route-007",
+      "section": "S02",
+      "role": "left-pavement-detail",
+      "observed_ids": "F005",
+      "nearby_candidate_ids": "B015 F003",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00092 | Brook, bridge and corner shops | left-pavement-detail | Bridge railings and brook boundary walls"
+    }
+  ]
+}

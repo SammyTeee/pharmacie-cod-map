@@ -1,0 +1,137 @@
+{
+  "stop": "route-020",
+  "photos": [
+    {
+      "photo_id": "00249",
+      "stop": "route-020",
+      "section": "S04",
+      "role": "road-forward",
+      "observed_ids": "F001",
+      "nearby_candidate_ids": "B046 B047 B029 B030 B031 F017 F001 F002",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00249 | Shopping centre to Bistro | road-forward | Melton Road carriageway and route"
+    },
+    {
+      "photo_id": "00250",
+      "stop": "route-020",
+      "section": "S04",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B046 B047",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00250 | Shopping centre to Bistro | right-forward-angle"
+    },
+    {
+      "photo_id": "00251",
+      "stop": "route-020",
+      "section": "S04",
+      "role": "right-frontage",
+      "observed_ids": "B046 B047",
+      "nearby_candidate_ids": "B046 B047",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00251 | Shopping centre to Bistro | right-frontage | Josiah Hincks Solicitors, Bistro Oggi corner"
+    },
+    {
+      "photo_id": "00252",
+      "stop": "route-020",
+      "section": "S04",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B046 B047",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00252 | Shopping centre to Bistro | right-rear-angle"
+    },
+    {
+      "photo_id": "00253",
+      "stop": "route-020",
+      "section": "S04",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B046 B047 B029 B030 B031 F017 F001 F002",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00253 | Shopping centre to Bistro | road-backward"
+    },
+    {
+      "photo_id": "00254",
+      "stop": "route-020",
+      "section": "S04",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B029 B030 B031 F017",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00254 | Shopping centre to Bistro | left-rear-angle"
+    },
+    {
+      "photo_id": "00255",
+      "stop": "route-020",
+      "section": "S04",
+      "role": "left-frontage",
+      "observed_ids": "B029 B030",
+      "nearby_candidate_ids": "B029 B030 B031 F017",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00255 | Shopping centre to Bistro | left-frontage | Marine fish-and-chips frontage, We Vape frontage — verify exact styling"
+    },
+    {
+      "photo_id": "00256",
+      "stop": "route-020",
+      "section": "S04",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B029 B030 B031 F017",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00256 | Shopping centre to Bistro | left-forward-angle"
+    },
+    {
+      "photo_id": "00257",
+      "stop": "route-020",
+      "section": "S04",
+      "role": "right-frontage-detail",
+      "observed_ids": "B046 F011",
+      "nearby_candidate_ids": "B046 B047",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00257 | Shopping centre to Bistro | right-frontage-detail | Josiah Hincks Solicitors, Iron-gated gap beside Costa"
+    },
+    {
+      "photo_id": "00258",
+      "stop": "route-020",
+      "section": "S04",
+      "role": "left-frontage-detail",
+      "observed_ids": "B029 B030 F015 F017",
+      "nearby_candidate_ids": "B029 B030 B031 F017",
+      "imagery_date": "Apr 2026",
+      "review": "native-original-and-contact-sheet-reviewed",
+      "label": "00258 | Shopping centre to Bistro | left-frontage-detail | Marine fish-and-chips frontage, We Vape frontage — verify exact styling, Facade utilities and roof services, White access door between Marine and vape"
+    },
+    {
+      "photo_id": "00259",
+      "stop": "route-020",
+      "section": "S04",
+      "role": "right-pavement-detail",
+      "observed_ids": "B046 F011",
+      "nearby_candidate_ids": "B046 B047",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00259 | Shopping centre to Bistro | right-pavement-detail | Josiah Hincks Solicitors, Iron-gated gap beside Costa"
+    },
+    {
+      "photo_id": "00260",
+      "stop": "route-020",
+      "section": "S04",
+      "role": "left-pavement-detail",
+      "observed_ids": "B029",
+      "nearby_candidate_ids": "B029 B030 B031 F017",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00260 | Shopping centre to Bistro | left-pavement-detail | Marine fish-and-chips frontage"
+    }
+  ]
+}

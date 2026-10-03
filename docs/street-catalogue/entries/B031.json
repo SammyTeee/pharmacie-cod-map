@@ -1,0 +1,35 @@
+{
+  "id": "B031",
+  "name": "Town Square recessed passage frontage",
+  "kind": "building-frontage",
+  "side": "west",
+  "anchor_stop": "route-021",
+  "along_offset_m_estimate": -3,
+  "primary_photos": [
+    "00267",
+    "00270",
+    "00272"
+  ],
+  "terrace_group": "T09",
+  "observations": [
+    "Native270 shows a red/gold TOWN SQUARE sign with curved decorative crest above an open recessed passage.",
+    "Passage has brick returns, a deep shadowed ceiling/threshold and angled glazed display bays on both sides.",
+    "Raised brick/header zone and hanging red/gold vertical banner mark the entrance.",
+    "Upper windows are light multi-pane sash-like units; black gutter, brick chimneys and pale lintels continue along terrace.",
+    "The opening should be geometric depth, not a black texture painted on a wall.",
+    "Exact passage depth, destination and whether it connects internally to B028 are unknown."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6990808,
+    "longitude": -1.0732638,
+    "east_m": 123.75,
+    "north_m": 179.16,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S04"
+}

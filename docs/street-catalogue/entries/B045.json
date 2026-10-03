@@ -1,0 +1,38 @@
+{
+  "id": "B045",
+  "name": "Costa Coffee",
+  "kind": "building-frontage",
+  "side": "east",
+  "anchor_stop": "route-018",
+  "along_offset_m_estimate": 0,
+  "primary_photos": [
+    "00227",
+    "00233",
+    "00235",
+    "00239",
+    "00245",
+    "00247"
+  ],
+  "terrace_group": "T16",
+  "observations": [
+    "Two-storey red-brick building with prominent paired/stepped gable roof silhouette.",
+    "Long burgundy fascia carries large light COSTA COFFEE lettering.",
+    "Broad upper white-framed windows with many small divisions sit below gables.",
+    "Burgundy projecting awning shades lower glazed frontage; lower patio has low brick wall, seating/planters.",
+    "Narrow iron-gated passage separates Costa from Josiah Hincks side.",
+    "Passing lorry covers some angles; primary233/245 give better sign and awning evidence."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6987932,
+    "longitude": -1.0731926,
+    "east_m": 128.55,
+    "north_m": 147.17,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S04"
+}

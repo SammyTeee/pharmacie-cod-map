@@ -1,0 +1,137 @@
+{
+  "stop": "route-009",
+  "photos": [
+    {
+      "photo_id": "00105",
+      "stop": "route-009",
+      "section": "S02",
+      "role": "road-forward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006 B015 B016 B017 F001 F002",
+      "imagery_date": "Apr 2023",
+      "review": "contact-sheet-reviewed",
+      "label": "00105 | Brook, bridge and corner shops | road-forward"
+    },
+    {
+      "photo_id": "00106",
+      "stop": "route-009",
+      "section": "S02",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "Apr 2023",
+      "review": "contact-sheet-reviewed",
+      "label": "00106 | Brook, bridge and corner shops | right-forward-angle"
+    },
+    {
+      "photo_id": "00107",
+      "stop": "route-009",
+      "section": "S02",
+      "role": "right-frontage",
+      "observed_ids": "B034",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "Apr 2023",
+      "review": "contact-sheet-reviewed",
+      "label": "00107 | Brook, bridge and corner shops | right-frontage | Golden Barber"
+    },
+    {
+      "photo_id": "00108",
+      "stop": "route-009",
+      "section": "S02",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "Apr 2023",
+      "review": "contact-sheet-reviewed",
+      "label": "00108 | Brook, bridge and corner shops | right-rear-angle"
+    },
+    {
+      "photo_id": "00109",
+      "stop": "route-009",
+      "section": "S02",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006 B015 B016 B017 F001 F002",
+      "imagery_date": "Apr 2023",
+      "review": "contact-sheet-reviewed",
+      "label": "00109 | Brook, bridge and corner shops | road-backward"
+    },
+    {
+      "photo_id": "00110",
+      "stop": "route-009",
+      "section": "S02",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B015 B016 B017",
+      "imagery_date": "Apr 2023",
+      "review": "contact-sheet-reviewed",
+      "label": "00110 | Brook, bridge and corner shops | left-rear-angle"
+    },
+    {
+      "photo_id": "00111",
+      "stop": "route-009",
+      "section": "S02",
+      "role": "left-frontage",
+      "observed_ids": "B016",
+      "nearby_candidate_ids": "B015 B016 B017",
+      "imagery_date": "Apr 2023",
+      "review": "contact-sheet-reviewed",
+      "label": "00111 | Brook, bridge and corner shops | left-frontage | Today's Catch"
+    },
+    {
+      "photo_id": "00112",
+      "stop": "route-009",
+      "section": "S02",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B015 B016 B017",
+      "imagery_date": "Apr 2023",
+      "review": "contact-sheet-reviewed",
+      "label": "00112 | Brook, bridge and corner shops | left-forward-angle"
+    },
+    {
+      "photo_id": "00113",
+      "stop": "route-009",
+      "section": "S02",
+      "role": "right-frontage-detail",
+      "observed_ids": "B034 B035 B036 B037 F006 F014 F015",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "Apr 2023",
+      "review": "native-original-and-contact-sheet-reviewed",
+      "label": "00113 | Brook, bridge and corner shops | right-frontage-detail | Golden Barber, Designer Daisies, Syston Jewellers, End bay beside the bus shelter — name unresolved, Green bus shelter beside corner shops, Street furniture: lamps, bins and planting, Facade utilities and roof services"
+    },
+    {
+      "photo_id": "00114",
+      "stop": "route-009",
+      "section": "S02",
+      "role": "left-frontage-detail",
+      "observed_ids": "B015 B016",
+      "nearby_candidate_ids": "B015 B016 B017",
+      "imagery_date": "Apr 2023",
+      "review": "contact-sheet-reviewed",
+      "label": "00114 | Brook, bridge and corner shops | left-frontage-detail | Specsavers / audiology corner, Today's Catch"
+    },
+    {
+      "photo_id": "00115",
+      "stop": "route-009",
+      "section": "S02",
+      "role": "right-pavement-detail",
+      "observed_ids": "B034 F002 F006 F014",
+      "nearby_candidate_ids": "B034 B035 B036 B037 F006",
+      "imagery_date": "Apr 2023",
+      "review": "contact-sheet-reviewed",
+      "label": "00115 | Brook, bridge and corner shops | right-pavement-detail | Golden Barber, Pavements, kerbs and drainage, Green bus shelter beside corner shops, Street furniture: lamps, bins and planting"
+    },
+    {
+      "photo_id": "00116",
+      "stop": "route-009",
+      "section": "S02",
+      "role": "left-pavement-detail",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B015 B016 B017",
+      "imagery_date": "Apr 2023",
+      "review": "contact-sheet-reviewed",
+      "label": "00116 | Brook, bridge and corner shops | left-pavement-detail"
+    }
+  ]
+}

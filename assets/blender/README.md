@@ -1,6 +1,9 @@
 # Saved Blender work
 
-Open **pharmacie-player-cleanup-v18.blend** for the current editable model. Reference
+Open **pharmacie-syston-street-v25.blend** for the current editable model. It retains
+the pub, detailed neighbours, fridge and opposite-road Taraj;46 named Melton
+shopfronts and street details are added. [New renders](../../docs/SYSTON_V25.md).
+Historical milestone notes follow. Reference
 images are packed into the file. Blender 5.2.2 LTS was used locally.
 
 Scenes:

@@ -1,0 +1,36 @@
+{
+  "id": "B030",
+  "name": "We Vape frontage — verify exact styling",
+  "kind": "building-frontage",
+  "side": "west",
+  "anchor_stop": "route-021",
+  "along_offset_m_estimate": -9,
+  "primary_photos": [
+    "00255",
+    "00258",
+    "00267",
+    "00270"
+  ],
+  "terrace_group": "T09",
+  "observations": [
+    "Native258/270 shows a black sign with white/yellow Vape script and matching projecting square sign.",
+    "Small light-framed shop window with a large promotional panel; lower signage occupies a compact bay.",
+    "Upper window is a light multi-pane sash-like opening in red brick, with pale lintel and black gutter above.",
+    "Separate white upstairs/access door sits between Marine and vape bay; see F017.",
+    "A-frame advertising board is a movable pavement prop.",
+    "Use label We Vape provisionally; validate exact logo styling from native original before rebuilding text."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6990326,
+    "longitude": -1.0733036,
+    "east_m": 121.07,
+    "north_m": 173.79,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S04"
+}

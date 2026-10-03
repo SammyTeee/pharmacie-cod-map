@@ -1,0 +1,137 @@
+{
+  "stop": "route-022",
+  "photos": [
+    {
+      "photo_id": "00273",
+      "stop": "route-022",
+      "section": "S05",
+      "role": "road-forward",
+      "observed_ids": "B033 F001 F012 F014",
+      "nearby_candidate_ids": "B048 B049 F012 F013 B032 B033 F001 F002",
+      "imagery_date": "Apr 2026",
+      "review": "native-original-and-contact-sheet-reviewed",
+      "label": "00273 | Mini-roundabout and junction | road-forward | GLO corner frontage, Melton Road carriageway and route, Zebra crossing and beacon approach, Street furniture: lamps, bins and planting"
+    },
+    {
+      "photo_id": "00274",
+      "stop": "route-022",
+      "section": "S05",
+      "role": "right-forward-angle",
+      "observed_ids": "B049 F012",
+      "nearby_candidate_ids": "B048 B049 F012 F013",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00274 | Mini-roundabout and junction | right-forward-angle | Northern junction retail row — identities unresolved, Zebra crossing and beacon approach"
+    },
+    {
+      "photo_id": "00275",
+      "stop": "route-022",
+      "section": "S05",
+      "role": "right-frontage",
+      "observed_ids": "F012",
+      "nearby_candidate_ids": "B048 B049 F012 F013",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00275 | Mini-roundabout and junction | right-frontage | Zebra crossing and beacon approach"
+    },
+    {
+      "photo_id": "00276",
+      "stop": "route-022",
+      "section": "S05",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B048 B049 F012 F013",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00276 | Mini-roundabout and junction | right-rear-angle"
+    },
+    {
+      "photo_id": "00277",
+      "stop": "route-022",
+      "section": "S05",
+      "role": "road-backward",
+      "observed_ids": "B047",
+      "nearby_candidate_ids": "B048 B049 F012 F013 B032 B033 F001 F002",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00277 | Mini-roundabout and junction | road-backward | Bistro Oggi corner"
+    },
+    {
+      "photo_id": "00278",
+      "stop": "route-022",
+      "section": "S05",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B032 B033",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00278 | Mini-roundabout and junction | left-rear-angle"
+    },
+    {
+      "photo_id": "00279",
+      "stop": "route-022",
+      "section": "S05",
+      "role": "left-frontage",
+      "observed_ids": "B032",
+      "nearby_candidate_ids": "B032 B033",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00279 | Mini-roundabout and junction | left-frontage | Amy Clarke Hair"
+    },
+    {
+      "photo_id": "00280",
+      "stop": "route-022",
+      "section": "S05",
+      "role": "left-forward-angle",
+      "observed_ids": "B032 B033 F012",
+      "nearby_candidate_ids": "B032 B033",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00280 | Mini-roundabout and junction | left-forward-angle | Amy Clarke Hair, GLO corner frontage, Zebra crossing and beacon approach"
+    },
+    {
+      "photo_id": "00281",
+      "stop": "route-022",
+      "section": "S05",
+      "role": "right-frontage-detail",
+      "observed_ids": "B049",
+      "nearby_candidate_ids": "B048 B049 F012 F013",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00281 | Mini-roundabout and junction | right-frontage-detail | Northern junction retail row — identities unresolved"
+    },
+    {
+      "photo_id": "00282",
+      "stop": "route-022",
+      "section": "S05",
+      "role": "left-frontage-detail",
+      "observed_ids": "B032",
+      "nearby_candidate_ids": "B032 B033",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00282 | Mini-roundabout and junction | left-frontage-detail | Amy Clarke Hair"
+    },
+    {
+      "photo_id": "00283",
+      "stop": "route-022",
+      "section": "S05",
+      "role": "right-pavement-detail",
+      "observed_ids": "F012",
+      "nearby_candidate_ids": "B048 B049 F012 F013",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00283 | Mini-roundabout and junction | right-pavement-detail | Zebra crossing and beacon approach"
+    },
+    {
+      "photo_id": "00284",
+      "stop": "route-022",
+      "section": "S05",
+      "role": "left-pavement-detail",
+      "observed_ids": "B032 F012",
+      "nearby_candidate_ids": "B032 B033",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00284 | Mini-roundabout and junction | left-pavement-detail | Amy Clarke Hair, Zebra crossing and beacon approach"
+    }
+  ]
+}

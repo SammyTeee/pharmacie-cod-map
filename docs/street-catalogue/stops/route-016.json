@@ -1,0 +1,137 @@
+{
+  "stop": "route-016",
+  "photos": [
+    {
+      "photo_id": "00201",
+      "stop": "route-016",
+      "section": "S04",
+      "role": "road-forward",
+      "observed_ids": "F001",
+      "nearby_candidate_ids": "B042 B043 F009 B026 B027 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00201 | Shopping centre to Bistro | road-forward | Melton Road carriageway and route"
+    },
+    {
+      "photo_id": "00202",
+      "stop": "route-016",
+      "section": "S04",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B042 B043 F009",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00202 | Shopping centre to Bistro | right-forward-angle"
+    },
+    {
+      "photo_id": "00203",
+      "stop": "route-016",
+      "section": "S04",
+      "role": "right-frontage",
+      "observed_ids": "B043 F009",
+      "nearby_candidate_ids": "B042 B043 F009",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00203 | Shopping centre to Bistro | right-frontage | Syston Sizzler, Retail car-park entrance and yellow box"
+    },
+    {
+      "photo_id": "00204",
+      "stop": "route-016",
+      "section": "S04",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B042 B043 F009",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00204 | Shopping centre to Bistro | right-rear-angle"
+    },
+    {
+      "photo_id": "00205",
+      "stop": "route-016",
+      "section": "S04",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B042 B043 F009 B026 B027 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00205 | Shopping centre to Bistro | road-backward"
+    },
+    {
+      "photo_id": "00206",
+      "stop": "route-016",
+      "section": "S04",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B026 B027",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00206 | Shopping centre to Bistro | left-rear-angle"
+    },
+    {
+      "photo_id": "00207",
+      "stop": "route-016",
+      "section": "S04",
+      "role": "left-frontage",
+      "observed_ids": "B027",
+      "nearby_candidate_ids": "B026 B027",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00207 | Shopping centre to Bistro | left-frontage | B&M gabled frontage"
+    },
+    {
+      "photo_id": "00208",
+      "stop": "route-016",
+      "section": "S04",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B026 B027",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00208 | Shopping centre to Bistro | left-forward-angle"
+    },
+    {
+      "photo_id": "00209",
+      "stop": "route-016",
+      "section": "S04",
+      "role": "right-frontage-detail",
+      "observed_ids": "B043 F009",
+      "nearby_candidate_ids": "B042 B043 F009",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00209 | Shopping centre to Bistro | right-frontage-detail | Syston Sizzler, Retail car-park entrance and yellow box"
+    },
+    {
+      "photo_id": "00210",
+      "stop": "route-016",
+      "section": "S04",
+      "role": "left-frontage-detail",
+      "observed_ids": "B026 B027",
+      "nearby_candidate_ids": "B026 B027",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00210 | Shopping centre to Bistro | left-frontage-detail | Sunlit Chemist, B&M gabled frontage"
+    },
+    {
+      "photo_id": "00211",
+      "stop": "route-016",
+      "section": "S04",
+      "role": "right-pavement-detail",
+      "observed_ids": "B043 F009",
+      "nearby_candidate_ids": "B042 B043 F009",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00211 | Shopping centre to Bistro | right-pavement-detail | Syston Sizzler, Retail car-park entrance and yellow box"
+    },
+    {
+      "photo_id": "00212",
+      "stop": "route-016",
+      "section": "S04",
+      "role": "left-pavement-detail",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B026 B027",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00212 | Shopping centre to Bistro | left-pavement-detail"
+    }
+  ]
+}

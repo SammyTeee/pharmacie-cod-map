@@ -1,6 +1,7 @@
 # Blender workspace — 2026-10-02
 
-Current editable map (2026-10-03): `assets/blender/pharmacie-player-cleanup-v18.blend`.
+Current editable map (2026-10-03): `assets/blender/pharmacie-syston-street-v25.blend`.
+Latest street base and review views: [SYSTON_V25.md](SYSTON_V25.md).
 Use `scripts/open-blender.ps1`. Player recon, fixes, measured limits and72 review
 screenshots: [recon/v18/README.md](../recon/v18/README.md). Proposed Zombies
 progression: [ZOMBIES_PROGRESSION_V18.md](ZOMBIES_PROGRESSION_V18.md). Earlier

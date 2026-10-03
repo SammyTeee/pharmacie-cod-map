@@ -1,0 +1,137 @@
+{
+  "stop": "route-013",
+  "photos": [
+    {
+      "photo_id": "00157",
+      "stop": "route-013",
+      "section": "S03",
+      "role": "road-forward",
+      "observed_ids": "B024 F001 F008",
+      "nearby_candidate_ids": "B041 B051 B039 B022 B023 B024 F001 F002",
+      "imagery_date": "Apr 2026",
+      "review": "native-original-and-contact-sheet-reviewed",
+      "label": "00157 | Main retail and crossing | road-forward | Greggs, Melton Road carriageway and route, Greggs / DIY traffic-controlled crossing"
+    },
+    {
+      "photo_id": "00158",
+      "stop": "route-013",
+      "section": "S03",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B041 B051 B039",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00158 | Main retail and crossing | right-forward-angle"
+    },
+    {
+      "photo_id": "00159",
+      "stop": "route-013",
+      "section": "S03",
+      "role": "right-frontage",
+      "observed_ids": "B041 F008",
+      "nearby_candidate_ids": "B041 B051 B039",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00159 | Main retail and crossing | right-frontage | Syston DIY / Firework Deals Store, Greggs / DIY traffic-controlled crossing"
+    },
+    {
+      "photo_id": "00160",
+      "stop": "route-013",
+      "section": "S03",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B041 B051 B039",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00160 | Main retail and crossing | right-rear-angle"
+    },
+    {
+      "photo_id": "00161",
+      "stop": "route-013",
+      "section": "S03",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B041 B051 B039 B022 B023 B024 F001 F002",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00161 | Main retail and crossing | road-backward"
+    },
+    {
+      "photo_id": "00162",
+      "stop": "route-013",
+      "section": "S03",
+      "role": "left-rear-angle",
+      "observed_ids": "B022",
+      "nearby_candidate_ids": "B022 B023 B024",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00162 | Main retail and crossing | left-rear-angle | Smith Hamylton"
+    },
+    {
+      "photo_id": "00163",
+      "stop": "route-013",
+      "section": "S03",
+      "role": "left-frontage",
+      "observed_ids": "B022 B023 B024",
+      "nearby_candidate_ids": "B022 B023 B024",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00163 | Main retail and crossing | left-frontage | Smith Hamylton, Byrite Electricals, Greggs"
+    },
+    {
+      "photo_id": "00164",
+      "stop": "route-013",
+      "section": "S03",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B022 B023 B024",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00164 | Main retail and crossing | left-forward-angle"
+    },
+    {
+      "photo_id": "00165",
+      "stop": "route-013",
+      "section": "S03",
+      "role": "right-frontage-detail",
+      "observed_ids": "B041 F008",
+      "nearby_candidate_ids": "B041 B051 B039",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00165 | Main retail and crossing | right-frontage-detail | Syston DIY / Firework Deals Store, Greggs / DIY traffic-controlled crossing"
+    },
+    {
+      "photo_id": "00166",
+      "stop": "route-013",
+      "section": "S03",
+      "role": "left-frontage-detail",
+      "observed_ids": "B022 B023 B024 F008",
+      "nearby_candidate_ids": "B022 B023 B024",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00166 | Main retail and crossing | left-frontage-detail | Smith Hamylton, Byrite Electricals, Greggs, Greggs / DIY traffic-controlled crossing"
+    },
+    {
+      "photo_id": "00167",
+      "stop": "route-013",
+      "section": "S03",
+      "role": "right-pavement-detail",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B041 B051 B039",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00167 | Main retail and crossing | right-pavement-detail"
+    },
+    {
+      "photo_id": "00168",
+      "stop": "route-013",
+      "section": "S03",
+      "role": "left-pavement-detail",
+      "observed_ids": "B022 B023 F008",
+      "nearby_candidate_ids": "B022 B023 B024",
+      "imagery_date": "Apr 2026",
+      "review": "contact-sheet-reviewed",
+      "label": "00168 | Main retail and crossing | left-pavement-detail | Smith Hamylton, Byrite Electricals, Greggs / DIY traffic-controlled crossing"
+    }
+  ]
+}

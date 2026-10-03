@@ -1,0 +1,38 @@
+{
+  "id": "B038",
+  "name": "Food Warehouse retail block",
+  "kind": "building-frontage",
+  "side": "east",
+  "anchor_stop": "route-012",
+  "along_offset_m_estimate": 0,
+  "primary_photos": [
+    "00129",
+    "00133",
+    "00147",
+    "00153",
+    "00177",
+    "00199"
+  ],
+  "terrace_group": "T11",
+  "observations": [
+    "Broad red-brick two-storey/shallow-roof retail mass; multiple lower businesses share the visible frontage.",
+    "Very large red/orange Food Warehouse NOW OPEN sign spans part of upper wall.",
+    "Small rectangular upper windows and branded panels repeat along the block.",
+    "Lower shop bays include Oxfam, cardfactory and Savers, with light framed glazing and separate fascias.",
+    "Steps/ramps and dark railings occur along the footway; exact level changes need cross-view checking.",
+    "Open car-park/entrance area north of block is not another attached shop wall."
+  ],
+  "unknowns": [
+    "Food Warehouse entrance/location within shared block is only partly visible; do not duplicate Oxfam/cardfactory/Savers as separate full upper buildings."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6983318,
+    "longitude": -1.0736742,
+    "east_m": 96.1,
+    "north_m": 95.87,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S03"
+}

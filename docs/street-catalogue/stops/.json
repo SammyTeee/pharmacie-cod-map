@@ -1,0 +1,16 @@
+{
+  "stop": "",
+  "photos": [
+    {
+      "photo_id": "00008",
+      "stop": "",
+      "section": "S00",
+      "role": "route-endpoint-map",
+      "observed_ids": "B050",
+      "nearby_candidate_ids": "B050",
+      "imagery_date": "unverified",
+      "review": "native-original-and-contact-sheet-reviewed",
+      "label": "00008 | Pilot and endpoint map | route-endpoint-map | Pharmacie Arms — existing reference anchor"
+    }
+  ]
+}

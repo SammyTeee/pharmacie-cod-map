@@ -1,0 +1,35 @@
+{
+  "id": "B043",
+  "name": "Syston Sizzler",
+  "kind": "building-frontage",
+  "side": "east",
+  "anchor_stop": "route-016",
+  "along_offset_m_estimate": 0,
+  "primary_photos": [
+    "00203",
+    "00209",
+    "00211",
+    "00215"
+  ],
+  "terrace_group": "T14",
+  "observations": [
+    "Grey/white rendered upper mass with a shallow gable and small upper windows.",
+    "Dark/wood-toned lower fascia reads SYSTON SIZZLER above dark shop glazing.",
+    "Lower door/window openings and menu panels partly visible; neighbouring red Food Warehouse entrance sign belongs to access area.",
+    "Upper render is weathered and differs from adjacent red-brick Spencers/Costa masses.",
+    "Side building/access opening separates rows; exact unit footprint unclear."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6986224,
+    "longitude": -1.0733705,
+    "east_m": 116.56,
+    "north_m": 128.19,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S04"
+}

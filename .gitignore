@@ -5,3 +5,5 @@ build/
 # Local safety snapshots; numbered editable milestones are tracked separately.
 /recon/**/*.blend
 /assets/blender/*-before-*.blend
+# Personal browser reference capture stays local; scripts/docs are trackable.
+/references/streetview-capture/

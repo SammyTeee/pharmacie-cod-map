@@ -1,0 +1,35 @@
+{
+  "id": "B036",
+  "name": "Syston Jewellers",
+  "kind": "building-frontage",
+  "side": "east",
+  "anchor_stop": "route-009",
+  "along_offset_m_estimate": 5,
+  "primary_photos": [
+    "00101",
+    "00113",
+    "00125"
+  ],
+  "terrace_group": "T10",
+  "observations": [
+    "Native113 resolves SYSTON JEWELLERS on a dark fascia, with smaller jewellery/repair wording beneath.",
+    "Light-framed display window and glazed door sit beneath sign; dark lower/plinth surround.",
+    "Upper red-brick facade contains light windows including a boarded/pale-covered opening.",
+    "Large chimney and roof slope form a continuous corner block.",
+    "Security/display fittings visible through glass cannot establish a full interior.",
+    "Bus shelter/people can obscure adjacent unit edges; use native113 for sign/frame."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6981037,
+    "longitude": -1.0739977,
+    "east_m": 74.3,
+    "north_m": 70.51,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S02"
+}

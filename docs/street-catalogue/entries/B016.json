@@ -1,0 +1,37 @@
+{
+  "id": "B016",
+  "name": "Today's Catch",
+  "kind": "building-frontage",
+  "side": "west",
+  "anchor_stop": "route-009",
+  "along_offset_m_estimate": 7,
+  "primary_photos": [
+    "00111",
+    "00114",
+    "00123",
+    "00126",
+    "00154"
+  ],
+  "terrace_group": "T06",
+  "observations": [
+    "Blue fascia with large white TODAY'S CATCH wording; smaller fish/chips/kebab/burger line visible in older native126.",
+    "Lower light-framed glazing includes transom strips, menu graphics and door near middle/right.",
+    "Pale lower panels and brick upper facade with white rectangular windows.",
+    "Continuous shallow tiled-looking roof, gutters and window rhythm shared with Specsavers/charity units.",
+    "2016 and later captures coexist; shop appearance/sign state must be kept dated.",
+    "Native126 shows the correct west row but has stale reported URL heading; do not project geometry from that heading."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6982545,
+    "longitude": -1.0742542,
+    "east_m": 57.01,
+    "north_m": 87.28,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S02"
+}

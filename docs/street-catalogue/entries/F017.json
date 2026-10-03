@@ -1,0 +1,32 @@
+{
+  "id": "F017",
+  "name": "White access door between Marine and vape",
+  "kind": "street-feature",
+  "side": "west",
+  "anchor_stop": "route-020",
+  "along_offset_m_estimate": 2,
+  "primary_photos": [
+    "00258",
+    "00270"
+  ],
+  "terrace_group": "T09",
+  "observations": [
+    "Native258 shows a narrow white panelled door with glazed transom beneath pale lintel.",
+    "Door is embedded in brick between Marine display and vape bay.",
+    "Separate from each shop main glazing; it may access upstairs/rear, but destination is not established.",
+    "Retain door proportions and transom as geometric openings, with a closed placeholder."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6990784,
+    "longitude": -1.0733142,
+    "east_m": 120.35,
+    "north_m": 178.89,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S04"
+}

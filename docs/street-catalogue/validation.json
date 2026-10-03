@@ -1,0 +1,31 @@
+{
+  "entries": 68,
+  "building_frontage_entries": 51,
+  "street_features": 17,
+  "photos_labelled": 296,
+  "completed_camera_stops": 23,
+  "reviewed_all_contact_sheets": true,
+  "native_originals_reviewed": [
+    "00001",
+    "00008",
+    "00030",
+    "00075",
+    "00113",
+    "00126",
+    "00154",
+    "00157",
+    "00177",
+    "00222",
+    "00258",
+    "00270",
+    "00273",
+    "00285"
+  ],
+  "unresolved_heading_metadata": [
+    "00126",
+    "00128"
+  ],
+  "coverage": "Taraj to mini-roundabout; close High Street/pub capture not completed and not claimed",
+  "positions": "Estimated offsets, not surveyed building footprints",
+  "originals_modified": false
+}

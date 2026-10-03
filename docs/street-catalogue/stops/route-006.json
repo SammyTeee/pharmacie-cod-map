@@ -1,0 +1,137 @@
+{
+  "stop": "route-006",
+  "photos": [
+    {
+      "photo_id": "00069",
+      "stop": "route-006",
+      "section": "S02",
+      "role": "road-forward",
+      "observed_ids": "F001 F003",
+      "nearby_candidate_ids": "F003 F004 B034 F005 B015 F001 F002",
+      "imagery_date": "Apr 2019",
+      "review": "contact-sheet-reviewed",
+      "label": "00069 | Brook, bridge and corner shops | road-forward | Melton Road carriageway and route, Brook and bridge"
+    },
+    {
+      "photo_id": "00070",
+      "stop": "route-006",
+      "section": "S02",
+      "role": "right-forward-angle",
+      "observed_ids": "F004",
+      "nearby_candidate_ids": "F003 F004 B034",
+      "imagery_date": "Apr 2019",
+      "review": "contact-sheet-reviewed",
+      "label": "00070 | Brook, bridge and corner shops | right-forward-angle | Brookside / bridge-side junction and access"
+    },
+    {
+      "photo_id": "00071",
+      "stop": "route-006",
+      "section": "S02",
+      "role": "right-frontage",
+      "observed_ids": "",
+      "nearby_candidate_ids": "F003 F004 B034",
+      "imagery_date": "Apr 2019",
+      "review": "contact-sheet-reviewed",
+      "label": "00071 | Brook, bridge and corner shops | right-frontage"
+    },
+    {
+      "photo_id": "00072",
+      "stop": "route-006",
+      "section": "S02",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "F003 F004 B034",
+      "imagery_date": "Apr 2019",
+      "review": "contact-sheet-reviewed",
+      "label": "00072 | Brook, bridge and corner shops | right-rear-angle"
+    },
+    {
+      "photo_id": "00073",
+      "stop": "route-006",
+      "section": "S02",
+      "role": "road-backward",
+      "observed_ids": "F003",
+      "nearby_candidate_ids": "F003 F004 B034 F005 B015 F001 F002",
+      "imagery_date": "Apr 2019",
+      "review": "contact-sheet-reviewed",
+      "label": "00073 | Brook, bridge and corner shops | road-backward | Brook and bridge"
+    },
+    {
+      "photo_id": "00074",
+      "stop": "route-006",
+      "section": "S02",
+      "role": "left-rear-angle",
+      "observed_ids": "F005",
+      "nearby_candidate_ids": "F003 F005 B015",
+      "imagery_date": "Apr 2019",
+      "review": "contact-sheet-reviewed",
+      "label": "00074 | Brook, bridge and corner shops | left-rear-angle | Bridge railings and brook boundary walls"
+    },
+    {
+      "photo_id": "00075",
+      "stop": "route-006",
+      "section": "S02",
+      "role": "left-frontage",
+      "observed_ids": "F003 F005",
+      "nearby_candidate_ids": "F003 F005 B015",
+      "imagery_date": "Apr 2019",
+      "review": "native-original-and-contact-sheet-reviewed",
+      "label": "00075 | Brook, bridge and corner shops | left-frontage | Brook and bridge, Bridge railings and brook boundary walls"
+    },
+    {
+      "photo_id": "00076",
+      "stop": "route-006",
+      "section": "S02",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "F003 F005 B015",
+      "imagery_date": "Apr 2019",
+      "review": "contact-sheet-reviewed",
+      "label": "00076 | Brook, bridge and corner shops | left-forward-angle"
+    },
+    {
+      "photo_id": "00077",
+      "stop": "route-006",
+      "section": "S02",
+      "role": "right-frontage-detail",
+      "observed_ids": "B004 F003 F004",
+      "nearby_candidate_ids": "F003 F004 B034",
+      "imagery_date": "Apr 2019",
+      "review": "contact-sheet-reviewed",
+      "label": "00077 | Brook, bridge and corner shops | right-frontage-detail | Halls of Syston fruit-and-veg corner, Brook and bridge, Brookside / bridge-side junction and access"
+    },
+    {
+      "photo_id": "00078",
+      "stop": "route-006",
+      "section": "S02",
+      "role": "left-frontage-detail",
+      "observed_ids": "F003 F005",
+      "nearby_candidate_ids": "F003 F005 B015",
+      "imagery_date": "Apr 2019",
+      "review": "contact-sheet-reviewed",
+      "label": "00078 | Brook, bridge and corner shops | left-frontage-detail | Brook and bridge, Bridge railings and brook boundary walls"
+    },
+    {
+      "photo_id": "00079",
+      "stop": "route-006",
+      "section": "S02",
+      "role": "right-pavement-detail",
+      "observed_ids": "F004",
+      "nearby_candidate_ids": "F003 F004 B034",
+      "imagery_date": "Apr 2019",
+      "review": "contact-sheet-reviewed",
+      "label": "00079 | Brook, bridge and corner shops | right-pavement-detail | Brookside / bridge-side junction and access"
+    },
+    {
+      "photo_id": "00080",
+      "stop": "route-006",
+      "section": "S02",
+      "role": "left-pavement-detail",
+      "observed_ids": "F002 F003 F005",
+      "nearby_candidate_ids": "F003 F005 B015",
+      "imagery_date": "Apr 2019",
+      "review": "contact-sheet-reviewed",
+      "label": "00080 | Brook, bridge and corner shops | left-pavement-detail | Pavements, kerbs and drainage, Brook and bridge, Bridge railings and brook boundary walls"
+    }
+  ]
+}

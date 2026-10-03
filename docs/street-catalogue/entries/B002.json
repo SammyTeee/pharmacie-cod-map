@@ -1,0 +1,37 @@
+{
+  "id": "B002",
+  "name": "Costcutter Carpets & Beds",
+  "kind": "building-frontage",
+  "side": "east",
+  "anchor_stop": "route-003",
+  "along_offset_m_estimate": 0,
+  "primary_photos": [
+    "00023",
+    "00029",
+    "00035",
+    "00041",
+    "00043"
+  ],
+  "terrace_group": "T01",
+  "observations": [
+    "White/very pale painted masonry across a broad two-storey frontage adjoining Taraj.",
+    "Long pale fascia reads COSTCUTTER with green CARPETS & BEDS wording; this is a carpet/furniture shop, not an assumed convenience-store unit.",
+    "Large lower display window has green bottom advertising band; white framed entrance/glazing bay sits to image-left of the large display.",
+    "Upper windows are wide, low rectangular openings with light frames rather than Taraj-style tall sashes.",
+    "Gable/roofline and lower facade height differ from Taraj; retain the transition in separate masses.",
+    "BEDROOM/DINING/LIVING ROOM/FURNITURE signage appears on the adjoining bay near the passage; validate exact words before typesetting."
+  ],
+  "unknowns": [
+    "Exact dimensions, rear elevation and interior layout are not established. Street View address is a camera label, not this unit address."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.697536,
+    "longitude": -1.07476,
+    "east_m": 22.92,
+    "north_m": 7.38,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S01"
+}

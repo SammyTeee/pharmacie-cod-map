@@ -1,12 +1,14 @@
-[Taraj renders and placement plan](docs/TARAJ_V24.md) — latest source and map relationship.
+[Syston street base and new renders](docs/SYSTON_V25.md) · [Taraj placement plan](docs/TARAJ_V24.md).
 
-Latest complete Blender checkpoint: `assets/blender/pharmacie-taraj-opposite-v24.blend`. Melton Road, roundabout, rough street buildings and the photo-led Taraj exterior are saved; pub/shopfront/fridge work is retained. See [3D shopfront gallery](docs/3D_SHOPFRONT_GALLERY.md). New geometry is Blender-only; engine deployment remains unchanged.
+Latest complete Blender checkpoint: `assets/blender/pharmacie-syston-street-v25.blend`. The catalogue-led base adds46 named Melton shopfronts, gables, bridge/street details and a painted mini-roundabout; approved pub/shopfront/fridge/Taraj work is retained. New geometry is Blender-only; engine deployment remains unchanged.
 
 # The Pharmacie Arms: BO3 Zombies Map
 
 A Call of Duty: Black Ops III custom Zombies map inspired by The Pharmacie Arms in Syston, Leicestershire. The first milestone is a small cooperative playable blockout; the Noseley-inspired boss and detailed pub dressing come later.
 
 ## Current status
+
+[Firefox Street View reference collector](research/streetview-pipeline/FIREFOX_CAPTURE.md): local screenshots, camera coordinates, searchable labelling gallery and geographic route export. Collection is separate from the Blender scene.
 
 **[Browse the Blender render gallery](docs/BLENDER_RENDER_GALLERY.md)** ·
 **[Latest handover and resume steps](docs/HANDOVER_2026-10-03.md)**
@@ -16,7 +18,7 @@ work and the sharper window/signage pass looks good. The next build separates
 bar drawer/shelf/TV textures and adds a1250-point street-wall purchase toward
 Post Office/Natural Wellbeing. It compiled, lit and linked successfully but is
 **not yet deployed**. Close BO3 before deploying; full AI/co-op checks remain.
-The gallery shows saved v18 Blender renders, before these engine-only additions.
+The gallery links the newest v25 street renders and historical v18 interior views.
 Older prototype status below is historical where superseded by the handover.
 
 - Latest editable map: [pharmacie-shopfronts-v19.blend](assets/blender/pharmacie-shopfronts-v19.blend). Open with `scripts/open-blender.ps1`. [Six new renders and modelling notes](docs/SHOPFRONTS_V19.md) show real neighbour-shop recesses, frames, bays and grille, with upstairs windows copied at the pub's scale. V18 player cleanup is retained; v19 has not been converted to BO3.
@@ -64,6 +66,11 @@ Keep work offline/private. Do not edit stock tool maps or game files. Read `AGEN
 - [Photo sources and provenance](references/pharmacie-syston/README.md)
 
 ## Photo previews
+
+The [numbered Syston street catalogue](docs/street-catalogue/index.html) has 68
+small building/feature dossiers and a searchable map. Start with its
+[reading guide](docs/street-catalogue/README.md); original Street View captures
+stay local and are linked from each dossier.
 
 These reference photos guide the exterior, room layout, bar, and pharmacy feature wall. Select a preview to open the full image; see the [photo gallery](docs/PHOTO_GALLERY.md) for all collected references and descriptions.
 

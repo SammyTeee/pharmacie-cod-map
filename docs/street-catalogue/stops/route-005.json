@@ -1,0 +1,137 @@
+{
+  "stop": "route-005",
+  "photos": [
+    {
+      "photo_id": "00057",
+      "stop": "route-005",
+      "section": "S01",
+      "role": "road-forward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B003 B004 B013 B014 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00057 | Taraj and southern terrace | road-forward"
+    },
+    {
+      "photo_id": "00058",
+      "stop": "route-005",
+      "section": "S01",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B003 B004",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00058 | Taraj and southern terrace | right-forward-angle"
+    },
+    {
+      "photo_id": "00059",
+      "stop": "route-005",
+      "section": "S01",
+      "role": "right-frontage",
+      "observed_ids": "B003 B004",
+      "nearby_candidate_ids": "B003 B004",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00059 | Taraj and southern terrace | right-frontage | Man-Made Gentleman Barbers, Halls of Syston fruit-and-veg corner"
+    },
+    {
+      "photo_id": "00060",
+      "stop": "route-005",
+      "section": "S01",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B003 B004",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00060 | Taraj and southern terrace | right-rear-angle"
+    },
+    {
+      "photo_id": "00061",
+      "stop": "route-005",
+      "section": "S01",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B003 B004 B013 B014 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00061 | Taraj and southern terrace | road-backward"
+    },
+    {
+      "photo_id": "00062",
+      "stop": "route-005",
+      "section": "S01",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B013 B014",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00062 | Taraj and southern terrace | left-rear-angle"
+    },
+    {
+      "photo_id": "00063",
+      "stop": "route-005",
+      "section": "S01",
+      "role": "left-frontage",
+      "observed_ids": "B013 B014",
+      "nearby_candidate_ids": "B013 B014",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00063 | Taraj and southern terrace | left-frontage | Flames, Banking Hub and adjoining glazed corner bays"
+    },
+    {
+      "photo_id": "00064",
+      "stop": "route-005",
+      "section": "S01",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B013 B014",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00064 | Taraj and southern terrace | left-forward-angle"
+    },
+    {
+      "photo_id": "00065",
+      "stop": "route-005",
+      "section": "S01",
+      "role": "right-frontage-detail",
+      "observed_ids": "B004",
+      "nearby_candidate_ids": "B003 B004",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00065 | Taraj and southern terrace | right-frontage-detail | Halls of Syston fruit-and-veg corner"
+    },
+    {
+      "photo_id": "00066",
+      "stop": "route-005",
+      "section": "S01",
+      "role": "left-frontage-detail",
+      "observed_ids": "B014",
+      "nearby_candidate_ids": "B013 B014",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00066 | Taraj and southern terrace | left-frontage-detail | Banking Hub and adjoining glazed corner bays"
+    },
+    {
+      "photo_id": "00067",
+      "stop": "route-005",
+      "section": "S01",
+      "role": "right-pavement-detail",
+      "observed_ids": "B004",
+      "nearby_candidate_ids": "B003 B004",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00067 | Taraj and southern terrace | right-pavement-detail | Halls of Syston fruit-and-veg corner"
+    },
+    {
+      "photo_id": "00068",
+      "stop": "route-005",
+      "section": "S01",
+      "role": "left-pavement-detail",
+      "observed_ids": "B014",
+      "nearby_candidate_ids": "B013 B014",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00068 | Taraj and southern terrace | left-pavement-detail | Banking Hub and adjoining glazed corner bays"
+    }
+  ]
+}

@@ -1,0 +1,1093 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0749696157276274,
+          52.6973962262764
+        ]
+      },
+      "properties": {
+        "id": "B001",
+        "name": "Taraj Palace",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B001.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0747600384819904,
+          52.697536001445755
+        ]
+      },
+      "properties": {
+        "id": "B002",
+        "name": "Costcutter Carpets & Beds",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B002.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0746626043324052,
+          52.69761237457773
+        ]
+      },
+      "properties": {
+        "id": "B003",
+        "name": "Man-Made Gentleman Barbers",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B003.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0745690035134505,
+          52.69768884306482
+        ]
+      },
+      "properties": {
+        "id": "B004",
+        "name": "Halls of Syston fruit-and-veg corner",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B004.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0751915848202673,
+          52.69725114151642
+        ]
+      },
+      "properties": {
+        "id": "B005",
+        "name": "Natural World Pet Superstore \u2014 southern context",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B005.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.075301410801849,
+          52.69749681039087
+        ]
+      },
+      "properties": {
+        "id": "B006",
+        "name": "The Studio",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B006.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0752307842723727,
+          52.69754297372359
+        ]
+      },
+      "properties": {
+        "id": "B007",
+        "name": "Delish",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B007.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0752070130897426,
+          52.69755750160458
+        ]
+      },
+      "properties": {
+        "id": "B008",
+        "name": "Grove",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B008.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0751470973207962,
+          52.69759741594992
+        ]
+      },
+      "properties": {
+        "id": "B009",
+        "name": "FOX Barbers",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B009.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0750771955903584,
+          52.69764398268615
+        ]
+      },
+      "properties": {
+        "id": "B010",
+        "name": "Newton Fallowell estate-agent frontage",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B010.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0751004804334765,
+          52.69762534542628
+        ]
+      },
+      "properties": {
+        "id": "B011",
+        "name": "Syston House takeaway",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B011.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0750341615180097,
+          52.69767379855425
+        ]
+      },
+      "properties": {
+        "id": "B012",
+        "name": "Vista",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B012.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.074964506254383,
+          52.69772828330296
+        ]
+      },
+      "properties": {
+        "id": "B013",
+        "name": "Flames",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B013.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0748577964865496,
+          52.697815156935185
+        ]
+      },
+      "properties": {
+        "id": "B014",
+        "name": "Banking Hub and adjoining glazed corner bays",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B014.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0744130415212148,
+          52.69813629712055
+        ]
+      },
+      "properties": {
+        "id": "B015",
+        "name": "Specsavers / audiology corner",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B015.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0742541976445863,
+          52.69825451612141
+        ]
+      },
+      "properties": {
+        "id": "B016",
+        "name": "Today's Catch",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B016.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0742578400902694,
+          52.69825349428736
+        ]
+      },
+      "properties": {
+        "id": "B017",
+        "name": "Age UK",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B017.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0741825765268995,
+          52.69829688322409
+        ]
+      },
+      "properties": {
+        "id": "B018",
+        "name": "Mind",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B018.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0741247903085418,
+          52.69831229442592
+        ]
+      },
+      "properties": {
+        "id": "B019",
+        "name": "LOROS",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B019.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0740454496895722,
+          52.69836581327981
+        ]
+      },
+      "properties": {
+        "id": "B020",
+        "name": "Subway",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B020.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0740201264382485,
+          52.69838969986
+        ]
+      },
+      "properties": {
+        "id": "B021",
+        "name": "William Hill",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B021.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0739960077914001,
+          52.69846702131222
+        ]
+      },
+      "properties": {
+        "id": "B022",
+        "name": "Smith Hamylton",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B022.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0739585683115556,
+          52.698515978411535
+        ]
+      },
+      "properties": {
+        "id": "B023",
+        "name": "Byrite Electricals",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B023.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0738970648994741,
+          52.69858222854008
+        ]
+      },
+      "properties": {
+        "id": "B024",
+        "name": "Greggs",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B024.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0738227979230404,
+          52.69862624364721
+        ]
+      },
+      "properties": {
+        "id": "B025",
+        "name": "Hays Travel",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B025.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0737163900604965,
+          52.69866845781019
+        ]
+      },
+      "properties": {
+        "id": "B026",
+        "name": "Sunlit Chemist",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B026.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0735964691833948,
+          52.698769610675434
+        ]
+      },
+      "properties": {
+        "id": "B027",
+        "name": "B&M gabled frontage",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B027.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0735078550817947,
+          52.698893957957395
+        ]
+      },
+      "properties": {
+        "id": "B028",
+        "name": "Town Square Shopping Centre gable",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B028.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0733709757734753,
+          52.6990368270127
+        ]
+      },
+      "properties": {
+        "id": "B029",
+        "name": "Marine fish-and-chips frontage",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B029.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0733036033724697,
+          52.69903256353267
+        ]
+      },
+      "properties": {
+        "id": "B030",
+        "name": "We Vape frontage \u2014 verify exact styling",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B030.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0732637873974822,
+          52.69908082706788
+        ]
+      },
+      "properties": {
+        "id": "B031",
+        "name": "Town Square recessed passage frontage",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B031.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.073254984053096,
+          52.69914652144868
+        ]
+      },
+      "properties": {
+        "id": "B032",
+        "name": "Amy Clarke Hair",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B032.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0732036913410057,
+          52.699225236850516
+        ]
+      },
+      "properties": {
+        "id": "B033",
+        "name": "GLO corner frontage",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B033.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0740917789610396,
+          52.69803419005056
+        ]
+      },
+      "properties": {
+        "id": "B034",
+        "name": "Golden Barber",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B034.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0740447204751042,
+          52.69806895548048
+        ]
+      },
+      "properties": {
+        "id": "B035",
+        "name": "Designer Daisies",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B035.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.073997661989169,
+          52.698103720910396
+        ]
+      },
+      "properties": {
+        "id": "B036",
+        "name": "Syston Jewellers",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B036.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0740817169165826,
+          52.69803514504493
+        ]
+      },
+      "properties": {
+        "id": "B037",
+        "name": "End bay beside the bus shelter \u2014 name unresolved",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B037.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.073674157807427,
+          52.698331786180454
+        ]
+      },
+      "properties": {
+        "id": "B038",
+        "name": "Food Warehouse retail block",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B038.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0736912420531026,
+          52.69830687222092
+        ]
+      },
+      "properties": {
+        "id": "B039",
+        "name": "cardfactory",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B039.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0737805151556854,
+          52.698221566433666
+        ]
+      },
+      "properties": {
+        "id": "B040",
+        "name": "Savers",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B040.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0736162212130835,
+          52.69844678060789
+        ]
+      },
+      "properties": {
+        "id": "B041",
+        "name": "Syston DIY / Firework Deals Store",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B041.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0734416099395037,
+          52.6985311421898
+        ]
+      },
+      "properties": {
+        "id": "B042",
+        "name": "Spencers",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B042.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.07337049508064,
+          52.69862241608256
+        ]
+      },
+      "properties": {
+        "id": "B043",
+        "name": "Syston Sizzler",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B043.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0732561705068422,
+          52.698691654904614
+        ]
+      },
+      "properties": {
+        "id": "B044",
+        "name": "Betfred",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B044.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0731925733427519,
+          52.69879316410416
+        ]
+      },
+      "properties": {
+        "id": "B045",
+        "name": "Costa Coffee",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B045.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0731059129064062,
+          52.698892386539235
+        ]
+      },
+      "properties": {
+        "id": "B046",
+        "name": "Josiah Hincks Solicitors",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B046.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0729253205900118,
+          52.69900844116451
+        ]
+      },
+      "properties": {
+        "id": "B047",
+        "name": "Bistro Oggi corner",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B047.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0730137735252128,
+          52.69936658280063
+        ]
+      },
+      "properties": {
+        "id": "B048",
+        "name": "Fox & Hounds \u2014 junction context",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B048.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.072909454915957,
+          52.699464927216404
+        ]
+      },
+      "properties": {
+        "id": "B049",
+        "name": "Northern junction retail row \u2014 identities unresolved",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B049.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0733271,
+          52.6994153
+        ]
+      },
+      "properties": {
+        "id": "B050",
+        "name": "Pharmacie Arms \u2014 existing reference anchor",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B050.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.073731105293012,
+          52.698248739648655
+        ]
+      },
+      "properties": {
+        "id": "B051",
+        "name": "Oxfam lower frontage",
+        "confidence": "estimated reference marker",
+        "notes": "entries/B051.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0738386,
+          52.6983732
+        ]
+      },
+      "properties": {
+        "id": "F001",
+        "name": "Melton Road carriageway and route",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F001.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0738386,
+          52.6983732
+        ]
+      },
+      "properties": {
+        "id": "F002",
+        "name": "Pavements, kerbs and drainage",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F002.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0745158,
+          52.69792
+        ]
+      },
+      "properties": {
+        "id": "F003",
+        "name": "Brook and bridge",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F003.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0742749190343779,
+          52.697919093437044
+        ]
+      },
+      "properties": {
+        "id": "F004",
+        "name": "Brookside / bridge-side junction and access",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F004.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0746563596897138,
+          52.697986259608534
+        ]
+      },
+      "properties": {
+        "id": "F005",
+        "name": "Bridge railings and brook boundary walls",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F005.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0741221978092699,
+          52.69800883523609
+        ]
+      },
+      "properties": {
+        "id": "F006",
+        "name": "Green bus shelter beside corner shops",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F006.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0751506475210546,
+          52.69743662619091
+        ]
+      },
+      "properties": {
+        "id": "F007",
+        "name": "Southern traffic-controlled crossing",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F007.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.073797,
+          52.6984706
+        ]
+      },
+      "properties": {
+        "id": "F008",
+        "name": "Greggs / DIY traffic-controlled crossing",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F008.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0734416099395037,
+          52.6985311421898
+        ]
+      },
+      "properties": {
+        "id": "F009",
+        "name": "Retail car-park entrance and yellow box",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F009.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0735327256790161,
+          52.69883030574735
+        ]
+      },
+      "properties": {
+        "id": "F010",
+        "name": "B&M market canopies and pavement stalls",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F010.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0731462237569511,
+          52.69883782942164
+        ]
+      },
+      "properties": {
+        "id": "F011",
+        "name": "Iron-gated gap beside Costa",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F011.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0730578,
+          52.6991632
+        ]
+      },
+      "properties": {
+        "id": "F012",
+        "name": "Zebra crossing and beacon approach",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F012.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0729897,
+          52.6992274
+        ]
+      },
+      "properties": {
+        "id": "F013",
+        "name": "Mini-roundabout and traffic island",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F013.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0733534,
+          52.6988395
+        ]
+      },
+      "properties": {
+        "id": "F014",
+        "name": "Street furniture: lamps, bins and planting",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F014.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0733331585824168,
+          52.69906455432295
+        ]
+      },
+      "properties": {
+        "id": "F015",
+        "name": "Facade utilities and roof services",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F015.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0740851199990569,
+          52.69833905385286
+        ]
+      },
+      "properties": {
+        "id": "F016",
+        "name": "Narrow access bay between LOROS and Subway",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F016.md"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0733142499868875,
+          52.69907841797808
+        ]
+      },
+      "properties": {
+        "id": "F017",
+        "name": "White access door between Marine and vape",
+        "confidence": "estimated reference marker",
+        "notes": "entries/F017.md"
+      }
+    }
+  ]
+}

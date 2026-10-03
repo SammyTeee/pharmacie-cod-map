@@ -1,0 +1,137 @@
+{
+  "stop": "route-003",
+  "photos": [
+    {
+      "photo_id": "00033",
+      "stop": "route-003",
+      "section": "S01",
+      "role": "road-forward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B002 B010 B011 B012 B013 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00033 | Taraj and southern terrace | road-forward"
+    },
+    {
+      "photo_id": "00034",
+      "stop": "route-003",
+      "section": "S01",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00034 | Taraj and southern terrace | right-forward-angle"
+    },
+    {
+      "photo_id": "00035",
+      "stop": "route-003",
+      "section": "S01",
+      "role": "right-frontage",
+      "observed_ids": "B002",
+      "nearby_candidate_ids": "B002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00035 | Taraj and southern terrace | right-frontage | Costcutter Carpets & Beds"
+    },
+    {
+      "photo_id": "00036",
+      "stop": "route-003",
+      "section": "S01",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00036 | Taraj and southern terrace | right-rear-angle"
+    },
+    {
+      "photo_id": "00037",
+      "stop": "route-003",
+      "section": "S01",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B002 B010 B011 B012 B013 F001 F002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00037 | Taraj and southern terrace | road-backward"
+    },
+    {
+      "photo_id": "00038",
+      "stop": "route-003",
+      "section": "S01",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B010 B011 B012 B013",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00038 | Taraj and southern terrace | left-rear-angle"
+    },
+    {
+      "photo_id": "00039",
+      "stop": "route-003",
+      "section": "S01",
+      "role": "left-frontage",
+      "observed_ids": "B010 B011 B012 B013",
+      "nearby_candidate_ids": "B010 B011 B012 B013",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00039 | Taraj and southern terrace | left-frontage | Newton Fallowell estate-agent frontage, Syston House takeaway, Vista, Flames"
+    },
+    {
+      "photo_id": "00040",
+      "stop": "route-003",
+      "section": "S01",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B010 B011 B012 B013",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00040 | Taraj and southern terrace | left-forward-angle"
+    },
+    {
+      "photo_id": "00041",
+      "stop": "route-003",
+      "section": "S01",
+      "role": "right-frontage-detail",
+      "observed_ids": "B002",
+      "nearby_candidate_ids": "B002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00041 | Taraj and southern terrace | right-frontage-detail | Costcutter Carpets & Beds"
+    },
+    {
+      "photo_id": "00042",
+      "stop": "route-003",
+      "section": "S01",
+      "role": "left-frontage-detail",
+      "observed_ids": "B010 B011 B012 B013",
+      "nearby_candidate_ids": "B010 B011 B012 B013",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00042 | Taraj and southern terrace | left-frontage-detail | Newton Fallowell estate-agent frontage, Syston House takeaway, Vista, Flames"
+    },
+    {
+      "photo_id": "00043",
+      "stop": "route-003",
+      "section": "S01",
+      "role": "right-pavement-detail",
+      "observed_ids": "B002",
+      "nearby_candidate_ids": "B002",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00043 | Taraj and southern terrace | right-pavement-detail | Costcutter Carpets & Beds"
+    },
+    {
+      "photo_id": "00044",
+      "stop": "route-003",
+      "section": "S01",
+      "role": "left-pavement-detail",
+      "observed_ids": "B011",
+      "nearby_candidate_ids": "B010 B011 B012 B013",
+      "imagery_date": "unverified",
+      "review": "contact-sheet-reviewed",
+      "label": "00044 | Taraj and southern terrace | left-pavement-detail | Syston House takeaway"
+    }
+  ]
+}

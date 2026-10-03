@@ -1,0 +1,34 @@
+{
+  "id": "F007",
+  "name": "Southern traffic-controlled crossing",
+  "kind": "street-feature",
+  "side": "centre",
+  "anchor_stop": "route-001",
+  "along_offset_m_estimate": -5,
+  "primary_photos": [
+    "00013",
+    "00014",
+    "00019",
+    "00020"
+  ],
+  "terrace_group": "south-crossing",
+  "observations": [
+    "Traffic signal posts and pushbutton-style roadside furniture appear near Taraj/Studio views.",
+    "White crossing/stop markings partly visible on roadway.",
+    "Pavement planting/hanging baskets and signs overlap the view.",
+    "Keep poles out of frontage wall geometry and establish a walkable kerb/crossing transition."
+  ],
+  "unknowns": [
+    "Exact signal layout/marking pattern is partly occluded; do not infer operational game traffic."
+  ],
+  "review_basis": "All listed captures reviewed in contact sheets; selected originals also inspected at native resolution. Notes describe visible appearance, not surveyed construction.",
+  "placement_confidence": "Approximate frontage marker derived from camera route, side and estimated offset; not a measured footprint.",
+  "map_position": {
+    "latitude": 52.6974366,
+    "longitude": -1.0751506,
+    "east_m": -3.4,
+    "north_m": -3.67,
+    "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+  },
+  "section": "S01"
+}

@@ -1,0 +1,137 @@
+{
+  "stop": "route-012",
+  "photos": [
+    {
+      "photo_id": "00145",
+      "stop": "route-012",
+      "section": "S03",
+      "role": "road-forward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B038 B039 B040 B051 B019 B020 B021 F001 F002",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00145 | Main retail and crossing | road-forward"
+    },
+    {
+      "photo_id": "00146",
+      "stop": "route-012",
+      "section": "S03",
+      "role": "right-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B038 B039 B040 B051",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00146 | Main retail and crossing | right-forward-angle"
+    },
+    {
+      "photo_id": "00147",
+      "stop": "route-012",
+      "section": "S03",
+      "role": "right-frontage",
+      "observed_ids": "B038 B039 B040 B051",
+      "nearby_candidate_ids": "B038 B039 B040 B051",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00147 | Main retail and crossing | right-frontage | Food Warehouse retail block, cardfactory, Savers, Oxfam lower frontage"
+    },
+    {
+      "photo_id": "00148",
+      "stop": "route-012",
+      "section": "S03",
+      "role": "right-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B038 B039 B040 B051",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00148 | Main retail and crossing | right-rear-angle"
+    },
+    {
+      "photo_id": "00149",
+      "stop": "route-012",
+      "section": "S03",
+      "role": "road-backward",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B038 B039 B040 B051 B019 B020 B021 F001 F002",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00149 | Main retail and crossing | road-backward"
+    },
+    {
+      "photo_id": "00150",
+      "stop": "route-012",
+      "section": "S03",
+      "role": "left-rear-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B019 B020 B021",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00150 | Main retail and crossing | left-rear-angle"
+    },
+    {
+      "photo_id": "00151",
+      "stop": "route-012",
+      "section": "S03",
+      "role": "left-frontage",
+      "observed_ids": "B020 B021",
+      "nearby_candidate_ids": "B019 B020 B021",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00151 | Main retail and crossing | left-frontage | Subway, William Hill"
+    },
+    {
+      "photo_id": "00152",
+      "stop": "route-012",
+      "section": "S03",
+      "role": "left-forward-angle",
+      "observed_ids": "",
+      "nearby_candidate_ids": "B019 B020 B021",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00152 | Main retail and crossing | left-forward-angle"
+    },
+    {
+      "photo_id": "00153",
+      "stop": "route-012",
+      "section": "S03",
+      "role": "right-frontage-detail",
+      "observed_ids": "B038 B039 B040",
+      "nearby_candidate_ids": "B038 B039 B040 B051",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00153 | Main retail and crossing | right-frontage-detail | Food Warehouse retail block, cardfactory, Savers"
+    },
+    {
+      "photo_id": "00154",
+      "stop": "route-012",
+      "section": "S03",
+      "role": "left-frontage-detail",
+      "observed_ids": "B016 B017 B018 B019 B020 B021 F015 F016",
+      "nearby_candidate_ids": "B019 B020 B021",
+      "imagery_date": "Aug 2024",
+      "review": "native-original-and-contact-sheet-reviewed",
+      "label": "00154 | Main retail and crossing | left-frontage-detail | Today's Catch, Age UK, Mind, LOROS, Subway, William Hill, Facade utilities and roof services, Narrow access bay between LOROS and Subway"
+    },
+    {
+      "photo_id": "00155",
+      "stop": "route-012",
+      "section": "S03",
+      "role": "right-pavement-detail",
+      "observed_ids": "B039 F002",
+      "nearby_candidate_ids": "B038 B039 B040 B051",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00155 | Main retail and crossing | right-pavement-detail | cardfactory, Pavements, kerbs and drainage"
+    },
+    {
+      "photo_id": "00156",
+      "stop": "route-012",
+      "section": "S03",
+      "role": "left-pavement-detail",
+      "observed_ids": "B021",
+      "nearby_candidate_ids": "B019 B020 B021",
+      "imagery_date": "Aug 2024",
+      "review": "contact-sheet-reviewed",
+      "label": "00156 | Main retail and crossing | left-pavement-detail | William Hill"
+    }
+  ]
+}

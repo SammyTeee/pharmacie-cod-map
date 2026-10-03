@@ -1,0 +1,1158 @@
+[
+  {
+    "id": "B001",
+    "name": "Taraj Palace",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S01",
+    "anchor_stop": "route-001",
+    "notes": "entries/B001.md",
+    "page": "entries/B001.html",
+    "map_position": {
+      "latitude": 52.6973962,
+      "longitude": -1.0749696,
+      "east_m": 8.8,
+      "north_m": -8.16,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B002",
+    "name": "Costcutter Carpets & Beds",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S01",
+    "anchor_stop": "route-003",
+    "notes": "entries/B002.md",
+    "page": "entries/B002.html",
+    "map_position": {
+      "latitude": 52.697536,
+      "longitude": -1.07476,
+      "east_m": 22.92,
+      "north_m": 7.38,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B003",
+    "name": "Man-Made Gentleman Barbers",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S01",
+    "anchor_stop": "route-004",
+    "notes": "entries/B003.md",
+    "page": "entries/B003.html",
+    "map_position": {
+      "latitude": 52.6976124,
+      "longitude": -1.0746626,
+      "east_m": 29.49,
+      "north_m": 15.88,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B004",
+    "name": "Halls of Syston fruit-and-veg corner",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S01",
+    "anchor_stop": "route-005",
+    "notes": "entries/B004.md",
+    "page": "entries/B004.html",
+    "map_position": {
+      "latitude": 52.6976888,
+      "longitude": -1.074569,
+      "east_m": 35.8,
+      "north_m": 24.38,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B005",
+    "name": "Natural World Pet Superstore — southern context",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S01",
+    "anchor_stop": "route-001",
+    "notes": "entries/B005.md",
+    "page": "entries/B005.html",
+    "map_position": {
+      "latitude": 52.6972511,
+      "longitude": -1.0751916,
+      "east_m": -6.16,
+      "north_m": -24.29,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B006",
+    "name": "The Studio",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S01",
+    "anchor_stop": "route-001",
+    "notes": "entries/B006.md",
+    "page": "entries/B006.html",
+    "map_position": {
+      "latitude": 52.6974968,
+      "longitude": -1.0753014,
+      "east_m": -13.56,
+      "north_m": 3.03,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B007",
+    "name": "Delish",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S01",
+    "anchor_stop": "route-001",
+    "notes": "entries/B007.md",
+    "page": "entries/B007.html",
+    "map_position": {
+      "latitude": 52.697543,
+      "longitude": -1.0752308,
+      "east_m": -8.8,
+      "north_m": 8.16,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B008",
+    "name": "Grove",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S01",
+    "anchor_stop": "route-002",
+    "notes": "entries/B008.md",
+    "page": "entries/B008.html",
+    "map_position": {
+      "latitude": 52.6975575,
+      "longitude": -1.075207,
+      "east_m": -7.2,
+      "north_m": 9.77,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B009",
+    "name": "FOX Barbers",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S01",
+    "anchor_stop": "route-002",
+    "notes": "entries/B009.md",
+    "page": "entries/B009.html",
+    "map_position": {
+      "latitude": 52.6975974,
+      "longitude": -1.0751471,
+      "east_m": -3.16,
+      "north_m": 14.21,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B010",
+    "name": "Newton Fallowell estate-agent frontage",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S01",
+    "anchor_stop": "route-002",
+    "notes": "entries/B010.md",
+    "page": "entries/B010.html",
+    "map_position": {
+      "latitude": 52.697644,
+      "longitude": -1.0750772,
+      "east_m": 1.55,
+      "north_m": 19.39,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B011",
+    "name": "Syston House takeaway",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S01",
+    "anchor_stop": "route-003",
+    "notes": "entries/B011.md",
+    "page": "entries/B011.html",
+    "map_position": {
+      "latitude": 52.6976253,
+      "longitude": -1.0751005,
+      "east_m": -0.02,
+      "north_m": 17.32,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B012",
+    "name": "Vista",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S01",
+    "anchor_stop": "route-003",
+    "notes": "entries/B012.md",
+    "page": "entries/B012.html",
+    "map_position": {
+      "latitude": 52.6976738,
+      "longitude": -1.0750342,
+      "east_m": 4.45,
+      "north_m": 22.71,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B013",
+    "name": "Flames",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S01",
+    "anchor_stop": "route-004",
+    "notes": "entries/B013.md",
+    "page": "entries/B013.html",
+    "map_position": {
+      "latitude": 52.6977283,
+      "longitude": -1.0749645,
+      "east_m": 9.14,
+      "north_m": 28.76,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B014",
+    "name": "Banking Hub and adjoining glazed corner bays",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S01",
+    "anchor_stop": "route-005",
+    "notes": "entries/B014.md",
+    "page": "entries/B014.html",
+    "map_position": {
+      "latitude": 52.6978152,
+      "longitude": -1.0748578,
+      "east_m": 16.33,
+      "north_m": 38.42,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B015",
+    "name": "Specsavers / audiology corner",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S02",
+    "anchor_stop": "route-008",
+    "notes": "entries/B015.md",
+    "page": "entries/B015.html",
+    "map_position": {
+      "latitude": 52.6981363,
+      "longitude": -1.074413,
+      "east_m": 46.31,
+      "north_m": 74.13,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B016",
+    "name": "Today's Catch",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S02",
+    "anchor_stop": "route-009",
+    "notes": "entries/B016.md",
+    "page": "entries/B016.html",
+    "map_position": {
+      "latitude": 52.6982545,
+      "longitude": -1.0742542,
+      "east_m": 57.01,
+      "north_m": 87.28,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B017",
+    "name": "Age UK",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S02",
+    "anchor_stop": "route-010",
+    "notes": "entries/B017.md",
+    "page": "entries/B017.html",
+    "map_position": {
+      "latitude": 52.6982535,
+      "longitude": -1.0742578,
+      "east_m": 56.76,
+      "north_m": 87.17,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B018",
+    "name": "Mind",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S02",
+    "anchor_stop": "route-010",
+    "notes": "entries/B018.md",
+    "page": "entries/B018.html",
+    "map_position": {
+      "latitude": 52.6982969,
+      "longitude": -1.0741826,
+      "east_m": 61.84,
+      "north_m": 91.99,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B019",
+    "name": "LOROS",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S03",
+    "anchor_stop": "route-011",
+    "notes": "entries/B019.md",
+    "page": "entries/B019.html",
+    "map_position": {
+      "latitude": 52.6983123,
+      "longitude": -1.0741248,
+      "east_m": 65.73,
+      "north_m": 93.7,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B020",
+    "name": "Subway",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S03",
+    "anchor_stop": "route-011",
+    "notes": "entries/B020.md",
+    "page": "entries/B020.html",
+    "map_position": {
+      "latitude": 52.6983658,
+      "longitude": -1.0740454,
+      "east_m": 71.08,
+      "north_m": 99.65,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B021",
+    "name": "William Hill",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S03",
+    "anchor_stop": "route-012",
+    "notes": "entries/B021.md",
+    "page": "entries/B021.html",
+    "map_position": {
+      "latitude": 52.6983897,
+      "longitude": -1.0740201,
+      "east_m": 72.78,
+      "north_m": 102.31,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B022",
+    "name": "Smith Hamylton",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S03",
+    "anchor_stop": "route-013",
+    "notes": "entries/B022.md",
+    "page": "entries/B022.html",
+    "map_position": {
+      "latitude": 52.698467,
+      "longitude": -1.073996,
+      "east_m": 74.41,
+      "north_m": 110.91,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B023",
+    "name": "Byrite Electricals",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S03",
+    "anchor_stop": "route-013",
+    "notes": "entries/B023.md",
+    "page": "entries/B023.html",
+    "map_position": {
+      "latitude": 52.698516,
+      "longitude": -1.0739586,
+      "east_m": 76.93,
+      "north_m": 116.35,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B024",
+    "name": "Greggs",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S03",
+    "anchor_stop": "route-014",
+    "notes": "entries/B024.md",
+    "page": "entries/B024.html",
+    "map_position": {
+      "latitude": 52.6985822,
+      "longitude": -1.0738971,
+      "east_m": 81.08,
+      "north_m": 123.72,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B025",
+    "name": "Hays Travel",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S03",
+    "anchor_stop": "route-014",
+    "notes": "entries/B025.md",
+    "page": "entries/B025.html",
+    "map_position": {
+      "latitude": 52.6986262,
+      "longitude": -1.0738228,
+      "east_m": 86.08,
+      "north_m": 128.61,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B026",
+    "name": "Sunlit Chemist",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S03",
+    "anchor_stop": "route-015",
+    "notes": "entries/B026.md",
+    "page": "entries/B026.html",
+    "map_position": {
+      "latitude": 52.6986685,
+      "longitude": -1.0737164,
+      "east_m": 93.25,
+      "north_m": 133.31,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B027",
+    "name": "B&M gabled frontage",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S04",
+    "anchor_stop": "route-017",
+    "notes": "entries/B027.md",
+    "page": "entries/B027.html",
+    "map_position": {
+      "latitude": 52.6987696,
+      "longitude": -1.0735965,
+      "east_m": 101.33,
+      "north_m": 144.55,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B028",
+    "name": "Town Square Shopping Centre gable",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S04",
+    "anchor_stop": "route-018",
+    "notes": "entries/B028.md",
+    "page": "entries/B028.html",
+    "map_position": {
+      "latitude": 52.698894,
+      "longitude": -1.0735079,
+      "east_m": 107.3,
+      "north_m": 158.38,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B029",
+    "name": "Marine fish-and-chips frontage",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S04",
+    "anchor_stop": "route-020",
+    "notes": "entries/B029.md",
+    "page": "entries/B029.html",
+    "map_position": {
+      "latitude": 52.6990368,
+      "longitude": -1.073371,
+      "east_m": 116.53,
+      "north_m": 174.27,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B030",
+    "name": "We Vape frontage — verify exact styling",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S04",
+    "anchor_stop": "route-021",
+    "notes": "entries/B030.md",
+    "page": "entries/B030.html",
+    "map_position": {
+      "latitude": 52.6990326,
+      "longitude": -1.0733036,
+      "east_m": 121.07,
+      "north_m": 173.79,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B031",
+    "name": "Town Square recessed passage frontage",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S04",
+    "anchor_stop": "route-021",
+    "notes": "entries/B031.md",
+    "page": "entries/B031.html",
+    "map_position": {
+      "latitude": 52.6990808,
+      "longitude": -1.0732638,
+      "east_m": 123.75,
+      "north_m": 179.16,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B032",
+    "name": "Amy Clarke Hair",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S05",
+    "anchor_stop": "route-022",
+    "notes": "entries/B032.md",
+    "page": "entries/B032.html",
+    "map_position": {
+      "latitude": 52.6991465,
+      "longitude": -1.073255,
+      "east_m": 124.34,
+      "north_m": 186.47,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B033",
+    "name": "GLO corner frontage",
+    "kind": "building-frontage",
+    "side": "west",
+    "section": "S05",
+    "anchor_stop": "route-023",
+    "notes": "entries/B033.md",
+    "page": "entries/B033.html",
+    "map_position": {
+      "latitude": 52.6992252,
+      "longitude": -1.0732037,
+      "east_m": 127.8,
+      "north_m": 195.22,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B034",
+    "name": "Golden Barber",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S02",
+    "anchor_stop": "route-009",
+    "notes": "entries/B034.md",
+    "page": "entries/B034.html",
+    "map_position": {
+      "latitude": 52.6980342,
+      "longitude": -1.0740918,
+      "east_m": 67.95,
+      "north_m": 62.78,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B035",
+    "name": "Designer Daisies",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S02",
+    "anchor_stop": "route-009",
+    "notes": "entries/B035.md",
+    "page": "entries/B035.html",
+    "map_position": {
+      "latitude": 52.698069,
+      "longitude": -1.0740447,
+      "east_m": 71.13,
+      "north_m": 66.65,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B036",
+    "name": "Syston Jewellers",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S02",
+    "anchor_stop": "route-009",
+    "notes": "entries/B036.md",
+    "page": "entries/B036.html",
+    "map_position": {
+      "latitude": 52.6981037,
+      "longitude": -1.0739977,
+      "east_m": 74.3,
+      "north_m": 70.51,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B037",
+    "name": "End bay beside the bus shelter — name unresolved",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S02",
+    "anchor_stop": "route-008",
+    "notes": "entries/B037.md",
+    "page": "entries/B037.html",
+    "map_position": {
+      "latitude": 52.6980351,
+      "longitude": -1.0740817,
+      "east_m": 68.63,
+      "north_m": 62.89,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B038",
+    "name": "Food Warehouse retail block",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S03",
+    "anchor_stop": "route-012",
+    "notes": "entries/B038.md",
+    "page": "entries/B038.html",
+    "map_position": {
+      "latitude": 52.6983318,
+      "longitude": -1.0736742,
+      "east_m": 96.1,
+      "north_m": 95.87,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B039",
+    "name": "cardfactory",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S03",
+    "anchor_stop": "route-012",
+    "notes": "entries/B039.md",
+    "page": "entries/B039.html",
+    "map_position": {
+      "latitude": 52.6983069,
+      "longitude": -1.0736912,
+      "east_m": 94.95,
+      "north_m": 93.1,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B040",
+    "name": "Savers",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S03",
+    "anchor_stop": "route-011",
+    "notes": "entries/B040.md",
+    "page": "entries/B040.html",
+    "map_position": {
+      "latitude": 52.6982216,
+      "longitude": -1.0737805,
+      "east_m": 88.93,
+      "north_m": 83.61,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B041",
+    "name": "Syston DIY / Firework Deals Store",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S03",
+    "anchor_stop": "route-014",
+    "notes": "entries/B041.md",
+    "page": "entries/B041.html",
+    "map_position": {
+      "latitude": 52.6984468,
+      "longitude": -1.0736162,
+      "east_m": 100.0,
+      "north_m": 108.66,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B042",
+    "name": "Spencers",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S03",
+    "anchor_stop": "route-015",
+    "notes": "entries/B042.md",
+    "page": "entries/B042.html",
+    "map_position": {
+      "latitude": 52.6985311,
+      "longitude": -1.0734416,
+      "east_m": 111.77,
+      "north_m": 118.04,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B043",
+    "name": "Syston Sizzler",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S04",
+    "anchor_stop": "route-016",
+    "notes": "entries/B043.md",
+    "page": "entries/B043.html",
+    "map_position": {
+      "latitude": 52.6986224,
+      "longitude": -1.0733705,
+      "east_m": 116.56,
+      "north_m": 128.19,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B044",
+    "name": "Betfred",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S04",
+    "anchor_stop": "route-017",
+    "notes": "entries/B044.md",
+    "page": "entries/B044.html",
+    "map_position": {
+      "latitude": 52.6986917,
+      "longitude": -1.0732562,
+      "east_m": 124.26,
+      "north_m": 135.89,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B045",
+    "name": "Costa Coffee",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S04",
+    "anchor_stop": "route-018",
+    "notes": "entries/B045.md",
+    "page": "entries/B045.html",
+    "map_position": {
+      "latitude": 52.6987932,
+      "longitude": -1.0731926,
+      "east_m": 128.55,
+      "north_m": 147.17,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B046",
+    "name": "Josiah Hincks Solicitors",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S04",
+    "anchor_stop": "route-020",
+    "notes": "entries/B046.md",
+    "page": "entries/B046.html",
+    "map_position": {
+      "latitude": 52.6988924,
+      "longitude": -1.0731059,
+      "east_m": 134.39,
+      "north_m": 158.21,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B047",
+    "name": "Bistro Oggi corner",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S04",
+    "anchor_stop": "route-021",
+    "notes": "entries/B047.md",
+    "page": "entries/B047.html",
+    "map_position": {
+      "latitude": 52.6990084,
+      "longitude": -1.0729253,
+      "east_m": 146.56,
+      "north_m": 171.11,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B048",
+    "name": "Fox & Hounds — junction context",
+    "kind": "building-frontage",
+    "side": "north",
+    "section": "S05",
+    "anchor_stop": "route-023",
+    "notes": "entries/B048.md",
+    "page": "entries/B048.html",
+    "map_position": {
+      "latitude": 52.6993666,
+      "longitude": -1.0730138,
+      "east_m": 140.6,
+      "north_m": 210.94,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B049",
+    "name": "Northern junction retail row — identities unresolved",
+    "kind": "building-frontage",
+    "side": "north",
+    "section": "S05",
+    "anchor_stop": "route-023",
+    "notes": "entries/B049.md",
+    "page": "entries/B049.html",
+    "map_position": {
+      "latitude": 52.6994649,
+      "longitude": -1.0729095,
+      "east_m": 147.63,
+      "north_m": 221.87,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B050",
+    "name": "Pharmacie Arms — existing reference anchor",
+    "kind": "building-frontage",
+    "side": "north",
+    "section": "S05",
+    "anchor_stop": "route-023",
+    "notes": "entries/B050.md",
+    "page": "entries/B050.html",
+    "map_position": {
+      "latitude": 52.6994153,
+      "longitude": -1.0733271,
+      "east_m": 119.48,
+      "north_m": 216.35,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "B051",
+    "name": "Oxfam lower frontage",
+    "kind": "building-frontage",
+    "side": "east",
+    "section": "S03",
+    "anchor_stop": "route-012",
+    "notes": "entries/B051.md",
+    "page": "entries/B051.html",
+    "map_position": {
+      "latitude": 52.6982487,
+      "longitude": -1.0737311,
+      "east_m": 92.26,
+      "north_m": 86.64,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F001",
+    "name": "Melton Road carriageway and route",
+    "kind": "street-feature",
+    "side": "centre",
+    "section": "S03",
+    "anchor_stop": "route-012",
+    "notes": "entries/F001.md",
+    "page": "entries/F001.html",
+    "map_position": {
+      "latitude": 52.6983732,
+      "longitude": -1.0738386,
+      "east_m": 85.02,
+      "north_m": 100.48,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F002",
+    "name": "Pavements, kerbs and drainage",
+    "kind": "street-feature",
+    "side": "centre",
+    "section": "S03",
+    "anchor_stop": "route-012",
+    "notes": "entries/F002.md",
+    "page": "entries/F002.html",
+    "map_position": {
+      "latitude": 52.6983732,
+      "longitude": -1.0738386,
+      "east_m": 85.02,
+      "north_m": 100.48,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F003",
+    "name": "Brook and bridge",
+    "kind": "street-feature",
+    "side": "centre",
+    "section": "S02",
+    "anchor_stop": "route-006",
+    "notes": "entries/F003.md",
+    "page": "entries/F003.html",
+    "map_position": {
+      "latitude": 52.69792,
+      "longitude": -1.0745158,
+      "east_m": 39.38,
+      "north_m": 50.08,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F004",
+    "name": "Brookside / bridge-side junction and access",
+    "kind": "street-feature",
+    "side": "east",
+    "section": "S02",
+    "anchor_stop": "route-007",
+    "notes": "entries/F004.md",
+    "page": "entries/F004.html",
+    "map_position": {
+      "latitude": 52.6979191,
+      "longitude": -1.0742749,
+      "east_m": 55.61,
+      "north_m": 49.98,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F005",
+    "name": "Bridge railings and brook boundary walls",
+    "kind": "street-feature",
+    "side": "west",
+    "section": "S02",
+    "anchor_stop": "route-006",
+    "notes": "entries/F005.md",
+    "page": "entries/F005.html",
+    "map_position": {
+      "latitude": 52.6979863,
+      "longitude": -1.0746564,
+      "east_m": 29.91,
+      "north_m": 57.45,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F006",
+    "name": "Green bus shelter beside corner shops",
+    "kind": "street-feature",
+    "side": "east",
+    "section": "S02",
+    "anchor_stop": "route-008",
+    "notes": "entries/F006.md",
+    "page": "entries/F006.html",
+    "map_position": {
+      "latitude": 52.6980088,
+      "longitude": -1.0741222,
+      "east_m": 65.9,
+      "north_m": 59.96,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F007",
+    "name": "Southern traffic-controlled crossing",
+    "kind": "street-feature",
+    "side": "centre",
+    "section": "S01",
+    "anchor_stop": "route-001",
+    "notes": "entries/F007.md",
+    "page": "entries/F007.html",
+    "map_position": {
+      "latitude": 52.6974366,
+      "longitude": -1.0751506,
+      "east_m": -3.4,
+      "north_m": -3.67,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F008",
+    "name": "Greggs / DIY traffic-controlled crossing",
+    "kind": "street-feature",
+    "side": "centre",
+    "section": "S03",
+    "anchor_stop": "route-013",
+    "notes": "entries/F008.md",
+    "page": "entries/F008.html",
+    "map_position": {
+      "latitude": 52.6984706,
+      "longitude": -1.073797,
+      "east_m": 87.82,
+      "north_m": 111.31,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F009",
+    "name": "Retail car-park entrance and yellow box",
+    "kind": "street-feature",
+    "side": "east",
+    "section": "S03",
+    "anchor_stop": "route-015",
+    "notes": "entries/F009.md",
+    "page": "entries/F009.html",
+    "map_position": {
+      "latitude": 52.6985311,
+      "longitude": -1.0734416,
+      "east_m": 111.77,
+      "north_m": 118.04,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F010",
+    "name": "B&M market canopies and pavement stalls",
+    "kind": "street-feature",
+    "side": "west",
+    "section": "S04",
+    "anchor_stop": "route-017",
+    "notes": "entries/F010.md",
+    "page": "entries/F010.html",
+    "map_position": {
+      "latitude": 52.6988303,
+      "longitude": -1.0735327,
+      "east_m": 105.63,
+      "north_m": 151.3,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F011",
+    "name": "Iron-gated gap beside Costa",
+    "kind": "street-feature",
+    "side": "east",
+    "section": "S04",
+    "anchor_stop": "route-019",
+    "notes": "entries/F011.md",
+    "page": "entries/F011.html",
+    "map_position": {
+      "latitude": 52.6988378,
+      "longitude": -1.0731462,
+      "east_m": 131.67,
+      "north_m": 152.14,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F012",
+    "name": "Zebra crossing and beacon approach",
+    "kind": "street-feature",
+    "side": "centre",
+    "section": "S05",
+    "anchor_stop": "route-022",
+    "notes": "entries/F012.md",
+    "page": "entries/F012.html",
+    "map_position": {
+      "latitude": 52.6991632,
+      "longitude": -1.0730578,
+      "east_m": 137.63,
+      "north_m": 188.32,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F013",
+    "name": "Mini-roundabout and traffic island",
+    "kind": "street-feature",
+    "side": "centre",
+    "section": "S05",
+    "anchor_stop": "route-023",
+    "notes": "entries/F013.md",
+    "page": "entries/F013.html",
+    "map_position": {
+      "latitude": 52.6992274,
+      "longitude": -1.0729897,
+      "east_m": 142.22,
+      "north_m": 195.46,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F014",
+    "name": "Street furniture: lamps, bins and planting",
+    "kind": "street-feature",
+    "side": "centre",
+    "section": "S04",
+    "anchor_stop": "route-018",
+    "notes": "entries/F014.md",
+    "page": "entries/F014.html",
+    "map_position": {
+      "latitude": 52.6988395,
+      "longitude": -1.0733534,
+      "east_m": 117.71,
+      "north_m": 152.33,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F015",
+    "name": "Facade utilities and roof services",
+    "kind": "street-feature",
+    "side": "west",
+    "section": "S04",
+    "anchor_stop": "route-020",
+    "notes": "entries/F015.md",
+    "page": "entries/F015.html",
+    "map_position": {
+      "latitude": 52.6990646,
+      "longitude": -1.0733332,
+      "east_m": 119.08,
+      "north_m": 177.35,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F016",
+    "name": "Narrow access bay between LOROS and Subway",
+    "kind": "street-feature",
+    "side": "west",
+    "section": "S03",
+    "anchor_stop": "route-011",
+    "notes": "entries/F016.md",
+    "page": "entries/F016.html",
+    "map_position": {
+      "latitude": 52.6983391,
+      "longitude": -1.0740851,
+      "east_m": 68.4,
+      "north_m": 96.68,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  },
+  {
+    "id": "F017",
+    "name": "White access door between Marine and vape",
+    "kind": "street-feature",
+    "side": "west",
+    "section": "S04",
+    "anchor_stop": "route-020",
+    "notes": "entries/F017.md",
+    "page": "entries/F017.html",
+    "map_position": {
+      "latitude": 52.6990784,
+      "longitude": -1.0733142,
+      "east_m": 120.35,
+      "north_m": 178.89,
+      "method": "Estimated offset from photographed camera route; B050 uses Google place pin. Not measured building geometry."
+    }
+  }
+]
