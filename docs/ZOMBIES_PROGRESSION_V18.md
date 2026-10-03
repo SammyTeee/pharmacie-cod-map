@@ -1,5 +1,13 @@
 # Proposed Zombies progression — plan before Radiant
 
+Implementation update 2026-10-03: Sam authorized the separate `zm_pharmacie_playtest`.
+Three zones, linked 750-point street exits, 1000-point stair access, four stock wall
+buys and item placements are now authored and built. Sam confirms pub/stair doors
+work. A new1250-point crossing-wall purchase extends street access to Post Office
+and Natural Wellbeing with its own zone/risers; runtime test pending. Full route,
+AI and co-op checks remain pending. See
+[PLAYTEST_V18.md](PLAYTEST_V18.md); the proposal below remains design intent.
+
 Sam's direction: start in the pub/bar, buy access outside and upstairs, and plan
 the map's play before conversion. These are explicit **proposals**, not working
 doors, zones or game scripts. Blender collection `GAMEPLAY v18 | Zombies

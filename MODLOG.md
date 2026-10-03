@@ -344,3 +344,196 @@ roof geometry, exact gameplay/prefab sizes, collision design, progression door s
 exporter/material calibration and eventual compiler/game/co-op verification. No
 Radiant conversion/deployment/game installation writes. User authorized repository
 commit/push for this checkpoint; no map release or external publication requested.
+
+## V18 separate Radiant playtest and corrective builds — 2026-10-03
+
+Sam lifted conversion hold for a private test that plays as Zombies. New project
+`zm_pharmacie_playtest` preserves all earlier maps and the unchanged v18 Blender.
+Read `docs/PLAYTEST_V18.md` for details/limits and continuing runtime investigation.
+
+Read-only live export command:
+`build/blender-mcp-env/Scripts/python.exe scripts/run_blender_script.py scripts/export_playtest_v18.py`.
+Generator `python scripts/generate_playtest_v18.py` creates separate photo crops,
+GDT/manifest, brushes/patches and stock Zombies progression. Evaluated geometry,
+actual Base Color links and face material are inspected; unsupported image mapping
+fails explicitly. Dominant solid material used for upstairs multi-material floor.
+1,837 objects: 1,598 convex brushes,103 slab prisms,76 photo patches,60 boxed curved
+details,123 reported thin/nonconvex omissions. All major structural floors,
+ceilings, stairs and route connector remain; no source photos overwritten.
+
+Three stock managed zones;750-point purchase links front street and rear alley
+exits;1000-point stair gate;8 risers; stock rounds/damage. No invulnerability or
+no-spawn callback. Quick Revive pub, box street,power upstairs. User additionally
+requested weapons: stock RK5 500 pub,KRM750 rear stair approach,Kuda1250 street,
+KN-44 1400 upstairs, using referenced stock weapon_upgrade prefabs. Interior
+mounting wall planes measured with read-only Blender BVH raycasts. Prefab/game
+content not copied into Git.
+
+Build command:
+`.\scripts\build-map.ps1 -ToolsRoot 'S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130' -MapName zm_pharmacie_playtest -AssetFolder assets/playtest-v18 -AssetNamespace pharmacie_pt18 -RebuildAssetDatabase`.
+First full build `build/playtest-v18-build.log` exit0: compiler/ground navmesh,
+fresh Radiant LED,both fastfile links. Initial deployment command:
+`.\scripts\launch-blender-test.ps1 -ToolsRoot 'S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130' -GameRoot 'S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III' -MapName zm_pharmacie_playtest`.
+Players/previous package backed up;entire zone/snd tree copied with per-filehash
+verification. Steam deferred launch to its argument dialog; actual game PID24520
+loaded map and registered both costs. Passive capture shows round4 combat/revive;
+log exposed raised-platform `PATHFIND_FAILURE_UNREACHABLE` near X6.2,Y5.6.
+
+Sam explicitly chose `Leave the controls to me` when recent input activity
+required a game-automation skill check. No input,console commands,purchases,
+movement or scripted control sent; passive C:\ffmpeg\ffmpeg.exe gfxcapture only.
+
+First corrective build fixes legacy lights (`light=140` replaced by25 proper BO3
+white_light omni definitions using radius/stops),raises photo storage resolution,
+sets explicit material tiling/filtering,adds wall buys and shallow platform
+navigation ramp. `/update` failed duplicate GDT registrations(exit1,
+`build/playtest-v18-fix-build.log`); backed-up `/rebuild` succeeded(exit0,
+`build/playtest-v18-fix-rebuild.log`) and complete package redeployed/launched.
+Actual game PID25984; passive screenshot shows substantially brighter pub.
+Sam reports texture improvement incomplete and absent door purchase prompts.
+
+Approach-side trigger correction: move use-volume centres outside solid blockers,
+explicit origins/cursor hint,stock DYNAMICPATH/spawnflags on clip models; cleaner
+framed visible blockers. `build/playtest-v18-doors-build.log` exit0. Added optional
+`--calibrate-uv` three reference panels (spans1,128,2048,same image/material);
+`build/playtest-v18-uv-calibration-build.log` exit0,deployed/launched(actualPID24288).
+Passive requested screenshot `build/bo3-current-screenshot.png` shows streaked
+wall/diagnostic images and enlarged backwards text from oblique/rear view. Does
+not establish full frontal UV normalization. AI still reports unreachable/invalid
+goals when players stand on furniture or unsupported geometry; full AI/stairs
+and co-op are not verified.
+
+Sam added untouched `references/broken fronty textures.png`: Wreake Valley square
+facade image readable while pub fascia lettering absent. Exported fascia bitmap
+contains correct lettering but uses1024x128 storage. Next test makes all97
+photo/colour TIFFs square,retains world panel aspect and original UV ordering,
+uses new photo asset identities;diagnostic panels removed. This is a supported
+scaling hypothesis,not a confirmed engine cause. `build/playtest-v18-square-build.log`
+exit0. Restored nondegenerate 0/1 photo-patch lightmap corners matching our earlier
+working photo exporter;latest build `build/playtest-v18-square-lightmap-build.log`
+in progress at this entry. Original glazed-door crops contain only83x239 source
+pixels each; enlarging cannot recover missing source detail. Game graphics read
+only: TextureQuality1 drops a streamed mip,TextureFilter2 forces16x;no settings
+changed. Custom images use streamable0.
+
+No public release or Git push for this engine test. Current package must not be
+overwritten while Sam's BO3 session is running;launcher explicitly checks this.
+Continue final build/deploy and passive texture/purchase verification after exit.
+
+Follow-up: square/lightmap build completed successfully (exit0, full compile,
+fresh lighting and both links), then hash-verified deployment after BO3 exited.
+Latest actual game PID15872. Sam confirms the Pharmacie entrance fascia/logo
+now renders, but windows remain blurry/cropped relative to Blender. This confirms
+an improvement, not full texture fidelity or verified door purchases.
+
+Read-only live Blender inspection: all frontage photo panes use the unchanged
+1024x751 JPG, Base Color only, Alpha1 and Transmission0. Their apparent interior
+view/reflections are photographic, not real transparent glass. Render and active
+UV layers both resolve to UV_Source_Photo for these panes; their mismatch is not
+the cause here. Door crops contain approximately83x239 original pixels; main
+display crops are approximately132x317. Resizing cannot create finer lettering.
+Exporter now resolves render/explicit shader UV maps instead of assuming the
+editor-selected layer, and rejects non-UV coordinate-node links. This safeguard
+has not been rebuilt and is not claimed to correct these matching window UVs.
+Passive capture build/window-texture-current.png shows the BO3 title screen,
+so it supplies no evidence of the current window crop. Need a frontal runtime
+view to distinguish mapping/occlusion from low photographic resolution before
+another targeted texture build. No game inputs sent, Blender source unchanged.
+
+Sam directed inspection of Steam screenshots. Found three originals under
+C:/Program Files (x86)/Steam/userdata/111563730/760/remote/311210/screenshots;
+unchanged copies retained in docs/build-results/playtest-v18/screenshots.
+20261003153501_1.jpg shows the latest readable Pharmacie fascia, but visible
+window lettering ends abruptly at pane edges. Remaining crop/mapping/framing
+must be compared against Blender; low source resolution alone does not explain
+all the visible truncation. Neighbouring full-facade image is substantially
+clearer. The entrance gives a real view into the lit room through its opening;
+this does not establish transparent glass material.
+Earlier 20261003151524_1.jpg and 20261003151536_1.jpg show the UV diagnostic
+panels and an explicit Hold F to clear Debris [Cost: 750] prompt. Street purchase
+prompt is now screenshot-verified; successful removal and upstairs purchase
+remain unverified. Earlier wall streaking belongs to the pre-square diagnostic
+build and must not be attributed to the latest build without new evidence.
+
+Sam subsequently confirms doors work. Treat reported door purchases as working;
+automated route/co-op checks still unrun. User requests sharp textures. New pass
+preserves full original photo bitmaps in square storage and original Blender UVs
+for all image panes, removing per-pane crop/UV rebounding as an engine mismatch
+variable. Photos remain source-resolution-limited; this is not invented detail.
+Live frontal raycasts across both outer display panes hit their photo quads,
+not oversized trim in Blender. Runtime mapping still needs comparison.
+
+Added project-created 1024-square typeset drinks plaque PNG plus editable SVG
+and provenance in assets/signage; exact observed wording, approximate border,
+colour and serif font, rasterized from local Times New Roman without distributing
+the font. Two thin non-solid overlays interpolate onto the source-photo plaque
+regions of evaluated outer panes, offset12mm outward to avoid coincident faces.
+Only test-map conversion receives overlays; saved v18 Blender remains unchanged.
+Applied asset-pipeline skill for engine derivative preparation. Source checks
+verify original photo UVs retained, two sharp plaques and source hash integrity;
+full build underway in build/playtest-v18-sharp-window-build.log. Need actual
+runtime to judge crop repair, clarity and overlay placement; no claim all textures
+are fixed. Current user-controlled BO3 must exit before deployment.
+
+Sharp-window build completed exit0: full cod2map/navmesh, fresh LED bake, map
+link36.54s and locale link3.05s. Exact command: scripts/build-map.ps1 -ToolsRoot
+'S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130' -MapName
+zm_pharmacie_playtest -AssetFolder assets/playtest-v18 -AssetNamespace
+pharmacie_pt18 -RebuildAssetDatabase (log copied to
+docs/build-results/playtest-v18/sharp-window-build.log). Source checks pass,
+44 original hashes unchanged,87 referenced square images,78 photo patches.
+Game was absent, so scripts/launch-blender-test.ps1 deployed the complete zone
+tree with per-file hashes and relaunched the test (requested PID25728,
+14:54:12UTC). Backup build/before-blender-test-20261003-155410. User retains
+controls; latest rendering remains unverified until inspected in game.
+
+Sam confirms the sharp-window build looks good; continuing with explicit sharp
+static signage where supported by references. Latest Steam screenshots
+20261003163211_1.jpg confirm uncropped frontage/plaques;20261003163248_1.jpg shows
+the bar front incorrectly includes upper shelving. Live Blender UVs correctly
+separate drawer crop(50,745,1900,1230),backbar normalized(.205,.215,.985,.585),
+and TV(.435,.262,.575,.402). Engine crop rendering still mismatched, so converted
+these three regions into separate PNGs with full-panel UVs and separate hashed
+materials. Crops/provenance in assets/bar-regions/manifest.json; tests compare
+each derivative pixel-for-pixel to its specified unchanged original crop.
+
+Implemented user-requested wooden crossing wall purchase:1250points,stock
+zombie_debris with use volumes on both sides,linked removable wood and dynamic
+navigation clip. Replaced old static X30 end wall; street extends toX60. New
+crossing_zone covers road/pavements X30..60 and existing3m Post Office/Natural
+Wellbeing lane X45..48,Y-30..-13. Adds3 zone-gated risers,3 lights,new zone
+adjacency pt18_crossing_open; shop interiors stay scenery. Far/lane ends bounded
+and invisible clips prevent leaving supported pavement or bypassing gate via
+placeholder buildings. Lane is a dead end, not a new loop; balance and runtime
+pursuit pending. Source checks pass:5 use triggers,4 linked collision models,
+3 gate targets,89 square assets,44 original reference hashes unchanged.
+Full build running:build/playtest-v18-crossing-bar-build.log. No game controls
+sent; cannot deploy while Sam's BO3 session is active.
+
+Crossing/bar full build exit0: cod2map/navmesh,fresh lighting,map link19.20s,
+locale link3.86s. Log copied docs/build-results/playtest-v18/crossing-bar-build.log;
+export report refreshed. Existing BO3 PID21404 still active, so no deployment.
+Requested session closure before hash-verified deployment; user controls retained.
+Current game still runs the successful sharp-window version. New purchase,
+zombie crossing pursuit and separated bar appearance are not runtime-verified.
+
+Sam requested notes in the repo to pick up later. Saved consolidated handover
+docs/HANDOVER_2026-10-03.md and linked it from AGENTS.md. User-confirmed improved
+textures/working doors distinguished from built-but-undeployed crossing/bar
+fixes; exact resume command, asset provenance, source-vs-conversion differences,
+remaining runtime checks and user-controlled game constraint recorded. No new
+deployment, game input, Git commit/push or public release for this notes request.
+Final status also shows assets/blender/pharmacie-player-cleanup-v18.blend modified.
+Our engine scripts never saved it; origin of that change is unresolved. Handover
+explicitly records this and instructs preserving the working copy.
+
+Sam authorized pushing the latest work and requested a Blender screenshot page.
+Added docs/BLENDER_RENDER_GALLERY.md with12 saved v18 Cycles views, full-size
+links and explicit distinction from subsequent engine-only additions. README
+links gallery/current handover. All gallery targets exist; source checks pass
+with44 original hashes intact. Obsolete generated TIFFs moved into ignored
+build/obsolete-playtest-assets-before-push, preserving local copies; only89
+currently referenced textures retained in asset folder. Includes existing
+modified v18 .blend as requested latest work; our conversion scripts did not
+save it. Git commit/push follows. Pending crossing/bar deployment remains
+pending; no game takeover, installation change or release publishing here.

@@ -1,0 +1,807 @@
+{
+  "convex_mesh_brushes": 1598,
+  "slab_triangle_brushes": 103,
+  "photo_patches": 78,
+  "skipped": [
+    {
+      "name": "Video | upstairs seating carpet",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | left dark dado 0",
+      "reason": "Non-convex mesh requires model export"
+    },
+    {
+      "name": "Video | left dark dado 1",
+      "reason": "Non-convex mesh requires model export"
+    },
+    {
+      "name": "Video | left dark dado 2",
+      "reason": "Non-convex mesh requires model export"
+    },
+    {
+      "name": "Video | right dark dado 0",
+      "reason": "Non-convex mesh requires model export"
+    },
+    {
+      "name": "Video | right dark dado 1",
+      "reason": "Non-convex mesh requires model export"
+    },
+    {
+      "name": "Video | right dark dado 2",
+      "reason": "Non-convex mesh requires model export"
+    },
+    {
+      "name": "Video | dart cork backing",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.0",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.1",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.2",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.3",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.4",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.5",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.6",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.7",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.8",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.9",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.10",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.11",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.12",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.13",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.14",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.15",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.16",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.17",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.18",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 0.19",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.0",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.1",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.2",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.3",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.4",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.5",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.6",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.7",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.8",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.9",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.10",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.11",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.12",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.13",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.14",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.15",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.16",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.17",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.18",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 1.19",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.0",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.1",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.2",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.3",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.4",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.5",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.6",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.7",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.8",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.9",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.10",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.11",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.12",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.13",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.14",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.15",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.16",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.17",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.18",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 2.19",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.0",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.1",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.2",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.3",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.4",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.5",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.6",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.7",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.8",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.9",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.10",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.11",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.12",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.13",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.14",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.15",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.16",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.17",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.18",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 3.19",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.0",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.1",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.2",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.3",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.4",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.5",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.6",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.7",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.8",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.9",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.10",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.11",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.12",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.13",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.14",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.15",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.16",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.17",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.18",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | dart sector 4.19",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Video | right dark timber dado",
+      "reason": "Non-convex mesh requires model export"
+    },
+    {
+      "name": "Video | right dark timber dado.001",
+      "reason": "Non-convex mesh requires model export"
+    },
+    {
+      "name": "Street v17 | Pasha Barber sign lettering",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Street v17 | Papermoon sign lettering",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Street v17 | Natural Wellbeing cream gable infill",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Street v17 | Crossing zigzag approach",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Street v17 | Crossing zigzag approach.001",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Street v17 | Crossing zigzag approach.002",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Street v17 | Crossing zigzag approach.003",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Street v17 | Crossing zigzag approach.004",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Street v17 | Crossing zigzag approach.005",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Street v17 | Crossing zigzag approach.006",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Street v17 | Crossing zigzag approach.007",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Street v17 | Crossing zigzag approach.008",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    },
+    {
+      "name": "Street v17 | Crossing zigzag approach.009",
+      "reason": "Micro-detail or unsupported non-solid photo surface under 0.6 map units"
+    }
+  ],
+  "source_objects": 1839,
+  "simplified_high_facet_details": 60,
+  "map": "C:\\Users\\sam\\pharmacie-cod-map\\map_source\\zm\\zm_pharmacie_playtest.map",
+  "project": "zm_pharmacie_playtest",
+  "scale_map_units_per_metre": 39.37007874015748,
+  "translation_metres": [
+    -3.5,
+    -10,
+    0
+  ],
+  "source_blend": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-player-cleanup-v18.blend",
+  "initial_spawns": 8,
+  "riser_locations": 3,
+  "conversion": "Convex meshes -> brushes, concave horizontal slabs -> triangle prisms, known photo quads -> iwmap meshes",
+  "limitations": "Brush conversion boxes curved detail; procedural brick/wood use stock placeholders; explicit material tiling and higher resolution await runtime UV verification; collision/AI/co-op pending",
+  "zones": {
+    "start_zone": [
+      [
+        -8,
+        11,
+        -0.02,
+        31.1,
+        -0.5,
+        4.35
+      ]
+    ],
+    "street_zone": [
+      [
+        -18,
+        30,
+        -13,
+        -0.02,
+        -0.5,
+        4.35
+      ],
+      [
+        -13.1,
+        -9.8,
+        0,
+        33.1,
+        -0.5,
+        4.35
+      ],
+      [
+        -13.1,
+        2,
+        31.1,
+        34.5,
+        -0.5,
+        4.35
+      ]
+    ],
+    "upstairs_zone": [
+      [
+        -8,
+        11,
+        0,
+        31.1,
+        4.35,
+        9.1
+      ]
+    ],
+    "crossing_zone": [
+      [
+        30,
+        60,
+        -13,
+        0,
+        -0.5,
+        4.35
+      ],
+      [
+        45,
+        48,
+        -30,
+        -13,
+        -0.5,
+        4.35
+      ]
+    ]
+  },
+  "risers": {
+    "start_zone": [
+      [
+        3.45,
+        5.6,
+        0.03
+      ],
+      [
+        2.5,
+        14.7,
+        0.03
+      ],
+      [
+        -2.8,
+        25,
+        0.03
+      ]
+    ],
+    "street_zone": [
+      [
+        2,
+        -11.5,
+        0.03
+      ],
+      [
+        23,
+        -11.5,
+        0.03
+      ],
+      [
+        -14,
+        -1.5,
+        0.03
+      ]
+    ],
+    "upstairs_zone": [
+      [
+        3.45,
+        5.6,
+        4.83
+      ],
+      [
+        3.45,
+        14.7,
+        4.83
+      ]
+    ],
+    "crossing_zone": [
+      [
+        36,
+        -11.8,
+        0.03
+      ],
+      [
+        55,
+        -11.4,
+        0.03
+      ],
+      [
+        46.5,
+        -24,
+        0.03
+      ]
+    ]
+  },
+  "purchases": {
+    "street_front_and_rear": 750,
+    "stairs": 1000,
+    "crossing": 1250
+  },
+  "assets": 89,
+  "uv_calibration": {
+    "enabled": false,
+    "left_to_right_texture_coordinate_spans": [
+      1,
+      128,
+      2048
+    ]
+  },
+  "wallbuys": [
+    [
+      "pistol_burst",
+      [
+        -1.84,
+        3.5,
+        0.02
+      ],
+      "0 92.87 0"
+    ],
+    [
+      "smg_standard",
+      [
+        -15,
+        -0.08,
+        0.02
+      ],
+      "0 0 0"
+    ],
+    [
+      "ar_standard",
+      [
+        -2.71,
+        14,
+        4.82
+      ],
+      "0 97.22 0"
+    ],
+    [
+      "shotgun_pump",
+      [
+        -4.53,
+        26,
+        0.02
+      ],
+      "0 98.22 0"
+    ]
+  ],
+  "lights": 28,
+  "navigation_fix": "Shallow clip ramp along raised platform aisle edge; runtime retest required",
+  "zombie_spawning": "Stock rounds, zone-gated risers; no no-spawn callback or invulnerability",
+  "bar_regions": [
+    {
+      "object": "Bar | drawer-front photo face",
+      "derivative": "assets\\bar-regions\\lower-drawers.png",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\references\\pharmacie-syston\\bar front.jpg",
+      "source_sha256": "e91a923a278fd0bab628b11364fd253c00d4d2de7428fef8c6b969a5e2de01fe",
+      "crop_pixels": [
+        50,
+        745,
+        1900,
+        1230
+      ],
+      "dimensions": [
+        1850,
+        485
+      ],
+      "edits": "Exact recorded photo region; no repaint, original unchanged",
+      "original_uvs": [
+        [
+          0.02500000037252903,
+          0.4377358555793762
+        ],
+        [
+          0.949999988079071,
+          0.4377358555793762
+        ],
+        [
+          0.949999988079071,
+          0.07169811427593231
+        ],
+        [
+          0.02500000037252903,
+          0.07169811427593231
+        ]
+      ]
+    },
+    {
+      "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+      "derivative": "assets\\bar-regions\\upper-backbar.png",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\references\\pharmacie-syston\\bar front.jpg",
+      "source_sha256": "e91a923a278fd0bab628b11364fd253c00d4d2de7428fef8c6b969a5e2de01fe",
+      "crop_pixels": [
+        410,
+        285,
+        1970,
+        775
+      ],
+      "dimensions": [
+        1560,
+        490
+      ],
+      "edits": "Exact recorded photo region; no repaint, original unchanged",
+      "original_uvs": [
+        [
+          0.20499999821186066,
+          0.41499999165534973
+        ],
+        [
+          0.9850000143051147,
+          0.41499999165534973
+        ],
+        [
+          0.9850000143051147,
+          0.7850000262260437
+        ],
+        [
+          0.20499999821186066,
+          0.7850000262260437
+        ]
+      ]
+    },
+    {
+      "object": "Bar | photo menu on 3D screen",
+      "derivative": "assets\\bar-regions\\tv-menu.png",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\references\\pharmacie-syston\\bar front.jpg",
+      "source_sha256": "e91a923a278fd0bab628b11364fd253c00d4d2de7428fef8c6b969a5e2de01fe",
+      "crop_pixels": [
+        870,
+        347,
+        1150,
+        533
+      ],
+      "dimensions": [
+        280,
+        186
+      ],
+      "edits": "Exact recorded photo region; no repaint, original unchanged",
+      "original_uvs": [
+        [
+          0.4350000023841858,
+          0.5979999899864197
+        ],
+        [
+          0.574999988079071,
+          0.5979999899864197
+        ],
+        [
+          0.574999988079071,
+          0.7379999756813049
+        ],
+        [
+          0.4350000023841858,
+          0.7379999756813049
+        ]
+      ]
+    }
+  ]
+}

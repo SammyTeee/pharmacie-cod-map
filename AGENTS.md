@@ -4,6 +4,11 @@ This repository is a Call of Duty: Black Ops III custom Zombies map inspired by 
 
 ## Start here
 
+Latest handover: read `docs/HANDOVER_2026-10-03.md` before resuming. Sharp-window
+result and existing doors are user-confirmed; crossing-wall/bar-region package
+is built but not deployed. User retains BO3 controls. Working-tree changes are
+being committed/pushed at Sam's request; check Git status/history for completion.
+
 1. Read `MODLOG.md` for current state and next actions.
 2. Read `MODDING_PLAN.md` for the game/toolchain route and unresolved environment checks.
 3. Read `docs/THE_PHARMACIE_MAP_NOTES.md` for photo-based observations and blockout guidance.
@@ -14,11 +19,15 @@ Keep those notes current when new evidence, decisions, or build results appear. 
 
 ## Project priorities
 
-Current direction (2026-10-03): finish/reference-check the Blender map before
-another Radiant conversion. Latest file is `assets/blender/pharmacie-player-cleanup-v18.blend`.
+Current direction (2026-10-03): Sam authorized the separate `zm_pharmacie_playtest`
+Radiant conversion and private game test. Read `docs/PLAYTEST_V18.md` for current
+builds, texture calibration and missing purchase-prompt investigation. User chose
+to keep game controls; use passive captures/logs and do not drive BO3.
+Latest Blender file is `assets/blender/pharmacie-player-cleanup-v18.blend`.
 Read `recon/v18/README.md` and `docs/ZOMBIES_PROGRESSION_V18.md` before new edits.
-Preserve progression proposals as planning only until actual BO3 door/zone/script
-implementation is authorized. Do not treat Blender ray checks as runtime validation.
+Progression is implemented in the separate test, but door purchases, traversal,
+AI pursuit, wall buys and co-op need individual runtime verification.
+Do not treat Blender ray checks or a successful build as runtime validation.
 
 - First goal: a small, playable cooperative Zombies blockout using the official BO3 Mod Tools and Radiant, with player spawns, playable space, zombie routes, and round logic. Use stock assets and simple geometry first.
 - Use the BO3 Zombies map naming/template conventions (normally a lowercase `zm_` name); settle the name before creating tool-generated project files.

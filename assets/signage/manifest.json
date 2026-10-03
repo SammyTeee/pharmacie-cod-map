@@ -1,0 +1,17 @@
+{
+  "asset": "drinks-plaque.png",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "reference": "references/pharmacie-syston/pharmacie-arms-syston-2.jpg",
+  "wording": [
+    "Cask Ales \u00b7 Lagers",
+    "Craft Beers \u00b7 Ciders",
+    "Wines \u00b7 Spirits",
+    "Cocktails"
+  ],
+  "method": "New typeset artwork, not a photo edit or upscaled crop; wording observed in reference; ornamental shape/font/colour approximate",
+  "font": "Windows Times New Roman, rasterized locally; font file not distributed",
+  "target": "BO3 square RGB TIFF via playtest generator; two outer display panes"
+}

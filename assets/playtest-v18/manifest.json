@@ -1,0 +1,1916 @@
+{
+  "assets": [
+    {
+      "asset": "pharmacie_pt18_8f2d5afd453e",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_4c82f9d07d57",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_84b1cc122d41",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_16942bfdd0e0",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_93517ecb561d",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_7605d3e679b2",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_ed5af089e5c2",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_813ce0f4d2af",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_f7789dfbfbe5",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_d6f518a5f4a8",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\references\\pharmacie-syston\\pharmacie-arms-syston-2.jpg",
+      "source_sha256": "846df20c00665cca564b0505ec6123b5e11c3bfe50d77483dd429b23fea3a6ef",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_6b122117e9ec",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_9bab6bfaab95",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_d7d4b8313473",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_56e36d9c900f",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_dd2ba4e91574",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_445ceb61076b",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_b314aebf3ea1",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_572a14f8c85a",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_d174fdb11c2e",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_e9282a4cb67c",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_dde8f0191d2a",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\references\\pharmacie-syston\\textures wall.jpg",
+      "source_sha256": "3356a1e31bca7b120c6b627283b45b0be372099c6b4a1a676f5f68e4d75c2e4a",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_f661a521de5c",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\bar-regions\\lower-drawers.png",
+      "source_sha256": "346165bc3bc309c32f9f9351ab7da6a8c3cf723eadc205a4173ff71e21a09ddb",
+      "crop_pixels": null,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_2b3f6d5ef8e0",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\photo-review\\feature-wall-lossless.png",
+      "source_sha256": "30cabb3dbb85289b14da6ccb1e000a11c2c141ce0ce89f958841c0fa0d886c29",
+      "crop_pixels": null,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_b634dc9f6344",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\bar-regions\\upper-backbar.png",
+      "source_sha256": "9a95b7cd884cd255970952da2cfc877fa8d1e4af2f246ccfaba2bbe8733b0d18",
+      "crop_pixels": null,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_69331bcd3229",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\bar-regions\\tv-menu.png",
+      "source_sha256": "481d2d7458906ca93867d6a85122d69faa7b5de350a463e480749d519d1e68be",
+      "crop_pixels": null,
+      "dimensions": [
+        512,
+        512
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_ea62bf3e1fb7",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_b7b21ddf4e64",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_1d2f5a8929e6",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_74c293e52eb2",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_79247f6299fd",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\music-muddy-waters.png",
+      "source_sha256": "d525f87b282d94de83d58e3302d4f751932d1e2c5516977d951ed70b0f20d166",
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_2ee3d465596b",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\music-elvis.png",
+      "source_sha256": "edd2053e19a207c8c17c5743e62d12d8f34125343f2ef7fbf7319fbc3098128b",
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_a6ee3cfa52d9",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\music-chuck-berry.png",
+      "source_sha256": "827bbbc5b31fc41d57629e4e508ce65b9229698e106b3755465a1523fee98242",
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_ae154d9099d0",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\music-hit-parade.png",
+      "source_sha256": "de58accf8ba20d460935128b7f41ae7d98d68ffe4dd02622495319be7a6b161d",
+      "crop_pixels": null,
+      "dimensions": [
+        512,
+        512
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_c611fadf2557",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_a863ec91dd7b",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_75bca60d7cb5",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\radio-one.png",
+      "source_sha256": "7a5d93cb36f3b45c20f9e65c6dc6308393bef06c95747c07c50b9ce2344cad62",
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_c0714d1d298a",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\radio-two.png",
+      "source_sha256": "c2d251247060469542dd277e4e33997cb498942ae8199c44f3895b25b55531a4",
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_7c572133e04d",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\radio-three.png",
+      "source_sha256": "64960a79d565bb0eeda55a83ef606fa2bfd99c0fdc92fdd25fb4c5528c25646b",
+      "crop_pixels": null,
+      "dimensions": [
+        128,
+        128
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_9f064d3484cf",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\radio-four.png",
+      "source_sha256": "0544897e87b7200f52dd721e989d6314be85adc9928ccc7b609ad8b6071538b9",
+      "crop_pixels": null,
+      "dimensions": [
+        128,
+        128
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_742e734d3c08",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\book-spines.png",
+      "source_sha256": "8a9f5bebf470004044f031848afda6249638dcb2151a6edf0081dda48800e377",
+      "crop_pixels": null,
+      "dimensions": [
+        512,
+        512
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_2f10704c5b5b",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_606c719b2a6f",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_03be2b119dde",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_db96298d02f1",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_cec37a46c9b5",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\medical-board.png",
+      "source_sha256": "3255de9acc3dd124d99ddbab9d6d3146b2606da50583d3f5921877ddb5993cd7",
+      "crop_pixels": null,
+      "dimensions": [
+        512,
+        512
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_ffd5c6371c90",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\medical-detail.png",
+      "source_sha256": "1280083058ac436ba34ff06179bf1e5367c2ebd11cfb9960d6fc37c361c3e0b7",
+      "crop_pixels": null,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_2dd468c83c6f",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\corridor-beer.png",
+      "source_sha256": "75ec75cd311c26ce8cfec37a3245d376ae7b259f971974c2557cd2166b087b73",
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_e1a56f87877e",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\fridge-cans.png",
+      "source_sha256": "9008477cf578d59f70dd97f0c99926eb862855cccf01311a13d3d8ee7cb18509",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_385bde67d32b",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\fridge-bottles.png",
+      "source_sha256": "1e7fa14942a6175266e90a2eaaad6b4f4be4cfa497c763a0e490d730b429f176",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_3d10e7f1020e",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_c568f06c80e4",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\backbar-tap-bank.png",
+      "source_sha256": "4b54bf85428c58fc0b84aef3429e52838b6c956b6bad04fb479eb710e14dc632",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_7e3ceb0e18fe",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\pump-mild.png",
+      "source_sha256": "1235d91803261b13c55f0752317719c28ebce502539d31ff80e37ce1d8a5a229",
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_e20af5c33086",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\pump-original.png",
+      "source_sha256": "dc28107f76bc4cbbc0fd39748062db784b87c40e96da8ccd132fb7f342960fdc",
+      "crop_pixels": null,
+      "dimensions": [
+        512,
+        512
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_4a337838a415",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\dental-board.png",
+      "source_sha256": "d6073afec1f1f61a5484533ddb37b2b40ace1c3aa82080ba4302fba66a2f1a0b",
+      "crop_pixels": null,
+      "dimensions": [
+        512,
+        512
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_39988d9b5cbd",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\band-aid-advert.png",
+      "source_sha256": "2a8df196a597b095de5a12ee7c2e6128da2443e2f668c510f174f3f4445f33e6",
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_09c7d3502dc4",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\medical-adverts.png",
+      "source_sha256": "a075f39433e059d98a84d6f9f3757c4c66d46c0e228ecfbb45b10f8cc3f1a259",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_0d2d6f013038",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures-downstairs\\camera-adverts.png",
+      "source_sha256": "95507a895826c962e6937aee68a36b024c35f7b5de739a49ed9fd32ab9a941e1",
+      "crop_pixels": null,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_84499b7bba9a",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures-downstairs\\camera-cabinet.png",
+      "source_sha256": "809b070ee9c3823b37a3987633a627cb2bf5e9843d3df302552c6440600641df",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_86e655a4a93d",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_2c03153af55f",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_cf2a065a8b3c",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures-downstairs\\medicine-adverts.png",
+      "source_sha256": "048051894856121aac3914cdb77819b0cce78fe9678ad8b1171b0a1a79699c4f",
+      "crop_pixels": null,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_d85c2e8992e8",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_b0e616b48aa5",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_38888c048a1e",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_a51bbdb2ff37",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_0a0dc2bd2d6b",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\wreake-valley-flooring.png",
+      "source_sha256": "25437b564b4f9dfefe0110d9c6a3a5aa691407b120d129340530d90e2c568a87",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_cad526f40e68",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_6daf6c62b7fe",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\syston-dry-cleaners.png",
+      "source_sha256": "913d06864f703c22f15d971bd13bb1f82bc7a55f87d9b68e9848219477406696",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_69a3c12df7f0",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\nail-and-spa-shop.png",
+      "source_sha256": "2695eb499e78cc03d80eb146422dfc21007b6859639375ea71821150957775fe",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_ecc6bff3f6b0",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_21b1468b2ca6",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_1f23126676b7",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_7a6bc276bc80",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_9872db83bc4b",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\fox-and-hounds.png",
+      "source_sha256": "21c03a5c7c23244c46c2d1c74076534e97e723c1e69317bf6639eb0c1b9e00d4",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_4bf4c2d66ead",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\aston-and-co.png",
+      "source_sha256": "2ac972f824d817a3f06a43d6fc828a56fb3f74ed4956b560de3c4b968e2d79eb",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_47755d833d07",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\syston-mini-market.png",
+      "source_sha256": "26ca3554b7753d8e8f9403158a58b82f3e16e59b39bf4e3a89da5cde5604a9c2",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_1db2c0c93fad",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\lets-move-estate-agents.png",
+      "source_sha256": "05e6b663298cbf15289c16e169fabe54f7e6d55afa074705fe47bcff8162ac0f",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_fd9675e99d19",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\floral-fantasy.png",
+      "source_sha256": "50e2cb87ecc555f85d7a25d78737d69258006824c7c4ef99d23a0345f7295726",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_cf1f7971b9ab",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_966be4c3b0b1",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\post-office.png",
+      "source_sha256": "cebdf3a19163030fb990b1d8918b15c14eced16fef2ecc47a0e22bf68615a248",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_4f22a4526ed0",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_16e1855ac35e",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\natural-wellbeing.png",
+      "source_sha256": "2997a52699e58f4f4c37c28d23839ddfc1463ce10a67301997b494762bdc90cf",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    },
+    {
+      "asset": "pharmacie_pt18_f56bde101b35",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_8aabf5508590",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_8bce0c6ee59f",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_27a94d66e02f",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_43fdec8e7ae1",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_0ec7f019a9d1",
+      "source": null,
+      "source_sha256": null,
+      "crop_pixels": null,
+      "dimensions": [
+        256,
+        256
+      ],
+      "edits": "Blender flat-colour placeholder"
+    },
+    {
+      "asset": "pharmacie_pt18_cfda9591ac62",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\signage\\drinks-plaque.png",
+      "source_sha256": "5955ea98ff660c0e994df425f843d4c4fe40468704b7aa7dd529e6000e865090",
+      "crop_pixels": null,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "edits": "Full source bitmap stored in square power-of-two RGB TIFF; original Blender UVs retained without rebounding or pane cropping; source unchanged"
+    }
+  ],
+  "materials": {
+    "Blockout - warm plaster.001": {
+      "name": "pharmacie_pt18_8f2d5afd453e",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Blockout - window proxy blue.001": {
+      "name": "pharmacie_pt18_4c82f9d07d57",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Blockout - dark shopfront trim.001": {
+      "name": "pharmacie_pt18_84b1cc122d41",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Blockout - doors.001": {
+      "name": "pharmacie_pt18_16942bfdd0e0",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Blockout - dark bar.001": {
+      "name": "pharmacie_pt18_93517ecb561d",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Blockout - timber floor.001": {
+      "name": "pharmacie_pt18_7605d3e679b2",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Blockout - service tiles.001": {
+      "name": "pharmacie_pt18_ed5af089e5c2",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Video | downstairs timber planks": {
+      "name": "t7_wood_planks_damaged_teak",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    "Blockout - warm plaster": {
+      "name": "pharmacie_pt18_8f2d5afd453e",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Blockout - timber floor": {
+      "name": "pharmacie_pt18_7605d3e679b2",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Blockout - provisional stairs.001": {
+      "name": "pharmacie_pt18_813ce0f4d2af",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Blockout - rails.001": {
+      "name": "pharmacie_pt18_f7789dfbfbe5",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Blockout - dark shopfront trim": {
+      "name": "pharmacie_pt18_84b1cc122d41",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Front | left display photo glass": {
+      "name": "pharmacie_pt18_d6f518a5f4a8",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Front | left angled display photo glass": {
+      "name": "pharmacie_pt18_d6f518a5f4a8",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Front | recess fixed glazing photo glass": {
+      "name": "pharmacie_pt18_d6f518a5f4a8",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Front | right angled display photo glass": {
+      "name": "pharmacie_pt18_d6f518a5f4a8",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Front | right display photo glass": {
+      "name": "pharmacie_pt18_d6f518a5f4a8",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Front | entrance transom": {
+      "name": "pharmacie_pt18_d6f518a5f4a8",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Front | entrance leaf 1 photo": {
+      "name": "pharmacie_pt18_d6f518a5f4a8",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Front | entrance leaf 2 photo": {
+      "name": "pharmacie_pt18_d6f518a5f4a8",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Front | photographed fascia": {
+      "name": "pharmacie_pt18_d6f518a5f4a8",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Street v17 | warm red brick": {
+      "name": "t7_brick_worn_heavy_grout_red",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    "Blockout - window proxy blue": {
+      "name": "pharmacie_pt18_4c82f9d07d57",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Front | pale stone lintels": {
+      "name": "pharmacie_pt18_6b122117e9ec",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Interior | brown upholstery": {
+      "name": "pharmacie_pt18_9bab6bfaab95",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Interior | glass tabletop proxy": {
+      "name": "pharmacie_pt18_d7d4b8313473",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Interior | cream chairs": {
+      "name": "pharmacie_pt18_56e36d9c900f",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Interior | dark cabinet": {
+      "name": "pharmacie_pt18_dd2ba4e91574",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Interior | red stool frames": {
+      "name": "pharmacie_pt18_445ceb61076b",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Interior | skeleton placeholder bone": {
+      "name": "pharmacie_pt18_b314aebf3ea1",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Interior | blue bottles": {
+      "name": "pharmacie_pt18_572a14f8c85a",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Interior | amber bottles": {
+      "name": "pharmacie_pt18_d174fdb11c2e",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Interior | brass": {
+      "name": "pharmacie_pt18_e9282a4cb67c",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Right platform | instrument photo face": {
+      "name": "pharmacie_pt18_dde8f0191d2a",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Bar | drawer-front photo face": {
+      "name": "pharmacie_pt18_f661a521de5c",
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    "Panel | Left wall | pharmacy display backing segment 1": {
+      "name": "pharmacie_pt18_2b3f6d5ef8e0",
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    "Panel | Left wall | pharmacy display backing segment 2": {
+      "name": "pharmacie_pt18_2b3f6d5ef8e0",
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    "Panel | Bar | photo-backed bottles, shelves and staff-door detail": {
+      "name": "pharmacie_pt18_b634dc9f6344",
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    "Panel | Bar | photo menu on 3D screen": {
+      "name": "pharmacie_pt18_69331bcd3229",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "Video | muted rose carpet": {
+      "name": "pharmacie_pt18_ea62bf3e1fb7",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Video | brown banquette leather": {
+      "name": "pharmacie_pt18_b7b21ddf4e64",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Video | dark timber": {
+      "name": "pharmacie_pt18_1d2f5a8929e6",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Video | black cabinet": {
+      "name": "pharmacie_pt18_74c293e52eb2",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | left music poster 0.0": {
+      "name": "pharmacie_pt18_79247f6299fd",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | left music poster 0.1": {
+      "name": "pharmacie_pt18_2ee3d465596b",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | left music poster 0.2": {
+      "name": "pharmacie_pt18_a6ee3cfa52d9",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | left music poster 0.3": {
+      "name": "pharmacie_pt18_ae154d9099d0",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "Panel | Video | left music poster 1.0": {
+      "name": "pharmacie_pt18_79247f6299fd",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | left music poster 1.1": {
+      "name": "pharmacie_pt18_2ee3d465596b",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | left music poster 1.2": {
+      "name": "pharmacie_pt18_a6ee3cfa52d9",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | left music poster 1.3": {
+      "name": "pharmacie_pt18_ae154d9099d0",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "Panel | Video | left music poster 2.0": {
+      "name": "pharmacie_pt18_79247f6299fd",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | left music poster 2.1": {
+      "name": "pharmacie_pt18_2ee3d465596b",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | left music poster 2.2": {
+      "name": "pharmacie_pt18_a6ee3cfa52d9",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | left music poster 2.3": {
+      "name": "pharmacie_pt18_ae154d9099d0",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "Panel | Video | right music poster 0.0": {
+      "name": "pharmacie_pt18_79247f6299fd",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | right music poster 0.1": {
+      "name": "pharmacie_pt18_2ee3d465596b",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | right music poster 0.2": {
+      "name": "pharmacie_pt18_a6ee3cfa52d9",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | right music poster 0.3": {
+      "name": "pharmacie_pt18_ae154d9099d0",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "Panel | Video | right music poster 1.0": {
+      "name": "pharmacie_pt18_79247f6299fd",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | right music poster 1.1": {
+      "name": "pharmacie_pt18_2ee3d465596b",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | right music poster 1.2": {
+      "name": "pharmacie_pt18_a6ee3cfa52d9",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | right music poster 1.3": {
+      "name": "pharmacie_pt18_ae154d9099d0",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "Panel | Video | right music poster 2.0": {
+      "name": "pharmacie_pt18_79247f6299fd",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | right music poster 2.1": {
+      "name": "pharmacie_pt18_2ee3d465596b",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | right music poster 2.2": {
+      "name": "pharmacie_pt18_a6ee3cfa52d9",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | right music poster 2.3": {
+      "name": "pharmacie_pt18_ae154d9099d0",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "Video | television glass": {
+      "name": "pharmacie_pt18_c611fadf2557",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Video | piano ivory keys": {
+      "name": "pharmacie_pt18_a863ec91dd7b",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | vintage radio 1 photo face": {
+      "name": "pharmacie_pt18_75bca60d7cb5",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | vintage radio 2 photo face": {
+      "name": "pharmacie_pt18_c0714d1d298a",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | vintage radio 3 photo face": {
+      "name": "pharmacie_pt18_7c572133e04d",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    "Panel | Video | vintage radio 4 photo face": {
+      "name": "pharmacie_pt18_9f064d3484cf",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    "Panel | Video | bookcase book spines 0": {
+      "name": "pharmacie_pt18_742e734d3c08",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "Panel | Video | bookcase book spines 1": {
+      "name": "pharmacie_pt18_742e734d3c08",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "Panel | Video | bookcase book spines 2": {
+      "name": "pharmacie_pt18_742e734d3c08",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "Video | warm cream trim": {
+      "name": "pharmacie_pt18_2f10704c5b5b",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Video | dart green": {
+      "name": "pharmacie_pt18_606c719b2a6f",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Video | dart red": {
+      "name": "pharmacie_pt18_03be2b119dde",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Video | upstairs mirror": {
+      "name": "pharmacie_pt18_db96298d02f1",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | downstairs medical display 0": {
+      "name": "pharmacie_pt18_cec37a46c9b5",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "Panel | Video | downstairs medical display 1": {
+      "name": "pharmacie_pt18_ffd5c6371c90",
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    "Panel | Video | rear beer poster": {
+      "name": "pharmacie_pt18_2dd468c83c6f",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | fridge contents shelf 0": {
+      "name": "pharmacie_pt18_e1a56f87877e",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Video | fridge contents shelf 1": {
+      "name": "pharmacie_pt18_385bde67d32b",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Video | fridge contents shelf 2": {
+      "name": "pharmacie_pt18_e1a56f87877e",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Video | fridge contents shelf 3": {
+      "name": "pharmacie_pt18_385bde67d32b",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Video | metal tread nosing": {
+      "name": "pharmacie_pt18_3d10e7f1020e",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | newer backbar tap-bank detail": {
+      "name": "pharmacie_pt18_c568f06c80e4",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Video | pump-mild badge": {
+      "name": "pharmacie_pt18_7e3ceb0e18fe",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | pump-original badge": {
+      "name": "pharmacie_pt18_e20af5c33086",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "Panel | Video | dental-board downstairs panel": {
+      "name": "pharmacie_pt18_4a337838a415",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "Panel | Video | band-aid-advert downstairs panel": {
+      "name": "pharmacie_pt18_39988d9b5cbd",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | medical-adverts downstairs panel": {
+      "name": "pharmacie_pt18_09c7d3502dc4",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Video | right medical advert collage": {
+      "name": "pharmacie_pt18_0d2d6f013038",
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    "Panel | Video | right medical advert collage.001": {
+      "name": "pharmacie_pt18_0d2d6f013038",
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    "Panel | Video | vintage camera display contents": {
+      "name": "pharmacie_pt18_84499b7bba9a",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Video | display warm lamp": {
+      "name": "pharmacie_pt18_86e655a4a93d",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | vintage camera display contents.001": {
+      "name": "pharmacie_pt18_84499b7bba9a",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Video | suspended ceiling grid": {
+      "name": "pharmacie_pt18_2c03153af55f",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | additional left medicine collage": {
+      "name": "pharmacie_pt18_cf2a065a8b3c",
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    "Panel | Video | additional left medicine collage.001": {
+      "name": "pharmacie_pt18_cf2a065a8b3c",
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    "Video | smoky glassware": {
+      "name": "pharmacie_pt18_d85c2e8992e8",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Video | counter beer menu insert": {
+      "name": "pharmacie_pt18_2dd468c83c6f",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Street | grey pavement": {
+      "name": "pharmacie_pt18_b0e616b48aa5",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Street v17 | slate": {
+      "name": "pharmacie_pt18_38888c048a1e",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Street v17 | iron charcoal": {
+      "name": "pharmacie_pt18_a51bbdb2ff37",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Street v17 | Wreake Valley Flooring isolated facade": {
+      "name": "pharmacie_pt18_0a0dc2bd2d6b",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Street v17 | cream render": {
+      "name": "pharmacie_pt18_cad526f40e68",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Street v17 | Syston Dry Cleaners isolated facade": {
+      "name": "pharmacie_pt18_6daf6c62b7fe",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Street v17 | Nail and Spa shop isolated facade": {
+      "name": "pharmacie_pt18_69a3c12df7f0",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Street v17 | shop blue": {
+      "name": "pharmacie_pt18_ecc6bff3f6b0",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Street v17 | painted white joinery": {
+      "name": "pharmacie_pt18_21b1468b2ca6",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Street v17 | flooring olive": {
+      "name": "pharmacie_pt18_1f23126676b7",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Street v17 | paving": {
+      "name": "pharmacie_pt18_7a6bc276bc80",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Street v17 | Fox and Hounds isolated facade": {
+      "name": "pharmacie_pt18_9872db83bc4b",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Street v17 | Aston and Co isolated facade": {
+      "name": "pharmacie_pt18_4bf4c2d66ead",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Street v17 | Syston Mini Market isolated facade": {
+      "name": "pharmacie_pt18_47755d833d07",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Street v17 | Lets Move estate agents isolated facade": {
+      "name": "pharmacie_pt18_1db2c0c93fad",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Street v17 | Floral Fantasy isolated facade": {
+      "name": "pharmacie_pt18_fd9675e99d19",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Street v17 | dark blue glazing": {
+      "name": "pharmacie_pt18_cf1f7971b9ab",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Street v17 | Post Office isolated facade": {
+      "name": "pharmacie_pt18_966be4c3b0b1",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Street v17 | post office red": {
+      "name": "pharmacie_pt18_4f22a4526ed0",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Street v17 | Natural Wellbeing isolated facade": {
+      "name": "pharmacie_pt18_16e1855ac35e",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Street v17 | asphalt": {
+      "name": "pharmacie_pt18_f56bde101b35",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Street v17 | road white": {
+      "name": "pharmacie_pt18_8aabf5508590",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Street v17 | tactile pink paving": {
+      "name": "pharmacie_pt18_8bce0c6ee59f",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Street v17 | bollard yellow": {
+      "name": "pharmacie_pt18_27a94d66e02f",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Street v17 | wellbeing orange": {
+      "name": "pharmacie_pt18_43fdec8e7ae1",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Recon v18 | warm stair diffuser": {
+      "name": "pharmacie_pt18_0ec7f019a9d1",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    "Panel | Front | left display photo glass | sharp drinks plaque": {
+      "name": "pharmacie_pt18_cfda9591ac62",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "Panel | Front | right display photo glass | sharp drinks plaque": {
+      "name": "pharmacie_pt18_cfda9591ac62",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    }
+  }
+}

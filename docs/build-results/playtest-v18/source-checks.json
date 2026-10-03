@@ -1,0 +1,14 @@
+{
+  "source_photos_hash_identical": 44,
+  "square_assets_verified": 89,
+  "triggers_outside_linked_blockers": 5,
+  "linked_clip_brushmodels": 4,
+  "wallbuy_prefabs": [
+    "_prefabs/zm/zm_core/spawnable_weapon_shotgun_pump.map",
+    "_prefabs/zm/zm_core/spawnable_weapon_pistol_burst.map",
+    "_prefabs/zm/zm_core/spawnable_weapon_smg_standard.map",
+    "_prefabs/zm/zm_core/spawnable_weapon_ar_standard.map"
+  ],
+  "diagnostic_panels_removed": true,
+  "runtime_texture_purchase_ai_or_coop_verified": false
+}

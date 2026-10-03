@@ -1,5 +1,10 @@
 # The Pharmacie Arms, Syston — map references
 
+2026-10-03 runtime evidence: Sam added `../broken fronty textures.png`, showing the
+v18 engine test with readable Wreake Valley frontage but missing Pharmacie fascia
+lettering. This is a game screenshot, not a venue texture source. Original file
+unchanged; investigation/build details in `../../docs/PLAYTEST_V18.md`.
+
 ## Detailed text reconstruction catalogue — 2026-10-03
 
 V18 player recon checked all44 original hashes again and corrected mirrored UVs

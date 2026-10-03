@@ -1,0 +1,109 @@
+{
+  "regions": [
+    {
+      "object": "Bar | drawer-front photo face",
+      "derivative": "assets\\bar-regions\\lower-drawers.png",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\references\\pharmacie-syston\\bar front.jpg",
+      "source_sha256": "e91a923a278fd0bab628b11364fd253c00d4d2de7428fef8c6b969a5e2de01fe",
+      "crop_pixels": [
+        50,
+        745,
+        1900,
+        1230
+      ],
+      "dimensions": [
+        1850,
+        485
+      ],
+      "edits": "Exact recorded photo region; no repaint, original unchanged",
+      "original_uvs": [
+        [
+          0.02500000037252903,
+          0.4377358555793762
+        ],
+        [
+          0.949999988079071,
+          0.4377358555793762
+        ],
+        [
+          0.949999988079071,
+          0.07169811427593231
+        ],
+        [
+          0.02500000037252903,
+          0.07169811427593231
+        ]
+      ]
+    },
+    {
+      "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+      "derivative": "assets\\bar-regions\\upper-backbar.png",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\references\\pharmacie-syston\\bar front.jpg",
+      "source_sha256": "e91a923a278fd0bab628b11364fd253c00d4d2de7428fef8c6b969a5e2de01fe",
+      "crop_pixels": [
+        410,
+        285,
+        1970,
+        775
+      ],
+      "dimensions": [
+        1560,
+        490
+      ],
+      "edits": "Exact recorded photo region; no repaint, original unchanged",
+      "original_uvs": [
+        [
+          0.20499999821186066,
+          0.41499999165534973
+        ],
+        [
+          0.9850000143051147,
+          0.41499999165534973
+        ],
+        [
+          0.9850000143051147,
+          0.7850000262260437
+        ],
+        [
+          0.20499999821186066,
+          0.7850000262260437
+        ]
+      ]
+    },
+    {
+      "object": "Bar | photo menu on 3D screen",
+      "derivative": "assets\\bar-regions\\tv-menu.png",
+      "source": "C:\\Users\\sam\\pharmacie-cod-map\\references\\pharmacie-syston\\bar front.jpg",
+      "source_sha256": "e91a923a278fd0bab628b11364fd253c00d4d2de7428fef8c6b969a5e2de01fe",
+      "crop_pixels": [
+        870,
+        347,
+        1150,
+        533
+      ],
+      "dimensions": [
+        280,
+        186
+      ],
+      "edits": "Exact recorded photo region; no repaint, original unchanged",
+      "original_uvs": [
+        [
+          0.4350000023841858,
+          0.5979999899864197
+        ],
+        [
+          0.574999988079071,
+          0.5979999899864197
+        ],
+        [
+          0.574999988079071,
+          0.7379999756813049
+        ],
+        [
+          0.4350000023841858,
+          0.7379999756813049
+        ]
+      ]
+    }
+  ]
+}

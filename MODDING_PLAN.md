@@ -1,5 +1,21 @@
 # Call of Duty: Black Ops III modding plan
 
+Latest handover: [docs/HANDOVER_2026-10-03.md](docs/HANDOVER_2026-10-03.md).
+Sharp-window result is user-confirmed. Crossing-wall/bar-region package built
+successfully but awaits deployment after BO3 closes. Preserve the modified
+working-tree .blend; our engine scripts did not save it. Older status below
+is historical where it conflicts with the handover.
+
+Latest authorized engine work (2026-10-03): separate `zm_pharmacie_playtest` from
+v18 compiled/linked/deployed and loaded to solo combat/rounds. Corrective lighting,
+texture settings, four stock wall buys and platform ramp built; user reports
+some textures improved but many remain poor, and door purchase prompts absent.
+Sam now confirms doors work. Latest sharp-window build passed and was deployed:
+full photo bitmaps retain Blender UVs, with two new high-resolution typeset
+drinks plaques. Latest texture quality still awaits runtime inspection.
+See docs/PLAYTEST_V18.md and MODLOG.md. Earlier conversion-hold text below is historical.
+Blender remains unchanged. User retains BO3 controls; passive observation only.
+
 Photo reconstruction specification (2026-10-03): docs/STREET_PHOTO_RECONSTRUCTION.md and docs/PUB_PHOTO_RECONSTRUCTION.md contain detailed source-tagged rebuilding descriptions; docs/RECONSTRUCTION_SOURCE_INDEX.md and reconstruction-sources.json resolve 44 images with dimensions/review coverage/hashes. Read before the planned texture/street repair. Distinguish observed facade proportions from the intentionally enlarged gameplay scene; exact 1:1 dimensions still require calibration.
 
 Current priority (2026-10-03): finish/reference-check Blender before another

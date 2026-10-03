@@ -1,5 +1,10 @@
 # BO3 Radiant and automation notes
 
+Latest authorized test: [PLAYTEST_V18.md](PLAYTEST_V18.md), `zm_pharmacie_playtest`.
+Full compiler/navmesh/LED/link/deployment and solo loading verified; user feedback
+requires further texture/door-prompt correction. Earlier rebuild hold is superseded
+for this separate test. Game controls remain with Sam.
+
 Before the next conversion, read [player recon](../recon/v18/README.md) and
 [Zombies progression proposal](ZOMBIES_PROGRESSION_V18.md). Blender v18 is the
 current source. Named door/zone/item markers require explicit Radiant/game
