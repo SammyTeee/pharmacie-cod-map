@@ -1,6 +1,10 @@
-[Syston street base and new renders](docs/SYSTON_V25.md) · [Taraj placement plan](docs/TARAJ_V24.md).
+[Latest enclosed rear-alley mapping, before/after previews and highlight video](docs/REAR_ALLEY_V30.md). Current Blender source: `assets/blender/pharmacie-zombies-alley-v30.blend`; v29 street/Taraj work retained. New geometry is Blender-only; engine deployment remains unchanged.
 
-Latest complete Blender checkpoint: `assets/blender/pharmacie-syston-street-v25.blend`. The catalogue-led base adds46 named Melton shopfronts, gables, bridge/street details and a painted mini-roundabout; approved pub/shopfront/fridge/Taraj work is retained. New geometry is Blender-only; engine deployment remains unchanged.
+[Latest street detail and recovery notes](docs/SYSTON_DETAIL_V29.md). Current Blender source: `assets/blender/pharmacie-syston-detail-v29.blend`. Street materials/lining, individual shop details and new satellite reference; further work toward Pharmacie-level detail is recorded. Blender-only.
+
+[Taraj interior, bridge and ten new renders](docs/TARAJ_BRIDGE_V26.md) · [Syston street base](docs/SYSTON_V25.md).
+
+Latest complete Blender checkpoint: `assets/blender/pharmacie-taraj-interior-bridge-v26.blend`. Taraj now has a detailed restaurant/bar, booths, table settings, timber ceiling and practical lights. Bridge/brook terrain and side access are improved; prior pub/street work is retained. New geometry is Blender-only; engine deployment remains unchanged.
 
 # The Pharmacie Arms: BO3 Zombies Map
 
@@ -48,6 +52,9 @@ Keep work offline/private. Do not edit stock tool maps or game files. Read `AGEN
 ## Project notes
 
 - [Mod log and next action](MODLOG.md)
+- [Detailed Zombies design](docs/ZOMBIES_DESIGN_V29.md) and [Radiant gameplay placement plan](docs/RADIANT_GAMEPLAY_PLACEMENT_PLAN.md)
+- [Radiant conversion playbook](docs/RADIANT_CONVERSION_PLAYBOOK.md) and [installed-stock mechanics audit](docs/RADIANT_STOCK_GAMEPLAY_AUDIT.md)
+- [Offline BO3 tutorial library](research/radiant/README.md): licensed source snapshots, readable text, hashes and author-linked notes
 - [Player recon and screenshot evidence](recon/v18/README.md)
 - [Zombies door/zone/item progression proposal](docs/ZOMBIES_PROGRESSION_V18.md)
 - [Photo-to-text street reconstruction](docs/STREET_PHOTO_RECONSTRUCTION.md)

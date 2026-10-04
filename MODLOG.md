@@ -1,5 +1,34 @@
 # Mod log
 
+## 2026-10-04 — V30 approach approved for future mapping
+
+- Sam strongly approved the rear-alley previews and asked to keep the same ethos for future changes: implement the requested mapping and develop it with CoD-style enclosure, circulation, doors, barricade locations and purposeful props. Recorded as a standing project preference in AGENTS.md, with v30 as the quality reference and matched before/after highlights for substantial passes.
+- Feedback/preference update only; no new geometry, engine behavior, deployment or publication. Existing verification and game-control restrictions remain in force.
+
+## 2026-10-04 — V30 rear-alley mapping and before/after video
+
+- Sam changed direction from remaking the fly-through to further mapping: the empty rear area should be a thin two-wall alley with more Zombies-oriented walls/doors/objects. Built from latest complete v29, saving assets/blender/pharmacie-zombies-alley-v30.blend; prior checkpoints/user work retained.
+- Archived three broad/open floor slabs; added 2.02m-wide outer alley and 2.01m rear turn, two brick boundaries, closed neighbour infill shell/roof, surrounding ground backing, coping, practical bulkheads, conduit/cabinet, shallow bins and drains. Original rear leaf archived unchanged; copied leaf parked against wall for clearance. Opaque Staff Only door closes bar-side visual void.
+- Framed boarded rear window has enclosed floor/back/sides/ceiling pocket; proposed engine barricade/rear-door/wall-buy anchors are separate Empty markers. No repair/spawn/purchase behavior implemented in Blender.
+- First enclosure check found the frontage return missing. Extended the east wall to the street mouth and regenerated final after renders. Saved-file checks pass: 572 route samples at 0.42m radial clearance, no unsupported/blocker/low-overhead samples; 20 alley/rear enclosure rays; bar-door and barricade-pocket backing rays; 87 positive-volume closed new meshes; 44 original reference hashes unchanged; parent v29 SHA256 unchanged and all parent scene mesh geometry preserved including archived originals. Archive world matrices required temporary scene linking for read-only comparison after route probes; no archive relinking saved.
+- Rendered 13 matched before/after/highlight Cycles stills at 1280x720/16 samples. Temporary highlights: gold new walls/props, green new route floor. Textured 20.0s comparison WebM: 1280x720/24fps, 361,308 bytes, labelled animated zooms from stills. FFprobe checks pass and final video contact sheet visually reviewed. Gallery recon/v30/index.html; details docs/REAR_ALLEY_V30.md.
+- Exact Blender commands use Blender5.2 --background with scripts/build_rear_alley_v30.py, finish_rear_alley_v30.py (initial-generation correction only), park_rear_door_v30.py, check_rear_alley_v30.py and render_rear_alley_v30.py. All final logs show completion; python scripts/gallery_rear_alley_v30.py exits0. Logs build/rear-alley-v30-*.log. Latest links/launcher updated; gallery opened in Firefox. No engine export/build/deployment/game input, commit, push or publication. Other junction/street voids remain separate work; no claim of whole-scene watertightness or runtime success.
+
+## 2026-10-04 — Zombies geometry review and compact Blender fly-through
+
+- Sam requested more preview shots, a small WebM and practical Zombies/sky-gap review. Read-only checks/rendering use saved v28; no Blender geometry/source save, game input, engine build or deployment.
+- Added 26 new stills in recon/v28-zombies, including 12 pub/stair/upstairs/alley views and three targeted gap views. 572 retained-route samples have floor support and no recorded body/overhead blockers. All sampled Melton corridor downward rays hit geometry; sparse rays do not certify continuous floor or engine collision.
+- 64 interior enclosure samples identify five open eastward rays at Y17m. Targeted bar-side doorway render confirms visible unfinished space. Junction camera (-31,-18,1.7)m has no floor hit within 8m; preview shows incomplete terrain/pavement coverage. Findings/priorities: docs/ZOMBIES_GEOMETRY_REVIEW_V28.md. No claim of sealed scene or BO3 navigation success.
+- Dedicated fast solid-material camera animation uses thirteen 2-second dolly shots, 640x360, 8fps. Earlier slower animation passes stopped after stills/probes completed; intermediate frame folders ignored. Final clip/gallery and encoding verification recorded with review artifacts.
+- Final VP9 WebM: 26.0s, 688,798 bytes, 640x360, repeated frames for 24fps playback. FFprobe/media-path verification passes; all 26 stills and video contact sheet reviewed. Rear-alley previews additionally show exposed backdrop around the narrow supported route: terrain/view enclosure still needs completion. Gallery opened locally in Firefox; no publication or push.
+
+## 2026-10-04 — Crash recovery and v28 street checkpoint
+
+- Recovered completed v27/v28 scripts, saved Blender checkpoints, validation manifests and four v28 renders. Existing v28 log ends V28_COMPLETE/Blender quit; no regeneration needed.
+- V27 material/Costa appearance pass and v28 crossing, road details and four individual shopfront refinements are documented in docs/SYSTON_V28.md. Reviewed crossing and Amy Clarke renders; dropped crossing kerbs remain unfinished. Geometry assertions are generation-time checks, not game verification.
+- Updated latest-source links and open-blender default to pharmacie-syston-detail-v28.blend. Preserved earlier checkpoints and working changes. No game input, deployment, compiler run, commit or push during recovery.
+
+
 ## 2026-10-03 — Detailed photographic text reconstruction specifications
 
 - Sam requested as much useful photo-to-text description as possible for near-1:1 rebuilding. Re-inspected all 16 supplied street views, all four existing pub contact sheets, 22 pub references directly at full-image level, and existing lossless AVIF derivative; alternate copies/drawings/contact-only coverage recorded honestly. Existing video notes cross-referenced, not represented as a fresh full-video review.
@@ -706,3 +735,71 @@ of branch length; five other samples clear. Prior390 main-road samples did not
 verify this branch. Black triangular join patch is visible; coincident road
 surfaces suspected, not yet isolated/fixed. docs/BRIDGE_REVIEW_V25.md records
 evidence, five renders and concrete next modelling work. Preserve raw originals.
+
+### Recovery and Syston detail v27–v29, 4 October 2026
+Recovered completed v26 Taraj interior/bridge with ten renders; MODLOG previously
+ended at v25. Sam confirms building placement and requests Pharmacie-level shops
+plus faithful pavements/kerbs/markings, and authorises Firefox reference scans.
+Built v27 from v26: weathered metric brick, asphalt/paving/glazing and Costa
+awnings/window divisions/cafe furniture. Built v28: yellow lining, crossing
+zigzags/tactiles/beacon globes, kerb seams/drains/covers, roundabout arrows and
+individual Amy Clarke/GLO/Specsavers changes. V27:6659 mesh geometries unchanged,
+91 new closed solids; v28:6749 unchanged,2031 new closed solids and390 road rays.
+Built v29: side-wall brick projection fix, Amy native270 UV-only window inserts,
+pitched roofs/chimneys/cable/menu boards. All scripts completed, logs and reviewed
+renders are in build/syston-v27.log through-v29.log and recon/v27 through v29.
+See docs/SYSTON_DETAIL_V29.md for source/checkpoints, limits and remaining work.
+
+Firefox initially had no Maps tab; typed URLs produced a search. Exact clipboard
+paste worked. Captured/inspected satellite view with separate unchanged original
+and manifest in ignored references/streetview-capture/syston-overhead-v28. Personal
+sidebar present: do not publish capture. Historical walk catalogue untouched.
+Satellite geometry not yet traced/applied. Junction/refuge/dropped kerbs and most
+remaining shop fronts still need reconstruction to Sam's requested standard.
+Old files and pre-existing changes retained. No commit/push, engine export,
+compiler/deployment or BO3 input/test. Default Blender opener now selects v29.
+Final v29 render review added six closed roof-end gables with scripts/review_appearance_v29.py; log build/syston-v29-review.log confirms completion. Earlier gallery renders precede this small closure correction.
+
+### Parallel Zombies design planning — 4 October 2026
+Sam requested a second agent to plan gameplay alongside streetscape mapping.
+Added docs/ZOMBIES_DESIGN_V29.md: evidence/status table, pub/street/rear-loop
+and upstairs/crossing progression, later Taraj reward branch, bridge initially
+scenery, modelling clearance/boundary handoff and prioritized manual runtime
+tests. New perks, Pack-a-Punch, prices beyond the existing gates and later
+connections remain proposals. Reviewed existing local v30 alley manifest as
+additional Blender-only evidence; did not replace the documented v29 baseline
+or claim engine navigation/co-op verification. Planning only: no geometry,
+engine/package/game-control changes, compiler run, deployment, commit or push.
+
+### Radiant tutorial and gameplay conversion packet — 4 October 2026
+Sam requested deeper conventional Zombies planning and online text tutorials
+stored in the repository. Expanded docs/ZOMBIES_DESIGN_V29.md and added
+RADIANT_GAMEPLAY_PLACEMENT_PLAN.md, radiant-gameplay-plan.json,
+RADIANT_STOCK_GAMEPLAY_AUDIT.md and RADIANT_CONVERSION_PLAYBOOK.md.
+Read-only installed-source audit records exact stock prefab paths and entity/
+flag relationships for wall guns, paid debris, zones/risers/windows, power,
+perks, box and Pack-a-Punch. Current documented Blender baseline is v30;
+legacy v18 positions/volumes require reconciliation before conversion.
+
+Important correction: installed buyable_magic_box_start.map contains only its
+static base/rubble. Generated v18 source has no treasure_chest_use or magic-box
+zbarrier assembly. Prior outside-box wording records an intended site, not
+working box functionality. Corrected planning/workflow/playtest notes and
+documented the complete installed Giant example to inspect at conversion.
+
+Saved 15 selected BO3 UGX tutorial pages at pinned upstream commit
+331184f27904c1fbe24cd59b5d752511f698746a, with unchanged HTML, readable text,
+AGPL-3.0 license/credits/README, source URLs, retrieval time and SHA256 manifest.
+Research index identifies short/image-only stubs and beta-era caveats; author-
+linked original notes cover additional power/editor/wallbuy/door resources.
+No unlicensed full-text/video transcripts or proprietary stock files copied.
+Knowledge-base index had no BO3-specific field note at review time.
+
+python research/radiant/collect_tutorials.py --verify:33 source/derivative
+files match,15 tutorial pages,0 errors. python research/radiant/check_packet.py:
+38 unique registry IDs,4 starts,11 baseline risers,58 local document links,
+21 manual-test cases,0 errors. Results in research/radiant/packet-validation.json.
+git diff --check passed; CRLF conversion warnings only. These are offline
+documentation checks, not engine/runtime verification. No geometry edits,
+compiler run, game input, installation, deployment or playable map release.
+Sam then asked to stop research and commit/push the documentation packet.

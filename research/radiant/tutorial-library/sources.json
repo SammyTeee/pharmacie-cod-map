@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "retrieved_at_utc": "2026-10-04T01:17:47.208828+00:00",
+  "repository": "https://github.com/UGX-Mods/community-wiki",
+  "commit": "331184f27904c1fbe24cd59b5d752511f698746a",
+  "selection": "BO3-only tutorial pages plus upstream license, credits and README; no game files or image/video downloads",
+  "notes": "Pinned upstream repository is a Confluence migration; old links/media may be unavailable. Tutorials are not local runtime validation.",
+  "files": [
+    {
+      "id": "LICENSE",
+      "upstream_path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/LICENSE",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/LICENSE",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/LICENSE",
+        "sha256": "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef",
+        "bytes": 34523
+      }
+    },
+    {
+      "id": "CREDITS",
+      "upstream_path": "CREDITS.md",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/CREDITS.md",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/CREDITS.md",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/CREDITS.md",
+        "sha256": "1d5e72ea355c53160579a0227f776afc6638af9e35477141b95e2f4546b8f9ab",
+        "bytes": 971
+      }
+    },
+    {
+      "id": "UPSTREAM_README",
+      "upstream_path": "README.md",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/README.md",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/README.md",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/UPSTREAM_README.md",
+        "sha256": "561d8994a74f22c88893cf5adfc46c1da6bf6913866f065bc2baddf9855222aa",
+        "bytes": 803
+      }
+    },
+    {
+      "id": "radiant-black",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Applications-and-Tools/Radiant-Black.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Applications-and-Tools/Radiant-Black.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Applications-and-Tools/Radiant-Black.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/radiant-black.html",
+        "sha256": "b2db32cc82319746390f2a83924b2ddab808c767e6755662ff00474279485bc4",
+        "bytes": 299
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/radiant-black.txt",
+        "sha256": "dddfda753c7335dddf39abd113414a515d8a57386fcc2e115fba120aecd471ed",
+        "bytes": 580
+      }
+    },
+    {
+      "id": "asset-property-editor",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Applications-and-Tools/Asset-Property-Editor.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Applications-and-Tools/Asset-Property-Editor.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Applications-and-Tools/Asset-Property-Editor.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/asset-property-editor.html",
+        "sha256": "4cef6b4cf9212812df61fc9bbd2aed360fe8933dffc9db2d672c0daea1ecb405",
+        "bytes": 457
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/asset-property-editor.txt",
+        "sha256": "7dadc1e975787e405eb0441fdd39297da9740768d41b7e9e6300230d58156bc4",
+        "bytes": 608
+      }
+    },
+    {
+      "id": "zones",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Mapping/Adding-Zones.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Mapping/Adding-Zones.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Mapping/Adding-Zones.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/zones.html",
+        "sha256": "fcff3533754b640e4afd450d8af6dcd8a5b85a0bf122d0140eb19a3fa7c087e4",
+        "bytes": 1562
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/zones.txt",
+        "sha256": "dd0fdba86cd55e6ac35353956a2b336e721930c2278b21aa6b9f7cb57f654255",
+        "bytes": 1257
+      }
+    },
+    {
+      "id": "zombie-spawners-risers-barriers",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Mapping/Adding-Zombie-Spawners-Risers-and-Window-Barriers.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Mapping/Adding-Zombie-Spawners-Risers-and-Window-Barriers.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Mapping/Adding-Zombie-Spawners-Risers-and-Window-Barriers.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/zombie-spawners-risers-barriers.html",
+        "sha256": "ea0359661f70564801a6cfdc771f30e62f280a302d06da24ec2b7a66882990a6",
+        "bytes": 3711
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/zombie-spawners-risers-barriers.txt",
+        "sha256": "41b6b5a3b6d822c630e738cdc5e8c9869dbd6a7600117c9437f3854b6fe538d2",
+        "bytes": 2312
+      }
+    },
+    {
+      "id": "mystery-box-locations",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Mapping/Adding-Pandoras-Box-locations.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Mapping/Adding-Pandoras-Box-locations.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Mapping/Adding-Pandoras-Box-locations.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/mystery-box-locations.html",
+        "sha256": "f0efe8fef36af08ea904a1cb8530970e8c0d83c1350098fbd3b5564a21661bcd",
+        "bytes": 1261
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/mystery-box-locations.txt",
+        "sha256": "d91299f8066b7c00d41be4296521d20c762c374e3d8ebae41f978a7fb2e8543f",
+        "bytes": 1233
+      }
+    },
+    {
+      "id": "dogs",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Mapping/Adding-Dog-Spawners-or-Disabling-Dog-Rounds.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Mapping/Adding-Dog-Spawners-or-Disabling-Dog-Rounds.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Mapping/Adding-Dog-Spawners-or-Disabling-Dog-Rounds.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/dogs.html",
+        "sha256": "93b7063fb10cf7c9fc54d432edf39edc657b6ab9848c92b03f10fe2d5a1ec355",
+        "bytes": 2704
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/dogs.txt",
+        "sha256": "fd4ce51b35e86a8d4daa41d65fe49e3b75bff0dfabefbcdb8497f1586f57761a",
+        "bytes": 2435
+      }
+    },
+    {
+      "id": "script-error-information",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Script/How-to-display-more-script-error-information.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Script/How-to-display-more-script-error-information.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Script/How-to-display-more-script-error-information.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/script-error-information.html",
+        "sha256": "9aeeb48c24847910cd2bfb481a94d20064a1c771738104e606416a4db2cce4ae",
+        "bytes": 888
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/script-error-information.txt",
+        "sha256": "4f1e876c61e9094e9a8c55a5dcf96b4ff418ff2789222f2c659077960ff61c07",
+        "bytes": 1115
+      }
+    },
+    {
+      "id": "purchase-loops",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Script/Purchase-Loops.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Script/Purchase-Loops.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Script/Purchase-Loops.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/purchase-loops.html",
+        "sha256": "ec4032894445ddffe1de2069ca4e0fd550cbb2d155840f8e5b77a594fd09c070",
+        "bytes": 7000
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/purchase-loops.txt",
+        "sha256": "587b18d1c98db7453db9f55c94cca4b1e2ea8baa5aa0e6c75c0ff796e82cece9",
+        "bytes": 5720
+      }
+    },
+    {
+      "id": "weapon-system",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Script/Weapon-System.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Script/Weapon-System.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Script/Weapon-System.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/weapon-system.html",
+        "sha256": "87bc7f2eec52ca94dc376023b2a5b7587b9bbbdb88f7250e5f44f9d71372010f",
+        "bytes": 798
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/weapon-system.txt",
+        "sha256": "9390cf15b8cde89dc5c5f68a0f4f81ff2c8dab3780c4a06a8a26eea6f869cbef",
+        "bytes": 987
+      }
+    },
+    {
+      "id": "weapon-list",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Script/Weapon-System/Weapon-List.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Script/Weapon-System/Weapon-List.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Script/Weapon-System/Weapon-List.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/weapon-list.html",
+        "sha256": "d92e20e614560ed2a6a28d66f4175540bedf9960694bcde6663e0399b85b016a",
+        "bytes": 1136
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/weapon-list.txt",
+        "sha256": "9cd355db1ac709d23a315b324bf3f1122f34111a6c7370c8ad5ff773a63dc182",
+        "bytes": 1341
+      }
+    },
+    {
+      "id": "waw-scripting-differences",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Script/Whats-changed-from-WaW-scripting.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Script/Whats-changed-from-WaW-scripting.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Script/Whats-changed-from-WaW-scripting.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/waw-scripting-differences.html",
+        "sha256": "7bacd73410329687602e3b8c24ce12725f991cc95ee6580f60745cfde21cdb9b",
+        "bytes": 7837
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/waw-scripting-differences.txt",
+        "sha256": "522d3dc4832b9662c693ce828f997b52939bb84ea95d062e380a6c5b43d4cb7e",
+        "bytes": 5488
+      }
+    },
+    {
+      "id": "materials-and-textures",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Asset-Conversion/Adding-custom-materials-and-textures.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Asset-Conversion/Adding-custom-materials-and-textures.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Asset-Conversion/Adding-custom-materials-and-textures.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/materials-and-textures.html",
+        "sha256": "c335d56ee0c59b91090953a34461635b158e698dffda320e5ccbbcddb1a200c1",
+        "bytes": 12463
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/materials-and-textures.txt",
+        "sha256": "62357d2f2943904c11127b74a719367ade2149903d58230c8612d67a75ccea73",
+        "bytes": 8405
+      }
+    },
+    {
+      "id": "models",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Asset-Conversion/Adding-custom-models.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Asset-Conversion/Adding-custom-models.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Asset-Conversion/Adding-custom-models.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/models.html",
+        "sha256": "021e029d1b1dd75fc7b7a050f57476387cb2cb2cbbebcccf0e48cc922827113a",
+        "bytes": 2918
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/models.txt",
+        "sha256": "260f8d5dfca896a4f5e7ea6e68b85d596313fe807c46d269476b50748cef521f",
+        "bytes": 2615
+      }
+    },
+    {
+      "id": "sounds",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Asset-Conversion/Adding-custom-sounds.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Asset-Conversion/Adding-custom-sounds.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Asset-Conversion/Adding-custom-sounds.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/sounds.html",
+        "sha256": "b1606a3b37d538e182615c35bc305b1ccd9359eeab9eef18c1781b193f128d11",
+        "bytes": 2688
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/sounds.txt",
+        "sha256": "08cc19d5c36dc6e64d09ce9d39a148814a95e60070bdd4d055865faf61eea9f9",
+        "bytes": 2373
+      }
+    },
+    {
+      "id": "soundaliases",
+      "upstream_path": "Modding/Black-Ops-3-Modtools/Sounds/Creating-Modifying-Soundaliases-and-Converting-Sounds.html",
+      "url": "https://raw.githubusercontent.com/UGX-Mods/community-wiki/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Sounds/Creating-Modifying-Soundaliases-and-Converting-Sounds.html",
+      "author_source_url": "https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Sounds/Creating-Modifying-Soundaliases-and-Converting-Sounds.html",
+      "license": "AGPL-3.0 (see unchanged LICENSE and upstream notices)",
+      "source": {
+        "path": "tutorial-library/vendor/ugx/soundaliases.html",
+        "sha256": "a6b16f66fe8277a4f0fff553324ef904084cb2ee483e42e1cf26befb87dd338b",
+        "bytes": 2959
+      },
+      "text": {
+        "path": "tutorial-library/vendor/ugx/soundaliases.txt",
+        "sha256": "4cf1371f5215d1c7a2047555e7d39d7c1794eb90bd05da40699997ed58649df7",
+        "bytes": 2726
+      }
+    }
+  ],
+  "text_refreshed_at_utc": "2026-10-04T01:28:33.228306+00:00"
+}

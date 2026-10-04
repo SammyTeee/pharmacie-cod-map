@@ -1,0 +1,56 @@
+UGX-Mods community wiki — readable text derivative
+Original: https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Sounds/Creating-Modifying-Soundaliases-and-Converting-Sounds.html
+Snapshot commit: 331184f27904c1fbe24cd59b5d752511f698746a
+License: AGPL-3.0; upstream notices retained in source HTML.
+Local change: HTML converted to plain text; media and relative links are references only.
+This derivative shares the upstream license. Original HTML is authoritative.
+
+[image reference: /attachments/icons/alert-octagon.png]
+
+This page is a work in progress.
+
+ Soundaliases are created for connecting sound to your map/mod. With soundalias, you can define how loud sound is, what range it's going to be played at, is it 2D/3D and so on.
+
+Converting soundfile
+
+ First, make your soundfile .wav format so programs like Audacity can read it.
+
+Drop soundfile in Audacity. Check that Hz is 48000:
+
+  [image reference: https://i.gyazo.com/a1b0b2724d3d11859347e759303ca260.png]
+
+ Then select Export Audio at top left drop down menu. Make sure you select Other Packaged Files and Signed 16-bit PCM. Then just export it as .wav, your file should be ready for Black Ops 3.
+
+Adding soundalias in your mod
+
+ Now that you have sound ready, let's take a look how to include the sound.
+
+There are few ways to include the sound, I will explain few of them.
+
+ Longer, more reliable way
+
+ Go to root / share / raw / sound / aliases /. In this folder, you will finduser_aliases.csv. Copy this in same folder and name it to your maps/mods .ff file.
+
+ZM Mod uses zm_mod.ff, so file should be named zm_mod.csv
+
+MP Mod uses mp_mod.ff, so file should be named mp_mod.csv
+
+  Maps .ff is your mapname, so name file either zm_mapname.csv or mp_mapname.csv, depending on gamemode.
+
+Now that you have the file done, let's quickly add it in zonefile.
+
+ Open Launcher, right click your map/mod and do Edit Zone File. Here, add in new line:
+
+ sound,csv_file_name without .csv at end. Now you have soundalias included in your mod.
+
+Easiest way, but not the best option
+
+ If you fail the step before, then just edit user_aliases.csv, it will be automatically included in your map,
+
+ But beware, this soundalias gets overwritten with every update/verify integrity on cache, so keep backup of this file in case it gets overwritten
+
+ For easier access to soundalias and modifying keys/values, we recommend installing UGX Alias Editor
+
+ Note though, it is meant for World at War and is in Beta. It doesn't show keys/values info in BO3 soundaliases, but it works fine for quick jobs.
+
+  https://ugx-mods.com/forum/index.php/topic,1800.0.html  (https://ugx-mods.com/forum/index.php/topic,1800.0.html)

@@ -1,0 +1,45 @@
+UGX-Mods community wiki — readable text derivative
+Original: https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Asset-Conversion/Adding-custom-sounds.html
+Snapshot commit: 331184f27904c1fbe24cd59b5d752511f698746a
+License: AGPL-3.0; upstream notices retained in source HTML.
+Local change: HTML converted to plain text; media and relative links are references only.
+This derivative shares the upstream license. Original HTML is authoritative.
+
+Adding custom sounds in Black Ops 3 is much simpler than it was in World at War.
+
+##  Preparing your sound files
+
+ Your sound file needs to be WAV format, 48000Hz. In order to convert it, download the free program Audacity (https://www.audacityteam.org/download/) and open your sound file.
+
+ In the bottom left corner of the application, set your Project Hz to 48000 and then go to File → Export.
+
+ In the "Save as Type" dropdown, select " WAV (Microsoft) signed 16bit PCM ". Save the file to a location of your choice within root/sound_assets.
+
+##  Adding a Soundalias Entry
+
+ In order for your sound to be played, it needs an alias entry. The easiest way to add one is to use the existing alias file Treyarch's tools generate for you.
+
+ Open user_aliases.csv located in root/share/raw/sound/aliases witha Text Editor (/Modding/World-at-War-Modtools/Script/Text-Editors) and duplicate the "test_sound" line.
+
+ Change "test_sound" to an alias name of your choice, and change the file location to the location you saved your exported WAV file in the previous step.
+
+## Build the Sound
+
+ In order for the sound to be converted, you must run the Link compile on your map. Watch the console output window to make sure no errors are generated about your sound. If you see any errors about
+
+- Missing source checksum
+
+-  Object reference not set to an instance of an object.
+
+ ...you can ignore them - this is a bug in the current version of the modtools.
+
+## Play the Sound
+
+ Depending on your intended purpose for adding a custom sound, you may want to play it from a script. You can do this exactly how you would have in World at War - simply choose the relevant sound-playing function and specify your alias as the parameter. Example:
+
+```text
+
+player playlocalsound("test_sound");
+ent playsound("test_sound");
+playsoundatposition(ent.origin, "test_sound");
+```

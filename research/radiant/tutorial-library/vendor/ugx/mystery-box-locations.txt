@@ -1,0 +1,24 @@
+UGX-Mods community wiki — readable text derivative
+Original: https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Mapping/Adding-Pandoras-Box-locations.html
+Snapshot commit: 331184f27904c1fbe24cd59b5d752511f698746a
+License: AGPL-3.0; upstream notices retained in source HTML.
+Local change: HTML converted to plain text; media and relative links are references only.
+This derivative shares the upstream license. Original HTML is authoritative.
+
+In the current version of the BO3 Modtools (Beta), Treyarch also did not include box location prefabs with the tools at this time, so you would have to grab stuff from The Giant mapfile.
+
+##  Box Location Prefabs
+
+  box_start.map  (/attachments/modding/bo3/pandoras-box/box_start.map)
+
+  box_01.map  (/attachments/modding/bo3/pandoras-box/box_01.map)
+
+  box_02.map  (/attachments/modding/bo3/pandoras-box/box_02.map)
+
+  box_03.map  (/attachments/modding/bo3/pandoras-box/box_03.map)
+
+ You can make as many more box locations as you want by just changing the KVPs on the prefabs.
+
+##  Placing the Prefabs
+
+ From the Entity Browser, drag a Misc\_prefab into your scene and navigate to the prefab in the file browser window.

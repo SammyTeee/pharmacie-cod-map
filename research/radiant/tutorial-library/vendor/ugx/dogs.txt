@@ -1,0 +1,37 @@
+UGX-Mods community wiki — readable text derivative
+Original: https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Mapping/Adding-Dog-Spawners-or-Disabling-Dog-Rounds.html
+Snapshot commit: 331184f27904c1fbe24cd59b5d752511f698746a
+License: AGPL-3.0; upstream notices retained in source HTML.
+Local change: HTML converted to plain text; media and relative links are references only.
+This derivative shares the upstream license. Original HTML is authoritative.
+
+In the current version of the BO3 Modtools (Beta), dog spawners are missing from the test map but are not disabled in the scripts by default. This causes you to get stuck on an infinite dog round when you play your map. You can fix this by adding dog spawners or disabling dogs in your map file. Treyarch also did not include a dog spawner prefab with the tools at this time, so you would normally have to grab stuff from The Giant mapfile.
+
+##  Disabling Dog Rounds
+
+Add this line to your usermap.gsc file, before zm_usermap::main();:
+
+```text
+
+level.dog_rounds_allowed = false;
+```
+
+##  Installing the Spawner Prefab
+
+ Download the prefab:  dog_spawner.map  (/attachments/modding/bo3/dog-spawners/dog_spawner.map) and place it anywhere within your _prefabs folder, which can be found at Call of Duty Black Ops III\map_source\_prefabs
+
+##  Placing the Prefab
+
+ From the Entity Browser, drag a Misc\_prefab into your scene and navigate to the dog_spawner.map prefab in the file browser window.
+
+ Next, with the prefab still selected, stamp the prefab into your map using the Stamp menu item:
+
+  [image reference: /attachments/modding/bo3/dog-spawners/prefab-context-menu.png]
+
+ Once you stamp the prefab, it will separate the dog spawner from the spawner struct. Move the dog spawner (looks like a hellhound model) somewhere under your map or to a hidden location of your choice. It doesn't matter where it is, just hide it.
+
+##  Configuring the Spawn Points
+
+ Select the struct that you got from stamping the prefab earlier. Notice it has a targetname "start_zone_spawners" - you need to change this to match whatever zone you are setting this spawner for. If you are configuring the spawner for your start zone then just leave this KVP alone.
+
+ You can copy and paste this struct all over your map to create more spawn points, taking care to change the targetname when you paste it within a new zone volume.

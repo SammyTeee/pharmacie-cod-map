@@ -1,0 +1,64 @@
+UGX-Mods community wiki — readable text derivative
+Original: https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Mapping/Adding-Zombie-Spawners-Risers-and-Window-Barriers.html
+Snapshot commit: 331184f27904c1fbe24cd59b5d752511f698746a
+License: AGPL-3.0; upstream notices retained in source HTML.
+Local change: HTML converted to plain text; media and relative links are references only.
+This derivative shares the upstream license. Original HTML is authoritative.
+
+You should have at least one zombie spawner per zone of your map
+
+##  Creating the Spawner in Radiant
+
+ First, drag an actor\spawner_zm_factory_zombie from the entity browser into your map.
+
+Give it the following KVPs:
+
+  | Key  | Value
+
+  | script_noteworthy  | zombie_spawner
+
+  | coop_count  |
+
+```text
+{9999, 0, 0, 0}
+```
+
+  | count  | 9999
+
+  | script_forcespawn  | 1
+
+-  <zone_name>_spawners will determine which zone activates this spawner.
+
+## Risers
+
+ To create a riser location for a zombie to rise out of the ground, drag a script\struct from the entity browser into your map. Give it the following KVPs:
+
+  | Key  | Value
+
+  | targetname  | <zone_name>_spawners
+
+  | script_noteworthy  | riser_location
+
+  | script_string  |
+
+```text
+find_flesh
+```
+
+-  <zone_name>_spawners will determine which zone activates this spawner. This must match the target KVP value of the zone which the spawner is being used for. See  BO3 | Adding Zones  (/Modding/Black-Ops-3-Modtools/Mapping/Adding-Zones.html) for more info.
+
+-  You can copy/paste this struct to create more riser locations in your zone. If you move the struct to a new zone, remember to update the targetname.
+
+## Windows
+
+ To create a window entrance for zombies, drag a misc\_prefab into your map. Select the following prefab: _prefabs/zm/zm_core/barricade_reciever_wood.map
+
+Give your prefab the following KVP:
+
+  | Key  | Value
+
+  | script_string  | <entry_name>
+
+-  < entry_name > can be any string you want. It will determine which riser structs spawn zombies which will be attracted to this window barrier. This must match the KVP value of the riser structs you want to be paired with this window.
+
+ Create a riser struct anywhere behind the window and give it the same exact KVP you gave to the window prefab.

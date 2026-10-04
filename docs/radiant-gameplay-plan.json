@@ -1,0 +1,673 @@
+{
+  "schema_version": 1,
+  "document": "RADIANT_GAMEPLAY_PLACEMENT_PLAN.md",
+  "status": "planning_registry_not_generator_input_no_engine_changes",
+  "source": "scripts/generate_playtest_v18.py",
+  "modelling_baseline": {
+    "checkpoint": "assets/blender/pharmacie-zombies-alley-v30.blend",
+    "documentation": "docs/REAR_ALLEY_V30.md",
+    "status": "latest_documented_reviewed_Blender_checkpoint",
+    "validation": "recon/v30/validation.json",
+    "engine_conversion": "not_performed_old_v18_engine_unchanged",
+    "handoff": "Remeasure all legacy v18 anchors and volumes against saved v30 before conversion."
+  },
+  "coordinate_system": {
+    "origin_units": "Blender metres before existing translation",
+    "engine_units_per_metre": 39.37007874015748,
+    "translation_m": [
+      -3.5,
+      -10,
+      0
+    ],
+    "formula": "engine[i]=(blender_m[i]+translation_m[i])*engine_units_per_metre",
+    "bounds_order": [
+      "xmin",
+      "xmax",
+      "ymin",
+      "ymax",
+      "zmin",
+      "zmax"
+    ],
+    "angles_order": [
+      "pitch",
+      "yaw",
+      "roll"
+    ],
+    "warning": "Exact legacy v18 anchors must be remeasured against reviewed v30; they are not approved final v30 gameplay placements."
+  },
+  "zones": [
+    {
+      "id": "Z01",
+      "engine_name": "start_zone",
+      "bounds_m": [
+        [
+          -8,
+          11,
+          -0.02,
+          31.1,
+          -0.5,
+          4.35
+        ]
+      ],
+      "initially_enabled": true,
+      "status": "existing_v18_source_recheck_against_new_geometry"
+    },
+    {
+      "id": "Z02",
+      "engine_name": "street_zone",
+      "bounds_m": [
+        [
+          -18,
+          30,
+          -13,
+          -0.02,
+          -0.5,
+          4.35
+        ],
+        [
+          -13.1,
+          -9.8,
+          0,
+          33.1,
+          -0.5,
+          4.35
+        ],
+        [
+          -13.1,
+          2,
+          31.1,
+          34.5,
+          -0.5,
+          4.35
+        ]
+      ],
+      "initially_enabled": false,
+      "status": "existing_v18_source_recheck_against_new_geometry"
+    },
+    {
+      "id": "Z03",
+      "engine_name": "upstairs_zone",
+      "bounds_m": [
+        [
+          -8,
+          11,
+          0,
+          31.1,
+          4.35,
+          9.1
+        ]
+      ],
+      "initially_enabled": false,
+      "status": "existing_v18_source_recheck_against_new_geometry"
+    },
+    {
+      "id": "Z04",
+      "engine_name": "crossing_zone",
+      "bounds_m": [
+        [
+          30,
+          60,
+          -13,
+          0,
+          -0.5,
+          4.35
+        ],
+        [
+          45,
+          48,
+          -30,
+          -13,
+          -0.5,
+          4.35
+        ]
+      ],
+      "initially_enabled": false,
+      "status": "existing_v18_source_recheck_against_new_geometry"
+    }
+  ],
+  "gates": [
+    {
+      "id": "G01",
+      "cost": 750,
+      "from_zone": "Z01",
+      "to_zone": "Z02",
+      "target": "pt18_street_gate",
+      "flag": "pt18_street_open",
+      "collision_bounds_m": [
+        [
+          4.5,
+          6.5,
+          0.45,
+          0.65,
+          0,
+          3.15
+        ],
+        [
+          -4.2,
+          -1.9,
+          30.62,
+          30.86,
+          0,
+          3.15
+        ]
+      ],
+      "use_bounds_m": [
+        [
+          4.5,
+          6.5,
+          0.9,
+          2.1,
+          0.1,
+          2.1
+        ],
+        [
+          -4.2,
+          -1.9,
+          29.3,
+          30.35,
+          0.1,
+          2.1
+        ]
+      ],
+      "status": "user_confirms_doors_work_full_AI_coop_pending",
+      "semantics": "one_shared_team_purchase_removes_all_linked_visible_and_collision_parts"
+    },
+    {
+      "id": "G02",
+      "cost": 1000,
+      "from_zone": "Z01",
+      "to_zone": "Z03",
+      "target": "pt18_stairs_gate",
+      "flag": "pt18_stairs_open",
+      "collision_bounds_m": [
+        [
+          -1.48,
+          -1.25,
+          29.02,
+          30.53,
+          0,
+          3.15
+        ]
+      ],
+      "use_bounds_m": [
+        [
+          -2.85,
+          -1.65,
+          29.02,
+          30.53,
+          0.1,
+          2.1
+        ]
+      ],
+      "status": "user_confirms_doors_work_full_AI_coop_pending",
+      "semantics": "one_shared_team_purchase_removes_all_linked_visible_and_collision_parts"
+    },
+    {
+      "id": "G03",
+      "cost": 1250,
+      "from_zone": "Z02",
+      "to_zone": "Z04",
+      "target": "pt18_crossing_gate",
+      "flag": "pt18_crossing_open",
+      "collision_bounds_m": [
+        [
+          30,
+          30.35,
+          -13.1,
+          0,
+          -0.2,
+          4
+        ]
+      ],
+      "use_bounds_m": [
+        [
+          28.65,
+          29.65,
+          -7,
+          -4,
+          0.1,
+          2.1
+        ],
+        [
+          30.7,
+          31.7,
+          -7,
+          -4,
+          0.1,
+          2.1
+        ]
+      ],
+      "status": "built_deployment_pending_last_handover",
+      "semantics": "one_shared_team_purchase_removes_all_linked_visible_and_collision_parts"
+    }
+  ],
+  "player_starts": [
+    {
+      "id": "P01",
+      "zone": "Z01",
+      "origin_m": [
+        5.5,
+        3.2,
+        0.12
+      ],
+      "status": "v18_source_spawn_anchor_face_direction_inherited_from_template_recheck"
+    },
+    {
+      "id": "P02",
+      "zone": "Z01",
+      "origin_m": [
+        5.5,
+        4.4,
+        0.12
+      ],
+      "status": "v18_source_spawn_anchor_face_direction_inherited_from_template_recheck"
+    },
+    {
+      "id": "P03",
+      "zone": "Z01",
+      "origin_m": [
+        5.5,
+        5.6,
+        0.12
+      ],
+      "status": "v18_source_spawn_anchor_face_direction_inherited_from_template_recheck"
+    },
+    {
+      "id": "P04",
+      "zone": "Z01",
+      "origin_m": [
+        5.5,
+        8.4,
+        0.12
+      ],
+      "status": "v18_source_spawn_anchor_face_direction_inherited_from_template_recheck"
+    }
+  ],
+  "risers": [
+    {
+      "id": "Z01_R01",
+      "zone": "Z01",
+      "origin_m": [
+        3.45,
+        5.6,
+        0.03
+      ],
+      "angles_deg": [
+        0,
+        90,
+        0
+      ],
+      "status": "existing_v18_source_runtime_pursuit_pending"
+    },
+    {
+      "id": "Z01_R02",
+      "zone": "Z01",
+      "origin_m": [
+        2.5,
+        14.7,
+        0.03
+      ],
+      "angles_deg": [
+        0,
+        90,
+        0
+      ],
+      "status": "existing_v18_source_runtime_pursuit_pending"
+    },
+    {
+      "id": "Z01_R03",
+      "zone": "Z01",
+      "origin_m": [
+        -2.8,
+        25,
+        0.03
+      ],
+      "angles_deg": [
+        0,
+        90,
+        0
+      ],
+      "status": "existing_v18_source_runtime_pursuit_pending"
+    },
+    {
+      "id": "Z02_R01",
+      "zone": "Z02",
+      "origin_m": [
+        2,
+        -11.5,
+        0.03
+      ],
+      "angles_deg": [
+        0,
+        90,
+        0
+      ],
+      "status": "existing_v18_source_runtime_pursuit_pending"
+    },
+    {
+      "id": "Z02_R02",
+      "zone": "Z02",
+      "origin_m": [
+        23,
+        -11.5,
+        0.03
+      ],
+      "angles_deg": [
+        0,
+        90,
+        0
+      ],
+      "status": "existing_v18_source_runtime_pursuit_pending"
+    },
+    {
+      "id": "Z02_R03",
+      "zone": "Z02",
+      "origin_m": [
+        -14,
+        -1.5,
+        0.03
+      ],
+      "angles_deg": [
+        0,
+        90,
+        0
+      ],
+      "status": "existing_v18_source_runtime_pursuit_pending"
+    },
+    {
+      "id": "Z03_R01",
+      "zone": "Z03",
+      "origin_m": [
+        3.45,
+        5.6,
+        4.83
+      ],
+      "angles_deg": [
+        0,
+        90,
+        0
+      ],
+      "status": "existing_v18_source_runtime_pursuit_pending"
+    },
+    {
+      "id": "Z03_R02",
+      "zone": "Z03",
+      "origin_m": [
+        3.45,
+        14.7,
+        4.83
+      ],
+      "angles_deg": [
+        0,
+        90,
+        0
+      ],
+      "status": "existing_v18_source_runtime_pursuit_pending"
+    },
+    {
+      "id": "Z04_R01",
+      "zone": "Z04",
+      "origin_m": [
+        36,
+        -11.8,
+        0.03
+      ],
+      "angles_deg": [
+        0,
+        90,
+        0
+      ],
+      "status": "existing_v18_source_runtime_pursuit_pending"
+    },
+    {
+      "id": "Z04_R02",
+      "zone": "Z04",
+      "origin_m": [
+        55,
+        -11.4,
+        0.03
+      ],
+      "angles_deg": [
+        0,
+        90,
+        0
+      ],
+      "status": "existing_v18_source_runtime_pursuit_pending"
+    },
+    {
+      "id": "Z04_R03",
+      "zone": "Z04",
+      "origin_m": [
+        46.5,
+        -24,
+        0.03
+      ],
+      "angles_deg": [
+        0,
+        90,
+        0
+      ],
+      "status": "existing_v18_source_runtime_pursuit_pending"
+    }
+  ],
+  "items": [
+    {
+      "id": "W01",
+      "label": "RK5",
+      "prefab": "_prefabs/zm/zm_core/spawnable_weapon_pistol_burst.map",
+      "zone": "Z01",
+      "origin_m": [
+        -1.84,
+        3.5,
+        0.02
+      ],
+      "angles_deg": [
+        0,
+        92.87,
+        0
+      ],
+      "baseline_cost": 500,
+      "placement_status": "existing_v18_authored_pivot_not_world_mount_height",
+      "runtime_status": "individual_interaction_pending",
+      "mount_rule": "revalidate stock local pivot, visible face normal, floor/wall support and clear use approach"
+    },
+    {
+      "id": "W02",
+      "label": "KRM",
+      "prefab": "_prefabs/zm/zm_core/spawnable_weapon_shotgun_pump.map",
+      "zone": "Z01",
+      "origin_m": [
+        -4.53,
+        26,
+        0.02
+      ],
+      "angles_deg": [
+        0,
+        98.22,
+        0
+      ],
+      "baseline_cost": 750,
+      "placement_status": "existing_v18_authored_pivot_not_world_mount_height",
+      "runtime_status": "individual_interaction_pending",
+      "mount_rule": "revalidate stock local pivot, visible face normal, floor/wall support and clear use approach"
+    },
+    {
+      "id": "W03",
+      "label": "Kuda",
+      "prefab": "_prefabs/zm/zm_core/spawnable_weapon_smg_standard.map",
+      "zone": "Z02",
+      "origin_m": [
+        -15,
+        -0.08,
+        0.02
+      ],
+      "angles_deg": [
+        0,
+        0,
+        0
+      ],
+      "baseline_cost": 1250,
+      "placement_status": "existing_v18_authored_pivot_not_world_mount_height",
+      "runtime_status": "individual_interaction_pending",
+      "mount_rule": "revalidate stock local pivot, visible face normal, floor/wall support and clear use approach"
+    },
+    {
+      "id": "W04",
+      "label": "KN-44",
+      "prefab": "_prefabs/zm/zm_core/spawnable_weapon_ar_standard.map",
+      "zone": "Z03",
+      "origin_m": [
+        -2.71,
+        14,
+        4.82
+      ],
+      "angles_deg": [
+        0,
+        97.22,
+        0
+      ],
+      "baseline_cost": 1400,
+      "placement_status": "existing_v18_authored_pivot_not_world_mount_height",
+      "runtime_status": "individual_interaction_pending",
+      "mount_rule": "revalidate stock local pivot, visible face normal, floor/wall support and clear use approach"
+    },
+    {
+      "id": "I01",
+      "label": "Quick Revive",
+      "prefab": "_prefabs/zm/zm_core/vending_revive_struct.map",
+      "zone": "Z01",
+      "origin_m": [
+        0.2,
+        2.7,
+        0.02
+      ],
+      "angles_deg": [
+        0,
+        90,
+        0
+      ],
+      "baseline_cost": null,
+      "placement_status": "existing_v18_authored_pivot_not_world_mount_height",
+      "runtime_status": "individual_interaction_pending",
+      "mount_rule": "revalidate stock local pivot, visible face normal, floor/wall support and clear use approach"
+    },
+    {
+      "id": "I02",
+      "label": "Intended mystery box site; static base only",
+      "prefab": "_prefabs/zm/zm_core/buyable_magic_box_start.map",
+      "zone": "Z02",
+      "origin_m": [
+        -16,
+        -1.3,
+        0.02
+      ],
+      "angles_deg": [
+        0,
+        0,
+        0
+      ],
+      "baseline_cost": null,
+      "placement_status": "existing_v18_authored_pivot_not_world_mount_height",
+      "runtime_status": "functional_assembly_missing_no_treasure_chest_use_or_site_zbarrier",
+      "mount_rule": "Inspect complete stock zm_giant magicbox assembly; retain site only, supply linked use struct/zbarrier and required assets/scripts; then test."
+    },
+    {
+      "id": "I03",
+      "label": "Power",
+      "prefab": "_prefabs/zm/zm_core/power_switch.map",
+      "zone": "Z03",
+      "origin_m": [
+        7.6,
+        6,
+        4.82
+      ],
+      "angles_deg": [
+        0,
+        270,
+        0
+      ],
+      "baseline_cost": null,
+      "placement_status": "existing_v18_authored_pivot_not_world_mount_height",
+      "runtime_status": "individual_interaction_pending",
+      "mount_rule": "revalidate stock local pivot, visible face normal, floor/wall support and clear use approach"
+    }
+  ],
+  "future": [
+    {
+      "id": "Z05",
+      "label": "Bounded junction/Melton connector",
+      "coordinates": null,
+      "status": "proposed_route_extent_to_review"
+    },
+    {
+      "id": "Z06",
+      "label": "Taraj",
+      "coordinates": null,
+      "status": "Blender_interior_only"
+    },
+    {
+      "id": "G04",
+      "label": "Connector expansion",
+      "coordinates": null,
+      "cost": null,
+      "from_zone": "Z04",
+      "to_zone": "Z05",
+      "status": "proposal_requires_route_review"
+    },
+    {
+      "id": "G05",
+      "label": "Taraj entry",
+      "coordinates": null,
+      "cost": null,
+      "from_zone": "Z05",
+      "to_zone": "Z06",
+      "status": "proposal_use_existing_front_arrival"
+    },
+    {
+      "id": "I04",
+      "label": "Juggernog",
+      "zone": "Z02",
+      "coordinates": null,
+      "status": "proposal_supported_pavement_bay_power_required"
+    },
+    {
+      "id": "I05",
+      "label": "Speed Cola",
+      "zone": "Z03",
+      "coordinates": null,
+      "status": "proposal_flat_floor_clear_of_stair_arrival"
+    },
+    {
+      "id": "I06",
+      "label": "Double Tap or alternative reward",
+      "zone": "Z04",
+      "coordinates": null,
+      "status": "proposal_open_street_not_lane_dead_end"
+    },
+    {
+      "id": "I07",
+      "label": "Pack-a-Punch",
+      "zone": "Z06",
+      "coordinates": null,
+      "status": "proposal_power_and_reachable_Taraj_required"
+    },
+    {
+      "id": "Z02_R04",
+      "label": "v30 rear barricade candidate",
+      "origin_m": [
+        -7.65,
+        34.2,
+        0
+      ],
+      "coordinates_source": "scripts/build_rear_alley_v30.py",
+      "status": "Blender_only_proposal_repairable_barrier_not_implemented"
+    }
+  ],
+  "review_rules": [
+    "Do not run generation from this registry.",
+    "No new gate prices until playtest economy observed.",
+    "Future coordinates remain unset rather than invented.",
+    "Use documented reviewed v30 baseline and remeasure before copying legacy v18 volumes.",
+    "Stock audit and tutorial findings are separate evidence, not runtime proof."
+  ]
+}

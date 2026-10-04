@@ -1,8 +1,19 @@
-[Taraj renders and placement plan](docs/TARAJ_V24.md) — latest source and map relationship.
+[Latest enclosed rear-alley mapping, before/after previews and highlight video](docs/REAR_ALLEY_V30.md). Current Blender source: `assets/blender/pharmacie-zombies-alley-v30.blend`; v29 street/Taraj work retained. New geometry is Blender-only; engine deployment remains unchanged.
 
-Latest complete Blender checkpoint: `assets/blender/pharmacie-taraj-opposite-v24.blend`. Melton Road, roundabout, rough street buildings and the photo-led Taraj exterior are saved; pub/shopfront/fridge work is retained. See [3D shopfront gallery](docs/3D_SHOPFRONT_GALLERY.md). New geometry is Blender-only; engine deployment remains unchanged.
+[Taraj interior/bridge v26 and render review](docs/TARAJ_BRIDGE_V26.md).
+
+Latest complete Blender checkpoint: `assets/blender/pharmacie-taraj-interior-bridge-v26.blend`. Detailed Taraj restaurant/bar and bridge/brook/access refinements are saved; earlier pub/street work is retained. Estimated dimensions and current guest placeholder are documented. New geometry is Blender-only; engine deployment remains unchanged. Older latest/current statements below are historical.
 
 # Call of Duty: Black Ops III modding plan
+
+Before the next Radiant conversion, read the
+[conversion playbook](docs/RADIANT_CONVERSION_PLAYBOOK.md),
+[placement specification](docs/RADIANT_GAMEPLAY_PLACEMENT_PLAN.md),
+[installed-stock audit](docs/RADIANT_STOCK_GAMEPLAY_AUDIT.md) and
+[saved tutorial library](research/radiant/README.md). This 4 October research
+pass distinguishes the documented v30 Blender baseline from legacy v18 engine
+placements. The outside mystery-box prefab is a static base; complete working
+box assembly remains a conversion task. No new engine changes/build/deployment.
 
 Latest Blender work: `assets/blender/pharmacie-shopfronts-v19.blend`, three
 modelled neighbouring shopfronts. Read docs/SHOPFRONTS_V19.md. Sam requested

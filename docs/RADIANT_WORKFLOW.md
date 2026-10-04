@@ -1,5 +1,16 @@
 # BO3 Radiant and automation notes
 
+**Research update, 2026-10-04:** before the next conversion, read the
+[conversion playbook](RADIANT_CONVERSION_PLAYBOOK.md),
+[detailed placement plan](RADIANT_GAMEPLAY_PLACEMENT_PLAN.md),
+[installed-stock audit](RADIANT_STOCK_GAMEPLAY_AUDIT.md) and
+[offline tutorial packet](../research/radiant/README.md). Current documented
+Blender source is [v30](REAR_ALLEY_V30.md); v18 entity anchors/volumes are legacy
+data to reconcile with it. This research did not export/build/deploy a map.
+The stock audit corrects an older assumption: the existing outside mystery-box
+reference is its static base only; functional chest-use/zbarrier assembly is
+missing. Older latest-source and verification statements below are historical.
+
 Latest authorized test: [PLAYTEST_V18.md](PLAYTEST_V18.md), `zm_pharmacie_playtest`.
 Full compiler/navmesh/LED/link/deployment and solo loading verified; user feedback
 requires further texture/door-prompt correction. Earlier rebuild hold is superseded

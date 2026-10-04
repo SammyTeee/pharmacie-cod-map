@@ -1,0 +1,48 @@
+{
+  "checked_at_utc": "2026-10-04T01:28:33.617369+00:00",
+  "scope": "Offline documentation/source consistency, not engine/editor/runtime tests",
+  "registry_ids": 38,
+  "player_starts": 4,
+  "baseline_risers": 11,
+  "local_links": 58,
+  "manual_cases": 21,
+  "errors": [],
+  "documents": [
+    {
+      "path": "research/radiant/README.md",
+      "sha256": "e08e5ae5fea65d11afefaff60a890ac40f67f2da65136d86cdab775ae9a52459"
+    },
+    {
+      "path": "research/radiant/tutorial-library/README.md",
+      "sha256": "432527eeab46292580972f0ba086ebccd67cf6336fc44a440052d9dc11a6da72"
+    },
+    {
+      "path": "research/radiant/tutorial-library/EXTERNAL_READING_NOTES.md",
+      "sha256": "c2ee8b0b419c32211b8da301b9af136123f3f00fde30c1c7c15af90a3efdaccd"
+    },
+    {
+      "path": "docs/RADIANT_CONVERSION_PLAYBOOK.md",
+      "sha256": "5ae94cb8dbae1d1a2edb6afee7272c6c38d10b4336b953b695e17648161ea502"
+    },
+    {
+      "path": "docs/RADIANT_STOCK_GAMEPLAY_AUDIT.md",
+      "sha256": "e3664aaa32054c81ff7679389353b68aa06a50664f1aeacc27c1a5478677caec"
+    },
+    {
+      "path": "docs/RADIANT_GAMEPLAY_PLACEMENT_PLAN.md",
+      "sha256": "301356e01f81ec516ea4766bd4f20dcb62b7b7c79cfd2aaf16d8ac7cefca5575"
+    },
+    {
+      "path": "docs/ZOMBIES_DESIGN_V29.md",
+      "sha256": "01ce333d76364d03436455f5badcc61dbc365fbdfbc07f737de691f9a25b8aa0"
+    },
+    {
+      "path": "docs/radiant-gameplay-plan.json",
+      "sha256": "89e7922437c70c26b4946d3621a88a70403462fdcc51d36b18341e47fd26f1bf"
+    },
+    {
+      "path": "research/radiant/manual-test-record.csv",
+      "sha256": "49635f4941f71cae3cd174e85c96400c7ea89dab0ea2b7a72895b1f4e01a49aa"
+    }
+  ]
+}

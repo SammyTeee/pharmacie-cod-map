@@ -1,0 +1,144 @@
+<!--
+title: BO3 | Adding Zombie Spawners, Risers, and Window Barriers
+description:
+published: true
+date: 2024-02-25T10:43:00.439Z
+tags: confluence:17301659
+editor: ckeditor
+dateCreated: 2024-02-04T15:32:12.201Z
+-->
+
+<p>You should have at least one zombie spawner per zone of your map</p>
+<h2
+  id="BO3|AddingZombieSpawners,Risers,andWindowBarriers-CreatingtheSpawnerinRadiant">
+  Creating the Spawner in Radiant
+</h2>
+<p>
+  First, drag an actor\spawner_zm_factory_zombie from the entity browser into
+  your map.
+</p>
+<p>Give it the following KVPs:</p>
+<div class="table-wrap">
+  <table class="wrapped confluenceTable">
+    <colgroup>
+      <col />
+      <col />
+    </colgroup>
+    <tbody>
+      <tr>
+        <th><p>Key</p></th>
+        <th><p>Value</p></th>
+      </tr>
+      <tr>
+        <td><p>script_noteworthy</p></td>
+        <td><p>zombie_spawner</p></td>
+      </tr>
+      <tr>
+        <td>coop_count</td>
+        <td>
+          <pre>{9999, 0, 0, 0}</pre>
+        </td>
+      </tr>
+      <tr>
+        <td><p>count</p></td>
+        <td><p>9999</p></td>
+      </tr>
+      <tr>
+        <td><p>script_forcespawn</p></td>
+        <td><p>1</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<ul>
+  <li>
+    &lt;zone_name&gt;_spawners will determine which zone activates this spawner.
+  </li>
+</ul>
+<h2 id="BO3|AddingZombieSpawners,Risers,andWindowBarriers-Risers">Risers</h2>
+<p>
+  To create a riser location for a zombie to rise out of the ground, drag a
+  script\struct from the entity browser into your map. Give it the following
+  KVPs:
+</p>
+<div class="table-wrap">
+  <table class="wrapped confluenceTable">
+    <colgroup>
+      <col />
+      <col />
+    </colgroup>
+    <tbody>
+      <tr>
+        <th><p>Key</p></th>
+        <th><p>Value</p></th>
+      </tr>
+      <tr>
+        <td><p>targetname</p></td>
+        <td><p>&lt;zone_name&gt;_spawners</p></td>
+      </tr>
+      <tr>
+        <td><p>script_noteworthy</p></td>
+        <td><p>riser_location</p></td>
+      </tr>
+      <tr>
+        <td>script_string</td>
+        <td>
+          <pre>find_flesh</pre>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<ul>
+  <li>
+    &lt;zone_name&gt;_spawners will determine which zone activates this spawner.
+    This must match the target KVP value of the zone which the spawner is being
+    used for. See
+    <a href="/Modding/Black-Ops-3-Modtools/Mapping/Adding-Zones.html">
+      BO3 | Adding Zones
+    </a>
+    for more info.
+  </li>
+  <li>
+    You can copy/paste this struct to create more riser locations in your zone.
+    If you move the struct to a new zone, remember to update the targetname.
+  </li>
+</ul>
+<h2 id="BO3|AddingZombieSpawners,Risers,andWindowBarriers-Windows">Windows</h2>
+<p>
+  To create a window entrance for zombies, drag a misc\_prefab into your map.
+  Select the following prefab:
+  <strong>_prefabs/zm/zm_core/barricade_reciever_wood.map</strong>
+</p>
+<p>Give your prefab the following KVP:</p>
+<div class="table-wrap">
+  <table class="wrapped confluenceTable">
+    <colgroup>
+      <col />
+      <col />
+    </colgroup>
+    <tbody>
+      <tr>
+        <th><p>Key</p></th>
+        <th><p>Value</p></th>
+      </tr>
+      <tr>
+        <td><p>script_string</p></td>
+        <td><p>&lt;entry_name&gt;</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<ul>
+  <li>
+    &lt;
+    <span>entry_name</span>
+    &gt; can be any string you want. It will determine which riser structs spawn
+    zombies which will be attracted to this window barrier. This must match the
+    KVP value of the riser structs you want to be paired with this window.
+  </li>
+</ul>
+<p>
+  Create a riser struct anywhere behind the window and give it the same exact
+  KVP you gave to the window prefab.
+</p>

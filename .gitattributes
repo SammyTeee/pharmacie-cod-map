@@ -1,0 +1,9 @@
+# Tutorial snapshots and hashed planning artifacts must retain exact bytes.
+research/radiant/** -text
+# Upstream trailing spaces are part of the archived source, not local edits.
+research/radiant/tutorial-library/vendor/ugx/** whitespace=-blank-at-eol
+docs/RADIANT_CONVERSION_PLAYBOOK.md -text
+docs/RADIANT_STOCK_GAMEPLAY_AUDIT.md -text
+docs/RADIANT_GAMEPLAY_PLACEMENT_PLAN.md -text
+docs/ZOMBIES_DESIGN_V29.md -text
+docs/radiant-gameplay-plan.json -text

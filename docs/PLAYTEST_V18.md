@@ -1,5 +1,13 @@
 # V18 Radiant Zombies playtest
 
+**Stock audit correction, 2026-10-04:** the outside
+`buyable_magic_box_start.map` reference contains only static base/rubble.
+The generated map lacks the functional chest-use/zbarrier assembly. Older
+"mystery box outside" placement statements below record the intended site,
+not demonstrated box functionality. See
+[installed-stock audit](RADIANT_STOCK_GAMEPLAY_AUDIT.md) and
+[next-conversion playbook](RADIANT_CONVERSION_PLAYBOOK.md).
+
 Latest state and resume instructions: [HANDOVER_2026-10-03.md](HANDOVER_2026-10-03.md).
 Sam confirms doors work and sharp-window pass looks good. New crossing/bar
 package is built but not deployed. Earlier three-zone/crop descriptions below

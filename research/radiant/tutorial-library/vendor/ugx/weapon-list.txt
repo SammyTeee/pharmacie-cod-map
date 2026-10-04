@@ -1,0 +1,22 @@
+UGX-Mods community wiki — readable text derivative
+Original: https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Script/Weapon-System/Weapon-List.html
+Snapshot commit: 331184f27904c1fbe24cd59b5d752511f698746a
+License: AGPL-3.0; upstream notices retained in source HTML.
+Local change: HTML converted to plain text; media and relative links are references only.
+This derivative shares the upstream license. Original HTML is authoritative.
+
+To view a list of all enumerated weapons that are loaded into the game we can use the console to help us.
+
+- Start the game.
+
+- Load the map and/or mod.
+
+-  Open the console and type this command to show all channels for the console: /con_channelshow *;logfile 1 (exactly like this as ; is a separate for the console to parse the next block as a new input for the console)
+
+- Next type /listassetpool 23
+
+- Let the game process all the assets then we can exit the game.
+
+-  Go to your Black Ops III root folder and find the map and/or mod we were in and locate the console_mp.log.
+
+-  Upon opening the log you'll see the output of all the weapon assets that are loaded b the game. Note: All of non-gamemode weapons will not work i.e. trying to give yourself ar_marksman_cp you need to one that's loaded for your gamemode specifically.

@@ -1,8 +1,50 @@
-[Taraj renders and placement plan](docs/TARAJ_V24.md) — latest source and map relationship.
+[Latest rear-alley mapping and review](docs/REAR_ALLEY_V30.md) — read first.
+
+## User-approved mapping approach — 2026-10-04
+
+Sam strongly approved the v30 rear-alley preview and explicitly asked to carry
+its approach into future changes. Follow the requested layout, then develop it
+as a deliberate CoD Zombies space: enclosing walls and continuous floors,
+clear escape routes, useful doorways/boundaries, plausible barricade locations,
+and restrained service props/lighting that keep circulation clear. Resolve
+empty or unfinished areas as coherent spaces rather than adding decoration alone.
+Use v30 as the quality reference. Preserve recognizable venue architecture and
+explicit user corrections; record gameplay adaptations separately from observed
+real-world facts. Show substantial changes with matched before/after previews
+and clear highlights; a compact labelled video is useful where practical.
+Keep Blender geometry checks distinct from implemented engine behavior and
+actual game verification. This preference does not authorize engine deployment
+or override existing game-control/publishing restrictions.
+
+Latest checkpoint: `assets/blender/pharmacie-zombies-alley-v30.blend`.
+Enclosed narrow rear alley, boundary/infill walls, ground backing, wall-side
+utilities, enclosed barricade pocket, parked rear-door leaf and closed bar-side
+Staff Only door. V29 street/Taraj work retained. Engine remains unchanged;
+new door/barricade/spawn markers are proposals. Before/after highlight video:
+`recon/v30/index.html`. Wider-radius Blender routes pass, not BO3 navigation.
+
+[Current street detail and recovery notes](docs/SYSTON_DETAIL_V29.md).
+
+Latest checkpoint: `assets/blender/pharmacie-syston-detail-v29.blend`.
+Sam wants individual shops and the streetscape detailed to the Pharmacie standard,
+including pavements/kerbs/road markings. V27–v29 are an initial detail pass, not
+completion of that broader target. Firefox reference collection is authorised.
+Preserve approved building placement and pub/Taraj interiors. Blender-only.
+
+[Taraj renders and placement plan](docs/TARAJ_V24.md) — earlier checkpoint.
 
 Latest complete Blender checkpoint: `assets/blender/pharmacie-taraj-opposite-v24.blend`. Melton Road, roundabout, rough street buildings and the photo-led Taraj exterior are saved; pub/shopfront/fridge work is retained. See [3D shopfront gallery](docs/3D_SHOPFRONT_GALLERY.md). New geometry is Blender-only; engine deployment remains unchanged.
 
 # Project instructions
+
+Before future Radiant conversion/gameplay placement, read
+`docs/RADIANT_CONVERSION_PLAYBOOK.md`, `docs/RADIANT_GAMEPLAY_PLACEMENT_PLAN.md`,
+`docs/RADIANT_STOCK_GAMEPLAY_AUDIT.md` and `research/radiant/README.md`.
+The offline BO3 tutorial snapshot is source-linked/licensed, with original HTML,
+readable text and hashes. Check tutorial recipes against installed stock and
+actual runtime. Legacy v18 coordinates require reconciliation with current
+Blender geometry. The existing outside box prefab is static base/rubble only;
+functional chest entities are missing. Do not call it a working mystery box.
 
 This repository is a Call of Duty: Black Ops III custom Zombies map inspired by The Pharmacie Arms in Syston, Leicestershire. The user is new to mapping and wants agents to do as much of the implementation as practical, explaining important choices plainly.
 

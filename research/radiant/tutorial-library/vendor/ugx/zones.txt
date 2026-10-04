@@ -1,0 +1,22 @@
+UGX-Mods community wiki — readable text derivative
+Original: https://github.com/UGX-Mods/community-wiki/blob/331184f27904c1fbe24cd59b5d752511f698746a/Modding/Black-Ops-3-Modtools/Mapping/Adding-Zones.html
+Snapshot commit: 331184f27904c1fbe24cd59b5d752511f698746a
+License: AGPL-3.0; upstream notices retained in source HTML.
+Local change: HTML converted to plain text; media and relative links are references only.
+This derivative shares the upstream license. Original HTML is authoritative.
+
+Zones in BO3 pretty much work the same way they did in World at War, so this page will only cover the changes in BO3. For a full guide to zones, refer to  Ultimate Guide to Zones in v1.4 Maps  (/Modding/World-at-War-Modtools/Radiant/Ultimate-Guide-to-Zones-in-v1_4-Maps) .
+
+## Creating Zones
+
+ Drag a info\volume from the entity browser into your map and give the volume the zone KVPs you learned from the WaW guide.
+
+## KVP Changes
+
+ Zones now also act as playable area for players. If you want a zone to denote an area that the player is allowed to be, add the following KVP to it:
+
+  |  Key   |  Value
+
+  | script_noteworthy  | player_volume
+
+ You'll notice that if you don't have any player volumes in your map, you'll die as soon as you spawn into your map.

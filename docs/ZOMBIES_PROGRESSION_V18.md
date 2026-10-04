@@ -1,5 +1,12 @@
 # Proposed Zombies progression — plan before Radiant
 
+Current expanded planning: [Zombies design](ZOMBIES_DESIGN_V29.md),
+[Radiant placement specification](RADIANT_GAMEPLAY_PLACEMENT_PLAN.md) and
+[conversion playbook](RADIANT_CONVERSION_PLAYBOOK.md). The installed-stock audit
+finds that the existing outside box prefab is a static base only; a functional
+chest assembly remains to be authored/tested. This correction does not change
+the engine package or invalidate Sam's existing door confirmation.
+
 Implementation update 2026-10-03: Sam authorized the separate `zm_pharmacie_playtest`.
 Three zones, linked 750-point street exits, 1000-point stair access, four stock wall
 buys and item placements are now authored and built. Sam confirms pub/stair doors

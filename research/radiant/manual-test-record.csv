@@ -1,0 +1,22 @@
+case_id,feature,build_identity,player_count,initial_gates,power_before,buyer_points_before,buyer_points_after,action,expected,status,evidence,notes
+T01,Cold start,,,,,,,Start new match,Supported player starts and round completes,not_run,,
+T02,W01,,,,,,,Buy RK5 then ammo,Readable prompt correct weapon and stock deductions,not_run,,
+T03,W02,,,,,,,Buy KRM then ammo,Rear wall mount reachable without blocking escape,not_run,,
+T04,W03,,,,,,,Buy Kuda then ammo,Outside mount faces supported pavement,not_run,,
+T05,W04,,,,,,,Buy KN44 then ammo,Upper wall mount reachable off landing,not_run,,
+T06,G01,,,,,,,Buy at front,One charge both exits clear and loop navigates,not_run,,
+T07,G01,,,,,,,Buy at rear in fresh run,Same shared group result as front purchase,not_run,,
+T08,G02,,,,,,,Buy upstairs first,Upstairs opens while street stays locked,not_run,,
+T09,G01_G02,,,,,,,Buy outside first then upstairs,Same final state as reverse order,not_run,,
+T10,I03,,,,,,,Use upstairs power switch,Power shared dependent systems work paid gates unchanged,not_run,,
+T11,I01,,,,,,,Buy Quick Revive solo then separate co-op run,Appropriate stock behavior and price,not_run,,
+T12,I02,,,,,,,Use completed starting box,Real spin presentation pickup and occupancy correct,not_run,,Base presently incomplete
+T13,Z02_loop,,,,,,,Walk both directions with pursuit,No threshold turn furniture or persistent path failure,not_run,,
+T14,Z03_stairs,,,,,,,Chase up and down stairs,Players and zombies pass landings without trapping,not_run,,
+T15,G03_Z04,,,,,,,Buy crossing and visit lane,Removal spawn activation pursuit retreat and bounds correct,not_run,,Pending package state check
+T16,Coop_gates,,,,,,,Two clients use same gate near simultaneously,One successful charge and shared removal state,not_run,,
+T17,Coop_revives,,,,,,,Split players and revive at each route landing,No unavoidable blocking or zone inconsistency,not_run,,
+T18,Bounds_round_end,,,,,,,Explore unlocked bounds and finish several rounds,No fall out scenery escape or unreachable last zombie,not_run,,
+T19,Window_candidate,,,,,,,Tear repair and traverse completed rear receiver,Stock repair and zombie passage work,not_run,,Later assembly
+T20,I04_I05_I06,,,,,,,Buy proposed powered perks,Correct effect price power and supported use,not_run,,Proposed sites
+T21,G04_G05_I07,,,,,,,Reach Taraj and upgrade retrieve weapon,Routes shared and PaP animation use retrieval clear,not_run,,Later proposed slice
