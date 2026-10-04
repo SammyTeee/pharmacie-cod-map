@@ -1,0 +1,16 @@
+{
+  "section": 0,
+  "name": "High Street and Pharmacie",
+  "duration": 6,
+  "frames": 180,
+  "fps": 30,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "engine": "CYCLES",
+  "samples": 16,
+  "bytes": 6236968,
+  "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-taraj-road-v34.blend",
+  "source_saved": false
+}

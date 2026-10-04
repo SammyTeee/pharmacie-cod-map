@@ -107,3 +107,7 @@ screen. backbar-photo-detail-v08.png shows the result. Raster sources remain
 unchanged; backbar-photo-v08-manifest.json records both supplied reference
 hashes and crop coordinates. All v07 layout fixes are retained. BO3 material
 conversion and the next Radiant rebuild remain pending.
+Latest checkpoint: [pharmacie-taraj-road-v34.blend](pharmacie-taraj-road-v34.blend).
+See [v34 mapping and tour notes](../../docs/TARAJ_ROAD_V34.md).
+Opens the west Melton branch and adds backed terrain, frontage aprons/foundations,
+bounded infill and shallow detail; pub/Taraj placement retained. Blender-only.

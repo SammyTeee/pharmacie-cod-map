@@ -1,3 +1,18 @@
+[Latest opened Melton/Taraj road mapping and review](docs/TARAJ_ROAD_V34.md).
+
+Latest Blender checkpoint: `assets/blender/pharmacie-taraj-road-v34.blend`.
+V33 west closure archived; retained road to Taraj is connected and bounded,
+with terrain backing, frontage aprons/infill, foundations and shallow detail.
+Approved pub/Taraj/building placement retained. Blender-only; BO3 unchanged.
+Sam requested smoother true frame rates and better video encoding, then explicitly
+rejected hours-long rendering: prioritise completion in minutes. Use a cached,
+temporarily merged textured viewport capture at 720p/30 distinct fps and a
+higher-quality encode by default. Offer offline/1080p rendering only when its
+measured runtime fits the request; do not silently start an hours-long render.
+On 2026-10-04 Sam explicitly authorized uploading the requested pub/street/Taraj
+tour to `https://sammyt.wtf/preview.webm`; this is authorization for that video,
+not general publishing or engine deployment. Earlier checkpoint notes are historical.
+
 [Latest enclosure fixes, service-lane detail and player-height fly-through](docs/ENCLOSURE_DETAIL_V33.md).
 
 Latest Blender checkpoint: `assets/blender/pharmacie-enclosure-detail-v33.blend`.

@@ -1,0 +1,19 @@
+{
+  "section": 5,
+  "frame": 0,
+  "total": 1800,
+  "started": 171564.0589159,
+  "status": "complete",
+  "duration": 60,
+  "frames": 1800,
+  "fps": 30,
+  "resolution": [
+    1280,
+    720
+  ],
+  "render": "Cached GPU textured Workbench viewport; studio shading, shadows/cavity; no ray-traced lighting",
+  "elapsed_seconds": 392.3,
+  "bytes": 19928547,
+  "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-taraj-road-v34.blend",
+  "source_saved": false
+}

@@ -110,3 +110,7 @@ Latest Blender source: assets/blender/pharmacie-street-details-v13.blend, correc
 Latest Blender source pharmacie-detailed-pub-v15.blend. User lifted rebuild hold for a separate zombie-free scale test zm_pharmacie_scale after the new video detail pass; implementation/build/runtime evidence in SCALE_TEST_V15.md and MODLOG.md.
 
 Current Blender source pharmacie-entrance-fixed-v16.blend. Fixes front threshold and developer-only diagnostic in zm_pharmacie_scale. See MODLOG.md for actual build/runtime state.
+[Latest opened road to Taraj and review](docs/TARAJ_ROAD_V34.md).
+Current Blender source: `assets/blender/pharmacie-taraj-road-v34.blend`.
+Retained Melton route opened; terrain/frontage foundations and bounded gaps
+added without moving the approved architecture. BO3 remains unchanged.

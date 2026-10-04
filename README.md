@@ -112,3 +112,8 @@ Build the main pub room with player spawns, zombie routes, round logic, and enou
 Built with Codex assistance and official BO3 Mod Tools. The transparent skeleton/chair derivative was isolated with OpenAI image generation; other photo derivatives use deterministic format conversion and UV crops. Sources and provenance are recorded in the reference README and `assets/photos/manifest.json`.
 
 This is an in-progress source handover, not a packaged Workshop release. Local profiles/backups, asset databases/caches, and compiled game packages remain ignored under `build/` or in the installations; rebuild those on your own machine. The repository includes project source, reference/derived art, screenshots and selected text build evidence.
+[Latest opened road to Taraj and high-quality tour](docs/TARAJ_ROAD_V34.md).
+Current Blender checkpoint: `assets/blender/pharmacie-taraj-road-v34.blend`.
+The west closure is archived and the Melton branch has connected frontage
+approaches, backed terrain and deliberate outer boundaries. Blender-only;
+engine/gameplay verification remains separate.

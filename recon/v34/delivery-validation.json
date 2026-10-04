@@ -1,0 +1,41 @@
+{
+  "video": "preview.webm",
+  "sha256": "392f4b95315b30667a24600ef85c6a9a37c5b310a59c5bdf5e8a1fc302314f94",
+  "bytes": 19928547,
+  "duration_seconds": 60.0,
+  "resolution": [
+    1280,
+    720
+  ],
+  "distinct_rendered_frames": 1800,
+  "distinct_fps": 30,
+  "average_bitrate_bits_per_second": 2657140,
+  "encoding": "VP9 CRF18 / 6Mbit target",
+  "renderer": "Cached GPU textured Workbench viewport; studio shading, shadows/cavity; no ray-traced lighting",
+  "full_decode": true,
+  "checkpoint_sha256": "76f8205158e7c451056ae8daaa74ae254e41e504e3325b1d9b080d8bb3a9fd9d",
+  "matched_stills": [
+    "01_unlock_before.png",
+    "01_unlock_after.png",
+    "02_junction_before.png",
+    "02_junction_after.png",
+    "03_melton_before.png",
+    "03_melton_after.png",
+    "04_bridge_before.png",
+    "04_bridge_after.png",
+    "05_taraj_before.png",
+    "05_taraj_after.png",
+    "06_plan_before.png",
+    "06_plan_after.png"
+  ],
+  "engine_verified": false,
+  "upload_verified": true,
+  "upload_url": "https://sammyt.wtf/preview.webm",
+  "remote_sha256": "392f4b95315b30667a24600ef85c6a9a37c5b310a59c5bdf5e8a1fc302314f94",
+  "remote_bytes": 19928547,
+  "http_status": 200,
+  "http_content_type": "video/webm",
+  "http_byte_ranges": true,
+  "capture_seconds": 392.3,
+  "contact_sheet_reviewed": true
+}

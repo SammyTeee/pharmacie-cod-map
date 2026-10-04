@@ -1,0 +1,14 @@
+{
+  "new_closed_solids": 662,
+  "retained_pub_samples": 572,
+  "retained_failures": [],
+  "road_samples": 3429,
+  "road_failures": [],
+  "parent_mesh_geometry_preserved": 9583,
+  "source_photos_unchanged": 44,
+  "radius": 0.42,
+  "spacing": 0.1,
+  "bearings": 16,
+  "engine_verified": false,
+  "limits": "Visible-mesh sample rays, not a continuous capsule sweep or BO3 navigation test"
+}

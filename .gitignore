@@ -16,3 +16,8 @@ build/
 *.env
 # V33 per-second streaming review snapshots; final media/contact sheets are tracked.
 /recon/v33/*-flight-*.png
+# V34 benchmark/sampled section frames are reproducible; retain final contact sheet.
+/recon/v34/benchmark-*.png
+/recon/v34/benchmark-*.json
+/recon/v34/tour-contact-*.jpg
+/recon/v34/tour-section-*.webm
