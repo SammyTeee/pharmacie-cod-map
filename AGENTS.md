@@ -1,3 +1,12 @@
+[Latest street vehicles, furniture, opposite shopfront detail and videos](docs/STREET_FRONTAGES_V32.md).
+
+Latest Blender checkpoint: `assets/blender/pharmacie-street-frontages-v32.blend`.
+V31 vehicles and bounded street, V32 frontage relief/furniture/crossing approaches;
+v30 enclosed rear alley and prior pub/Taraj work retained. Zombies first,
+possible PvP later. Engine unchanged; Blender route checks are not game tests.
+Sam explicitly requested pushing the completed mapping/media pass on 2026-10-04,
+superseding the earlier no-push instruction. Skeleton work is deferred.
+
 [Latest rear-alley mapping and review](docs/REAR_ALLEY_V30.md) — read first.
 
 ## User-approved mapping approach — 2026-10-04

@@ -1,3 +1,12 @@
+[Latest street vehicles, furniture, opposite shopfront detail and videos](docs/STREET_FRONTAGES_V32.md).
+
+Latest Blender checkpoint: `assets/blender/pharmacie-street-frontages-v32.blend`.
+V31 vehicles and bounded street, V32 frontage relief/furniture/crossing approaches;
+v30 enclosed rear alley and prior pub/Taraj work retained. Zombies first,
+possible PvP later. Engine unchanged; Blender route checks are not game tests.
+Sam explicitly requested pushing the completed mapping/media pass on 2026-10-04,
+superseding the earlier no-push instruction. Skeleton work is deferred.
+
 [Latest enclosed rear-alley mapping, before/after previews and highlight video](docs/REAR_ALLEY_V30.md). Current Blender source: `assets/blender/pharmacie-zombies-alley-v30.blend`; v29 street/Taraj work retained. New geometry is Blender-only; engine deployment remains unchanged.
 
 [Latest street detail and recovery notes](docs/SYSTON_DETAIL_V29.md). Current Blender source: `assets/blender/pharmacie-syston-detail-v29.blend`. Street materials/lining, individual shop details and new satellite reference; further work toward Pharmacie-level detail is recorded. Blender-only.

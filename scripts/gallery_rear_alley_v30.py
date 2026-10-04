@@ -1,0 +1,29 @@
+"""Local comparison gallery and compact labelled 24fps video from rendered stills."""
+from pathlib import Path
+import json,html,subprocess
+from PIL import Image,ImageDraw,ImageFont
+ROOT=Path(__file__).resolve().parents[1];dest=ROOT/'recon/v30';work=ROOT/'build/v30-video';work.mkdir(exist_ok=True)
+ffmpeg='C:/ffmpeg/ffmpeg.exe'
+segments=[('03_rear_turn_before.png','BEFORE: open rear area',2),('03_rear_turn_after.png','AFTER: narrow enclosed rear alley',3),('07_rear_plan_highlight.png','NEW walls in gold / alley floors in green',3),('06_closed_bar_door_before.png','BEFORE: doorway into unfinished space',2),('06_closed_bar_door_after.png','AFTER: solid Staff Only door',2),('01_alley_from_street_after.png','Two brick walls preserve the escape route',3),('02_alley_services_after.png','Lamps, bins and utilities stay beside the walls',2),('05_rear_barricade_after.png','New barricade pocket / engine setup pending',3)]
+font=ImageFont.truetype('C:/Windows/Fonts/arial.ttf',30);small=ImageFont.truetype('C:/Windows/Fonts/arial.ttf',18)
+clips=[]
+for i,(name,title,duration) in enumerate(segments):
+    im=Image.open(dest/name).convert('RGB');im.thumbnail((1280,650));canvas=Image.new('RGB',(1280,720),(17,22,27));canvas.paste(im,((1280-im.width)//2,0));d=ImageDraw.Draw(canvas);d.text((30,657),title,font=font,fill='white');d.text((30,698),'BLENDER v30 | mapping review',font=small,fill=(172,190,200));p=work/f'{i:02d}.png';canvas.save(p)
+    clip=work/f'{i:02d}.mp4';clips.append(clip)
+    subprocess.run([ffmpeg,'-hide_banner','-loglevel','error','-y','-loop','1','-framerate','24','-i',str(p),'-t',str(duration),'-vf',"zoompan=z='min(zoom+0.0004,1.02)':x='iw/2-iw/zoom/2':y='ih/2-ih/zoom/2':d=1:s=1280x720:fps=24",'-c:v','libx264','-preset','fast','-crf','24','-pix_fmt','yuv420p','-an',str(clip)],check=True)
+concat=work/'clips.txt';concat.write_text(''.join("file '"+p.as_posix()+"'\n" for p in clips))
+subprocess.run([ffmpeg,'-hide_banner','-loglevel','error','-y','-f','concat','-safe','0','-i',str(concat),'-c:v','libvpx-vp9','-b:v','700k','-crf','32','-row-mt','1','-deadline','good','-cpu-used','4','-pix_fmt','yuv420p','-an',str(dest/'mapping-changes.webm')],check=True)
+labels=['Street entrance into the alley','Utility details and clear route','Turn behind the pub','Rear door tucked against the wall','Enclosed zombie barricade pocket','Closed bar-side service doorway','Alley layout from above']
+pairs=[]
+for i,label in enumerate(labels,1):
+    stem=next(p.stem[:-6] for p in dest.glob(f'{i:02d}_*_after.png'))
+    before=dest/(stem+'_before.png');after=stem+'_after.png'
+    images=(f'<figure><figcaption>Before</figcaption><img loading="lazy" src="{stem}_before.png"></figure>' if before.exists() else '')+f'<figure><figcaption>After</figcaption><a href="{after}"><img loading="lazy" src="{after}"></a></figure>'
+    if (dest/(stem+'_highlight.png')).exists():images+=f'<figure><figcaption>New walls/props: gold · new route floor: green</figcaption><img loading="lazy" src="{stem}_highlight.png"></figure>'
+    pairs.append(f'<section><h2>{html.escape(label)}</h2><div class="pair">{images}</div></section>')
+page='''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Pharmacie v30 — enclosed rear alley</title><style>body{margin:0;background:#15191e;color:#ecf0f3;font:17px system-ui;line-height:1.5}main{max-width:1450px;padding:24px;margin:auto}h1{font-size:30px}a{color:#a9d4ff}video{display:block;width:100%;max-height:75vh;background:#222}.pair{display:grid;grid-template-columns:repeat(auto-fit,minmax(420px,1fr));gap:14px}figure{margin:0}img{width:100%;height:auto;border-radius:7px}figcaption{margin:8px 0}section{margin:35px 0}.note{padding:16px;background:#283442;border-radius:8px}@media(max-width:650px){.pair{grid-template-columns:1fr}}</style><main><h1>New mapping: enclosed rear alley — v30</h1><p class="note">The rear route is now a roughly 2m-wide passage between brick walls, with a tight turn to the pub door. New ground backing and a neighbouring service shell fill the surrounding void. The rear leaf is parked against the wall. A solid Staff Only door seals the bar-side opening. A boarded, enclosed pocket marks a future zombie entry; props hug the walls.</p><p>Saved Blender checkpoint. Purchases, barricade repair, zombie spawns and collision still need engine conversion and game testing. Wider-radius checks pass at 572 retained route samples. This is a gameplay adaptation, not a surveyed reconstruction.</p><h2>What changed — 720p, 24fps comparison video</h2><p>20 seconds of labelled before/after and highlighted views, with gentle camera-style zooms from rendered stills.</p><video controls preload="metadata" poster="03_rear_turn_after.png"><source src="mapping-changes.webm" type="video/webm"></video><p><a href="mapping-changes.webm" download>Download compact WebM</a> · <a href="../../docs/REAR_ALLEY_V30.md">Changes and remaining checks</a></p>'''+''.join(pairs)+'</main></html>'
+(dest/'index.html').write_text(page,encoding='utf-8')
+probe=json.loads(subprocess.check_output(['C:/ffmpeg/ffprobe.exe','-v','error','-show_format','-show_streams','-of','json',str(dest/'mapping-changes.webm')]))
+s=next(s for s in probe['streams'] if s['codec_type']=='video');assert (s['width'],s['height'])==(1280,720);assert abs(float(probe['format']['duration'])-20)<.1
+manifest={'duration_seconds':float(probe['format']['duration']),'bytes':(dest/'mapping-changes.webm').stat().st_size,'resolution':[s['width'],s['height']],'fps':s['r_frame_rate'],'style':'Labelled still-based before/after with 24fps animated zooms; not continuous traversal','segments':segments}
+(dest/'video.json').write_text(json.dumps(manifest,indent=2));print('V30_GALLERY_VIDEO_COMPLETE',json.dumps(manifest))

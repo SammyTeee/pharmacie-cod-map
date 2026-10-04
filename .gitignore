@@ -7,3 +7,10 @@ build/
 /assets/blender/*-before-*.blend
 # Personal browser reference capture stays local; scripts/docs are trackable.
 /references/streetview-capture/
+# Reproducible review animation intermediates; final WebM and stills are retained.
+/recon/v28-zombies/frames/
+/recon/v28-zombies/pub/frames/
+/recon/v28-zombies/video-frames/
+# Credentials and the deferred generated skeleton stay local.
+/assets/generated/skeleton-chair/
+*.env

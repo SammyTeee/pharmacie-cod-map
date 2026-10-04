@@ -1,0 +1,32 @@
+{
+  "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-syston-detail-v29.blend",
+  "source_sha256": "bea9428a19a3c39ebe471ea6b2df154e880dd054e1764556c2b3e6e60997a117",
+  "output": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-zombies-alley-v30.blend",
+  "new_closed_solids": 87,
+  "preserved_preexisting_mesh_geometry": 8796,
+  "archived_open_floor_slabs": [
+    "Street | rear exit landing",
+    "Street v17 | Outer-left alley walkable floor",
+    "Street v17 | Alley rear route connector"
+  ],
+  "clear_alley_width_m": 2.02,
+  "rear_turn_clear_width_m": 2.01,
+  "width_beside_bins_m": 1.595,
+  "changes": [
+    "Continuous narrow two-wall alley and tight rear turn",
+    "Neighbour infill shell and ground backing",
+    "Retained rear-door escape loop",
+    "Enclosed future zombie barricade pocket",
+    "Opaque bar-side service door",
+    "Wall-hugging utility cabinet, bins, drains and practical lamps",
+    "Rear open leaf parked against wall to clear narrow turn"
+  ],
+  "assumptions": [
+    "Rear surroundings and props are gameplay adaptations, not surveyed architecture",
+    "Door/barricade/spawn/wall-buy markers are proposals; no engine entities or behavior"
+  ],
+  "radiant_rebuilt": false,
+  "runtime_verified": false,
+  "review_correction": "East alley wall extended to street mouth after side-enclosure ray found frontage gap",
+  "archived_original_door": "Ground shell 03 | door 0 | open leaf"
+}

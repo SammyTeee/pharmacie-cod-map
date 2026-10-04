@@ -1,6 +1,21 @@
+[Latest street vehicles, furniture, opposite shopfront detail and videos](../../docs/STREET_FRONTAGES_V32.md).
+
+Latest Blender checkpoint: `assets/blender/pharmacie-street-frontages-v32.blend`.
+V31 vehicles and bounded street, V32 frontage relief/furniture/crossing approaches;
+v30 enclosed rear alley and prior pub/Taraj work retained. Zombies first,
+possible PvP later. Engine unchanged; Blender route checks are not game tests.
+Sam explicitly requested pushing the completed mapping/media pass on 2026-10-04,
+superseding the earlier no-push instruction. Skeleton work is deferred.
+
+[Latest enclosed rear-alley mapping, before/after previews and highlight video](../../docs/REAR_ALLEY_V30.md). Current Blender source: `assets/blender/pharmacie-zombies-alley-v30.blend`; v29 street/Taraj work retained. New geometry is Blender-only; engine deployment remains unchanged.
+
+[Latest street detail and recovery notes](../../docs/SYSTON_DETAIL_V29.md). Current Blender source: `assets/blender/pharmacie-syston-detail-v29.blend`; retains v26 Taraj/interior/bridge and extends v27/v28 appearance/detail. Blender-only.
+
 # Saved Blender work
 
-Open **pharmacie-syston-street-v25.blend** for the current editable model. It retains
+Open **pharmacie-taraj-interior-bridge-v26.blend** for the current editable model.
+Taraj now has a detailed fitted restaurant/bar; bridge/brook and access are
+improved. [Ten new renders](../../docs/TARAJ_BRIDGE_V26.md). It retains
 the pub, detailed neighbours, fridge and opposite-road Taraj;46 named Melton
 shopfronts and street details are added. [New renders](../../docs/SYSTON_V25.md).
 Historical milestone notes follow. Reference

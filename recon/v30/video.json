@@ -1,0 +1,52 @@
+{
+  "duration_seconds": 20.0,
+  "bytes": 361308,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": "24/1",
+  "style": "Labelled still-based before/after with 24fps animated zooms; not continuous traversal",
+  "segments": [
+    [
+      "03_rear_turn_before.png",
+      "BEFORE: open rear area",
+      2
+    ],
+    [
+      "03_rear_turn_after.png",
+      "AFTER: narrow enclosed rear alley",
+      3
+    ],
+    [
+      "07_rear_plan_highlight.png",
+      "NEW walls in gold / alley floors in green",
+      3
+    ],
+    [
+      "06_closed_bar_door_before.png",
+      "BEFORE: doorway into unfinished space",
+      2
+    ],
+    [
+      "06_closed_bar_door_after.png",
+      "AFTER: solid Staff Only door",
+      2
+    ],
+    [
+      "01_alley_from_street_after.png",
+      "Two brick walls preserve the escape route",
+      3
+    ],
+    [
+      "02_alley_services_after.png",
+      "Lamps, bins and utilities stay beside the walls",
+      2
+    ],
+    [
+      "05_rear_barricade_after.png",
+      "New barricade pocket / engine setup pending",
+      3
+    ]
+  ]
+}

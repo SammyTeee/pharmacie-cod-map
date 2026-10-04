@@ -1,0 +1,45 @@
+{
+  "engine_verified": false,
+  "galleries": {
+    "v30": {
+      "local_links": 23,
+      "missing": []
+    },
+    "v31": {
+      "local_links": 32,
+      "missing": []
+    },
+    "v32": {
+      "local_links": 42,
+      "missing": []
+    }
+  },
+  "videos": {
+    "recon/v30/mapping-changes.webm": {
+      "duration_seconds": 20.0,
+      "bytes": 361308,
+      "sha256": "b951247f11a7b20b7e577e5b258ddf854da3d575806f882f101617471ea00e0a"
+    },
+    "recon/v31/street-changes.webm": {
+      "duration_seconds": 26.0,
+      "bytes": 668909,
+      "sha256": "72e1a558b41171ae0aeb022fe983481bc6a0d5e0deecf9e5252786b41ba5e010"
+    },
+    "recon/v32/general-flythrough.webm": {
+      "duration_seconds": 28.0,
+      "bytes": 3808498,
+      "sha256": "5cc3428f3e2eaaf17cbe54947f1f0ae873194d32be159374a935ef2266351f31"
+    },
+    "recon/v32/street-changes.webm": {
+      "duration_seconds": 26.0,
+      "bytes": 581502,
+      "sha256": "f9e555127d0dbce485e0a8cda41a0d27dc3aadd5c77dea953ad2999a4ee2fc13"
+    }
+  },
+  "checkpoints": {
+    "v30": "d27d9731d82726eed953196027ba1c19dba56888de9e8c327916cd47011f7e4e",
+    "v31": "37d4b0f8694b123700111960650fcded74164ab0f6391f504ac5d63a85b72ff4",
+    "v32": "dde3f91883ba2722b74830bca9737b104f112e28b22ec8bd9390de81e65ac6c2"
+  },
+  "original_reference_hashes_unchanged": 44
+}

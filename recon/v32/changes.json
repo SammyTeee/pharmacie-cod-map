@@ -1,0 +1,15 @@
+{
+  "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-zombies-street-v31.blend",
+  "source_sha256": "37d4b0f8694b123700111960650fcded74164ab0f6391f504ac5d63a85b72ff4",
+  "output": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-street-frontages-v32.blend",
+  "new_closed_solids": 227,
+  "engine_verified": false,
+  "changes": [
+    "Wall-side benches and litter bins",
+    "Opposite shopfront plinths, sill trims, lamps, alarm boxes and vents",
+    "Florist flower buckets",
+    "Drain grilles and flush service covers",
+    "Solid crossing approach wedges"
+  ],
+  "provenance": "Original procedural meshes. New fittings inferred gameplay dressing, not confirmed photo reconstruction."
+}
