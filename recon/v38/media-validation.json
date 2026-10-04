@@ -1,0 +1,42 @@
+[
+  {
+    "name": "01_town_square_after.png",
+    "bytes": 1424834,
+    "sha256": "155abfe77d5fd0b1a72fc1742a7ac1e4441d27553029b5fa64028ad37d70caf1"
+  },
+  {
+    "name": "01_town_square_before.png",
+    "bytes": 1301447,
+    "sha256": "3700bf3d660aa3437f3e6e7df090758c4872a83c363e8c55763efbba9f51ec70"
+  },
+  {
+    "name": "01_town_square_highlight.png",
+    "bytes": 1334148,
+    "sha256": "c7959f553cc581ba0fe1e26274f5bce2eefb1ff2474ca15bf7cb77fefa480d44"
+  },
+  {
+    "name": "02_passage_after.png",
+    "bytes": 1284473,
+    "sha256": "c9c8a74b9f9cccc138e988cf755b3491500f16c580c68e121052f5f76b69d750"
+  },
+  {
+    "name": "03_diy_display_after.png",
+    "bytes": 1200165,
+    "sha256": "8afcbe64d3b510a7a9a426471a3053d33d192e7e85572c0df437f53caa8b5ef7"
+  },
+  {
+    "name": "03_diy_display_before.png",
+    "bytes": 1179945,
+    "sha256": "26bb614f3d816edc6d8dd0ed91799220d62a9846d502bf116804054564385173"
+  },
+  {
+    "name": "04_card_display_after.png",
+    "bytes": 1045591,
+    "sha256": "8a7bf1699a4df69e7631e781a4f2f1d87997391994d5b960b32cfe5bcceb4507"
+  },
+  {
+    "name": "04_card_display_before.png",
+    "bytes": 1012813,
+    "sha256": "eddffd16e18b8833610d951fb8700fce20b4b67ea7a802eb12d5bd6914038b51"
+  }
+]

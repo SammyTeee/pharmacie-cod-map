@@ -1,3 +1,9 @@
+[Latest individual shop display detail](docs/RETAIL_DETAIL_V39.md).
+
+Latest Blender source: `assets/blender/pharmacie-retail-detail-v39.blend`.
+V36–38 street scenes/Town Square and v39 retail detail are retained. Engine route
+and deployment remain unchanged; Blender sample checks are not BO3 tests.
+
 [Latest enclosure fixes, service-lane detail and player-height fly-through](docs/ENCLOSURE_DETAIL_V33.md).
 
 Latest Blender checkpoint: `assets/blender/pharmacie-enclosure-detail-v33.blend`.

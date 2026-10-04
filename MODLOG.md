@@ -1,5 +1,11 @@
 # Mod log
 
+## 2026-10-04 — V39 individual retail displays and mapping push
+
+- Sam requested continued substantial detail and a push. Added 1,118 closed meshes across florist/jeweller/optician/bakery/charity/carpet frontages, including stem/petal bouquets, rings/necklaces, supported spectacles, scored bread rolls, hanging shirts/folded clothes and rolled carpet/swatches. 72 generic display meshes archived unchanged; approved street footprint and interiors retained. Category-led original models, not observed stock or established shop interiors.
+- Reoriented horizontal rings initially had inward normals; recalc corrected the final generator/checkpoint. Close-up review added display supports. Source photos unchanged. See docs/RETAIL_DETAIL_V39.md and recon/v39/index.html for matched views and verification boundaries.
+- Completed pass includes previously pending v36–38 checkpoints/scripts/reviews under Sam's explicit mapping push request. Earlier unrelated local files/reference changes remain outside the selected push. BO3 engine/build/deployment/controls unchanged.
+
 ## 2026-10-04 — V35 individual Melton terrace and shop detail
 
 - Added 2,860 closed meshes across 46 existing catalogue frontages without moving the approved street plan. Terrace roofs/chimneys/cornices, window blinds/listing cards/merchandise, utilities, barber poles, projecting signs, florist tubs and Halls produce crates supplement earlier v34 enclosure work. See `docs/MELTON_DETAIL_V35.md` for evidence and approximation boundaries.
@@ -848,3 +854,14 @@ git diff --check passed; CRLF conversion warnings only. These are offline
 documentation checks, not engine/runtime verification. No geometry edits,
 compiler run, game input, installation, deployment or playable map release.
 Sam then asked to stop research and commit/push the documentation packet.
+
+### Melton Road street life v36 — 4 October 2026
+Sam requested more street content/textures. Built assets/blender/pharmacie-street-life-v36.blend from v35 using scripts/detail_street_v36.py. Adds 300 closed solids: shallow bench/planter/bin/notice clusters and asphalt trench repairs/inspection covers, with separate procedural materials. Inferred street dressing, not surveyed furniture. Reopened checks pass: 13,077 parent meshes preserved, 44 reference hashes unchanged, 3,429 road and 572 pub/alley samples clear at .42m. Not all pavement routes or BO3 gameplay verification. Player-height matched renders reviewed; recon/v36/index.html and docs/STREET_LIFE_V36.md record scope and next work. Logs build/v36-*.log. Default opener selects v36. Engine unchanged; no deployment or media upload.
+
+### Melton street scenes v37 — 4 October 2026
+Sam approved v36 pictures and requested more thoughtful detail. Built assets/blender/pharmacie-street-scenes-v37.blend from v36: reference-led green shelter panels/frame/sloping roof/bench/timetable/paving, shallow original bicycle parking and wheeled delivery-cage/handtruck scene, fuller planter foliage. 375 new manifold positive-volume meshes; 40 previous parts archived; all 13,377 parent mesh geometries/transforms and 44 reference hashes retained. Checks pass: 3429 road, 572 pub/alley and 224 selected local pavement/shelter samples at .42m radius. Not full pavement/BO3 verification. Review caught initial archived roof anchor identity; rebuilt using retained active post and replaced shelter preview. Archived unparented preservation checks use saved matrix_basis. Matched renders visually reviewed and gallery/highlight generated in recon/v37. See docs/STREET_SCENES_V37.md. Logs build/v37-*.log. Default opener selects v37. No engine build/deployment/control or git push.
+V37 preview pictures and comparison gallery uploaded under https://sammyt.wtf/melton-v37/ in the continuing authorized image-preview task. Ten remote files match local SHA256; gallery and shelter image HTTP200 confirmed. Existing preview.webm retained.
+
+### Town Square and shop display detail v38 — 4 October 2026
+Sam approved v37 and requested continued detail iteration. Built assets/blender/pharmacie-town-square-v38.blend from v37. B031 generic closed shop becomes reference-led red/gold entrance with angled glazing and an enclosed 7m recessed space, continuous paving, brick sides, ceiling, 3 warm bulkheads, conduit and static rear service gate. Unseen depth/closure are gameplay adaptations, not measured facts. DIY paint tins/lids/labels and greeting-card racks replace generic merchandise blocks. 315 manifold positive-volume meshes; 88 originals archived; 13,712 active parent meshes/transforms and 44 source hashes preserved. 3429 road/572 pub samples, 351 local entry/pavement samples and 37 enclosure rays pass. Intermediate inspection fixed hidden glazing, foundation/paving overlap and coincident side finishes; corrected depth-facing side brick shader. Final matched render review and highlight gallery in recon/v38. See docs/TOWN_SQUARE_V38.md. No engine change or functional gate/purchase/AI verification. Default opener selects v38. No git push.
+V38 also rechecks all 224 v37 shelter/cycle/delivery samples: 575 combined local samples pass. Preview images/gallery uploaded to https://sammyt.wtf/melton-v38/ in the continuing authorized preview task; all nine remote files match local SHA256, gallery/interior image HTTP200 confirmed. Existing preview.webm retained.

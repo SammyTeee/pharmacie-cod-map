@@ -1,3 +1,25 @@
+[Latest individual florist, jewellery, optical and retail displays](docs/RETAIL_DETAIL_V39.md).
+
+Latest checkpoint: `assets/blender/pharmacie-retail-detail-v39.blend`.
+1,118 new closed meshes across six businesses; 72 generic display parts archived
+unchanged. Prior layout/interiors retained. Road/pub and selected local route
+samples pass; BO3 unchanged. Sam requested continued detail and pushing this pass.
+
+[Latest enclosed Town Square recess and shop display detail](docs/TOWN_SQUARE_V38.md).
+
+Latest checkpoint: `assets/blender/pharmacie-town-square-v38.blend`.
+315 new closed meshes; prior geometry retained, including archived replaced B031 lower frontage. Enclosed recessed entrance, static rear service boundary, DIY paint tins and card displays. Sampled entry/pavement/road/pub and enclosure rays pass; BO3 unchanged. Previous checkpoint notes below are historical.
+
+[Latest Melton Road shelter, cycles, delivery scene and planting](docs/STREET_SCENES_V37.md).
+
+Latest checkpoint: `assets/blender/pharmacie-street-scenes-v37.blend`.
+375 new closed meshes; v36 architecture/interiors retained. Matched close-up review in recon/v37/index.html. Selected pavement/shelter, road and pub route samples pass; BO3 unchanged. Older checkpoint statements below are historical.
+
+[Latest Melton Road street dressing and textures](docs/STREET_LIFE_V36.md).
+
+Latest checkpoint: `assets/blender/pharmacie-street-life-v36.blend`.
+300 new closed solids with shallow furniture clusters, road repairs and new procedural materials; v35 architecture retained. Blender route samples pass; all pavement and BO3 gameplay tests remain pending. Previous checkpoint notes below are historical.
+
 [Latest Melton Road individual shop/terrace detail](docs/MELTON_DETAIL_V35.md).
 
 Latest checkpoint: `assets/blender/pharmacie-melton-detail-v35.blend`.

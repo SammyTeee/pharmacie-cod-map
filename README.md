@@ -1,3 +1,10 @@
+[Latest individual shop display detail](docs/RETAIL_DETAIL_V39.md).
+
+Latest checkpoint: `assets/blender/pharmacie-retail-detail-v39.blend`.
+Florist bouquets, jewellery, optical frames, bakery, charity clothing and carpet
+samples retain the approved street footprint. Review: `recon/v39/index.html`.
+V36–38 street scenes and enclosed Town Square recess retained. Blender-only.
+
 [Latest Melton Road shop and terrace detail](docs/MELTON_DETAIL_V35.md).
 
 Latest Blender checkpoint: `assets/blender/pharmacie-melton-detail-v35.blend`.

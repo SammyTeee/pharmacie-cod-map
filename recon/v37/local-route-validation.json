@@ -1,0 +1,7 @@
+{
+  "samples": 224,
+  "failures": [],
+  "radius": 0.42,
+  "spacing": 0.1,
+  "limits": "Selected frontage/shelter paths only; not all pavements or continuous sweeps or engine navigation."
+}

@@ -1,0 +1,852 @@
+{
+  "tests": [
+    {
+      "label": "floor",
+      "local": [
+        -0.75,
+        1.6,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage floor",
+        "point": [
+          -41.60280227661133,
+          37.110355377197266,
+          0.02499997615814209
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 1.475000023841858
+      },
+      "pass_check": true
+    },
+    {
+      "label": "ceiling",
+      "local": [
+        -0.75,
+        1.6,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | continuous passage ceiling",
+        "point": [
+          -41.60280227661133,
+          37.110355377197266,
+          3.059999942779541
+        ],
+        "normal": [
+          2.748975802546738e-08,
+          0.0,
+          -1.0
+        ],
+        "distance": 1.5599998235702515
+      },
+      "pass_check": true
+    },
+    {
+      "label": "left",
+      "local": [
+        -0.75,
+        1.6,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall",
+        "point": [
+          -41.7191162109375,
+          37.58840560913086,
+          1.5
+        ],
+        "normal": [
+          0.23641365766525269,
+          -0.9716524481773376,
+          0.0
+        ],
+        "distance": 0.49199768900871277
+      },
+      "pass_check": true
+    },
+    {
+      "label": "right",
+      "local": [
+        -0.75,
+        1.6,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall.001",
+        "point": [
+          -41.131866455078125,
+          35.17482376098633,
+          1.5
+        ],
+        "normal": [
+          -0.2364138513803482,
+          0.9716524481773376,
+          0.0
+        ],
+        "distance": 1.991999864578247
+      },
+      "pass_check": true
+    },
+    {
+      "label": "floor",
+      "local": [
+        0,
+        1.6,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage floor",
+        "point": [
+          -41.42549133300781,
+          36.381614685058594,
+          0.02499997615814209
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 1.475000023841858
+      },
+      "pass_check": true
+    },
+    {
+      "label": "ceiling",
+      "local": [
+        0,
+        1.6,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | bulkhead diffuser",
+        "point": [
+          -41.42549133300781,
+          36.381614685058594,
+          2.934999942779541
+        ],
+        "normal": [
+          -1.1021528223409405e-07,
+          0.0,
+          -1.0
+        ],
+        "distance": 1.4350000619888306
+      },
+      "pass_check": true
+    },
+    {
+      "label": "left",
+      "local": [
+        0,
+        1.6,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall",
+        "point": [
+          -41.7191162109375,
+          37.58840560913086,
+          1.5
+        ],
+        "normal": [
+          0.23641365766525269,
+          -0.9716524481773376,
+          0.0
+        ],
+        "distance": 1.2419991493225098
+      },
+      "pass_check": true
+    },
+    {
+      "label": "right",
+      "local": [
+        0,
+        1.6,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall.001",
+        "point": [
+          -41.131866455078125,
+          35.17482376098633,
+          1.5
+        ],
+        "normal": [
+          -0.2364138513803482,
+          0.9716524481773376,
+          0.0
+        ],
+        "distance": 1.2419984340667725
+      },
+      "pass_check": true
+    },
+    {
+      "label": "floor",
+      "local": [
+        0.75,
+        1.6,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage floor",
+        "point": [
+          -41.24818420410156,
+          35.65287399291992,
+          0.02499985694885254
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 1.4750001430511475
+      },
+      "pass_check": true
+    },
+    {
+      "label": "ceiling",
+      "local": [
+        0.75,
+        1.6,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | continuous passage ceiling",
+        "point": [
+          -41.24818420410156,
+          35.65287399291992,
+          3.059999942779541
+        ],
+        "normal": [
+          2.748975802546738e-08,
+          0.0,
+          -1.0
+        ],
+        "distance": 1.559999942779541
+      },
+      "pass_check": true
+    },
+    {
+      "label": "left",
+      "local": [
+        0.75,
+        1.6,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall",
+        "point": [
+          -41.719120025634766,
+          37.58840560913086,
+          1.5
+        ],
+        "normal": [
+          0.23641365766525269,
+          -0.9716524481773376,
+          0.0
+        ],
+        "distance": 1.9919995069503784
+      },
+      "pass_check": true
+    },
+    {
+      "label": "right",
+      "local": [
+        0.75,
+        1.6,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall.001",
+        "point": [
+          -41.13187026977539,
+          35.17482376098633,
+          1.5
+        ],
+        "normal": [
+          -0.2364138513803482,
+          0.9716524481773376,
+          0.0
+        ],
+        "distance": 0.4919978678226471
+      },
+      "pass_check": true
+    },
+    {
+      "label": "floor",
+      "local": [
+        -0.75,
+        3.7,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage floor",
+        "point": [
+          -39.56233215332031,
+          37.6068229675293,
+          0.02499985694885254
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 1.4750001430511475
+      },
+      "pass_check": true
+    },
+    {
+      "label": "ceiling",
+      "local": [
+        -0.75,
+        3.7,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | continuous passage ceiling",
+        "point": [
+          -39.56233215332031,
+          37.6068229675293,
+          3.059999942779541
+        ],
+        "normal": [
+          2.748975802546738e-08,
+          0.0,
+          -1.0
+        ],
+        "distance": 1.5599998235702515
+      },
+      "pass_check": true
+    },
+    {
+      "label": "left",
+      "local": [
+        -0.75,
+        3.7,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall",
+        "point": [
+          -39.678646087646484,
+          38.08487319946289,
+          1.5
+        ],
+        "normal": [
+          0.23641365766525269,
+          -0.9716524481773376,
+          0.0
+        ],
+        "distance": 0.4919988214969635
+      },
+      "pass_check": true
+    },
+    {
+      "label": "right",
+      "local": [
+        -0.75,
+        3.7,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall.001",
+        "point": [
+          -39.09139633178711,
+          35.67129135131836,
+          1.5
+        ],
+        "normal": [
+          -0.2364138513803482,
+          0.9716524481773376,
+          0.0
+        ],
+        "distance": 1.991998553276062
+      },
+      "pass_check": true
+    },
+    {
+      "label": "floor",
+      "local": [
+        0,
+        3.7,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage floor",
+        "point": [
+          -39.3850212097168,
+          36.878082275390625,
+          0.02499985694885254
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 1.4750001430511475
+      },
+      "pass_check": true
+    },
+    {
+      "label": "ceiling",
+      "local": [
+        0,
+        3.7,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | bulkhead diffuser.001",
+        "point": [
+          -39.3850212097168,
+          36.878082275390625,
+          2.934999942779541
+        ],
+        "normal": [
+          -1.1021605672567603e-07,
+          0.0,
+          -1.0
+        ],
+        "distance": 1.4350000619888306
+      },
+      "pass_check": true
+    },
+    {
+      "label": "left",
+      "local": [
+        0,
+        3.7,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall",
+        "point": [
+          -39.678646087646484,
+          38.08487319946289,
+          1.5
+        ],
+        "normal": [
+          0.23641365766525269,
+          -0.9716524481773376,
+          0.0
+        ],
+        "distance": 1.2420002222061157
+      },
+      "pass_check": true
+    },
+    {
+      "label": "right",
+      "local": [
+        0,
+        3.7,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall.001",
+        "point": [
+          -39.09139633178711,
+          35.67129135131836,
+          1.5
+        ],
+        "normal": [
+          -0.2364138513803482,
+          0.9716524481773376,
+          0.0
+        ],
+        "distance": 1.2419970035552979
+      },
+      "pass_check": true
+    },
+    {
+      "label": "floor",
+      "local": [
+        0.75,
+        3.7,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage floor",
+        "point": [
+          -39.20771408081055,
+          36.14934539794922,
+          0.02499997615814209
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 1.475000023841858
+      },
+      "pass_check": true
+    },
+    {
+      "label": "ceiling",
+      "local": [
+        0.75,
+        3.7,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | continuous passage ceiling",
+        "point": [
+          -39.20771408081055,
+          36.14934539794922,
+          3.059999942779541
+        ],
+        "normal": [
+          2.748975802546738e-08,
+          0.0,
+          -1.0
+        ],
+        "distance": 1.5599998235702515
+      },
+      "pass_check": true
+    },
+    {
+      "label": "left",
+      "local": [
+        0.75,
+        3.7,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall",
+        "point": [
+          -39.67864990234375,
+          38.08487319946289,
+          1.5
+        ],
+        "normal": [
+          0.23641365766525269,
+          -0.9716524481773376,
+          0.0
+        ],
+        "distance": 1.9919968843460083
+      },
+      "pass_check": true
+    },
+    {
+      "label": "right",
+      "local": [
+        0.75,
+        3.7,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall.001",
+        "point": [
+          -39.091400146484375,
+          35.67129135131836,
+          1.5
+        ],
+        "normal": [
+          -0.2364138513803482,
+          0.9716524481773376,
+          0.0
+        ],
+        "distance": 0.49200019240379333
+      },
+      "pass_check": true
+    },
+    {
+      "label": "floor",
+      "local": [
+        -0.75,
+        6.1,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage floor",
+        "point": [
+          -37.23036575317383,
+          38.174217224121094,
+          0.02499985694885254
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 1.4750001430511475
+      },
+      "pass_check": true
+    },
+    {
+      "label": "ceiling",
+      "local": [
+        -0.75,
+        6.1,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | continuous passage ceiling",
+        "point": [
+          -37.23036575317383,
+          38.174217224121094,
+          3.059999942779541
+        ],
+        "normal": [
+          2.748975802546738e-08,
+          0.0,
+          -1.0
+        ],
+        "distance": 1.5599998235702515
+      },
+      "pass_check": true
+    },
+    {
+      "label": "left",
+      "local": [
+        -0.75,
+        6.1,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall",
+        "point": [
+          -37.3466796875,
+          38.65226745605469,
+          1.5
+        ],
+        "normal": [
+          0.23641365766525269,
+          -0.9716524481773376,
+          0.0
+        ],
+        "distance": 0.49199753999710083
+      },
+      "pass_check": true
+    },
+    {
+      "label": "right",
+      "local": [
+        -0.75,
+        6.1,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall.001",
+        "point": [
+          -36.759429931640625,
+          36.238685607910156,
+          1.5
+        ],
+        "normal": [
+          -0.2364138513803482,
+          0.9716524481773376,
+          0.0
+        ],
+        "distance": 1.9919993877410889
+      },
+      "pass_check": true
+    },
+    {
+      "label": "floor",
+      "local": [
+        0,
+        6.1,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage floor",
+        "point": [
+          -37.05305480957031,
+          37.44547653198242,
+          0.02499985694885254
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 1.4750001430511475
+      },
+      "pass_check": true
+    },
+    {
+      "label": "ceiling",
+      "local": [
+        0,
+        6.1,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | continuous passage ceiling",
+        "point": [
+          -37.05305480957031,
+          37.44547653198242,
+          3.059999942779541
+        ],
+        "normal": [
+          2.748975802546738e-08,
+          0.0,
+          -1.0
+        ],
+        "distance": 1.559999942779541
+      },
+      "pass_check": true
+    },
+    {
+      "label": "left",
+      "local": [
+        0,
+        6.1,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall",
+        "point": [
+          -37.3466796875,
+          38.65226745605469,
+          1.5
+        ],
+        "normal": [
+          0.23641365766525269,
+          -0.9716524481773376,
+          0.0
+        ],
+        "distance": 1.2419987916946411
+      },
+      "pass_check": true
+    },
+    {
+      "label": "right",
+      "local": [
+        0,
+        6.1,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall.001",
+        "point": [
+          -36.759429931640625,
+          36.238685607910156,
+          1.5
+        ],
+        "normal": [
+          -0.2364138513803482,
+          0.9716524481773376,
+          0.0
+        ],
+        "distance": 1.2419979572296143
+      },
+      "pass_check": true
+    },
+    {
+      "label": "floor",
+      "local": [
+        0.75,
+        6.1,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage floor",
+        "point": [
+          -36.87574768066406,
+          36.71673583984375,
+          0.02499985694885254
+        ],
+        "normal": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "distance": 1.4750001430511475
+      },
+      "pass_check": true
+    },
+    {
+      "label": "ceiling",
+      "local": [
+        0.75,
+        6.1,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | continuous passage ceiling",
+        "point": [
+          -36.87574768066406,
+          36.71673583984375,
+          3.059999942779541
+        ],
+        "normal": [
+          2.748975802546738e-08,
+          0.0,
+          -1.0
+        ],
+        "distance": 1.559999942779541
+      },
+      "pass_check": true
+    },
+    {
+      "label": "left",
+      "local": [
+        0.75,
+        6.1,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall",
+        "point": [
+          -37.346683502197266,
+          38.65226745605469,
+          1.5
+        ],
+        "normal": [
+          0.23641365766525269,
+          -0.9716524481773376,
+          0.0
+        ],
+        "distance": 1.9919995069503784
+      },
+      "pass_check": true
+    },
+    {
+      "label": "right",
+      "local": [
+        0.75,
+        6.1,
+        1.5
+      ],
+      "hit": {
+        "object": "Street v38 | B031 | passage side wall.001",
+        "point": [
+          -36.75943374633789,
+          36.238685607910156,
+          1.5
+        ],
+        "normal": [
+          -0.2364138513803482,
+          0.9716524481773376,
+          0.0
+        ],
+        "distance": 0.4919973313808441
+      },
+      "pass_check": true
+    },
+    {
+      "label": "closed rear",
+      "hit": {
+        "object": "Street v38 | B031 | gate vertical rib.006",
+        "point": [
+          -36.45549011230469,
+          37.59086990356445,
+          1.5
+        ],
+        "normal": [
+          -0.9716524481773376,
+          -0.23641373217105865,
+          0.0
+        ],
+        "distance": 0.6149993538856506
+      },
+      "pass_check": true
+    }
+  ],
+  "failures": [],
+  "limits": "Sampled enclosure rays; entrance intentionally open. Not a watertightness or engine collision certificate."
+}

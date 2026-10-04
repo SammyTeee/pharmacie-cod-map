@@ -1,0 +1,42 @@
+[
+  {
+    "name": "01_shelter_before.png",
+    "sha256": "d8f0cd69b4848012ae76b857752da942016ab745d790821a81209d1b633294ee",
+    "bytes": 1288936
+  },
+  {
+    "name": "01_shelter_after.png",
+    "sha256": "23697bb122778214dcb9b1afc8962fba097e7c829f8ed1975b64f0eb3bd7cd0d",
+    "bytes": 1310695
+  },
+  {
+    "name": "02_cycles_before.png",
+    "sha256": "65d071dc7a508c8223d80c21a2c4e3ebe86bc7a4ed4064ac857af151253f6c21",
+    "bytes": 1243975
+  },
+  {
+    "name": "02_cycles_after.png",
+    "sha256": "35e441f6204c41f53b049870537d0c609c841f28ef323e6aad6db8230a71b447",
+    "bytes": 1277218
+  },
+  {
+    "name": "03_deliveries_before.png",
+    "sha256": "a438083f477afb40fbc571c25fe3cfe6878e0f4cf2cbb83d4e34d0c18e7fe25d",
+    "bytes": 1094761
+  },
+  {
+    "name": "03_deliveries_after.png",
+    "sha256": "7d779c2252df5c8269bc0f04fa75016a4c520973cb1db19fd625db645cf165e3",
+    "bytes": 1116017
+  },
+  {
+    "name": "04_planting_before.png",
+    "sha256": "1099052fe93380087d0c3aa5110d782f30157c2d72866412594257faf73bb604",
+    "bytes": 1136650
+  },
+  {
+    "name": "04_planting_after.png",
+    "sha256": "943c9c4bfb02618f451d5aff9c72b2fe5d6c5eebd3e7de21e0d70e12206990ea",
+    "bytes": 1142547
+  }
+]
