@@ -1,3 +1,10 @@
+[Latest Melton Road individual shop/terrace detail](docs/MELTON_DETAIL_V35.md).
+
+Latest checkpoint: `assets/blender/pharmacie-melton-detail-v35.blend`.
+Additive detail on 46 catalogue frontages; parent meshes/road/interiors retained.
+Blender route checks pass; engine unchanged. Completion notification requested
+via ntfy.sh topic `sam-ai-alerts` for this mapping pass.
+
 [Latest opened Melton/Taraj road mapping and review](docs/TARAJ_ROAD_V34.md).
 
 Latest Blender checkpoint: `assets/blender/pharmacie-taraj-road-v34.blend`.

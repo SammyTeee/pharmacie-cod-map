@@ -1,5 +1,11 @@
 # Mod log
 
+## 2026-10-04 — V35 individual Melton terrace and shop detail
+
+- Added 2,860 closed meshes across 46 existing catalogue frontages without moving the approved street plan. Terrace roofs/chimneys/cornices, window blinds/listing cards/merchandise, utilities, barber poles, projecting signs, florist tubs and Halls produce crates supplement earlier v34 enclosure work. See `docs/MELTON_DETAIL_V35.md` for evidence and approximation boundaries.
+- `scripts/check_melton_v35.py`: 3,429 road and 572 retained pub/alley samples pass; 2,860 manifold positive-volume solids; 10,217 parent meshes and 44 source hashes preserved. Blender-only; no BO3 controls, conversion or runtime verification.
+- Matched before/after review in `recon/v35/index.html`; v34 hosted video retained. User requested completion notification through ntfy.sh `sam-ai-alerts`.
+
 ## 2026-10-04 — V34 opened Melton road and Taraj approach
 
 - Sam asked about the road closure and requested the same mapping treatment down to Taraj. The v31 west closure was an explicit future Melton unlock boundary; archived its meshes/text/marker and v33 west sign/kick fittings in an unlinked preservation collection. Existing east closure retained. New branch is Blender geometry, not a functioning engine unlock.

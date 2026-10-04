@@ -1,3 +1,9 @@
+[Latest Melton Road shop and terrace detail](docs/MELTON_DETAIL_V35.md).
+
+Latest Blender checkpoint: `assets/blender/pharmacie-melton-detail-v35.blend`.
+46 catalogue frontages gain roofs, chimneys, cornices and individual display details.
+Matched review: `recon/v35/index.html`. Blender checks pass; BO3 unchanged.
+
 [Latest enclosure fixes, service-lane detail and player-height fly-through](docs/ENCLOSURE_DETAIL_V33.md).
 
 Latest Blender checkpoint: `assets/blender/pharmacie-enclosure-detail-v33.blend`.
