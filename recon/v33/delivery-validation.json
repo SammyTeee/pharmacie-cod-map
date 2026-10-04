@@ -1,0 +1,27 @@
+{
+  "checkpoint_sha256": "90ee34929409528de9202d7f753f52104a980603d19b8fc19a9cf9a834e42c3d",
+  "parent_checkpoint_hash_unchanged": true,
+  "original_reference_hashes_unchanged": 44,
+  "unexplained_open_rays_before": 204,
+  "unexplained_open_rays_after": 0,
+  "sampled_interior_rays": 30912,
+  "retained_route_samples": 572,
+  "street_route_samples": 1248,
+  "connected_camera_route_samples": 1418,
+  "local_gallery_links": 98,
+  "missing_links": [],
+  "videos": {
+    "player-route-flythrough.webm": {
+      "bytes": 6600027,
+      "duration_seconds": 60.0,
+      "sha256": "e4a1f27ff742cb14141af65e458b3248398a5884e80d719ae282099c2bae9798"
+    },
+    "before-inspection.webm": {
+      "bytes": 525326,
+      "duration_seconds": 12.0,
+      "sha256": "464cb85c05ed36310955a71ffeb74096924ce2f19f4ab37295c408489ff2411d"
+    }
+  },
+  "engine_verified": false,
+  "limits": "Sparse visible-mesh rays and presentation media; not engine collision, AI pursuit, co-op or a watertightness certificate."
+}

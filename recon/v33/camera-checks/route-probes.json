@@ -1,0 +1,6869 @@
+{
+  "assumptions": "0.20m route spacing; 0.42m radial rays at three heights; 1.95m overhead check; no game collision simulation",
+  "samples": [
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        -2.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Street v17 | Pub-side extended pavement",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        -1.7999999523162842,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Street v17 | Pub-side extended pavement",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        -1.6000001430511475,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Street v17 | Pub-side extended pavement",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        -1.399999976158142,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Street v17 | Pub-side extended pavement",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        -1.2000001668930054,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Street v17 | Pub-side extended pavement",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        -1.0,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Street v17 | Pub-side extended pavement",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        -0.7999999523162842,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Street v17 | Pub-side extended pavement",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        -0.6000001430511475,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Street v17 | Pub-side extended pavement",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        -0.40000003576278687,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Street v17 | Pub-side extended pavement",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        -0.19999992847442627,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Street v17 | Pub-side extended pavement",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        -1.1920928955078125e-07,
+        0.0
+      ],
+      "floor_z": 0.003000020980834961,
+      "floor_object": "Front | continuous entrance threshold - no floor gap",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        0.19999992847442627,
+        0.0
+      ],
+      "floor_z": 0.003000020980834961,
+      "floor_object": "Front | continuous entrance threshold - no floor gap",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        0.40000009536743164,
+        0.0
+      ],
+      "floor_z": 0.003000020980834961,
+      "floor_object": "Front | continuous entrance threshold - no floor gap",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        0.5999999046325684,
+        0.0
+      ],
+      "floor_z": 0.003000020980834961,
+      "floor_object": "Front | continuous entrance threshold - no floor gap",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        0.8000000715255737,
+        0.0
+      ],
+      "floor_z": 0.0029999613761901855,
+      "floor_object": "Front | continuous entrance threshold - no floor gap",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        1.0000001192092896,
+        0.0
+      ],
+      "floor_z": 0.0029999613761901855,
+      "floor_object": "Front | continuous entrance threshold - no floor gap",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        1.1999999284744263,
+        0.0
+      ],
+      "floor_z": 0.003000020980834961,
+      "floor_object": "Front | continuous entrance threshold - no floor gap",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        1.399999976158142,
+        0.0
+      ],
+      "floor_z": 0.0029999613761901855,
+      "floor_object": "Front | continuous entrance threshold - no floor gap",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        1.6000001430511475,
+        0.0
+      ],
+      "floor_z": 0.0029999613761901855,
+      "floor_object": "Front | continuous entrance threshold - no floor gap",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        1.7999999523162842,
+        0.0
+      ],
+      "floor_z": 0.0029999613761901855,
+      "floor_object": "Front | continuous entrance threshold - no floor gap",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        2.0,
+        0.0
+      ],
+      "floor_z": 0.003000020980834961,
+      "floor_object": "Front | continuous entrance threshold - no floor gap",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        2.1999998092651367,
+        0.0
+      ],
+      "floor_z": 0.003000020980834961,
+      "floor_object": "Front | continuous entrance threshold - no floor gap",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        2.3999998569488525,
+        0.0
+      ],
+      "floor_z": 0.0029999613761901855,
+      "floor_object": "Front | continuous entrance threshold - no floor gap",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        2.5999999046325684,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        2.799999713897705,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "entrance",
+      "nominal": [
+        5.5,
+        3.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        3.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        3.1999998092651367,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        3.4000000953674316,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        3.5999999046325684,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        3.799999713897705,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        4.0,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        4.199999809265137,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        4.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        4.59999942779541,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        4.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        5.0,
+        0.0
+      ],
+      "floor_z": 5.960464477539063e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        5.199999809265137,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        5.40000057220459,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        5.600000381469727,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        5.800000190734863,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        6.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        6.199999809265137,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        6.400000095367432,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        6.599999904632568,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        6.800000190734863,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        7.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        7.199999809265137,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        7.399999618530273,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        7.59999942779541,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        7.800000190734863,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        8.0,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        8.200000762939453,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        8.399999618530273,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        8.600000381469727,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        8.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        9.0,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        9.199999809265137,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        9.399999618530273,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        9.600000381469727,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        9.800000190734863,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        10.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        10.199999809265137,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        10.40000057220459,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        10.600000381469727,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        10.800000190734863,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        11.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        11.199999809265137,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        11.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        11.600000381469727,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        11.800000190734863,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        12.0,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        12.199999809265137,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        12.399999618530273,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        12.59999942779541,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        12.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        13.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        13.199999809265137,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        13.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        13.59999942779541,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        13.800000190734863,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "main_aisle",
+      "nominal": [
+        5.5,
+        14.0,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        14.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        14.200000762939453,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        14.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        14.600000381469727,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        14.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        15.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        15.200000762939453,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        15.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        15.600000381469727,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        15.80000114440918,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        16.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        16.200000762939453,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        16.400001525878906,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        16.600000381469727,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        16.799999237060547,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        17.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        17.200000762939453,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        17.400001525878906,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        17.600000381469727,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        17.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        18.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        18.200000762939453,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        18.400001525878906,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        18.600000381469727,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        18.799999237060547,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        19.0,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        19.200000762939453,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        19.400001525878906,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        19.600000381469727,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        19.799999237060547,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        20.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        20.200000762939453,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        20.400001525878906,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        20.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        20.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_right",
+      "nominal": [
+        8.800000190734863,
+        21.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        21.5,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        21.700000762939453,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        21.899999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        22.100000381469727,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        22.30000114440918,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        22.5,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        22.700000762939453,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        22.900001525878906,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        23.100000381469727,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        23.299999237060547,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        23.5,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        23.700000762939453,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        23.900001525878906,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        24.099998474121094,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        24.299999237060547,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        24.5,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        24.69999885559082,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "service_store",
+      "nominal": [
+        7.0,
+        24.899999618530273,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.0,
+        14.0,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.0,
+        14.185714721679688,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.0,
+        14.371428489685059,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.0,
+        14.557143211364746,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.0,
+        14.742856979370117,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.0,
+        14.928571701049805,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.0,
+        15.114286422729492,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.0,
+        15.300000190734863,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.0,
+        15.300000190734863,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.0116279125213623,
+        15.495348930358887,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.0232558250427246,
+        15.690698623657227,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.034883737564087,
+        15.88604736328125,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.046511650085449,
+        16.08139419555664,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.0581395626068115,
+        16.276744842529297,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.069767475128174,
+        16.47209358215332,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.081395387649536,
+        16.667442321777344,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.0930233001708984,
+        16.862791061401367,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.1046512126922607,
+        17.05813980102539,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.116279125213623,
+        17.253488540649414,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.1279070377349854,
+        17.448837280273438,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.1395349502563477,
+        17.64418601989746,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.15116286277771,
+        17.839534759521484,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.1627907752990723,
+        18.03488540649414,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.1744184494018555,
+        18.23023223876953,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.186046600341797,
+        18.425580978393555,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.19767427444458,
+        18.620929718017578,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.2093024253845215,
+        18.816280364990234,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.2209300994873047,
+        19.011627197265625,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.232558250427246,
+        19.20697784423828,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.2441859245300293,
+        19.402326583862305,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.2558140754699707,
+        19.597675323486328,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.267441749572754,
+        19.79302406311035,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.2790699005126953,
+        19.988372802734375,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.2906975746154785,
+        20.1837215423584,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.30232572555542,
+        20.379070281982422,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.313953399658203,
+        20.574419021606445,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.3255815505981445,
+        20.76976776123047,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.3372092247009277,
+        20.965116500854492,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.34883713722229,
+        21.160465240478516,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.3604650497436523,
+        21.35581398010254,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.3720929622650146,
+        21.551162719726562,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.383720874786377,
+        21.74651336669922,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.3953487873077393,
+        21.941862106323242,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.4069766998291016,
+        22.137208938598633,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.418604850769043,
+        22.332557678222656,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.430232524871826,
+        22.527908325195312,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.4418606758117676,
+        22.723257064819336,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.453488349914551,
+        22.91860580444336,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.465116500854492,
+        23.113954544067383,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.4767441749572754,
+        23.309303283691406,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.4883720874786377,
+        23.50465202331543,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.5,
+        23.700000762939453,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.5,
+        23.700000762939453,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.5161290168762207,
+        23.89516258239746,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.5322580337524414,
+        24.09032440185547,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.548387050628662,
+        24.285484313964844,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.564516067504883,
+        24.48064422607422,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.5806450843811035,
+        24.675806045532227,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.596774101257324,
+        24.870967864990234,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.612903118133545,
+        25.066129684448242,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.6290321350097656,
+        25.26129150390625,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.6451611518859863,
+        25.456451416015625,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.661290407180786,
+        25.651615142822266,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.6774191856384277,
+        25.84677505493164,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.6935482025146484,
+        26.041934967041016,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.709677219390869,
+        26.237096786499023,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.72580623626709,
+        26.43225860595703,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.7419354915618896,
+        26.627418518066406,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.7580645084381104,
+        26.822582244873047,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.77419376373291,
+        27.017742156982422,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.790322780609131,
+        27.212902069091797,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.8064515590667725,
+        27.408065795898438,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.822580575942993,
+        27.603225708007812,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.838709592819214,
+        27.79838752746582,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.8548386096954346,
+        27.993547439575195,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.8709678649902344,
+        28.188709259033203,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.887096881866455,
+        28.38387107849121,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.903225898742676,
+        28.57903289794922,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.9193549156188965,
+        28.774192810058594,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.935483694076538,
+        28.969356536865234,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.951612710952759,
+        29.16451644897461,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.9677419662475586,
+        29.359676361083984,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.9838709831237793,
+        29.554838180541992,
+        0.0
+      ],
+      "floor_z": -5.960464477539063e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -3.0,
+        29.75,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -3.0,
+        29.75,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.816666841506958,
+        29.75,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.633333444595337,
+        29.75,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.4499998092651367,
+        29.75,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.2666666507720947,
+        29.75,
+        0.0
+      ],
+      "floor_z": -5.960464477539063e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -2.0833332538604736,
+        29.75,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -1.899999976158142,
+        29.75,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -1.7166666984558105,
+        29.75,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -1.5333333015441895,
+        29.75,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "bar_left_to_rear",
+      "nominal": [
+        -1.350000023841858,
+        29.75,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        -1.350000023841858,
+        29.75,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        -1.164473533630371,
+        29.75,
+        0.07018426060676575
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        -0.978947639465332,
+        29.75,
+        0.14036837220191956
+      ],
+      "floor_z": 0.1904762089252472,
+      "floor_object": "Recon v18 | Stairs lower tread 01",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        -0.7934211492538452,
+        29.75,
+        0.2105526328086853
+      ],
+      "floor_z": 0.1904761791229248,
+      "floor_object": "Recon v18 | Stairs lower tread 01",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        -0.6078945994377136,
+        29.75,
+        0.28073689341545105
+      ],
+      "floor_z": 0.1904761791229248,
+      "floor_object": "Recon v18 | Stairs lower tread 01",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        -0.42236870527267456,
+        29.75,
+        0.35092100501060486
+      ],
+      "floor_z": 0.3809524476528168,
+      "floor_object": "Recon v18 | Stairs lower tread 02",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        -0.23684221506118774,
+        29.75,
+        0.4211052656173706
+      ],
+      "floor_z": 0.3809524178504944,
+      "floor_object": "Recon v18 | Stairs lower tread 02",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        -0.05131566524505615,
+        29.75,
+        0.49128952622413635
+      ],
+      "floor_z": 0.38095247745513916,
+      "floor_object": "Recon v18 | Stairs lower tread 02",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        0.1342107057571411,
+        29.75,
+        0.5614737868309021
+      ],
+      "floor_z": 0.571428656578064,
+      "floor_object": "Recon v18 | Stairs lower tread 03",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        0.3197367191314697,
+        29.75,
+        0.6316578984260559
+      ],
+      "floor_z": 0.571428656578064,
+      "floor_object": "Recon v18 | Stairs lower tread 03",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        0.5052631497383118,
+        29.75,
+        0.7018421292304993
+      ],
+      "floor_z": 0.7619048357009888,
+      "floor_object": "Recon v18 | Stairs lower tread 04",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        0.6907891631126404,
+        29.75,
+        0.7720262408256531
+      ],
+      "floor_z": 0.7619048357009888,
+      "floor_object": "Recon v18 | Stairs lower tread 04",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        0.8763155937194824,
+        29.75,
+        0.8422105312347412
+      ],
+      "floor_z": 0.7619048953056335,
+      "floor_object": "Recon v18 | Stairs lower tread 04",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        1.0618419647216797,
+        29.75,
+        0.9123947620391846
+      ],
+      "floor_z": 0.9523810744285583,
+      "floor_object": "Recon v18 | Stairs lower tread 05",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        1.247368574142456,
+        29.75,
+        0.9825790524482727
+      ],
+      "floor_z": 0.9523810744285583,
+      "floor_object": "Recon v18 | Stairs lower tread 05",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        1.4328949451446533,
+        29.75,
+        1.0527633428573608
+      ],
+      "floor_z": 1.142857313156128,
+      "floor_object": "Recon v18 | Stairs lower tread 06",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        1.6184208393096924,
+        29.75,
+        1.1229474544525146
+      ],
+      "floor_z": 1.142857313156128,
+      "floor_object": "Recon v18 | Stairs lower tread 06",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        1.8039469718933105,
+        29.75,
+        1.193131446838379
+      ],
+      "floor_z": 1.142857313156128,
+      "floor_object": "Recon v18 | Stairs lower tread 06",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        1.9894734621047974,
+        29.75,
+        1.2633157968521118
+      ],
+      "floor_z": 1.3333334922790527,
+      "floor_object": "Recon v18 | Stairs lower tread 07",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        2.174999952316284,
+        29.75,
+        1.3335000276565552
+      ],
+      "floor_z": 1.3333334922790527,
+      "floor_object": "Recon v18 | Stairs lower tread 07",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        2.3605263233184814,
+        29.75,
+        1.4036842584609985
+      ],
+      "floor_z": 1.3333334922790527,
+      "floor_object": "Recon v18 | Stairs lower tread 07",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        2.5460524559020996,
+        29.75,
+        1.4738683700561523
+      ],
+      "floor_z": 1.5238096714019775,
+      "floor_object": "Recon v18 | Stairs lower tread 08",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        2.731578826904297,
+        29.75,
+        1.5440526008605957
+      ],
+      "floor_z": 1.5238096714019775,
+      "floor_object": "Recon v18 | Stairs lower tread 08",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        2.917105197906494,
+        29.75,
+        1.6142369508743286
+      ],
+      "floor_z": 1.714285969734192,
+      "floor_object": "Recon v18 | Stairs lower tread 09",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        3.102631092071533,
+        29.75,
+        1.6844210624694824
+      ],
+      "floor_z": 1.714285969734192,
+      "floor_object": "Recon v18 | Stairs lower tread 09",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        3.2881577014923096,
+        29.75,
+        1.7546052932739258
+      ],
+      "floor_z": 1.714285969734192,
+      "floor_object": "Recon v18 | Stairs lower tread 09",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        3.473684072494507,
+        29.75,
+        1.8247895240783691
+      ],
+      "floor_z": 1.9047621488571167,
+      "floor_object": "Recon v18 | Stairs lower tread 10",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        3.659210205078125,
+        29.75,
+        1.894973635673523
+      ],
+      "floor_z": 1.9047621488571167,
+      "floor_object": "Recon v18 | Stairs lower tread 10",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        3.8447365760803223,
+        29.75,
+        1.9651578664779663
+      ],
+      "floor_z": 2.095238447189331,
+      "floor_object": "Recon v18 | Stairs lower tread 11",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        4.0302629470825195,
+        29.75,
+        2.035342216491699
+      ],
+      "floor_z": 2.095238447189331,
+      "floor_object": "Recon v18 | Stairs lower tread 11",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        4.215789318084717,
+        29.75,
+        2.1055264472961426
+      ],
+      "floor_z": 2.095238447189331,
+      "floor_object": "Recon v18 | Stairs lower tread 11",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        4.401315212249756,
+        29.75,
+        2.175710439682007
+      ],
+      "floor_z": 2.285714626312256,
+      "floor_object": "Recon v18 | Stairs lower tread 12",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        4.586841583251953,
+        29.75,
+        2.2458949089050293
+      ],
+      "floor_z": 2.285714626312256,
+      "floor_object": "Recon v18 | Stairs lower tread 12",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        4.772368431091309,
+        29.75,
+        2.3160791397094727
+      ],
+      "floor_z": 2.285714626312256,
+      "floor_object": "Recon v18 | Stairs lower tread 12",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        4.957894802093506,
+        29.75,
+        2.386263132095337
+      ],
+      "floor_z": 2.4761908054351807,
+      "floor_object": "Recon v18 | Stairs lower tread 13",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        5.143421173095703,
+        29.75,
+        2.4564473628997803
+      ],
+      "floor_z": 2.4761908054351807,
+      "floor_object": "Recon v18 | Stairs lower tread 13",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        5.3289475440979,
+        29.75,
+        2.5266315937042236
+      ],
+      "floor_z": 2.6666669845581055,
+      "floor_object": "Recon v18 | Stairs lower tread 14",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        5.5144734382629395,
+        29.75,
+        2.596815824508667
+      ],
+      "floor_z": 2.6666669845581055,
+      "floor_object": "Recon v18 | Stairs lower tread 14",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        5.699999809265137,
+        29.75,
+        2.6670000553131104
+      ],
+      "floor_z": 2.6666669845581055,
+      "floor_object": "Recon v18 | Stairs lower tread 14",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        5.699999809265137,
+        29.75,
+        2.6670000553131104
+      ],
+      "floor_z": 2.6666669845581055,
+      "floor_object": "Recon v18 | Stairs lower tread 14",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        5.880000114440918,
+        29.75,
+        2.6670000553131104
+      ],
+      "floor_z": 2.6666669845581055,
+      "floor_object": "Stairs | RIGHT turn landing",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        6.059999942779541,
+        29.75,
+        2.6670000553131104
+      ],
+      "floor_z": 2.6666669845581055,
+      "floor_object": "Stairs | RIGHT turn landing",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        6.239999771118164,
+        29.75,
+        2.6670000553131104
+      ],
+      "floor_z": 2.6666669845581055,
+      "floor_object": "Stairs | RIGHT turn landing",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        6.420000076293945,
+        29.75,
+        2.6670000553131104
+      ],
+      "floor_z": 2.6666669845581055,
+      "floor_object": "Stairs | RIGHT turn landing",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "lower_stairs",
+      "nominal": [
+        6.599999904632568,
+        29.75,
+        2.6670000553131104
+      ],
+      "floor_z": 2.6666669845581055,
+      "floor_object": "Stairs | RIGHT turn landing",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        29.0,
+        2.934000015258789
+      ],
+      "floor_z": 2.844444751739502,
+      "floor_object": "Recon v18 | Stairs upper tread 01",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        28.827499389648438,
+        3.0272998809814453
+      ],
+      "floor_z": 2.844444751739502,
+      "floor_object": "Recon v18 | Stairs upper tread 01",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        28.654998779296875,
+        3.1206002235412598
+      ],
+      "floor_z": 3.0222225189208984,
+      "floor_object": "Recon v18 | Stairs upper tread 02",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        28.482500076293945,
+        3.213900089263916
+      ],
+      "floor_z": 3.0222225189208984,
+      "floor_object": "Recon v18 | Stairs upper tread 02",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.600000381469727,
+        28.310001373291016,
+        3.3072001934051514
+      ],
+      "floor_z": 3.200000286102295,
+      "floor_object": "Recon v18 | Stairs upper tread 03",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        28.137500762939453,
+        3.4005000591278076
+      ],
+      "floor_z": 3.3777780532836914,
+      "floor_object": "Recon v18 | Stairs upper tread 04",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        27.96500015258789,
+        3.493799924850464
+      ],
+      "floor_z": 3.3777780532836914,
+      "floor_object": "Recon v18 | Stairs upper tread 04",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.600000381469727,
+        27.792499542236328,
+        3.587100028991699
+      ],
+      "floor_z": 3.555555820465088,
+      "floor_object": "Recon v18 | Stairs upper tread 05",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        27.6200008392334,
+        3.6803998947143555
+      ],
+      "floor_z": 3.555555820465088,
+      "floor_object": "Recon v18 | Stairs upper tread 05",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        27.447500228881836,
+        3.77370023727417
+      ],
+      "floor_z": 3.7333335876464844,
+      "floor_object": "Recon v18 | Stairs upper tread 06",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        27.274999618530273,
+        3.867000102996826
+      ],
+      "floor_z": 3.7333335876464844,
+      "floor_object": "Recon v18 | Stairs upper tread 06",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        27.10249900817871,
+        3.9602999687194824
+      ],
+      "floor_z": 3.911111354827881,
+      "floor_object": "Recon v18 | Stairs upper tread 07",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        26.93000030517578,
+        4.053600311279297
+      ],
+      "floor_z": 4.088889122009277,
+      "floor_object": "Recon v18 | Stairs upper tread 08",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.600000381469727,
+        26.75749969482422,
+        4.146900177001953
+      ],
+      "floor_z": 4.088889122009277,
+      "floor_object": "Recon v18 | Stairs upper tread 08",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        26.584999084472656,
+        4.240200042724609
+      ],
+      "floor_z": 4.266666889190674,
+      "floor_object": "Recon v18 | Stairs upper tread 09",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        26.412498474121094,
+        4.333499908447266
+      ],
+      "floor_z": 4.266666889190674,
+      "floor_object": "Recon v18 | Stairs upper tread 09",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.600000381469727,
+        26.239999771118164,
+        4.42680025100708
+      ],
+      "floor_z": 4.44444465637207,
+      "floor_object": "Recon v18 | Stairs upper tread 10",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        26.067501068115234,
+        4.520100116729736
+      ],
+      "floor_z": 4.44444465637207,
+      "floor_object": "Recon v18 | Stairs upper tread 10",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        25.895000457763672,
+        4.613400459289551
+      ],
+      "floor_z": 4.622222423553467,
+      "floor_object": "Recon v18 | Stairs upper tread 11",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        25.72249984741211,
+        4.706699848175049
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "Recon v18 | Stairs upper tread 12",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        25.549999237060547,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "Recon v18 | Stairs upper tread 12",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        25.549999237060547,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "Recon v18 | Stairs upper tread 12",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        25.374998092651367,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "Stairs | upper arrival landing",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        25.200000762939453,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "Stairs | upper arrival landing",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        25.025001525878906,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "Stairs | upper arrival landing",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_stairs",
+      "nominal": [
+        6.599999904632568,
+        24.850000381469727,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "Stairs | upper arrival landing",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        24.850000381469727,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        24.6560001373291,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        24.46200180053711,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        24.26799964904785,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        24.073999404907227,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        23.880001068115234,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        23.68600082397461,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        23.492000579833984,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        23.29800033569336,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        23.104000091552734,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        22.90999984741211,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        22.715999603271484,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        22.52199935913086,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        22.327999114990234,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        22.13399887084961,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        21.939998626708984,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        21.74599838256836,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        21.552000045776367,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        21.357999801635742,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        21.163999557495117,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        20.969999313354492,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        20.7760009765625,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        20.582000732421875,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        20.387998580932617,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        20.194000244140625,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        20.0,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.699999809265137,
+        20.0,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.53157901763916,
+        19.894737243652344,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.363157749176025,
+        19.789474487304688,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.194736957550049,
+        19.68421173095703,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        7.026315689086914,
+        19.578947067260742,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        6.8578948974609375,
+        19.473684310913086,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        6.689473628997803,
+        19.36842155456543,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        6.521052360534668,
+        19.26315689086914,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        6.352631568908691,
+        19.157894134521484,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        6.184210777282715,
+        19.052631378173828,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        6.015789031982422,
+        18.947368621826172,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        5.847368240356445,
+        18.842105865478516,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        5.678947448730469,
+        18.73684310913086,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        5.510526657104492,
+        18.631580352783203,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        5.342105388641357,
+        18.526315689086914,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        5.173684120178223,
+        18.421051025390625,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        5.005263328552246,
+        18.3157901763916,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        4.836842060089111,
+        18.210525512695312,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        4.668420791625977,
+        18.105262756347656,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "upper_hall",
+      "nominal": [
+        4.5,
+        18.0,
+        4.800000190734863
+      ],
+      "floor_z": 4.800000190734863,
+      "floor_object": "First | floor with corrected L stairwell opening",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        0.0,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        0.1999998390674591,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        0.3999996781349182,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        0.5999995470046997,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        0.7999993562698364,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        0.9999992251396179,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        1.1999990940093994,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        1.400000810623169,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        1.6000006198883057,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        1.8000004291534424,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        2.000000238418579,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        2.200000047683716,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        2.4000000953674316,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        2.5999999046325684,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        2.799999713897705,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        2.999999523162842,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        3.1999993324279785,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        3.3999991416931152,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        3.6000008583068848,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        3.7999987602233887,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        4.000000476837158,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        4.200000286102295,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        4.400000095367432,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        4.599999904632568,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        4.800000190734863,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        5.0,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        5.199999809265137,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        5.399999618530273,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        5.59999942779541,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        5.799999237060547,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        5.999999046325684,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        6.200000762939453,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        6.399998664855957,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        6.600000381469727,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        6.800000190734863,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        7.0,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        7.199999809265137,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        7.399999618530273,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        7.59999942779541,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        7.799999237060547,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        8.000000953674316,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        8.19999885559082,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        8.40000057220459,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        8.599998474121094,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        8.800000190734863,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        8.999998092651367,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        9.199999809265137,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        9.399999618530273,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        9.600000381469727,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        9.800000190734863,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        10.0,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        10.199999809265137,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        10.399999618530273,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        10.600001335144043,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        10.799999237060547,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        11.000000953674316,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        11.19999885559082,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        11.40000057220459,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        11.599998474121094,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        11.800000190734863,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        12.0,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        12.199999809265137,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        12.399999618530273,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        12.59999942779541,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        12.799999237060547,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        12.999999046325684,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        13.200000762939453,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        13.399998664855957,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        13.600000381469727,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        13.79999828338623,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        14.0,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        14.199999809265137,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        14.399999618530273,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        14.59999942779541,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        14.799999237060547,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        14.999999046325684,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        15.19999885559082,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        15.40000057220459,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        15.599998474121094,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        15.800000190734863,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        16.0,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        16.200000762939453,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        16.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        16.600000381469727,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        16.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        17.0,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        17.19999885559082,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        17.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        17.599998474121094,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        17.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        17.999998092651367,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        18.19999885559082,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        18.399999618530273,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        18.600000381469727,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        18.799999237060547,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        19.0,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        19.200000762939453,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        19.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        19.600000381469727,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        19.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        20.0,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        20.19999885559082,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        20.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        20.599998474121094,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        20.80000114440918,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        21.0,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        21.200000762939453,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        21.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        21.600000381469727,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        21.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        22.0,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        22.19999885559082,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        22.399999618530273,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        22.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        22.799999237060547,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        22.999998092651367,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        23.19999885559082,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        23.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        23.600000381469727,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        23.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        24.0,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        24.19999885559082,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        24.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        24.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        24.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        24.999998092651367,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        25.19999885559082,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        25.39999771118164,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        25.599998474121094,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        25.80000114440918,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        26.0,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        26.200000762939453,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        26.399999618530273,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        26.600000381469727,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        26.799999237060547,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        27.0,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        27.19999885559082,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        27.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        27.599998474121094,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        27.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        27.999998092651367,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        28.200000762939453,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        28.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        28.600000381469727,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        28.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        29.0,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        29.19999885559082,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        29.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        29.599998474121094,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        29.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        29.999998092651367,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        30.19999885559082,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        30.39999771118164,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        30.600000381469727,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        30.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.0,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        31.0,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Mapping v30 | Outer alley walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        31.19999885559082,
+        0.0
+      ],
+      "floor_z": 0.007999986410140991,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        31.399999618530273,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        31.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.008000046014785767,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.399999618530273,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.199999809265137,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -11.0,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -10.799999237060547,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -10.59999942779541,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -10.399999618530273,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -10.199999809265137,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -10.0,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -9.799999237060547,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -9.600000381469727,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -9.399999618530273,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -9.199999809265137,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -9.0,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -8.800000190734863,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -8.600000381469727,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -8.399999618530273,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -8.199999809265137,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -8.0,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -7.799999713897705,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -7.599999904632568,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -7.399999618530273,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -7.199999809265137,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "outer_alley",
+      "nominal": [
+        -7.0,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -7.0,
+        31.799999237060547,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -6.899999618530273,
+        31.959999084472656,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -6.800000190734863,
+        32.119998931884766,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -6.699999809265137,
+        32.279998779296875,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -6.600000381469727,
+        32.439998626708984,
+        0.0
+      ],
+      "floor_z": 0.007999986410140991,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -6.5,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -6.5,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -6.30555534362793,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -6.111111164093018,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -5.916666507720947,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -5.722222328186035,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -5.527777671813965,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -5.3333330154418945,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999986410140991,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -5.138888835906982,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -4.94444465637207,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -4.75,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -4.55555534362793,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -4.361111164093018,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.008000046014785767,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -4.166666507720947,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.972222089767456,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.777777910232544,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.5833334922790527,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.3888888359069824,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.1944446563720703,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        32.599998474121094,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        32.40625,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        32.21249771118164,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        32.01874923706055,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        31.82499885559082,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        31.631248474121094,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        31.4375,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        31.243749618530273,
+        0.0
+      ],
+      "floor_z": 0.008000016212463379,
+      "floor_object": "Mapping v30 | Rear turn walkable floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        31.049999237060547,
+        0.0
+      ],
+      "floor_z": 0.019999980926513672,
+      "floor_object": "Mapping v33 | Rear threshold drain slot.009",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        30.85624885559082,
+        0.0
+      ],
+      "floor_z": 0.007999956607818604,
+      "floor_object": "Mapping v30 | Rear door threshold landing",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        30.662498474121094,
+        0.0
+      ],
+      "floor_z": 0.007999986410140991,
+      "floor_object": "Mapping v30 | Rear door threshold landing",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        30.46875,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        30.274999618530273,
+        0.0
+      ],
+      "floor_z": 2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        30.081249237060547,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        29.887500762939453,
+        0.0
+      ],
+      "floor_z": -5.960464477539063e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        29.693750381469727,
+        0.0
+      ],
+      "floor_z": -5.960464477539063e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    },
+    {
+      "route": "rear_connector",
+      "nominal": [
+        -3.0,
+        29.5,
+        0.0
+      ],
+      "floor_z": -2.9802322387695312e-08,
+      "floor_object": "Ground | continuous timber floor",
+      "blockers": [],
+      "overhead": null
+    }
+  ]
+}

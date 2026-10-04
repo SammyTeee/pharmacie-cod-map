@@ -1,3 +1,12 @@
+[Latest enclosure fixes, service-lane detail and player-height fly-through](docs/ENCLOSURE_DETAIL_V33.md).
+
+Latest Blender checkpoint: `assets/blender/pharmacie-enclosure-detail-v33.blend`.
+Closes ground/upstairs seams and diagonal ceiling escapes; enclosed service lane,
+rear threshold details and readable closure signs. V32 street, v30 rear loop and
+approved pub/Taraj placement retained. Blender-only; engine package unchanged.
+Saved route and visibility rays are not BO3 collision, navigation or co-op tests.
+Older latest/checkpoint statements below are historical.
+
 [Latest enclosed rear-alley mapping, before/after previews and highlight video](docs/REAR_ALLEY_V30.md). Current Blender source: `assets/blender/pharmacie-zombies-alley-v30.blend`; v29 street/Taraj work retained. New geometry is Blender-only; engine deployment remains unchanged.
 
 [Taraj interior/bridge v26 and render review](docs/TARAJ_BRIDGE_V26.md).

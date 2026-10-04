@@ -14,3 +14,5 @@ build/
 # Credentials and the deferred generated skeleton stay local.
 /assets/generated/skeleton-chair/
 *.env
+# V33 per-second streaming review snapshots; final media/contact sheets are tracked.
+/recon/v33/*-flight-*.png

@@ -1,0 +1,54 @@
+{
+  "retained_samples": 572,
+  "street_samples": 1248,
+  "radius_m": 0.42,
+  "failures": [],
+  "boundaries": [
+    {
+      "object": "Mapping v33 | West inside-facing closure sign",
+      "point": [
+        -18.152000427246094,
+        -6.699999809265137,
+        1.649999976158142
+      ],
+      "normal": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "distance": 1.1520004272460938
+    },
+    {
+      "object": "Mapping v33 | East inside-facing closure sign",
+      "point": [
+        60.301998138427734,
+        -6.699999809265137,
+        1.649999976158142
+      ],
+      "normal": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "distance": 0.8019981980323792
+    },
+    {
+      "object": "Street v31 | Natural Wellbeing lane | closed lane end gate",
+      "point": [
+        46.5,
+        -29.75,
+        1.649999976158142
+      ],
+      "normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "distance": 0.9500008225440979
+    }
+  ],
+  "parent_scene_meshes_preserved": 9436,
+  "source_photos_unchanged": 44,
+  "engine_verified": false,
+  "limitations": "Sparse radial rays, not continuous capsule sweeps or BO3 collision/AI testing"
+}

@@ -1,0 +1,33 @@
+{
+  "video": "player-route-flythrough.webm",
+  "duration_seconds": 60,
+  "resolution": [
+    1280,
+    720
+  ],
+  "distinct_render_fps": 12,
+  "playback_fps": 24,
+  "distinct_frames": 720,
+  "bytes": 6600027,
+  "sections": [
+    {
+      "name": "Pub and rear escape loop",
+      "start_seconds": 0.0,
+      "duration_seconds": 40
+    },
+    {
+      "name": "Stairs and upstairs hall",
+      "start_seconds": 40.0,
+      "duration_seconds": 12
+    },
+    {
+      "name": "Enclosed service lane",
+      "start_seconds": 52.0,
+      "duration_seconds": 8
+    }
+  ],
+  "render": "GPU OptiX Cycles4 denoised; maximum four bounces",
+  "style": "Textured player-height camera review. Continuous inside each section, cuts between sections; not a game test.",
+  "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-enclosure-detail-v33.blend",
+  "source_scene_saved": false
+}
