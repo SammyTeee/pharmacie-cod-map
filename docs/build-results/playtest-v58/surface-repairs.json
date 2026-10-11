@@ -1,0 +1,17 @@
+{
+  "recovered": [
+    {
+      "object": "Street v22 | Melton Road pavement foundation",
+      "triangle_prisms": 16,
+      "low_BU": -0.3100000023841858,
+      "high_BU": -0.11999999731779099
+    },
+    {
+      "object": "Street v22 | Melton Road continuous carriageway",
+      "triangle_prisms": 16,
+      "low_BU": -0.23000000417232513,
+      "high_BU": -0.07999999821186066
+    }
+  ],
+  "brushes": 32
+}

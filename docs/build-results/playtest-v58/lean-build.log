@@ -1,0 +1,441 @@
+gdtDB: processed (358 GDTs) (17050 assets) in 13.781 sec
+gdtDB: successfully rebuilt database.
+main: Enter
+FPU Precision set to 64 bits
+CoD2Map: T7
+ Build Changelist: 3421987
+ Build Machine: CODBUILD8-764
+---- cod2map ----
+navmesh = true
+navvolume = full generation
+----- FS_Startup -----
+Current search path:
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\devraw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\devdiscdata
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\devraw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\raw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\discdata
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\devdiscdata
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\devraw
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\raw
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\discdata
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\main
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\main
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\players
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\zone
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\local_storage
+----------------------
+Connected to data signature database
+Loading map file S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie_v58.map
+Layer '000_Global/No Comp' ignored
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 't7_zm_chalk_buy_hvk30' is missing
+WARNING: Material 't7_zm_chalk_buy_hvk30' is missing
+reveal volume decal texture 1x1, 9 bytes. 0 packed 0 unpacked. 0 voldecals.
+writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_v58.d3dprt
+
+finding triangle windings...
+assigning primary lights...
+splitting windings into lightable areas...
+coalescing coincident windings...
+removing occluded winding fragments...
+finding sun shadow casters...
+splitting large windings...
+merging into concave windings...
+finished in 8 seconds
+fixing t-junctions...
+tethering holes to their concave windings...
+finding index mapping and snapping vertices...
+triangulating all windings...
+0 self-tjunctions fixed
+0 degenerate tris removed
+smoothing normals...
+emitting triangles...
+0 vertices couldn't be merged because the textures point different ways
+emitting cells and portals...
+
+building curve/terrain collision...
+Adding brush neighbor bevels...
+Removing redundant brush collision planes...
+removed 11749 brush sides
+elapsed time 0 seconds
+Finished processing world entity
+
+Ignoring empty brush model entity
+Map S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie_v58.map entity 16
+splitting up large himip volumes...
+    surfCount went from 1251 to 2541
+begin navmesh generation...
+
+Umbra Visibility Groups: 1 groups
+
+<worldvisgroup>      0
+
+
+Umbra Tome Triggers: 0 total
+
+
+
+tome "__default__", UMBRA volume NOT set - defaulting to = -1000000.0,-1000000.0,-1000000.0 ---> 1000000.0,1000000.0,1000000.0
+UMBRA smallest_occluder=72.000 small_hole=4.000
+removed 61 duplicate triangles from set of 48539 - 0.2 seconds
+generating Nav Mesh ...
+Removing tiny boundary edges...
+ done - 11.5 seconds 
+WARNING: NavVolume generation is skipped. Flying units might not behave correctly. This might be due to there is no nav_volume brush in the level, or the generation is skipped purposely by skipping -navvolume option.
+Writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_v58_navmesh.hkt
+Writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_v58_navvolume.hkt
+navmesh generation took 11.9 seconds
+Writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_v58.d3dbsp
+   48 seconds elapsed
+main: 48.1615 secs
+Linking "zm_pharmacie_v58" (usermaps\zm_pharmacie_v58 stable 3421953 v593): processing...Converting image i_pharmacie_pt58_278d8815aabc
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_9872db83bc4b
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_6284d4bae5ef
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_3b4519c65c28
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_251f826612f7
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_4bf4c2d66ead
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_14514502b0a9
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_fd202631ea2f
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_cad526f40e68
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_47755d833d07
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_55b409dada40
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_f8deeff2bb96
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_fd9675e99d19
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_e9ffc73689bf
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_1db2c0c93fad
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_d9950e5c14c4
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_ecc6bff3f6b0
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_4f22a4526ed0
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_43fdec8e7ae1
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_21b1468b2ca6
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_cf1f7971b9ab
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_38888c048a1e
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_52da12f18c27
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_966be4c3b0b1
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_a51bbdb2ff37
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_1a44f53de2a6
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_7a6bc276bc80
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_16e1855ac35e
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_501775820f39
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_9b9c8aefec43
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_a3c6bde3a3d4
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_3651c89cf753
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_934c5e730ce2
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_535800342e6a
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_6438ff9e0c90
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_9a45ae9213b3
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_0e97c1acad96
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_5a348aa7d9f5
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_247447228b4d
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_6d7c605c1059
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_a3db7e994d0c
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_06faf6db5755
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_d71170ae821e
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_9161595b1c7b
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_1d2d5110f476
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_2749133670bc
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_530bf0754dc0
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_f88647bea80a
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_4a0e4907cb90
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_943dfe3d9e81
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_6b280ecea424
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_eac57d07cba1
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_a4256d84e5ab
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_02caed6070f1
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_4c678970d0e4
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_e2105fcb36d7
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_9f44786947a7
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_b5438b0ecaaf
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_1f23126676b7
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_847f67ce9187
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_0a0dc2bd2d6b
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_d174fdb11c2e
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_dd2ba4e91574
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_74c293e52eb2
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_572a14f8c85a
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_2b3f6d5ef8e0
+Load 2048x2048 (2048x2048) Expand .. Mipmap ............ Compress BC7_SRGB ............ Save
+Converting image i_pharmacie_pt58_e9282a4cb67c
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_3d10e7f1020e
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_2ee3d465596b
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_79247f6299fd
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_a6ee3cfa52d9
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_16942bfdd0e0
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_b7b21ddf4e64
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_1d2f5a8929e6
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_t7_zm_chalk_buy_cqw_c
+Load 1024x512 (1024x512) Expand .. Mipmap .......... Compress BC7_SRGB .......... Save
+Converting image i_pharmacie_pt58_ae154d9099d0
+Load 512x512 (512x512) Expand .. Mipmap .......... Compress BC7_SRGB .......... Save
+Converting image i_pharmacie_pt58_0b18c2aa83f9
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_t7_zm_chalk_buy_shiva_c
+Load 1024x512 (1024x512) Expand .. Mipmap .......... Compress BC7_SRGB .......... Save
+Converting image i_pharmacie_pt58_2f10704c5b5b
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_9f064d3484cf
+Load 128x128 (128x128) Expand .. Mipmap ........ Compress BC7_SRGB ........ Save
+Converting image i_pharmacie_pt58_7c572133e04d
+Load 128x128 (128x128) Expand .. Mipmap ........ Compress BC7_SRGB ........ Save
+Converting image i_pharmacie_pt58_a863ec91dd7b
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_c0714d1d298a
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_742e734d3c08
+Load 512x512 (512x512) Expand .. Mipmap .......... Compress BC7_SRGB .......... Save
+Converting image i_pharmacie_pt58_75bca60d7cb5
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_b634dc9f6344
+Load 2048x2048 (2048x2048) Expand .. Mipmap ............ Compress BC7_SRGB ............ Save
+Converting image i_pharmacie_pt58_69331bcd3229
+Load 512x512 (512x512) Expand .. Mipmap .......... Compress BC7_SRGB .......... Save
+Converting image i_pharmacie_pt58_4c82f9d07d57
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_0ec7f019a9d1
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_f7789dfbfbe5
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_ed5af089e5c2
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_84b1cc122d41
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_813ce0f4d2af
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_8f2d5afd453e
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_bfc97657845e
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_2c03153af55f
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_7605d3e679b2
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_6b122117e9ec
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_d6f518a5f4a8
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_69a3c12df7f0
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_758a6a5856bc
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_6daf6c62b7fe
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_56e36d9c900f
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_86e655a4a93d
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_t7_zm_chalk_buy_vmp_c
+Load 1024x512 (1024x512) Expand .. Mipmap .......... Compress BC7_SRGB .......... Save
+Converting image i_pharmacie_pt58_84499b7bba9a
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_dde8f0191d2a
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_db96298d02f1
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_c611fadf2557
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_t7_zm_chalk_buy_m8a4_c
+Load 1024x512 (1024x512) Expand .. Mipmap .......... Compress BC7_SRGB .......... Save
+Converting image i_pharmacie_pt58_28e9aeaf3689
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_64c7f7a2adbd
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_b2c71180caa4
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_686ed2f7818a
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_231f47b9d0d4
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_1b99155f4799
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_ca77d2e99646
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_30e08c500208
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_033709e308c8
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_6b56509a43eb
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_ad75f594ad7d
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_371746897dfb
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_7e8d852fda5d
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_7229deca15c2
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_4e3ad7185a43
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_eeb043df2628
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_d4c96a8a56c5
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_c1733c610f23
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_0837f8598f31
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_53f29760640f
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_10b87391788d
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_d78a0fe2d006
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_3f100569e16e
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_09a87bde94f5
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_e4e561648294
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_f6490b3160ea
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_459d97916787
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_e6a238120bcf
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_1a1764862c39
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_925e718e36f1
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_3e95f025eb2d
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_21fdfbb40926
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_d706f6f2d575
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_399cb85610ee
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_0821d4d22471
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_eafc5ab3539c
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_5b23c36d1c7c
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_362326431980
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_068c2ad90855
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_401099f592ef
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_8154854a0948
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_cc4c15f4608f
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_fee7d39befe2
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_4d16d4dcb80c
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+UmbraConvert: smallest_occluder=72.000 small_hole=4.000
+[20:10:23] INFO: T: 288 O: 72 H: 4 B: 50
+[20:10:23] INFO: Tile grid 27784x27784x27784 (at -13892,-13892,-13892) created for scene: 17150 tiles (0 empties not included) in 0.234 seconds
+WARNING: SN-DBS is not installed, tome will be compiled locally
+WARNING: SN-DBS service is not running, tome will be compiled locally
+UmbraConvert: fetching tiles with 12 worker threads
+[20:11:46] DEBUG: Total allocations 4555810, peak 715 (size 990 kB 656 B)
+[20:11:46] DEBUG: Total allocations 4440759, peak 677 (size 852 kB 592 B)
+[20:11:46] DEBUG: Total allocations 2974410, peak 593 (size 687 kB 861 B)
+[20:11:46] DEBUG: Total allocations 3185621, peak 993 (size 1 MB 361 kB 324 B)
+[20:11:46] DEBUG: Total allocations 3116477, peak 753 (size 893 kB 259 B)
+[20:11:46] DEBUG: Total allocations 4506216, peak 937 (size 1 MB 721 kB 40 B)
+[20:11:46] DEBUG: Total allocations 4463897, peak 1079 (size 1 MB 354 kB 871 B)
+[20:11:46] DEBUG: Total allocations 2947087, peak 789 (size 981 kB 532 B)
+[20:11:46] DEBUG: Total allocations 4466015, peak 1175 (size 1 MB 411 kB 838 B)
+[20:11:46] DEBUG: Total allocations 4478387, peak 999 (size 1 MB 104 kB 672 B)
+[20:11:46] DEBUG: Total allocations 4337558, peak 911 (size 1 MB 99 kB 844 B)
+[20:11:46] DEBUG: Total allocations 4416933, peak 837 (size 1 MB 374 kB 908 B)
+UmbraConvert: 83.794 seconds to fetch tile inputs
+UmbraConvert: computing 0 tiles
+[20:11:47] INFO: Strict view volumes: no
+[20:11:48] INFO: Filtered 442/444 inside clusters
+[20:11:48] INFO: Filtered 2852/2854 global clusters
+[20:11:48] INFO: 38159/41011 cells reachable after global analysis
+[20:12:01] INFO: collapsed leaf tiles 17150 => 284
+[20:12:02] INFO: Generating LOD tiles using 12 threads
+[20:12:05] INFO: Connecting LOD tiles
+[20:12:05] INFO: Compressing lists
+[20:12:05] INFO: Average index range size: 703.20
+[20:12:06] INFO: object list: 30 kB 148 B, cluster list: 3 kB 800 B
+[20:12:06] INFO: created tome with 567 tiles, 2561 targets and 0 gates
+UmbraConvert: 0 tiles loaded from cache
+UmbraConvert: finished processing tiles in 1:43
+[20:12:06] DEBUG: Total allocations 17038789, peak 474448 (size 138 MB 760 kB 591 B)
+done: 3m32.41s
+Linking "en_zm_pharmacie_v58" (usermaps\zm_pharmacie_v58 stable 3421953 v593): processing...done: 0m4.30s

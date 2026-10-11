@@ -1,0 +1,16 @@
+{
+  "offset_engine_units": [
+    0,
+    -18000,
+    0
+  ],
+  "counts": {
+    "planes": 438144,
+    "mesh_vertices": 408,
+    "origins": 213
+  },
+  "before_sha256": "fcf2fcbd8c6e61e6fad5e9f4478619d597475c733f3b4f9da6c7212b7af48dbb",
+  "after_sha256": "3eb6b112f8edba80bd4328060a01df5b78b8a00c782fe61f4388b5fe38d4d3e7",
+  "contract": "engine = (BU + (-3.5,-10,0))*39.37007874015748 + (0,-18000,0)",
+  "reason": "Retry after repeated cell/portal emission access violations; full old-axis bounds exceeded 32768. Causality pending successful compiler result."
+}

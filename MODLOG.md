@@ -1032,3 +1032,13 @@ proxies archived unchanged. Initial pot clearance conflict corrected; final
 v40 fingerprint audit unchanged. Six matched previews rendered in 48 seconds
 and inspected. Remaining roof/plot/landscaping work recorded; BO3 unchanged,
 full extension not finished, no final push yet.
+[Radiant v58 exploration conversion in progress](docs/PLAYTEST_V58.md).
+
+2026-10-11: Sam requested the latest Blender design in a private Zombies test,
+with widely varied cheap/free wall guns. Chosen route: existing official BO3
+brush/photo exporter and stock Zombies prefab/script bootstrap, separate
+`zm_pharmacie_v58`; previous v18 playtest is preserved. V57 was committed and
+pushed as `da30d12`. Read-only v57 export contains 23,580 objects and 17 warnings;
+conversion gives 22,101 convex brushes, 340 slab prisms and 102 photo patches,
+with 1,216 reported omitted thin/unsupported objects. No new build or runtime
+success claimed yet. Source Blender is unchanged; Sam retains BO3 controls.

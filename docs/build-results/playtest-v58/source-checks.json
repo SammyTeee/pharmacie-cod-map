@@ -1,0 +1,30 @@
+{
+  "map": "zm_pharmacie_v58",
+  "source_sha256": "12b80c9e54ce9c2f17167272ff6005f936088b2ed6fad345cc024a79da3c1c9b",
+  "map_bytes": 18247801,
+  "entity_blocks": 307,
+  "duplicate_guids": [],
+  "wall_gun_prefabs": 29,
+  "variety": [
+    "ar_cqb",
+    "ar_longburst",
+    "ar_marksman",
+    "ar_standard",
+    "pistol_burst",
+    "pistol_fullauto",
+    "shotgun_pump",
+    "smg_fastfire",
+    "smg_standard",
+    "smg_versatile"
+  ],
+  "local_route_zones": 61,
+  "road_risers": 122,
+  "noncolliding_small_decor": 7379,
+  "free_gate_triggers": 5,
+  "engine_offset": [
+    0,
+    -18000,
+    0
+  ],
+  "status": "structural checks passed; compiler/runtime pending"
+}

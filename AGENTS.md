@@ -1,3 +1,7 @@
+[V58 free-weapon Zombies exploration test](docs/PLAYTEST_V58.md).
+
+Separate zm_pharmacie_v58 compiled, lit, linked and hash-verified deployed from v57. 29 wall guns / 10 types; purchase and ordinary ammo costs zero, existing gates free. Lean street export defers fine dressing after full-detail compiler crashes. Launch exited before a window/fresh log; runtime purchases, traversal and AI remain unverified. Sam retains all game controls. Original v57 Blender remains unchanged and was pushed in da30d12.
+
 [Authored route survey and connected Blender working copy](docs/SURVEYED_ROUTE_V57.md).
 
 Working checkpoint: `assets/blender/pharmacie-surveyed-route-v57.blend`.

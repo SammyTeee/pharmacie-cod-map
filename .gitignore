@@ -1,6 +1,8 @@
 __pycache__/
 *.pyc
 build/
+# Reproducible local playtest texture derivatives; manifests/GDT/source stay trackable.
+/assets/playtest-v58/*.tif
 *.blend[0-9]*
 # Local safety snapshots; numbered editable milestones are tracked separately.
 /recon/**/*.blend
