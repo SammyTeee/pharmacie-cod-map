@@ -1,0 +1,29 @@
+{
+  "source": "assets/blender/pharmacie-extension-route-v41.blend",
+  "output": "assets\\blender\\pharmacie-midland-frontage-v42.blend",
+  "assembly_root": "Midland v42 | Movable reference assembly",
+  "front_width_estimate": 16.719719461159126,
+  "new_meshes": 405,
+  "new_text_objects": 13,
+  "parent_objects_preserved": 15602,
+  "archived_unchanged": [
+    "Extension v41 | OSM footprint 173168754"
+  ],
+  "source_photo_sha256": "795893b3475a69f09c10c9667b533b15b0e8942c2962814b759a201cef25729d",
+  "nonmanifold_or_nonpositive": [],
+  "limits": [
+    "Google satellite/frame verification pending.",
+    "OSM footprint association provisional.",
+    "Facade is surface relief on closed static shell, not accessible interior.",
+    "Heights/depths/setbacks/rear service wing are estimates.",
+    "Photo capture date and current appearance unverified.",
+    "No photo pixels baked into geometry.",
+    "No BO3 implementation."
+  ],
+  "visual_corrections": [
+    "Blue upper side flank",
+    "Fascia wording beside main name",
+    "Wreath around M",
+    "Side painted title"
+  ]
+}

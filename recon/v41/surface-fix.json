@@ -1,0 +1,41 @@
+{
+  "archived_fragments": 2393,
+  "active_extension_meshes": 89,
+  "checks": [
+    {
+      "surface": "road",
+      "nonmanifold_edges": 0,
+      "volume": 1319.4084935738517
+    },
+    {
+      "surface": "kerb",
+      "nonmanifold_edges": 0,
+      "volume": 54.687978668428144
+    },
+    {
+      "surface": "footway",
+      "nonmanifold_edges": 0,
+      "volume": 906.0912770131539
+    },
+    {
+      "surface": "terrain",
+      "nonmanifold_edges": 0,
+      "volume": 36343.897515730365
+    },
+    {
+      "surface": "boundary",
+      "nonmanifold_edges": 0,
+      "volume": 2242.515066725515
+    }
+  ],
+  "station_final_link": [
+    [
+      84.55017969650774,
+      896.8295472452262
+    ],
+    [
+      84.57706432073542,
+      912.2934363105933
+    ]
+  ]
+}

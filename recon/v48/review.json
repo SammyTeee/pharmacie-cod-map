@@ -1,0 +1,11 @@
+{
+  "images": [
+    "garage_before.png",
+    "garage_after.png",
+    "house_overhead_before.png",
+    "house_overhead_after.png",
+    "street_before.png",
+    "street_after.png"
+  ],
+  "style": "Matched Workbench v47/v48 reconstruction previews, not source photos"
+}

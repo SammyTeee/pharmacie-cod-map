@@ -1,0 +1,134 @@
+{
+  "style": "Workbench material previews; overhead model only, Google alignment pending",
+  "seconds": 57.65028679999523,
+  "views": [
+    {
+      "view": "01_station_corridor",
+      "stage": "before",
+      "eye_local": [
+        68,
+        -25,
+        21
+      ],
+      "target_local": [
+        22,
+        6,
+        0
+      ],
+      "orthographic_scale": null,
+      "image": "01_station_corridor_before.png"
+    },
+    {
+      "view": "01_station_corridor",
+      "stage": "after",
+      "eye_local": [
+        68,
+        -25,
+        21
+      ],
+      "target_local": [
+        22,
+        6,
+        0
+      ],
+      "orthographic_scale": null,
+      "image": "01_station_corridor_after.png"
+    },
+    {
+      "view": "02_station_overhead",
+      "stage": "before",
+      "eye_local": [
+        12,
+        8,
+        120
+      ],
+      "target_local": [
+        12,
+        8,
+        0
+      ],
+      "orthographic_scale": 160,
+      "image": "02_station_overhead_before.png"
+    },
+    {
+      "view": "02_station_overhead",
+      "stage": "after",
+      "eye_local": [
+        12,
+        8,
+        120
+      ],
+      "target_local": [
+        12,
+        8,
+        0
+      ],
+      "orthographic_scale": 160,
+      "image": "02_station_overhead_after.png"
+    },
+    {
+      "view": "03_station_access",
+      "stage": "before",
+      "eye_local": [
+        23,
+        23,
+        2.2
+      ],
+      "target_local": [
+        38,
+        3.5,
+        1.0
+      ],
+      "orthographic_scale": null,
+      "image": "03_station_access_before.png"
+    },
+    {
+      "view": "03_station_access",
+      "stage": "after",
+      "eye_local": [
+        23,
+        23,
+        2.2
+      ],
+      "target_local": [
+        38,
+        3.5,
+        1.0
+      ],
+      "orthographic_scale": null,
+      "image": "03_station_access_after.png"
+    },
+    {
+      "view": "04_holmdale_end",
+      "stage": "before",
+      "eye_local": [
+        21,
+        -18,
+        13
+      ],
+      "target_local": [
+        6,
+        -3,
+        1
+      ],
+      "orthographic_scale": null,
+      "image": "04_holmdale_end_before.png"
+    },
+    {
+      "view": "04_holmdale_end",
+      "stage": "after",
+      "eye_local": [
+        21,
+        -18,
+        13
+      ],
+      "target_local": [
+        6,
+        -3,
+        1
+      ],
+      "orthographic_scale": null,
+      "image": "04_holmdale_end_after.png"
+    }
+  ]
+}

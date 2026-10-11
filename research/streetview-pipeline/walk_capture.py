@@ -73,6 +73,8 @@ def forward(heading):
 def run(route,max_stops,details,start_label):
     F.BASE.mkdir(parents=True,exist_ok=True);state_file=F.BASE/'walk-state.json';waypoints=route['waypoints'];index=0
     state=json.loads(state_file.read_text()) if state_file.exists() else {'completed_stops':[],'route':route,'waypoint_index':0}
+    if state.get('completed_stops') and state.get('route',{}).get('waypoints')!=waypoints:
+        raise RuntimeError('Capture folder belongs to another route; choose a separate --output folder')
     state['route']=route
     index=state.get('waypoint_index',0)
     previous=None
@@ -100,7 +102,11 @@ def run(route,max_stops,details,start_label):
         if distance(pos,(after['latitude'],after['longitude']))>55:raise RuntimeError('Unexpected jump over 55m; review before continuing')
     print(json.dumps({'event':'batch-complete','stops':max_stops,'next_position':meta()}),flush=True)
 def main():
-    p=argparse.ArgumentParser();p.add_argument('--route',required=True);p.add_argument('--stops',type=int,default=3);p.add_argument('--no-details',action='store_true');p.add_argument('--label',default='route');p.add_argument('--single-sweep',type=float);p.add_argument('--advance-only',type=float);p.add_argument('--retake-stop');a=p.parse_args()
+    p=argparse.ArgumentParser();p.add_argument('--route',required=True);p.add_argument('--stops',type=int,default=3);p.add_argument('--no-details',action='store_true');p.add_argument('--label',default='route');p.add_argument('--single-sweep',type=float);p.add_argument('--advance-only',type=float);p.add_argument('--retake-stop');p.add_argument('--output',help='Separate capture directory for this route');a=p.parse_args()
+    if a.output:F.BASE=Path(a.output).resolve()
+    with F.driver_lock():execute(a)
+
+def execute(a):
     if a.retake_stop:
         state=json.loads((F.BASE/'walk-state.json').read_text())
         stop=next(s for s in state['completed_stops'] if s['stop']==a.retake_stop)
@@ -112,4 +118,4 @@ def main():
     elif a.single_sweep is not None:sweep(a.label,a.single_sweep,not a.no_details)
     else:run(json.loads(Path(a.route).read_text()),a.stops,not a.no_details,a.label)
 if __name__=='__main__':
-    with F.driver_lock():main()
+    main()

@@ -1,0 +1,84 @@
+{
+  "garage_rotated_parts": 261,
+  "garage_rotation_local_degrees": -90,
+  "garage_pivot": [
+    10.199999809265137,
+    -2.25,
+    0.0
+  ],
+  "right_boundary_shift": 2.25,
+  "placeholder_houses": 7,
+  "new_closed_meshes": 134,
+  "placements": [
+    {
+      "chainage": 10,
+      "origin": [
+        -5.588399887084961,
+        848.6500854492188
+      ],
+      "height": 2.85
+    },
+    {
+      "chainage": 21,
+      "origin": [
+        -16.441442489624023,
+        850.442138671875
+      ],
+      "height": 5.35
+    },
+    {
+      "chainage": 32,
+      "origin": [
+        -26.671533584594727,
+        852.5872802734375
+      ],
+      "height": 5.35
+    },
+    {
+      "chainage": 43,
+      "origin": [
+        -37.41091537475586,
+        854.9675903320312
+      ],
+      "height": 2.85
+    },
+    {
+      "chainage": 54,
+      "origin": [
+        -51.16597366333008,
+        856.7592163085938
+      ],
+      "height": 5.35
+    },
+    {
+      "chainage": 65,
+      "origin": [
+        -62.13100051879883,
+        855.8827514648438
+      ],
+      "height": 5.35
+    },
+    {
+      "chainage": 76,
+      "origin": [
+        -74.41787719726562,
+        854.47607421875
+      ],
+      "height": 2.85
+    },
+    {
+      "chainage": 87,
+      "origin": [
+        -85.15640258789062,
+        852.0919189453125
+      ],
+      "height": 5.35
+    }
+  ],
+  "limits": [
+    "Placeholder houses invented at user request, not geographically verified",
+    "Garage angle user-corrected; dimensions and exact plot placement estimated",
+    "BO3 unchanged"
+  ],
+  "archived_junction_placeholder": "First trial house intersected Melton road clearance rays; retained unchanged in unlinked archive"
+}

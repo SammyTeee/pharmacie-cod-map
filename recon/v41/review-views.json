@@ -1,0 +1,134 @@
+{
+  "style": "Workbench material-colour previews, not final textured lighting",
+  "seconds": 46.677973599988036,
+  "views": [
+    {
+      "view": "01_route_overview",
+      "stage": "before",
+      "eye": [
+        -20,
+        480,
+        1000
+      ],
+      "target": [
+        -20,
+        480,
+        0
+      ],
+      "orthographic_scale": 1120,
+      "image": "01_route_overview_before.png"
+    },
+    {
+      "view": "01_route_overview",
+      "stage": "after",
+      "eye": [
+        -20,
+        480,
+        1000
+      ],
+      "target": [
+        -20,
+        480,
+        0
+      ],
+      "orthographic_scale": 1120,
+      "image": "01_route_overview_after.png"
+    },
+    {
+      "view": "02_station_holmdale",
+      "stage": "before",
+      "eye": [
+        150,
+        750,
+        170
+      ],
+      "target": [
+        0,
+        868,
+        0
+      ],
+      "orthographic_scale": 240,
+      "image": "02_station_holmdale_before.png"
+    },
+    {
+      "view": "02_station_holmdale",
+      "stage": "after",
+      "eye": [
+        150,
+        750,
+        170
+      ],
+      "target": [
+        0,
+        868,
+        0
+      ],
+      "orthographic_scale": 240,
+      "image": "02_station_holmdale_after.png"
+    },
+    {
+      "view": "03_taraj_seam",
+      "stage": "before",
+      "eye": [
+        -50,
+        296,
+        1.65
+      ],
+      "target": [
+        -51,
+        345,
+        1.65
+      ],
+      "orthographic_scale": null,
+      "image": "03_taraj_seam_before.png"
+    },
+    {
+      "view": "03_taraj_seam",
+      "stage": "after",
+      "eye": [
+        -50,
+        296,
+        1.65
+      ],
+      "target": [
+        -51,
+        345,
+        1.65
+      ],
+      "orthographic_scale": null,
+      "image": "03_taraj_seam_after.png"
+    },
+    {
+      "view": "04_holmdale",
+      "stage": "before",
+      "eye": [
+        -2,
+        840,
+        1.65
+      ],
+      "target": [
+        -80,
+        845,
+        1.65
+      ],
+      "orthographic_scale": null,
+      "image": "04_holmdale_before.png"
+    },
+    {
+      "view": "04_holmdale",
+      "stage": "after",
+      "eye": [
+        -2,
+        840,
+        1.65
+      ],
+      "target": [
+        -80,
+        845,
+        1.65
+      ],
+      "orthographic_scale": null,
+      "image": "04_holmdale_after.png"
+    }
+  ]
+}

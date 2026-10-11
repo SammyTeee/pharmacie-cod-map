@@ -1,8 +1,22 @@
 """Pure metadata/route checks: no browser inputs or network calls."""
 import unittest
+import json,tempfile
+from pathlib import Path
+from unittest.mock import patch
 import firefox_capture as F
 import walk_capture as W
 class CaptureMetadataTests(unittest.TestCase):
+    def test_new_route_cannot_resume_old_capture(self):
+        with tempfile.TemporaryDirectory() as folder,patch.object(F,'BASE',Path(folder)):
+            (Path(folder)/'walk-state.json').write_text(json.dumps({'completed_stops':[{'stop':'old'}],'route':{'waypoints':[{'position':[52.7,-1.07]}]}}))
+            with self.assertRaisesRegex(RuntimeError,'another route'):
+                W.run({'waypoints':[{'position':[52.69,-1.08]}]},1,False,'new')
+    def test_output_folder_selected_before_lock(self):
+        with tempfile.TemporaryDirectory() as folder,patch.object(F,'BASE',F.BASE),patch.object(W,'execute') as execute,patch('sys.argv',['walk_capture.py','--route','unused.json','--output',folder]):
+            W.main()
+            self.assertEqual(F.BASE,Path(folder).resolve())
+            self.assertTrue((Path(folder)/'driver.lock').exists())
+            execute.assert_called_once()
     def test_panorama_angles_and_id(self):
         m=F.parse_url('https://www.google.com/maps/@52.6974696,-1.0751002,3a,90y,127.24h,95t/data=!3m5!1e1!3m3!1sGrczNc7jSfD4Nq3vGmGfDw!2e0')
         self.assertEqual(m['panorama_id'],'GrczNc7jSfD4Nq3vGmGfDw');self.assertEqual(m['pitch_degrees'],5);self.assertEqual(m['heading_degrees'],127.24)

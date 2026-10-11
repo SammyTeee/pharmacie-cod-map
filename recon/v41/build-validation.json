@@ -1,0 +1,32 @@
+{
+  "source": "assets/blender/pharmacie-taraj-bar-v40.blend",
+  "output": "assets\\blender\\pharmacie-extension-route-v41.blend",
+  "preserved_parent_objects": 15512,
+  "new_closed_meshes": 2477,
+  "archived_unchanged": [
+    "Mapping v34 | Beyond Taraj closed road boundary",
+    "Mapping v34 | Beyond Taraj boundary head"
+  ],
+  "osm_building_footprints": [
+    "173168745",
+    "173168754",
+    "309564448",
+    "429101649",
+    "429101650",
+    "429101652",
+    "431818792",
+    "1155793607",
+    "1428872589"
+  ],
+  "nonmanifold": [],
+  "nonpositive_volume": [],
+  "route_checks_pending": true,
+  "house_modelled": false,
+  "engine_implemented": false,
+  "limits": [
+    "Local street positions are mapped data, not survey verification.",
+    "Width, height, enclosure and frame rotation are gameplay estimates.",
+    "House architecture requires visual reference; do not substitute another Holmdale listing.",
+    "No BO3 behavior implemented."
+  ]
+}

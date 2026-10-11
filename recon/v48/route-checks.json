@@ -1,0 +1,48 @@
+{
+  "clearance_rays": 32508,
+  "floor_samples": 3612,
+  "blocked_count": 0,
+  "unsupported_count": 0,
+  "blocked": [],
+  "unsupported": [],
+  "radius": 0.42,
+  "heights": [
+    0.35,
+    1.0,
+    1.7
+  ],
+  "method": "Longitudinal short rays with three lateral offsets; downward support samples; selected main/footway centrelines and inferred station link only; additional estimated house/garage driveway approaches and driveway crossing sampled; parallel station ramp, parking aisle and Holmdale turning end sampled",
+  "limits": [
+    "Not full continuous capsule collision.",
+    "Not all junction transitions sampled.",
+    "Not BO3 collision, navigation, co-op or gameplay tests."
+  ],
+  "enclosure_side_rays": 50,
+  "enclosure_misses": [
+    {
+      "sample": "main/18/-1",
+      "hit": null
+    },
+    {
+      "sample": "holmdale/0/1",
+      "hit": null
+    }
+  ],
+  "endpoint_note": "Main walk stops .5m before intentional terminal wall; old-map seam traversal included.",
+  "sampled_routes": [
+    "main",
+    "holmdale",
+    "station_access",
+    "station_link",
+    "house_approach",
+    "garage_approach",
+    "drive_crossing",
+    "station_parallel_ramp",
+    "station_parking",
+    "holmdale_turning_end"
+  ],
+  "floor_height_range": [
+    -0.08000007271766663,
+    0.030000030994415283
+  ]
+}

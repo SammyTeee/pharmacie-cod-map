@@ -7,6 +7,12 @@ build/
 /assets/blender/*-before-*.blend
 # Personal browser reference capture stays local; scripts/docs are trackable.
 /references/streetview-capture/
+# User-supplied Google reference collages remain local, unchanged.
+/references/29 holmdale.png
+/references/road up to 29 holmdale.png
+/references/topdown view.png
+/references/holmdale-v47/
+/references/holmdale-user-2026-10-11/
 # Reproducible review animation intermediates; final WebM and stills are retained.
 /recon/v28-zombies/frames/
 /recon/v28-zombies/pub/frames/

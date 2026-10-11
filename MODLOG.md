@@ -1,5 +1,36 @@
 # Mod log
 
+## 2026-10-11 — Authored route survey and v53–v57 working copy
+
+- Completed the selected 1,090.77 m Holmdale–Melton–Barkby Street View survey: 368 reviewed views, 381 attempts retained, 90 observed panorama IDs. Source links/dates/hashes and early metadata limitations in recon/v53/capture-manifest.json; detailed observations in docs/AUTHORED_ROUTE_SURVEY_2026-10-11.md. Google originals stay local/ignored.
+- V53 rigidly places approved number29 on the actual end plot, retaining central porch/mirrored windows/perpendicular garage, and extends missing road. V56 traces the asymmetric turning apron from saved overhead; approximate width/position checks and scale limitations recorded.
+- V54 adds 60 frontage assemblies / 2,942 closed meshes. V55 resolves route obstructions and crossing orientation; V57 corrects the added Holmdale housing side and rebuilds dormers after visual review. Latest self-contained checkpoint assets/blender/pharmacie-surveyed-route-v57.blend; review recon/v57/index.html.
+- Final selected 11 routes pass 39,771 clearance rays / 4,419 support samples, zero blocked/unsupported. All new mesh checks pass. Direct v40 audit retains all 15,512 fingerprints unchanged; five redundant boundary/infill pieces archived. Two junction enclosure side rays miss; not comprehensive collision/containment or BO3 validation. BO3 unchanged.
+- Scale remains 1.06406865 BU/m. Building heights/depths and individual facades are estimated. Short Barkby joining bend deviates up to20.25 m to preserve older approved buildings. Concealed number29 rear footprint and some station levels remain approximate. See docs/SURVEYED_ROUTE_V57.md for limitations. Authorized final Git delivery is being prepared; source imagery and unrelated work are excluded.
+
+## 2026-10-11 — V52 resumed street references and A/B route planner
+
+- Sam requested more Melton/station street work and reuse of automatic A/B Street View capture. Current in-app browser now renders Maps and Street View; old unavailable-browser blocker is stale. Inspected Sept 2023 DR Electrical blue palisade/brick boundary panorama near station, with resolved camera/ID in docs/STATION_FRONTAGE_V52.md.
+- Added 1,792 closed meshes and five text objects for the boundary/signage in `pharmacie-station-frontage-v52.blend`. Exact fit/dimensions estimated; industrial background masses still unfinished. All 19,359 active v51 objects fingerprint-identical; selected ten-route checks pass 32,535 rays / 3,615 support samples. Four matched previews in recon/v52. BO3 unchanged.
+- Built offline OSM snapshot A/B/via planner with shortest road paths, configurable stop spacing, four review directions, route JSON and GeoJSON plus copyable export fallback. Browser test selected 702m / 60 stops; fallback JSON parsed 25 waypoints and four views per stop. Native download-event check timed out, so download delivery unverified. Legacy walker now accepts separate output directories before locking and rejects cross-route resume. Eight helper tests pass; no new unattended run or current-browser capture adapter implemented. Full extension and final authorized commit/push remain pending.
+
+## 2026-10-11 — V51 matching left porch window
+
+- Sam approved the right porch window and requested it mirrored on the left. Replaced the 0.68-unit left return with an exact 1.07-unit mirror of the right, including frame, opaque lower panel, obscure glass and upper vent. This explicit correction supersedes the asymmetric photo interpretation for the left vent.
+- Wider return initially extended into the house shell. Brought porch and rounded landing forward together 0.45 model units; adjacent separate ledge/pots and nearest basket follow to avoid overlap. Door remains central over its own landing; right window dimensions unchanged. Existing bay/house shell unchanged. 289 copied/new closed meshes; sources archived unchanged; v50 retained.
+- Saved `assets/blender/pharmacie-holmdale-mirrored-window-v51.blend`; three previews in recon/v51. Selected routes pass 32,535 clearance rays / 3,615 support samples after updating the approach endpoint to follow the relocated threshold. Blender-only checks; BO3 unchanged. Full extension/final authorized push remain pending.
+
+## 2026-10-11 — V50 central corner porch correction
+
+- Sam narrowed the request to the door/porch: the door belongs in the middle over the walkable raised landing, separate from the right plant ledge. Rechecked original photos 2 and 8 and rebuilt the porch with a diagonal central door and two returning glazed sides. Rounded lower landing and higher plant ledge are separate; moved one pot clear of the diagonal approach.
+- Saved `assets/blender/pharmacie-holmdale-corner-porch-v50.blend`. 305 closed positive-volume meshes; superseded own geometry archived unchanged. Retained right window, perpendicular garage, opposite houses and wider map. See `docs/HOLMDALE_CORNER_PORCH_V50.md` and six matched views in `recon/v50`.
+- Selected routes pass 32,535 clearance rays and 3,615 support samples; six explicit landing samples supported. Direct v40 audit preserves all 15,512 original object fingerprints. Blender checks only; door is static exterior geometry, BO3 unchanged. Full extension and final authorized commit/push remain pending.
+
+## 2026-10-04 — Hosted showcase aerial stills
+
+- Sam requested fly-over overview stills on the overall preview page. Rendered four 1600×900 Cycles8 aerials from saved v39: whole street, pub/junction, Melton Road and brook/Taraj. Temporary lighting/cameras only; checkpoint not saved or geometry changed. Widened overall framing to fit the street and pub; Taraj view faces the frontage.
+- Added a plain Map overview section and navigation link to the showcase page/generator. Existing gallery media retained. Render script `scripts/render_aerial_v39.py`; page helper `scripts/add_aerial_showcase.py`; logs `build/v39-aerial*.log`. Earlier missing showcase media was a directory mode700 issue, corrected to755; no nginx changes.
+
 ## 2026-10-04 — V39 individual retail displays and mapping push
 
 - Sam requested continued substantial detail and a push. Added 1,118 closed meshes across florist/jeweller/optician/bakery/charity/carpet frontages, including stem/petal bouquets, rings/necklaces, supported spectacles, scored bread rolls, hanging shirts/folded clothes and rolled carpet/swatches. 72 generic display meshes archived unchanged; approved street footprint and interiors retained. Category-led original models, not observed stock or established shop interiors.
@@ -865,3 +896,139 @@ V37 preview pictures and comparison gallery uploaded under https://sammyt.wtf/me
 ### Town Square and shop display detail v38 — 4 October 2026
 Sam approved v37 and requested continued detail iteration. Built assets/blender/pharmacie-town-square-v38.blend from v37. B031 generic closed shop becomes reference-led red/gold entrance with angled glazing and an enclosed 7m recessed space, continuous paving, brick sides, ceiling, 3 warm bulkheads, conduit and static rear service gate. Unseen depth/closure are gameplay adaptations, not measured facts. DIY paint tins/lids/labels and greeting-card racks replace generic merchandise blocks. 315 manifold positive-volume meshes; 88 originals archived; 13,712 active parent meshes/transforms and 44 source hashes preserved. 3429 road/572 pub samples, 351 local entry/pavement samples and 37 enclosure rays pass. Intermediate inspection fixed hidden glazing, foundation/paving overlap and coincident side finishes; corrected depth-facing side brick shader. Final matched render review and highlight gallery in recon/v38. See docs/TOWN_SQUARE_V38.md. No engine change or functional gate/purchase/AI verification. Default opener selects v38. No git push.
 V38 also rechecks all 224 v37 shelter/cycle/delivery samples: 575 combined local samples pass. Preview images/gallery uploaded to https://sammyt.wtf/melton-v38/ in the continuing authorized preview task; all nine remote files match local SHA256, gallery/interior image HTTP200 confirmed. Existing preview.webm retained.
+### Taraj bar side correction v40 — 5 October 2026
+
+Sam indicated the opposite wall from the live Blender viewpoint across the side
+entrance. Ran scripts/fix_taraj_bar_v40.py through the Blender MCP on live v39;
+saved assets/blender/pharmacie-taraj-bar-v40.blend. Complete 115-object bar assembly
+rotated 180 degrees across the room, retaining its front bay. All other object
+transforms and all mesh data retained. 36 multi-height entry/aisle/bar-approach
+rays pass; matched viewport screenshots reviewed in recon/v40. The MCP wrapper
+reported a NameError after successful save because its final result lacked a bpy
+import; subsequent independent inspection confirms the saved v40 filepath.
+Default opener updated. Blender only; no compiler, deployment, game input,
+push or media upload. See docs/TARAJ_BAR_V40.md.
+
+### Melton / station / Holmdale provisional route v41 — 10 October 2026
+
+Resumed from extension handover. Blender was closed; opened v40 and its installed
+MCP server auto-started successfully. Firefox opened through Computer Use, but
+browser actions were rejected because URL-policy enforcement is unsupported for
+that Windows browser. Supported browser inventory is empty. Web reader cannot
+open supplied Maps/Street View or satellite page. No Google visual verification
+occurred. Sam subsequently requires fidelity to Google top-down view: frame and
+layout remain provisional until that comparison; requested supported connection.
+
+Created persistent extension goal at Sam's request, still active/unfinished.
+Retrieved OSM API XML, National Rail's April 2024 local-area map and official
+Midland exterior photo. Unchanged originals/hashes/URLs/credits in ignored
+references/streetview-capture/extension-v41/manifest.json. Visually reviewed map,
+separate crop and pub exterior. No house architecture inferred; unidentified
+Yopa Holmdale listing was rejected as evidence for number 29.
+
+Reproduced v25 scale 1.06406865 and chainages, tied new OSM route tangent rigidly
+to retained road endpoint. Saved assets/blender/pharmacie-extension-route-v41.blend.
+Initial 2,477 closed-mesh pass preserved 15,512 parent object geometries,
+transforms/material slots; two unchanged v34 road-end closure objects archived.
+First checks exposed pavement corner/support gaps. Unioned roads/kerbs/footways
+with Shapely constrained triangulation, then joined backing/perimeter; 2,393
+first-pass fragments retained in archive, 89 final active new meshes. New union
+meshes have positive volume and zero non-manifold edges. First float sliver was
+fixed with a 10-micron planar precision grid. One MCP result-list wrapper error
+occurred after successful save; later independent checks verify saved v41 path.
+
+27,999 clearance rays and 3,111 floor samples pass on selected road/footway
+centrelines, seam and inferred station link, .42 radius, three heights. Main
+route ends .5m before intentional perimeter wall. 49 of 50 limited 250m side
+enclosure rays hit geometry; one proceeds along connected Melton and reaches
+range limit, so not proof of a leak. These are Blender samples, not full collision
+or BO3 navigation/runtime tests. Nine OSM building masses and mapped platform
+remain preliminary; number 29 is a location marker only. BO3 unchanged.
+
+Matched material-colour Workbench previews generated in under a minute per set,
+reviewed; gallery recon/v41/index.html. Corrected fragmented outer boundaries
+after first visual review. Docs/EXTENSION_ROUTE_V41.md records remaining work.
+Default opener now selects v41. No game input, engine conversion/build/deployment,
+commit/push or media publishing. No completed-extension claim.
+
+### Midland photo-led exterior v42 — 10 October 2026
+
+Goal continuation made concrete progress while supported browser inventory
+remained empty. Built photo-led Midland exterior in a separate movable assembly
+on v41's provisional OSM footprint association: 405 final closed positive-volume
+meshes, 13 text objects, one root. Blue/white render, four upper sash windows,
+lower broad/narrow windows, two static entry bays, geometric fascia/garden
+plaques, hipped roof/chimneys/gutter/downpipes, deck/rail/picnic tables/umbrella,
+baskets and lamps. Heights/depths/rear wing/layout details estimated from one
+oblique exterior photo; no claimed accurate interior. Road layout unchanged.
+
+Initial MCP build call timed out after 300s. Did not restart it. Inspected live
+process and increasing CPU; read-only py-spy stack subsequently showed idle.
+Independent MCP and filesystem checks confirmed clean, successfully saved
+assets/blender/pharmacie-midland-frontage-v42.blend. 15,602 parent transforms and
+datablock references retained; provisional footprint mass archived unchanged.
+27,999 clearance rays and 3,111 floor samples still pass. Render review corrected
+blue upper side flank, fascia wording placement, M wreath and painted side title.
+Six fast matched Workbench images/gallery in recon/v42. No hours-long rendering.
+
+Retrieved/reviewed National Rail station schematic plus David Howard 20 Apr 2025
+forecourt and Nigel Thompson 22 Sep 2012 track photographs from Geograph. Source
+photos unchanged; both Geograph pages link CC BY-SA 2.0. Original-size request
+for older photo returned Missing signature error; preserved error response and
+retrieved normal page-linked image instead. Private reference ledger updated.
+Prepared recon/v43/station-reference.json: 28 OSM ways,11 point features. Official
+schematic confirms platform/shelter/parallel ramp/carpark/access arrangement;
+different photo dates remain distinct, not current-survey evidence. No v43 model.
+
+Google satellite and number 29 still require an allowed visual reference route.
+Goal remains active and full extension incomplete. Default opener selects v42.
+No BO3 controls, engine build/deployment, push, commit or media publishing.
+
+## 2026-10-11 — station v43 build in progress
+Prepared scripts/detail_station_v43.py and matched review/catalogue scripts. Initial live build adds platform edging, benches, lights, signs and schematic shelter in the mapped platform frame without road changes. Blender PID 47036 is still running its preservation assertion, confirmed by read-only stack inspection and increasing CPU time; output not yet verified. See docs/STATION_DETAIL_V43.md. Google overhead and number 29 remain blocked by absent supported browser connection; full goal unfinished. BO3/publishing unchanged.
+
+Sam explicitly requested committing/pushing the finished extension on 2026-10-11. Complete reference checks, previews and review first; stage this task's files deliberately and preserve unrelated working-tree changes. BO3 deployment remains unauthorized.
+
+Station v43 saved/checked: 118 closed meshes plus 3 text, 16,020 parent transforms/data retained. Corrected misclassified six-metre shelter mass using mapped shelter footprint; original archived unchanged. Final selected 27,999 rays/3,111 support samples pass. Matched previews in recon/v43. Station corridor/ramp/parking unfinished. Sam supplied house/approach reference images; inspected and recorded in docs/HOLMDALE_REFERENCE_V44.md. Preserve Google source images locally. House modelling next; full goal active.
+
+## 2026-10-11 — number 29 exterior v44
+Saved assets/blender/pharmacie-holmdale-house-v44.blend from v43. User-identified collage drives detailed bungalow exterior: 1,692 active closed meshes plus number text, 16,141 parent objects preserved. Refinements archive 41 fence/curtain proxy pieces; existing pavement kept clear. Final 29,025 clearance rays and 3,225 floor samples pass, including driveway approaches. Four matched preview pairs inspected; gallery recon/v44/index.html. Full extension still needs Google overhead alignment, cul-de-sac correction and station rail corridor/parking/ramp. Google source images unchanged and ignored from Git; BO3 unchanged. Commit/push authorized after finishing, not yet performed.
+
+## 2026-10-11 — station corridor and Holmdale end v45
+Saved assets/blender/pharmacie-station-holmdale-v45.blend: mapped station car park, lowered track corridor/rails, expanded terrain, low plinth and steel perimeter, parallel ramp and photo-led widened Holmdale end/terminal boundary. Earlier assemblies retained; five v41 joined surfaces archived unchanged. Direct v40 baseline comparison passes all 15,512 object fingerprints; only the two expected old road-end closures are archived. Final 32,805 route rays/3,645 floor samples pass, with support elevations -.08 to .03. Four matched view pairs inspected in recon/v45. Exact Google overhead alignment remains unverified and gates completion/push; screenshot requested. BO3 unchanged; goal active.
+# 2026-10-11 — Number 29 user correction, v46 in progress
+
+Sam identified wrong street side and missing right-hand L-shaped depth. Saved
+opposite-side rigid relocation as `pharmacie-holmdale-correction-v46.blend`, retaining
+v45. Adjusted hedge setback and terminal-fence clearance. Selected 32,805 rays /
+3,645 support samples pass. Right-leg direction clarification and Google overhead
+comparison pending; see `docs/HOLMDALE_CORRECTION_V46.md`. No BO3 change or push.
+# 2026-10-11 — Additional number 29 references and forward wing v47
+
+Preserved five additional screenshots unchanged in ignored references/holmdale-v47.
+Detailed evidence recorded in docs/HOLMDALE_REFERENCE_V47.md. First forward right
+arm correction saved as pharmacie-holmdale-depth-v47.blend; chimney/dormer added.
+All modified meshes closed/positive, original v40 fingerprints unchanged, selected
+routes pass after adapting house approach to recessed pedestrian entrance. Two
+previews inspected. Exact alignment, roof/return/boundary refinement still pending;
+BO3 unchanged, no push yet.
+# 2026-10-11 — v48 garage angle and placeholder houses
+
+User corrected garage to perpendicular to windows and authorized simple opposite
+houses to Melton Road. Saved pharmacie-holmdale-garage-v48.blend; 261 garage parts
+rotated together, seven active invented houses. Junction-conflicting eighth trial
+archived unchanged. Selected 32,508 rays/3,612 support samples pass; direct v40
+audit unchanged. Matched previews prepared; see docs/HOLMDALE_GARAGE_V48.md.
+BO3 unchanged. Broader alignment/detail work remains, commit/push not yet done.
+# 2026-10-11 — User's 19 close-up photos, porch correction v49
+
+Original photos copied unchanged with SHA256 manifest into ignored
+references/holmdale-user-2026-10-11. Comprehensive observations in
+docs/HOLMDALE_PHOTO_SURVEY_V49.md. Saved pharmacie-holmdale-porch-v49.blend:
+three-faced porch/central door, flat right-window wall, separate rounded paving,
+pots/tree, wicker baskets and wall planters. 602 new closed meshes, old own
+proxies archived unchanged. Initial pot clearance conflict corrected; final
+32,481 rays/3,609 support samples pass (porch check ends before step). Direct
+v40 fingerprint audit unchanged. Six matched previews rendered in 48 seconds
+and inspected. Remaining roof/plot/landscaping work recorded; BO3 unchanged,
+full extension not finished, no final push yet.

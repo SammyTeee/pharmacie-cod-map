@@ -1,0 +1,19 @@
+{
+  "source": "assets/blender/pharmacie-route-working-v55.blend",
+  "output": "assets\\blender\\pharmacie-surveyed-route-v56.blend",
+  "new_closed_meshes": 4,
+  "preserved_source_objects": 24102,
+  "archived_unchanged": [
+    "Survey v53 | Joined road",
+    "Survey v53 | Joined kerb",
+    "Survey v53 | Joined footway",
+    "Survey v54 | street | clear perimeter 0001"
+  ],
+  "nonmanifold_or_nonpositive": [],
+  "limits": [
+    "Turning apron follows visible asymmetric outline; driveway/pavement seams and exact curb corners remain estimated.",
+    "No source pixels embedded in model.",
+    "Not a measured land survey; BO3 unchanged."
+  ],
+  "seconds": 66.95212519995403
+}

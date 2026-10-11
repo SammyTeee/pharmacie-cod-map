@@ -1,0 +1,26 @@
+{
+  "source": "assets/blender/pharmacie-holmdale-house-v44.blend",
+  "output": "assets\\blender\\pharmacie-station-holmdale-v45.blend",
+  "new_closed_meshes": 832,
+  "parent_objects_preserved": 17835,
+  "archived_unchanged": [
+    "Extension v41 | Joined road",
+    "Extension v41 | Joined kerb",
+    "Extension v41 | Joined footway",
+    "Extension v41 | Joined terrain",
+    "Extension v41 | Joined boundary"
+  ],
+  "nonmanifold_or_nonpositive": [],
+  "rail_paths": 7,
+  "limits": [
+    "OSM geometry in provisional v41 frame; Google comparison pending.",
+    "Cul-de-sac width/outline inferred from September 2023 Street View.",
+    "Ramp position, widths, vertical levels and perimeter are gameplay estimates.",
+    "Railway switch profiles and operation are not simulated.",
+    "Rail corridor and perimeter are static; no train or BO3 behavior.",
+    "Parking markings, ramp and boundary details are estimates."
+  ],
+  "seconds": 4.899960299953818,
+  "active_new_meshes": 828,
+  "archived_ramp_posts": 4
+}

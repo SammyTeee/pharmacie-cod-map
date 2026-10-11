@@ -1,0 +1,222 @@
+{
+  "method": "Exact scalar-chainage formula from scripts/model_syston_v25.py, double precision",
+  "source_hashes": {
+    "recon\\v22\\validation.json": "a76a8058231ff2bd6eb4ddb2aedaf59b16209a829aceecefec552d13321df9cd",
+    "recon\\v24\\validation.json": "5397e6cf1323ade7deb03198dd4b5578f881865faf107b3a619f03597654d2ef",
+    "references\\streetview-capture\\taraj-to-pharmacie\\walk-state.json": "0d8b78050b180b3dc335088e750aff813eea5137123fffa75743f86113c0ccca"
+  },
+  "blender_centreline": [
+    [
+      -40.0,
+      -6.699999809265137
+    ],
+    [
+      -50.866294860839844,
+      37.96009826660156
+    ],
+    [
+      -59.36265563964844,
+      82.88231658935547
+    ],
+    [
+      -62.12848663330078,
+      127.02720642089844
+    ],
+    [
+      -58.77513885498047,
+      173.26004028320312
+    ],
+    [
+      -57.048744201660156,
+      218.2545623779297
+    ],
+    [
+      -54.210601806640625,
+      256.3869323730469
+    ],
+    [
+      -51.94550704956055,
+      294.5970458984375
+    ],
+    [
+      -51.580352783203125,
+      312.3471984863281
+    ]
+  ],
+  "blender_centreline_length": 321.56398402471524,
+  "taraj_chainage": 280.4776527451654,
+  "taraj_projected_pivot": [
+    -53.32622874043896,
+    271.3055114535638
+  ],
+  "taraj_projection_error": 3.556432721287937e-07,
+  "captured_walk_metres_estimate": 246.67360848985302,
+  "blender_units_per_capture_metre_estimate": 1.0640686466301177,
+  "stop_chainages": [
+    {
+      "stop": "route-001",
+      "latitude": 52.6974696,
+      "longitude": -1.0751002,
+      "chainage": 280.4776527451654
+    },
+    {
+      "stop": "route-002",
+      "latitude": 52.6975381,
+      "longitude": -1.0749954,
+      "chainage": 269.41272125193166
+    },
+    {
+      "stop": "route-003",
+      "latitude": 52.6976049,
+      "longitude": -1.0748971,
+      "chainage": 258.81071670537006
+    },
+    {
+      "stop": "route-004",
+      "latitude": 52.6976775,
+      "longitude": -1.0748046,
+      "chainage": 247.9459076643442
+    },
+    {
+      "stop": "route-005",
+      "latitude": 52.697752,
+      "longitude": -1.0747134,
+      "chainage": 236.95796711505557
+    },
+    {
+      "stop": "route-006",
+      "latitude": 52.69792,
+      "longitude": -1.0745158,
+      "chainage": 212.52007524070092
+    },
+    {
+      "stop": "route-007",
+      "latitude": 52.697995,
+      "longitude": -1.0744015,
+      "chainage": 200.42691725990514
+    },
+    {
+      "stop": "route-008",
+      "latitude": 52.6980627,
+      "longitude": -1.0742828,
+      "chainage": 188.7260246508451
+    },
+    {
+      "stop": "route-009",
+      "latitude": 52.6981374,
+      "longitude": -1.0741824,
+      "chainage": 177.313929875198
+    },
+    {
+      "stop": "route-010",
+      "latitude": 52.6981877,
+      "longitude": -1.0741136,
+      "chainage": 169.57504256989404
+    },
+    {
+      "stop": "route-011",
+      "latitude": 52.698287,
+      "longitude": -1.0739229,
+      "chainage": 151.526665690486
+    },
+    {
+      "stop": "route-012",
+      "latitude": 52.6983732,
+      "longitude": -1.0738386,
+      "chainage": 139.65760711175125
+    },
+    {
+      "stop": "route-013",
+      "latitude": 52.6984706,
+      "longitude": -1.073797,
+      "chainage": 127.74017748042903
+    },
+    {
+      "stop": "route-014",
+      "latitude": 52.6985428,
+      "longitude": -1.0737089,
+      "chainage": 117.10368266668289
+    },
+    {
+      "stop": "route-015",
+      "latitude": 52.6985998,
+      "longitude": -1.073579,
+      "chainage": 105.59130611072152
+    },
+    {
+      "stop": "route-016",
+      "latitude": 52.6986842,
+      "longitude": -1.0735165,
+      "chainage": 94.63342027695151
+    },
+    {
+      "stop": "route-017",
+      "latitude": 52.6987496,
+      "longitude": -1.0734064,
+      "chainage": 83.56660872751368
+    },
+    {
+      "stop": "route-018",
+      "latitude": 52.6988395,
+      "longitude": -1.0733534,
+      "chainage": 72.25855874179592
+    },
+    {
+      "stop": "route-019",
+      "latitude": 52.6989171,
+      "longitude": -1.073275,
+      "chainage": 61.48069676490198
+    },
+    {
+      "stop": "route-020",
+      "latitude": 52.6989958,
+      "longitude": -1.0731959,
+      "chainage": 50.56544980613475
+    },
+    {
+      "stop": "route-021",
+      "latitude": 52.6990567,
+      "longitude": -1.0730846,
+      "chainage": 39.80125319360289
+    },
+    {
+      "stop": "route-022",
+      "latitude": 52.6991632,
+      "longitude": -1.0730578,
+      "chainage": 27.040262087690365
+    },
+    {
+      "stop": "route-023",
+      "latitude": 52.6992274,
+      "longitude": -1.0729897,
+      "chainage": 18.0
+    }
+  ],
+  "extension_seam": {
+    "position": [
+      -51.580352783203125,
+      312.3471984863281
+    ],
+    "tangent": [
+      0.02056754283682769,
+      0.9997884657174513
+    ]
+  },
+  "limits": [
+    "Existing walk covers Taraj to town centre only.",
+    "No new route has been traced or georeferenced.",
+    "Scale is a gameplay estimate, not surveyed metres.",
+    "House pin and panorama camera differ and must not be treated as the same point.",
+    "No house footprint or architecture inferred from address."
+  ],
+  "house_user_supplied_place_lat_lon": [
+    52.693457,
+    -1.0800171
+  ],
+  "house_user_supplied_camera_lat_lon": [
+    52.6933309,
+    -1.0789429
+  ],
+  "blender_modified": false,
+  "bo3_verified": false
+}

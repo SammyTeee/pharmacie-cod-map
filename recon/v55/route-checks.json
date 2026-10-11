@@ -1,0 +1,104 @@
+{
+  "clearance_rays": 39717,
+  "floor_samples": 4413,
+  "blocked_count": 6,
+  "unsupported_count": 0,
+  "blocked": [
+    {
+      "sample": "main/0/0/-5.2",
+      "object": "Survey v54 | street | clear perimeter 0001",
+      "position": [
+        -46.742671966552734,
+        294.68145751953125,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "main/0/0/-5.2",
+      "object": "Survey v54 | street | clear perimeter 0001",
+      "position": [
+        -47.1641731262207,
+        294.6128234863281,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "main/0/0/-5.2",
+      "object": "Survey v54 | street | clear perimeter 0001",
+      "position": [
+        -46.742671966552734,
+        294.68145751953125,
+        1.0
+      ]
+    },
+    {
+      "sample": "main/0/0/-5.2",
+      "object": "Survey v54 | street | clear perimeter 0001",
+      "position": [
+        -47.1641731262207,
+        294.6128234863281,
+        1.0
+      ]
+    },
+    {
+      "sample": "main/0/0/-5.2",
+      "object": "Survey v54 | street | clear perimeter 0001",
+      "position": [
+        -46.742671966552734,
+        294.68145751953125,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "main/0/0/-5.2",
+      "object": "Survey v54 | street | clear perimeter 0001",
+      "position": [
+        -47.1641731262207,
+        294.6128234863281,
+        1.7000000476837158
+      ]
+    }
+  ],
+  "unsupported": [],
+  "radius": 0.42,
+  "heights": [
+    0.35,
+    1.0,
+    1.7
+  ],
+  "method": "Longitudinal short rays with three lateral offsets; downward support samples; selected main/footway centrelines and inferred station link only; additional estimated house/garage driveway approaches and driveway crossing sampled; parallel station ramp, parking aisle and Holmdale turning end sampled",
+  "limits": [
+    "Not full continuous capsule collision.",
+    "Not all junction transitions sampled.",
+    "Not BO3 collision, navigation, co-op or gameplay tests."
+  ],
+  "enclosure_side_rays": 52,
+  "enclosure_misses": [
+    {
+      "sample": "main/18/-1",
+      "hit": null
+    },
+    {
+      "sample": "holmdale/0/-1",
+      "hit": null
+    }
+  ],
+  "endpoint_note": "Main walk stops .5m before intentional terminal wall; old-map seam traversal included.",
+  "sampled_routes": [
+    "main",
+    "holmdale",
+    "station_access",
+    "station_link",
+    "barkby",
+    "house_approach",
+    "garage_approach",
+    "drive_crossing",
+    "station_parallel_ramp",
+    "station_parking",
+    "holmdale_turning_end"
+  ],
+  "floor_height_range": [
+    -0.08000007271766663,
+    0.030000030994415283
+  ]
+}

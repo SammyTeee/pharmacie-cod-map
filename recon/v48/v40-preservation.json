@@ -1,0 +1,17 @@
+{
+  "source": "assets/blender/pharmacie-taraj-bar-v40.blend",
+  "source_sha256": "08ba00d7f0892d6108bc55cbc10b899449c6fc6bb41a01c0fe33c60832023554",
+  "target": "assets\\blender\\pharmacie-holmdale-garage-v48.blend",
+  "source_objects": 15512,
+  "missing": [],
+  "changed": [],
+  "archived_from_active_scene": [
+    "Mapping v34 | Beyond Taraj closed road boundary",
+    "Mapping v34 | Beyond Taraj boundary head"
+  ],
+  "expected_archived_road_closures": [
+    "Mapping v34 | Beyond Taraj closed road boundary",
+    "Mapping v34 | Beyond Taraj boundary head"
+  ],
+  "scope": "Object basis/parent/inverse; mesh vertex coordinates and polygon topology; font body/size/extrusion; material slot names. Not shader graph or BO3 runtime audit."
+}

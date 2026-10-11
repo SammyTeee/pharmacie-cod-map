@@ -1,0 +1,33 @@
+{
+  "source": "assets/blender/pharmacie-station-frontage-v52.blend",
+  "output": "assets\\blender\\pharmacie-holmdale-alignment-v53.blend",
+  "new_closed_meshes": 5,
+  "archived_unchanged": [
+    "Extension v45 | Joined road",
+    "Extension v45 | Joined kerb",
+    "Extension v45 | Joined footway",
+    "Extension v45 | Joined terrain",
+    "Extension v45 | Joined boundary",
+    "Extension v45 | Holmdale terminal brick wall",
+    "Extension v45 | Holmdale terminal timber fence"
+  ],
+  "house_origin_before": [
+    -75.89506530761719,
+    830.650634765625,
+    0.0
+  ],
+  "house_origin_after": [
+    -152.54640197753906,
+    805.578125,
+    0.0
+  ],
+  "preserved_local_geometry_objects": 21156,
+  "nonmanifold_or_nonpositive": [],
+  "limits": [
+    "1.064 BU/metre is retained compatibility scale; Blender METRIC unit display alone is not physical calibration.",
+    "Road centreline comes from OSM; overhead visually corroborates bends and end plot, not cadastral measurement.",
+    "Head outline, paving widths, building heights and concealed footprint remain estimates.",
+    "No source-image pixels embedded; BO3 unchanged."
+  ],
+  "seconds": 56.39855969999917
+}

@@ -1,0 +1,72 @@
+<!doctype html><meta charset="utf-8"><title>Melton / station / Holmdale extension — v45 review</title><style>body{background:#18212b;color:#edf0f4;font:17px system-ui;margin:30px;max-width:1500px}a{color:#9cd6ff}.pair{display:flex;gap:12px}figure{margin:0;width:50%}img{width:100%}pre{white-space:pre-wrap}</style><h1>Melton / station / Holmdale — v45 working copy</h1><p>Google top-down alignment is still unverified. The model uses an OSM-derived route frame and user-supplied house/road references; estimated dimensions and gameplay boundaries are labelled in the notes. The goal is unfinished and the requested final Git push has not happened.</p><p><a href="../v41/index.html">Route before/after</a> · <a href="../v42/index.html">Midland exterior</a> · <a href="../v44/index.html">Number 29 details</a></p><p>Latest pass adds a mapped car park and rail corridor, lowers the rail bed beneath the retained platform, replaces the narrow platform walls with a distant low plinth/metal perimeter, adds a parallel access ramp, and widens Holmdale’s end with the photo-observed brick/timber closure. The exact ramp, turning outline, heights and perimeter remain estimates. BO3 unchanged.</p><p>Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, ODbL. Station references: <a href="https://www.nationalrail.co.uk/stations/syston/">National Rail</a>, <a href="https://www.geograph.org.uk/photo/3779706">Nigel Thompson, 2012, CC BY-SA 2.0</a>, <a href="https://www.geograph.org.uk/photo/8028555">David Howard, 2025, CC BY-SA 2.0</a>. User Google reference imagery remains local and is not embedded or redistributed here.</p><h2>01_station_corridor</h2><div class="pair"><figure><img src="01_station_corridor_before.png"><figcaption>before</figcaption></figure><figure><img src="01_station_corridor_after.png"><figcaption>after</figcaption></figure></div><h2>02_station_overhead</h2><div class="pair"><figure><img src="02_station_overhead_before.png"><figcaption>before</figcaption></figure><figure><img src="02_station_overhead_after.png"><figcaption>after</figcaption></figure></div><h2>03_station_access</h2><div class="pair"><figure><img src="03_station_access_before.png"><figcaption>before</figcaption></figure><figure><img src="03_station_access_after.png"><figcaption>after</figcaption></figure></div><h2>04_holmdale_end</h2><div class="pair"><figure><img src="04_holmdale_end_before.png"><figcaption>before</figcaption></figure><figure><img src="04_holmdale_end_after.png"><figcaption>after</figcaption></figure></div><h2>Verification</h2><pre>{
+  &quot;geometry&quot;: {
+    &quot;source&quot;: &quot;assets/blender/pharmacie-holmdale-house-v44.blend&quot;,
+    &quot;output&quot;: &quot;assets\\blender\\pharmacie-station-holmdale-v45.blend&quot;,
+    &quot;new_closed_meshes&quot;: 832,
+    &quot;parent_objects_preserved&quot;: 17835,
+    &quot;archived_unchanged&quot;: [
+      &quot;Extension v41 | Joined road&quot;,
+      &quot;Extension v41 | Joined kerb&quot;,
+      &quot;Extension v41 | Joined footway&quot;,
+      &quot;Extension v41 | Joined terrain&quot;,
+      &quot;Extension v41 | Joined boundary&quot;
+    ],
+    &quot;nonmanifold_or_nonpositive&quot;: [],
+    &quot;rail_paths&quot;: 7,
+    &quot;limits&quot;: [
+      &quot;OSM geometry in provisional v41 frame; Google comparison pending.&quot;,
+      &quot;Cul-de-sac width/outline inferred from September 2023 Street View.&quot;,
+      &quot;Ramp position, widths, vertical levels and perimeter are gameplay estimates.&quot;,
+      &quot;Railway switch profiles and operation are not simulated.&quot;,
+      &quot;Rail corridor and perimeter are static; no train or BO3 behavior.&quot;,
+      &quot;Parking markings, ramp and boundary details are estimates.&quot;
+    ],
+    &quot;seconds&quot;: 4.899960299953818,
+    &quot;active_new_meshes&quot;: 828,
+    &quot;archived_ramp_posts&quot;: 4
+  },
+  &quot;routes&quot;: {
+    &quot;clearance_rays&quot;: 32805,
+    &quot;floor_samples&quot;: 3645,
+    &quot;blocked_count&quot;: 0,
+    &quot;unsupported_count&quot;: 0,
+    &quot;floor_height_range&quot;: [
+      -0.08000007271766663,
+      0.030000030994415283
+    ],
+    &quot;sampled_routes&quot;: [
+      &quot;main&quot;,
+      &quot;holmdale&quot;,
+      &quot;station_access&quot;,
+      &quot;station_link&quot;,
+      &quot;house_approach&quot;,
+      &quot;garage_approach&quot;,
+      &quot;drive_crossing&quot;,
+      &quot;station_parallel_ramp&quot;,
+      &quot;station_parking&quot;,
+      &quot;holmdale_turning_end&quot;
+    ],
+    &quot;limits&quot;: [
+      &quot;Not full continuous capsule collision.&quot;,
+      &quot;Not all junction transitions sampled.&quot;,
+      &quot;Not BO3 collision, navigation, co-op or gameplay tests.&quot;
+    ]
+  },
+  &quot;v40_preservation&quot;: {
+    &quot;source&quot;: &quot;assets/blender/pharmacie-taraj-bar-v40.blend&quot;,
+    &quot;source_sha256&quot;: &quot;08ba00d7f0892d6108bc55cbc10b899449c6fc6bb41a01c0fe33c60832023554&quot;,
+    &quot;target&quot;: &quot;assets\\blender\\pharmacie-station-holmdale-v45.blend&quot;,
+    &quot;source_objects&quot;: 15512,
+    &quot;missing&quot;: [],
+    &quot;changed&quot;: [],
+    &quot;archived_from_active_scene&quot;: [
+      &quot;Mapping v34 | Beyond Taraj closed road boundary&quot;,
+      &quot;Mapping v34 | Beyond Taraj boundary head&quot;
+    ],
+    &quot;expected_archived_road_closures&quot;: [
+      &quot;Mapping v34 | Beyond Taraj closed road boundary&quot;,
+      &quot;Mapping v34 | Beyond Taraj boundary head&quot;
+    ],
+    &quot;scope&quot;: &quot;Object basis/parent/inverse; mesh vertex coordinates and polygon topology; font body/size/extrusion; material slot names. Not shader graph or BO3 runtime audit.&quot;
+  }
+}</pre>

@@ -1,0 +1,12 @@
+{
+  "images": [
+    "porch_front_before.png",
+    "porch_front_after.png",
+    "porch_context_before.png",
+    "porch_context_after.png",
+    "porch_plan_before.png",
+    "porch_plan_after.png"
+  ],
+  "seconds": 44.49223470001016,
+  "style": "Matched Workbench porch revision views, not photo calibration"
+}

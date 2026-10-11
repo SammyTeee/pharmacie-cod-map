@@ -1,0 +1,70 @@
+{
+  "style": "Workbench material previews; overhead is model only, not Google comparison",
+  "seconds": 28.48790440009907,
+  "views": [
+    {
+      "view": "01_platform",
+      "stage": "before",
+      "eye_local": [
+        2,
+        1.25,
+        1.8
+      ],
+      "target_local": [
+        30,
+        1.25,
+        1.35
+      ],
+      "orthographic_scale": null,
+      "image": "01_platform_before.png"
+    },
+    {
+      "view": "01_platform",
+      "stage": "after",
+      "eye_local": [
+        2,
+        1.25,
+        1.8
+      ],
+      "target_local": [
+        30,
+        1.25,
+        1.35
+      ],
+      "orthographic_scale": null,
+      "image": "01_platform_after.png"
+    },
+    {
+      "view": "02_overhead",
+      "stage": "before",
+      "eye_local": [
+        30,
+        0,
+        90
+      ],
+      "target_local": [
+        30,
+        0,
+        0
+      ],
+      "orthographic_scale": 95,
+      "image": "02_overhead_before.png"
+    },
+    {
+      "view": "02_overhead",
+      "stage": "after",
+      "eye_local": [
+        30,
+        0,
+        90
+      ],
+      "target_local": [
+        30,
+        0,
+        0
+      ],
+      "orthographic_scale": 95,
+      "image": "02_overhead_after.png"
+    }
+  ]
+}

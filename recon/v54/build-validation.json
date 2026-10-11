@@ -1,0 +1,22 @@
+{
+  "source": "assets/blender/pharmacie-holmdale-alignment-v53.blend",
+  "output": "assets\\blender\\pharmacie-surveyed-streets-v54.blend",
+  "frontages": 60,
+  "new_closed_meshes": 2942,
+  "new_text_objects": 5,
+  "preserved_source_objects": 21155,
+  "archived_unchanged": [
+    "Survey v53 | Joined terrain",
+    "Survey v53 | Joined boundary",
+    "Mapping v34 | Rear parcel boundary 1 00",
+    "Extension v41 | OSM footprint 1155793607"
+  ],
+  "nonmanifold_or_nonpositive": [],
+  "limits": [
+    "Photo-led scenery; frontage positions, heights and concealed depths estimated.",
+    "Barkby join is locally bent around approved v40 rear buildings; maximum offset from geographic centreline recorded, not presented as survey accuracy.",
+    "BU/metre compatibility scale retained; no global rescale.",
+    "BO3 unchanged."
+  ],
+  "seconds": 69.70357750006951
+}

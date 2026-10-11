@@ -1,0 +1,44 @@
+{
+  "new_meshes": 1792,
+  "text_objects": 5,
+  "unchanged_v51_scene_objects": 19359,
+  "changed_parent_objects": [],
+  "bad_closed_meshes": [],
+  "assembly_origin": [
+    19.0,
+    863.0
+  ],
+  "u": [
+    0.9647638201713562,
+    0.26311740279197693
+  ],
+  "n": [
+    -0.26311740279197693,
+    0.9647638201713562
+  ],
+  "length": 34.20526275297414,
+  "observed": [
+    "low red brick boundary and taller piers",
+    "bright blue pointed palisade and horizontal rails",
+    "blue appliance category signs",
+    "small DR Electrical sign"
+  ],
+  "estimated": [
+    "boundary dimensions and fit to station approach",
+    "exact pier and pale count",
+    "lettering spacing",
+    "coping and brick dimensions"
+  ],
+  "limits": [
+    "Source panorama observed, not measured survey",
+    "No source-image pixels copied into geometry",
+    "OSM building tag Buildbase nearby may be stale; no unverified building renamed",
+    "BO3 unchanged; final overhead alignment still pending"
+  ],
+  "frontage_fit_outward_offset": 2.5,
+  "assembly_origin_final": [
+    18.342206954956055,
+    865.4119262695312,
+    0.0
+  ]
+}

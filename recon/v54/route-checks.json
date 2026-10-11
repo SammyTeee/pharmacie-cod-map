@@ -1,0 +1,1220 @@
+{
+  "clearance_rays": 39717,
+  "floor_samples": 4413,
+  "blocked_count": 130,
+  "unsupported_count": 0,
+  "blocked": [
+    {
+      "sample": "main/0/0/-5.2",
+      "object": "Survey v54 | street | boundary 0002",
+      "position": [
+        -46.742671966552734,
+        294.68145751953125,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "main/0/0/-5.2",
+      "object": "Survey v54 | street | boundary 0002",
+      "position": [
+        -47.1641731262207,
+        294.6128234863281,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "main/0/0/-5.2",
+      "object": "Survey v54 | street | boundary 0002",
+      "position": [
+        -46.742671966552734,
+        294.68145751953125,
+        1.0
+      ]
+    },
+    {
+      "sample": "main/0/0/-5.2",
+      "object": "Survey v54 | street | boundary 0002",
+      "position": [
+        -47.1641731262207,
+        294.6128234863281,
+        1.0
+      ]
+    },
+    {
+      "sample": "main/0/0/-5.2",
+      "object": "Survey v54 | street | boundary 0002",
+      "position": [
+        -46.742671966552734,
+        294.68145751953125,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "main/0/0/-5.2",
+      "object": "Survey v54 | street | boundary 0002",
+      "position": [
+        -47.1641731262207,
+        294.6128234863281,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "main/2/30/-5.2",
+      "object": "Survey v54 | R047 | boundary rail upright 2305",
+      "position": [
+        -43.73319625854492,
+        361.7041320800781,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/0/11/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -49.77071762084961,
+        4.017401218414307,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/0/11/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -49.77071762084961,
+        4.017401218414307,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/0/11/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -49.77071762084961,
+        4.017401218414307,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/0/12/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.005802154541016,
+        4.983582019805908,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/0/12/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.243995666503906,
+        4.608997344970703,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/0/12/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.005802154541016,
+        4.983582019805908,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/0/12/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.243995666503906,
+        4.608997821807861,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/0/12/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.005802154541016,
+        4.983582019805908,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/0/12/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.243995666503906,
+        4.608997821807861,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/0/13/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.240882873535156,
+        5.949762344360352,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/0/13/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.47907638549805,
+        5.575178146362305,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/0/13/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.240882873535156,
+        5.949762344360352,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/0/13/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.47907638549805,
+        5.575178146362305,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/0/13/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.240882873535156,
+        5.949762344360352,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/0/13/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.47907638549805,
+        5.575178146362305,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/0/14/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.71416091918945,
+        6.541359901428223,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/0/14/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.71416091918945,
+        6.5413594245910645,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/0/14/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.71416091918945,
+        6.541359901428223,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/1/0/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.072635650634766,
+        5.258266448974609,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/1/0/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.072635650634766,
+        5.258266448974609,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/1/0/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.072635650634766,
+        5.258266448974609,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/1/1/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.299537658691406,
+        6.1908278465271,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/1/1/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.18608474731445,
+        5.724546909332275,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/1/1/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.425376892089844,
+        5.354468822479248,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/1/1/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.299537658691406,
+        6.1908278465271,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/1/1/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.18608474731445,
+        5.724546909332275,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/1/1/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.425376892089844,
+        5.354468822479248,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/1/1/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.299537658691406,
+        6.1908278465271,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/1/1/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.18608474731445,
+        5.724547386169434,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/1/1/4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -50.425376892089844,
+        5.354468822479248,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/1/4/0",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -51.56911087036133,
+        11.408733367919922,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/1/4/0",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -51.455657958984375,
+        10.942452430725098,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/1/4/0",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -51.34220886230469,
+        10.476171493530273,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/1/4/0",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -51.56911087036133,
+        11.408733367919922,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/1/4/0",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -51.455657958984375,
+        10.942452430725098,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/1/4/0",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -51.34220886230469,
+        10.476171493530273,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/1/4/0",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -51.56911087036133,
+        11.408733367919922,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/1/4/0",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -51.455657958984375,
+        10.942452430725098,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/1/4/0",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -51.34220886230469,
+        10.476171493530273,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/1/5/0",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -51.921852111816406,
+        11.504935264587402,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/1/5/0",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -51.921852111816406,
+        11.504935264587402,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/1/5/0",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -51.921852111816406,
+        11.504935264587402,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/1/7/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -52.83868408203125,
+        16.62664031982422,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/1/7/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -52.7252311706543,
+        16.160358428955078,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/1/7/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -52.61178207397461,
+        15.694077491760254,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/1/7/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -52.83868408203125,
+        16.62664031982422,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/1/7/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -52.7252311706543,
+        16.160358428955078,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/1/7/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -52.61178207397461,
+        15.694077491760254,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/1/7/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -52.83868408203125,
+        16.62664031982422,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/1/7/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -52.7252311706543,
+        16.160358428955078,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/1/7/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -52.61178207397461,
+        15.694077491760254,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/1/8/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -53.19142532348633,
+        16.722843170166016,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/1/8/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -53.07797622680664,
+        16.256561279296875,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/1/8/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -53.19142532348633,
+        16.722843170166016,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/1/8/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -53.07797622680664,
+        16.256561279296875,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/1/8/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -53.19142532348633,
+        16.722843170166016,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/1/8/-4.7",
+      "object": "Mapping v34 | Frontage gap backing 1 12.00",
+      "position": [
+        -53.07797622680664,
+        16.256561279296875,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/5/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        13.420000076293945,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/5/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        13.0,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/5/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        12.579999923706055,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/5/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        13.420000076293945,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/5/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        13.0,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/5/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        12.579999923706055,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/5/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        13.420000076293945,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/5/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        13.0,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/5/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        12.579999923706055,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/5/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        8.720000267028809,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/5/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        8.300000190734863,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/5/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        7.880000114440918,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/5/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        8.720000267028809,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/5/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        8.300000190734863,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/5/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        7.880000114440918,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/5/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        8.720000267028809,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/5/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        8.300000190734863,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/5/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        7.880000114440918,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/5/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        18.1200008392334,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/5/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        17.700000762939453,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/5/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        17.280000686645508,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/5/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        18.1200008392334,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/5/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        17.700000762939453,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/5/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        17.280000686645508,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/5/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        18.1200008392334,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/5/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        17.700000762939453,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/5/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -63.82500076293945,
+        17.280000686645508,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/6/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        13.420000076293945,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/6/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        13.0,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/6/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        12.579999923706055,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/6/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        13.420000076293945,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/6/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        13.0,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/6/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        12.579999923706055,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/6/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        13.420000076293945,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/6/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        13.0,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/6/0",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        12.579999923706055,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/6/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        8.720000267028809,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/6/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        8.300000190734863,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/6/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        7.880000114440918,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/6/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        8.720000267028809,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/6/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        8.300000190734863,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/6/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        7.880000114440918,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/6/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        8.720000267028809,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/6/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        8.300000190734863,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/6/4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        7.880000114440918,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/6/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        18.1200008392334,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/6/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        17.700000762939453,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/6/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        17.280000686645508,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/2/6/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        18.1200008392334,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/6/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        17.700000762939453,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/6/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        17.280000686645508,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/2/6/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        18.1200008392334,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/6/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        17.700000762939453,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/2/6/-4.7",
+      "object": "Mapping v34 | Junction west return",
+      "position": [
+        -64.17500305175781,
+        17.280000686645508,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/4/6/4.7",
+      "object": "Survey v54 | R054 | Barkby service wing enclosed shell 2585",
+      "position": [
+        -93.75749206542969,
+        31.582380294799805,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/4/6/4.7",
+      "object": "Survey v54 | R054 | Barkby service wing enclosed shell 2585",
+      "position": [
+        -93.75749206542969,
+        31.582380294799805,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/4/6/4.7",
+      "object": "Survey v54 | R054 | Barkby service wing enclosed shell 2585",
+      "position": [
+        -93.75749206542969,
+        31.582380294799805,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/4/7/4.7",
+      "object": "Survey v54 | R054 | Barkby service wing enclosed shell 2585",
+      "position": [
+        -93.43718719482422,
+        32.377872467041016,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/4/7/4.7",
+      "object": "Survey v54 | R054 | Barkby service wing enclosed shell 2585",
+      "position": [
+        -93.43718719482422,
+        32.377872467041016,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/4/7/4.7",
+      "object": "Survey v54 | R054 | Barkby service wing enclosed shell 2585",
+      "position": [
+        -93.43718719482422,
+        32.377872467041016,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/4/8/4.7",
+      "object": "Survey v54 | R054 | foundation brick course 2586",
+      "position": [
+        -93.52506256103516,
+        33.055076599121094,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/4/8/4.7",
+      "object": "Survey v54 | R054 | foundation brick course 2586",
+      "position": [
+        -93.97193145751953,
+        33.23501205444336,
+        0.3499999940395355
+      ]
+    },
+    {
+      "sample": "barkby/4/8/4.7",
+      "object": "Survey v54 | R054 | Barkby service wing enclosed shell 2585",
+      "position": [
+        -93.53096008300781,
+        33.1005744934082,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/4/8/4.7",
+      "object": "Survey v54 | R054 | Barkby service wing enclosed shell 2585",
+      "position": [
+        -93.97782897949219,
+        33.28050994873047,
+        1.0
+      ]
+    },
+    {
+      "sample": "barkby/4/8/4.7",
+      "object": "Survey v54 | R054 | Barkby service wing enclosed shell 2585",
+      "position": [
+        -93.53096008300781,
+        33.1005744934082,
+        1.7000000476837158
+      ]
+    },
+    {
+      "sample": "barkby/4/8/4.7",
+      "object": "Survey v54 | R054 | Barkby service wing enclosed shell 2585",
+      "position": [
+        -93.97782897949219,
+        33.28050994873047,
+        1.7000000476837158
+      ]
+    }
+  ],
+  "unsupported": [],
+  "radius": 0.42,
+  "heights": [
+    0.35,
+    1.0,
+    1.7
+  ],
+  "method": "Longitudinal short rays with three lateral offsets; downward support samples; selected main/footway centrelines and inferred station link only; additional estimated house/garage driveway approaches and driveway crossing sampled; parallel station ramp, parking aisle and Holmdale turning end sampled",
+  "limits": [
+    "Not full continuous capsule collision.",
+    "Not all junction transitions sampled.",
+    "Not BO3 collision, navigation, co-op or gameplay tests."
+  ],
+  "enclosure_side_rays": 52,
+  "enclosure_misses": [
+    {
+      "sample": "main/18/-1",
+      "hit": null
+    },
+    {
+      "sample": "holmdale/0/-1",
+      "hit": null
+    }
+  ],
+  "endpoint_note": "Main walk stops .5m before intentional terminal wall; old-map seam traversal included.",
+  "sampled_routes": [
+    "main",
+    "holmdale",
+    "station_access",
+    "station_link",
+    "barkby",
+    "house_approach",
+    "garage_approach",
+    "drive_crossing",
+    "station_parallel_ramp",
+    "station_parking",
+    "holmdale_turning_end"
+  ],
+  "floor_height_range": [
+    -0.08000007271766663,
+    0.030000030994415283
+  ]
+}

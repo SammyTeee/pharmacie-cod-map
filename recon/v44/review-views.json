@@ -1,0 +1,134 @@
+{
+  "style": "Workbench material previews; overhead is model only, not Google verification",
+  "seconds": 28.887211699970067,
+  "views": [
+    {
+      "view": "01_front",
+      "stage": "before",
+      "eye_local": [
+        7.0,
+        -20,
+        3.3
+      ],
+      "target_local": [
+        7,
+        1,
+        2.0
+      ],
+      "orthographic_scale": null,
+      "image": "01_front_before.png"
+    },
+    {
+      "view": "02_oblique",
+      "stage": "before",
+      "eye_local": [
+        17,
+        -15,
+        4.2
+      ],
+      "target_local": [
+        6,
+        1,
+        1.8
+      ],
+      "orthographic_scale": null,
+      "image": "02_oblique_before.png"
+    },
+    {
+      "view": "03_porch",
+      "stage": "before",
+      "eye_local": [
+        1,
+        -6,
+        2.3
+      ],
+      "target_local": [
+        3,
+        0,
+        1.5
+      ],
+      "orthographic_scale": null,
+      "image": "03_porch_before.png"
+    },
+    {
+      "view": "04_overhead",
+      "stage": "before",
+      "eye_local": [
+        7,
+        1,
+        45
+      ],
+      "target_local": [
+        7,
+        1,
+        0
+      ],
+      "orthographic_scale": 34,
+      "image": "04_overhead_before.png"
+    },
+    {
+      "view": "01_front",
+      "stage": "after",
+      "eye_local": [
+        7.0,
+        -20,
+        3.3
+      ],
+      "target_local": [
+        7,
+        1,
+        2.0
+      ],
+      "orthographic_scale": null,
+      "image": "01_front_after.png"
+    },
+    {
+      "view": "02_oblique",
+      "stage": "after",
+      "eye_local": [
+        17,
+        -15,
+        4.2
+      ],
+      "target_local": [
+        6,
+        1,
+        1.8
+      ],
+      "orthographic_scale": null,
+      "image": "02_oblique_after.png"
+    },
+    {
+      "view": "03_porch",
+      "stage": "after",
+      "eye_local": [
+        1,
+        -6,
+        2.3
+      ],
+      "target_local": [
+        3,
+        0,
+        1.5
+      ],
+      "orthographic_scale": null,
+      "image": "03_porch_after.png"
+    },
+    {
+      "view": "04_overhead",
+      "stage": "after",
+      "eye_local": [
+        7,
+        1,
+        45
+      ],
+      "target_local": [
+        7,
+        1,
+        0
+      ],
+      "orthographic_scale": 34,
+      "image": "04_overhead_after.png"
+    }
+  ]
+}

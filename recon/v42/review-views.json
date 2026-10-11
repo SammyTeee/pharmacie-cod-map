@@ -1,0 +1,102 @@
+{
+  "style": "Workbench material-colour previews, not final textured lighting",
+  "seconds": 37.6686223000288,
+  "views": [
+    {
+      "view": "01_front",
+      "stage": "before",
+      "eye_local": [
+        8.35,
+        -22,
+        3.5
+      ],
+      "target_local": [
+        8.35,
+        1,
+        3.8
+      ],
+      "orthographic_scale": null,
+      "image": "01_front_before.png"
+    },
+    {
+      "view": "01_front",
+      "stage": "after",
+      "eye_local": [
+        8.35,
+        -22,
+        3.5
+      ],
+      "target_local": [
+        8.35,
+        1,
+        3.8
+      ],
+      "orthographic_scale": null,
+      "image": "01_front_after.png"
+    },
+    {
+      "view": "02_oblique",
+      "stage": "before",
+      "eye_local": [
+        -8,
+        -17,
+        5.5
+      ],
+      "target_local": [
+        7,
+        2,
+        3.5
+      ],
+      "orthographic_scale": null,
+      "image": "02_oblique_before.png"
+    },
+    {
+      "view": "02_oblique",
+      "stage": "after",
+      "eye_local": [
+        -8,
+        -17,
+        5.5
+      ],
+      "target_local": [
+        7,
+        2,
+        3.5
+      ],
+      "orthographic_scale": null,
+      "image": "02_oblique_after.png"
+    },
+    {
+      "view": "03_roof",
+      "stage": "before",
+      "eye_local": [
+        -16,
+        -21,
+        22
+      ],
+      "target_local": [
+        5,
+        5,
+        2.5
+      ],
+      "orthographic_scale": 50,
+      "image": "03_roof_before.png"
+    },
+    {
+      "view": "03_roof",
+      "stage": "after",
+      "eye_local": [
+        -16,
+        -21,
+        22
+      ],
+      "target_local": [
+        5,
+        5,
+        2.5
+      ],
+      "orthographic_scale": 50,
+      "image": "03_roof_after.png"
+    }
+  ]
+}

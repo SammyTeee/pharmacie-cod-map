@@ -1,0 +1,25 @@
+{
+  "source": "assets/blender/pharmacie-midland-frontage-v42.blend",
+  "output": "assets\\blender\\pharmacie-station-detail-v43.blend",
+  "new_meshes": 118,
+  "new_text_objects": 3,
+  "parent_objects_preserved": 16020,
+  "nonmanifold_or_nonpositive": [],
+  "mapped_platform_way": "309564449",
+  "limits": [
+    "Google overhead verification pending.",
+    "Furniture positions, counts and sizes estimated.",
+    "Shelter is schematic, not visually verified close-up.",
+    "Access ramp and station car park remain unfinished.",
+    "No rail corridor model yet.",
+    "Blender static geometry only; BO3 unchanged."
+  ],
+  "archived_unchanged": [
+    "Extension v41 | OSM footprint 1428872589"
+  ],
+  "mapped_shelter_way": "1428872589",
+  "corrections": [
+    "Replaced six-metre shelter building proxy with schematic low shelter on mapped footprint",
+    "Moved light mast clear of sampled approach"
+  ]
+}

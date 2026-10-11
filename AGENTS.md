@@ -1,3 +1,131 @@
+[Authored route survey and connected Blender working copy](docs/SURVEYED_ROUTE_V57.md).
+
+Working checkpoint: `assets/blender/pharmacie-surveyed-route-v57.blend`.
+368 accepted source-linked Street View views over the selected 1.09 km
+Holmdale–Melton–Barkby route; local originals/hashes, detailed notes and gallery.
+60 new frontage assemblies, missing Holmdale road/end-plot fit and overhead-traced
+asymmetric turning apron. Approved porch/garage retained; new residential side
+and dormers corrected after review. Final selected 11 routes: 39,771 rays / 4,419
+support samples, zero blocked/unsupported. Direct v40: 15,512 fingerprints intact;
+five redundant boundary/infill pieces archived unchanged. BO3 unchanged.
+Dimensions/concealed footprints remain approximate; short Barkby join deviates
+up to 20.25 m to preserve approved old buildings. Read limits before refining.
+Final Git delivery authorized; intermediate Blender milestones remain local.
+
+[Resumed station street detail and A-to-B survey planner](docs/STATION_FRONTAGE_V52.md).
+
+Working checkpoint: `assets/blender/pharmacie-station-frontage-v52.blend`.
+In-app Maps/Street View now render; prior unavailable-browser blocker is stale.
+Observed DR Electrical brick/blue palisade boundary added; fit/dimensions remain
+estimated. 1,792 new closed meshes / five text objects; all 19,359 active v51
+objects preserved. Selected ten routes pass; BO3 unchanged. A/B planner in
+recon/route-planner; legacy walker supports separate output/resume guards.
+No new unattended capture run; full extension/final authorized push pending.
+
+[Number 29 mirrored porch windows](docs/HOLMDALE_MIRRORED_WINDOW_V51.md).
+
+Working checkpoint: `assets/blender/pharmacie-holmdale-mirrored-window-v51.blend`.
+Sam requested the approved right porch window mirrored to the smaller left.
+Both now span 1.07 model units, including matching upper vent. Porch and landing
+brought forward together 0.45 units to fit left return outside the existing wall;
+adjacent plant ledge/pots and nearest basket follow. 289 copied/new closed meshes;
+sources archived unchanged. Selected routes pass; BO3 unchanged. Full extension
+and authorized final commit/push remain pending.
+
+[Number 29 corrected diagonal central porch door](docs/HOLMDALE_CORNER_PORCH_V50.md).
+
+Working checkpoint: `assets/blender/pharmacie-holmdale-corner-porch-v50.blend`.
+Door is now the diagonal middle face of the corner porch, above its own rounded
+landing; both glazed sides return towards the house. Higher right plant ledge
+is separate. 305 closed meshes; superseded own geometry archived unchanged.
+Selected routes, six landing support samples and direct v40 preservation pass.
+Matched views in recon/v50. Full extension remains unfinished; BO3 unchanged.
+Final extension commit/push remains authorized after finishing.
+
+[Number 29 user-photo porch and flat right window](docs/HOLMDALE_PHOTO_SURVEY_V49.md).
+
+Working checkpoint: `assets/blender/pharmacie-holmdale-porch-v49.blend`.
+19 original user photos preserved locally with hashes; detailed photo index.
+602 new closed meshes: three-sided porch, central door/angled glazing, flat right
+window, separate paving, pots/tree/baskets and wall planters. Superseded own
+geometry archived unchanged. Selected routes and direct v40 audit pass; matched
+previews in recon/v49. Roof/plot/landscaping refinements remain; BO3 unchanged.
+Full extension unfinished; final commit/push authorized after finishing.
+
+[Number 29 perpendicular garage and opposite placeholder houses](docs/HOLMDALE_GARAGE_V48.md).
+
+Working checkpoint: `assets/blender/pharmacie-holmdale-garage-v48.blend`.
+Sam corrected garage to 90 degrees from window frontage: 261-part assembly now
+faces inward across driveway. Seven user-authorized fictional opposite houses
+continue towards Melton; eighth trial archived for junction clearance. Selected
+routes and direct v40 preservation audit pass. Matched previews in recon/v48.
+Close detail/roof/plot alignment still pending; BO3 unchanged; push when finished.
+
+[Number 29 forward right wing and detailed reference notes](docs/HOLMDALE_REFERENCE_V47.md).
+
+Working checkpoint: `assets/blender/pharmacie-holmdale-depth-v47.blend`.
+Five new user screenshots show forward-projecting right bay/garage around recessed
+left porch. First 2.25-unit estimated forward correction, chimney/dormer added.
+Detailed observations recorded; previews in recon/v47. Direct v40 preservation and
+selected routes pass. Exact plot alignment, roof/return refinement and boundary
+junction review remain pending. BO3 unchanged; commit/push after completion.
+
+[Number 29 street-side correction in progress](docs/HOLMDALE_CORRECTION_V46.md).
+
+Working checkpoint: `assets/blender/pharmacie-holmdale-correction-v46.blend`.
+Sam corrected the street side and reports an upside-down L footprint with greater
+right-hand depth. House moved rigidly to the opposite side; selected routes pass.
+Right-hand footprint clarification, matched previews and Google overhead alignment
+remain pending. Exact placement is provisional. BO3 unchanged; push after finishing.
+
+[Latest station corridor / Holmdale working copy](docs/EXTENSION_WORKING_V45.md).
+
+Working checkpoint: `assets/blender/pharmacie-station-holmdale-v45.blend`.
+Mapped station car park/rail corridor, parallel ramp and inferred widened
+Holmdale end. Prior number 29 and Midland assemblies retained. Direct v40 audit
+preserves all 15,512 original object fingerprints; selected routes pass. Google
+overhead comparison remains a completion gate. Commit/push requested after
+finishing; BO3 unchanged and goal active.
+
+[Latest photo-led number 29 — extension in progress](docs/HOLMDALE_HOUSE_V44.md).
+
+Working checkpoint: `assets/blender/pharmacie-holmdale-house-v44.blend`.
+1,692 active closed meshes and number text; previous scene objects retained.
+House uses Sam's identified collage. Matched previews and selected route checks
+pass. Exact overhead placement, cul-de-sac end and station corridor/ramp/car park
+remain unfinished. Sam requested pushing after completion. BO3 unchanged.
+
+[Latest provisional station detail — extension in progress](docs/STATION_DETAIL_V43.md).
+
+Working checkpoint: `assets/blender/pharmacie-station-detail-v43.blend`.
+118 closed meshes, three text objects; selected route samples pass. Station
+ramp/car park/rail corridor unfinished. User-supplied house/approach refs are
+recorded in docs/HOLMDALE_REFERENCE_V44.md; house modelling and Google overhead
+comparison pending. Sam requested commit/push after completion. BO3 unchanged.
+
+[Latest photo-led Midland exterior — extension in progress](docs/MIDLAND_FRONTAGE_V42.md).
+
+Working checkpoint: `assets/blender/pharmacie-midland-frontage-v42.blend`.
+405 new closed meshes and 13 text objects in a movable pub assembly. v41 route
+and v40 corrected Taraj retained. Google satellite verification and number 29
+remain unfinished; goal active. BO3 unchanged. Station references prepared in
+recon/v43/station-reference.json; no v43 model yet.
+
+[In-progress Melton/station/Holmdale extension](docs/EXTENSION_ROUTE_V41.md).
+
+Working Blender checkpoint: `assets/blender/pharmacie-extension-route-v41.blend`.
+Connected OSM route blockout and sampled Blender clearance/support checks; v40
+retained. Number 29 remains unmodelled pending visual identification. Full
+extension goal is unfinished; BO3 unchanged. Read v41 notes before continuing.
+
+[Latest user-corrected Taraj bar side](docs/TARAJ_BAR_V40.md).
+
+Latest checkpoint: `assets/blender/pharmacie-taraj-bar-v40.blend`.
+Sam corrected the bar to the opposite wall across the side entrance on
+2026-10-05. Complete 115-part assembly rotated to face inward; v39 retained.
+36 sampled Blender route rays pass; BO3 unchanged. Older checkpoints below
+remain historical.
+
 [Latest individual florist, jewellery, optical and retail displays](docs/RETAIL_DETAIL_V39.md).
 
 Latest checkpoint: `assets/blender/pharmacie-retail-detail-v39.blend`.

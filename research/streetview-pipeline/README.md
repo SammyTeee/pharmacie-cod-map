@@ -1,5 +1,23 @@
 # Draw a street route → Blender reconstruction pipeline
 
+**Selected-route survey completed, 11 October 2026:** the supported in-app CUA
+collector captured 368 reviewed views across Sam's 1.09 km route, with immutable
+originals, hashes, resolved browser URLs and a local evidence browser.
+`inapp_capture.cua.js` is the resumable runtime template; browser work must run
+through CUA, not an external browser-control library. The earlier metadata
+caveat and panorama/position distinctions are recorded in
+`../../docs/AUTHORED_ROUTE_SURVEY_2026-10-11.md`. The v57 Blender working copy,
+dimensions, limits and review gallery are in `../../docs/SURVEYED_ROUTE_V57.md`.
+This used a supervised collector, not a claim of an unattended legacy walk.
+
+**11 October 2026:** [A-to-B planner implemented](ROUTE_PLANNER.md), generated
+at `recon/route-planner/index.html`. Click road nodes for A/B/via points, inspect
+four directions per proposed stop and export JSON/GeoJSON. Current in-app Maps
+and Street View render successfully. Legacy Firefox walker remains available;
+new `--output` and cross-route resume rejection keep surveys separate. No new
+unattended capture run or in-app collector port is claimed. Older statements
+below describing route drawing as future work are historical.
+
 Sam clarified the desired workflow on 3 October 2026: draw a line along roads,
 bring that route into Blender, move through street-level views to collect the
 surroundings, then build 3D shopfronts like the Pharmacie/Taraj work.

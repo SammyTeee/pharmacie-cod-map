@@ -1,0 +1,95 @@
+{
+  "style": "Workbench previews, not photographs; local fit and estimated proportions",
+  "images": [
+    {
+      "label": "holmdale",
+      "stage": "after",
+      "file": "C:\\Users\\sam\\pharmacie-cod-map\\recon\\v57\\holmdale_after.png",
+      "eye_world": [
+        -138.60797119140625,
+        847.1319580078125,
+        28.0
+      ]
+    },
+    {
+      "label": "junction_shops",
+      "stage": "after",
+      "file": "C:\\Users\\sam\\pharmacie-cod-map\\recon\\v57\\junction_shops_after.png",
+      "eye_world": [
+        4.246196746826172,
+        784.576171875,
+        7.0
+      ]
+    },
+    {
+      "label": "retail_terrace",
+      "stage": "after",
+      "file": "C:\\Users\\sam\\pharmacie-cod-map\\recon\\v57\\retail_terrace_after.png",
+      "eye_world": [
+        -40.8828239440918,
+        640.0624389648438,
+        9.0
+      ]
+    },
+    {
+      "label": "hall_cafe",
+      "stage": "after",
+      "file": "C:\\Users\\sam\\pharmacie-cod-map\\recon\\v57\\hall_cafe_after.png",
+      "eye_world": [
+        -47.28477096557617,
+        510.6248779296875,
+        8.0
+      ]
+    },
+    {
+      "label": "supermarket",
+      "stage": "after",
+      "file": "C:\\Users\\sam\\pharmacie-cod-map\\recon\\v57\\supermarket_after.png",
+      "eye_world": [
+        -32.167755126953125,
+        346.72283935546875,
+        20.0
+      ]
+    },
+    {
+      "label": "barkby",
+      "stage": "after",
+      "file": "C:\\Users\\sam\\pharmacie-cod-map\\recon\\v57\\barkby_after.png",
+      "eye_world": [
+        -95.0,
+        -25.0,
+        45.0
+      ]
+    },
+    {
+      "label": "house_front",
+      "stage": "after",
+      "file": "C:\\Users\\sam\\pharmacie-cod-map\\recon\\v57\\house_front_after.png",
+      "eye_world": [
+        -163.3394775390625,
+        821.1829223632812,
+        7.0
+      ]
+    },
+    {
+      "label": "house_porch",
+      "stage": "after",
+      "file": "C:\\Users\\sam\\pharmacie-cod-map\\recon\\v57\\house_porch_after.png",
+      "eye_world": [
+        -152.44338989257812,
+        812.3780517578125,
+        3.700000047683716
+      ]
+    },
+    {
+      "label": "holmdale_overhead",
+      "stage": "after",
+      "file": "C:\\Users\\sam\\pharmacie-cod-map\\recon\\v57\\holmdale_overhead_after.png",
+      "eye_world": [
+        -83.0,
+        826.0,
+        190.0
+      ]
+    }
+  ]
+}
