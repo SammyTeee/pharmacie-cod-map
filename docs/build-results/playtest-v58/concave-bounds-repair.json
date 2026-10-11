@@ -1,0 +1,90 @@
+{
+  "objects": [
+    {
+      "name": "Street v22 | Roundabout pavement apron",
+      "replaced_box": true,
+      "prisms": 5,
+      "curve_tolerance_BU": 0.08,
+      "footprint_area_BU2": 529.4142378671088
+    },
+    {
+      "name": "Street v22 | Roundabout carriageway",
+      "replaced_box": true,
+      "prisms": 4,
+      "curve_tolerance_BU": 0.08,
+      "footprint_area_BU2": 313.2628787626966
+    },
+    {
+      "name": "Extension v45 | Joined rail terrain",
+      "replaced_box": true,
+      "prisms": 11,
+      "curve_tolerance_BU": 0.08,
+      "footprint_area_BU2": 1831.728952767211
+    },
+    {
+      "name": "Extension v45 | Joined station perimeter plinth",
+      "replaced_box": true,
+      "prisms": 77,
+      "curve_tolerance_BU": 0.08,
+      "footprint_area_BU2": 149.70226791792084
+    },
+    {
+      "name": "Survey v54 | street | terrain 0001",
+      "replaced_box": true,
+      "prisms": 121,
+      "curve_tolerance_BU": 0.08,
+      "footprint_area_BU2": 59097.93440027992
+    },
+    {
+      "name": "Survey v54 | street | Barkby road 0003",
+      "replaced_box": true,
+      "prisms": 8,
+      "curve_tolerance_BU": 0.08,
+      "footprint_area_BU2": 1015.30461670978
+    },
+    {
+      "name": "Survey v54 | street | Barkby kerb 0004",
+      "replaced_box": true,
+      "prisms": 28,
+      "curve_tolerance_BU": 0.08,
+      "footprint_area_BU2": 53.895199239810154
+    },
+    {
+      "name": "Survey v54 | street | Barkby footway 0005",
+      "replaced_box": true,
+      "prisms": 30,
+      "curve_tolerance_BU": 0.08,
+      "footprint_area_BU2": 566.1064270651063
+    },
+    {
+      "name": "Survey v56 | road",
+      "replaced_box": true,
+      "prisms": 31,
+      "curve_tolerance_BU": 0.08,
+      "footprint_area_BU2": 8443.094257056338
+    },
+    {
+      "name": "Survey v56 | kerb",
+      "replaced_box": true,
+      "prisms": 82,
+      "curve_tolerance_BU": 0.08,
+      "footprint_area_BU2": 358.6444567943472
+    },
+    {
+      "name": "Survey v56 | footway",
+      "replaced_box": true,
+      "prisms": 75,
+      "curve_tolerance_BU": 0.08,
+      "footprint_area_BU2": 4157.346265629534
+    },
+    {
+      "name": "Survey v56 | perimeter",
+      "replaced_box": true,
+      "prisms": 425,
+      "curve_tolerance_BU": 0.08,
+      "footprint_area_BU2": 857.833556786157
+    }
+  ],
+  "prisms": 897,
+  "runtime": "Retest required; no game input sent"
+}

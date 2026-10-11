@@ -1,0 +1,6 @@
+{
+  "stationary_brushmodels": 57,
+  "brushes": 897,
+  "group_size": 16,
+  "limits": "No movement script; colliding default brush models. Street navmesh and actual collision require runtime checks. Pub floor remains world geometry."
+}

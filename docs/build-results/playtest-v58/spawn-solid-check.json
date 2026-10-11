@@ -1,0 +1,183 @@
+{
+  "before": [
+    {
+      "classname": "info_player_start",
+      "origin": [
+        78.740157,
+        -18267.716535,
+        4.724409
+      ],
+      "body_intersections": [
+        {
+          "offset": [
+            0,
+            0,
+            2
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        },
+        {
+          "offset": [
+            -14,
+            -14,
+            2
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        },
+        {
+          "offset": [
+            -14,
+            14,
+            2
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        },
+        {
+          "offset": [
+            14,
+            -14,
+            2
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        },
+        {
+          "offset": [
+            14,
+            14,
+            2
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        },
+        {
+          "offset": [
+            0,
+            0,
+            32
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        },
+        {
+          "offset": [
+            -14,
+            -14,
+            32
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        },
+        {
+          "offset": [
+            -14,
+            14,
+            32
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        },
+        {
+          "offset": [
+            14,
+            -14,
+            32
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        },
+        {
+          "offset": [
+            14,
+            14,
+            32
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        },
+        {
+          "offset": [
+            0,
+            0,
+            64
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        },
+        {
+          "offset": [
+            -14,
+            -14,
+            64
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        },
+        {
+          "offset": [
+            -14,
+            14,
+            64
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        },
+        {
+          "offset": [
+            14,
+            -14,
+            64
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        },
+        {
+          "offset": [
+            14,
+            14,
+            64
+          ],
+          "solid_brushes": [
+            22205
+          ]
+        }
+      ],
+      "support_brushes": [
+        174,
+        22205
+      ]
+    }
+  ],
+  "after": [
+    {
+      "classname": "info_player_start",
+      "origin": [
+        78.740157,
+        -18267.716535,
+        4.724409
+      ],
+      "body_intersections": [],
+      "support_brushes": [
+        174
+      ]
+    }
+  ],
+  "method": "Five lateral body positions at three heights against inward convex brush half-spaces; downward floor sample. Source geometry check, runtime retest required."
+}

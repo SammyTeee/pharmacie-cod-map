@@ -1,0 +1,373 @@
+gdtDB: processed (358 GDTs) (17050 assets) in 12.555 sec
+gdtDB: successfully rebuilt database.
+main: Enter
+FPU Precision set to 64 bits
+CoD2Map: T7
+ Build Changelist: 3421987
+ Build Machine: CODBUILD8-764
+---- cod2map ----
+navmesh = true
+navvolume = full generation
+----- FS_Startup -----
+Current search path:
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\devraw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\devdiscdata
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\devraw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\raw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\discdata
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\devdiscdata
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\devraw
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\raw
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\discdata
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\main
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\main
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\players
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\zone
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\local_storage
+----------------------
+Connected to data signature database
+Loading map file S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie_v58.map
+Layer '000_Global/No Comp' ignored
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 't7_zm_chalk_buy_hvk30' is missing
+WARNING: Material 't7_zm_chalk_buy_hvk30' is missing
+reveal volume decal texture 1x1, 9 bytes. 0 packed 0 unpacked. 0 voldecals.
+WARNING: node without a volume
+node has 0 tiny portals
+node reference point 0.00 0.00 0.00
+WARNING: node without a volume
+node has 0 tiny portals
+node reference point 0.00 0.00 0.00
+writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_v58.d3dprt
+
+finding triangle windings...
+assigning primary lights...
+splitting windings into lightable areas...
+coalescing coincident windings...
+removing occluded winding fragments...
+finding sun shadow casters...
+splitting large windings...
+merging into concave windings...
+fixing t-junctions...
+tethering holes to their concave windings...
+finding index mapping and snapping vertices...
+triangulating all windings...
+0 self-tjunctions fixed
+0 degenerate tris removed
+smoothing normals...
+emitting triangles...
+0 vertices couldn't be merged because the textures point different ways
+emitting cells and portals...
+
+building curve/terrain collision...
+Adding brush neighbor bevels...
+Removing redundant brush collision planes...
+removed 3774 brush sides
+elapsed time 2 seconds
+WARNING: PROBLEMS FOUND [Load with Error File in Radiant]
+WARNING: Texture (pharmacie_pt58_2a123f716155) repeats more than once per inch. (x80)
+		S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie_v58.map
+			entity 0 brush 24167 at -6294 13346 70
+			entity 0 brush 24172 at -6294 13346 70
+			entity 0 brush 24173 at -6293 13346 72
+			entity 0 brush 24178 at -6294 13346 72
+			entity 0 brush 24187 at -6294 13346 72
+			entity 0 brush 24192 at -6293 13346 72
+			entity 0 brush 24193 at -6292 13345 73
+			entity 0 brush 24198 at -6292 13345 73
+			entity 0 brush 24207 at -6292 13345 73
+			entity 0 brush 24212 at -6292 13345 73
+			entity 0 brush 24213 at -6290 13344 73
+			entity 0 brush 24218 at -6290 13344 73
+			entity 0 brush 24227 at -6290 13344 73
+			entity 0 brush 24232 at -6290 13344 73
+			entity 0 brush 24233 at -6289 13343 72
+			entity 0 brush 24238 at -6288 13343 72
+			entity 0 brush 24247 at -6288 13343 72
+			entity 0 brush 24252 at -6289 13343 72
+			entity 0 brush 24253 at -6288 13343 70
+			entity 0 brush 24258 at -6288 13343 70
+			entity 0 brush 24267 at -6288 13343 70
+			entity 0 brush 24272 at -6288 13343 70
+			entity 0 brush 24273 at -6288 13343 68
+			entity 0 brush 24278 at -6289 13343 68
+			entity 0 brush 24287 at -6289 13343 68
+			entity 0 brush 24292 at -6288 13343 68
+			entity 0 brush 24293 at -6290 13344 67
+			entity 0 brush 24298 at -6290 13344 67
+			entity 0 brush 24307 at -6290 13344 68
+			entity 0 brush 24312 at -6290 13344 67
+			entity 0 brush 24313 at -6292 13345 67
+			entity 0 brush 24318 at -6292 13345 67
+			entity 0 brush 24327 at -6292 13345 67
+			entity 0 brush 24332 at -6292 13345 67
+			entity 0 brush 24333 at -6293 13346 68
+			entity 0 brush 24338 at -6293 13346 68
+			entity 0 brush 24347 at -6293 13346 68
+			entity 0 brush 24352 at -6293 13346 68
+			entity 0 brush 24353 at -6294 13346 70
+			entity 0 brush 24358 at -6294 13346 70
+			entity 0 brush 24967 at -6294 13346 64
+			entity 0 brush 24972 at -6294 13346 64
+			entity 0 brush 24973 at -6293 13346 65
+			entity 0 brush 24978 at -6294 13346 66
+			entity 0 brush 24987 at -6294 13346 66
+			entity 0 brush 24992 at -6293 13346 65
+			entity 0 brush 24993 at -6292 13345 66
+			entity 0 brush 24998 at -6292 13345 67
+			entity 0 brush 25007 at -6292 13345 67
+			entity 0 brush 25012 at -6292 13345 66
+			entity 0 brush 25013 at -6290 13344 66
+			entity 0 brush 25018 at -6290 13344 67
+			entity 0 brush 25027 at -6290 13344 67
+			entity 0 brush 25032 at -6290 13344 66
+			entity 0 brush 25033 at -6289 13343 65
+			entity 0 brush 25038 at -6288 13343 66
+			entity 0 brush 25047 at -6288 13343 66
+			entity 0 brush 25052 at -6289 13343 65
+			entity 0 brush 25053 at -6288 13343 64
+			entity 0 brush 25058 at -6288 13343 64
+			entity 0 brush 25067 at -6288 13343 64
+			entity 0 brush 25072 at -6288 13343 64
+			entity 0 brush 25073 at -6288 13343 62
+			entity 0 brush 25078 at -6289 13343 62
+			entity 0 brush 25087 at -6289 13343 62
+			entity 0 brush 25092 at -6288 13343 62
+			entity 0 brush 25093 at -6290 13344 61
+			entity 0 brush 25098 at -6290 13344 61
+			entity 0 brush 25107 at -6290 13344 61
+			entity 0 brush 25112 at -6290 13344 61
+			entity 0 brush 25113 at -6292 13345 61
+			entity 0 brush 25118 at -6292 13345 61
+			entity 0 brush 25127 at -6292 13345 61
+			entity 0 brush 25132 at -6292 13345 61
+			entity 0 brush 25133 at -6293 13346 62
+			entity 0 brush 25138 at -6293 13346 62
+			entity 0 brush 25147 at -6293 13346 62
+			entity 0 brush 25152 at -6293 13346 62
+			entity 0 brush 25153 at -6294 13346 64
+			entity 0 brush 25158 at -6294 13346 64
+WARNING: Texture (pharmacie_pt58_a92efc906212) repeats more than once per inch. (x40)
+		S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie_v58.map
+			entity 0 brush 24367 at -6290 13344 70
+			entity 0 brush 24372 at -6290 13344 70
+			entity 0 brush 24373 at -6289 13344 72
+			entity 0 brush 24378 at -6290 13344 72
+			entity 0 brush 24387 at -6290 13344 72
+			entity 0 brush 24392 at -6290 13344 72
+			entity 0 brush 24393 at -6288 13343 73
+			entity 0 brush 24398 at -6288 13343 73
+			entity 0 brush 24407 at -6288 13343 73
+			entity 0 brush 24412 at -6288 13343 73
+			entity 0 brush 24413 at -6286 13342 73
+			entity 0 brush 24418 at -6286 13342 73
+			entity 0 brush 24427 at -6286 13342 73
+			entity 0 brush 24432 at -6286 13342 73
+			entity 0 brush 24433 at -6285 13341 72
+			entity 0 brush 24438 at -6285 13341 72
+			entity 0 brush 24447 at -6284 13341 72
+			entity 0 brush 24452 at -6285 13341 72
+			entity 0 brush 24453 at -6284 13341 70
+			entity 0 brush 24458 at -6284 13341 70
+			entity 0 brush 24467 at -6284 13341 70
+			entity 0 brush 24472 at -6284 13341 70
+			entity 0 brush 24473 at -6284 13341 68
+			entity 0 brush 24478 at -6285 13341 68
+			entity 0 brush 24487 at -6285 13341 68
+			entity 0 brush 24492 at -6285 13341 68
+			entity 0 brush 24493 at -6286 13342 67
+			entity 0 brush 24498 at -6286 13342 67
+			entity 0 brush 24507 at -6286 13342 68
+			entity 0 brush 24512 at -6286 13342 67
+			entity 0 brush 24513 at -6288 13343 67
+			entity 0 brush 24518 at -6288 13343 67
+			entity 0 brush 24527 at -6288 13343 67
+			entity 0 brush 24532 at -6288 13343 67
+			entity 0 brush 24533 at -6290 13344 68
+			entity 0 brush 24538 at -6289 13344 68
+			entity 0 brush 24547 at -6289 13344 68
+			entity 0 brush 24552 at -6289 13344 68
+			entity 0 brush 24553 at -6290 13344 70
+			entity 0 brush 24558 at -6290 13344 70
+WARNING: Texture (pharmacie_pt58_b314aebf3ea1) repeats more than once per inch. (x41)
+		S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie_v58.map
+			entity 0 brush 579 at -190 -17947 42
+			entity 0 brush 591 at -197 -17939 41
+			entity 0 brush 600 at -197 -17939 41
+			entity 0 brush 611 at -190 -17931 42
+			entity 0 brush 623 at -197 -17939 41
+			entity 0 brush 632 at -197 -17939 41
+			entity 0 brush 643 at -190 -17947 45
+			entity 0 brush 652 at -190 -17947 44
+			entity 0 brush 655 at -197 -17939 43
+			entity 0 brush 664 at -197 -17939 43
+			entity 0 brush 675 at -190 -17931 45
+			entity 0 brush 687 at -197 -17939 43
+			entity 0 brush 696 at -197 -17939 43
+			entity 0 brush 707 at -190 -17946 47
+			entity 0 brush 716 at -190 -17946 47
+			entity 0 brush 719 at -197 -17939 46
+			entity 0 brush 728 at -197 -17939 46
+			entity 0 brush 739 at -190 -17932 47
+			entity 0 brush 751 at -197 -17939 46
+			entity 0 brush 760 at -197 -17939 46
+			entity 0 brush 771 at -190 -17946 49
+			entity 0 brush 780 at -190 -17946 49
+			entity 0 brush 783 at -197 -17939 48
+			entity 0 brush 792 at -197 -17939 48
+			entity 0 brush 803 at -190 -17932 49
+			entity 0 brush 815 at -197 -17939 48
+			entity 0 brush 824 at -197 -17939 48
+			entity 0 brush 835 at -190 -17945 51
+			entity 0 brush 844 at -190 -17945 51
+			entity 0 brush 847 at -197 -17939 50
+			entity 0 brush 856 at -197 -17939 50
+			entity 0 brush 867 at -190 -17933 51
+			entity 0 brush 879 at -197 -17939 50
+			entity 0 brush 888 at -197 -17939 50
+			entity 0 brush 899 at -190 -17945 53
+			entity 0 brush 908 at -190 -17945 53
+			entity 0 brush 911 at -197 -17939 52
+			entity 0 brush 920 at -197 -17939 52
+			entity 0 brush 931 at -190 -17933 53
+			entity 0 brush 943 at -197 -17939 52
+			entity 0 brush 952 at -197 -17939 52
+WARNING: Texture (pharmacie_pt58_c54615382314) repeats more than once per inch. (x40)
+		S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie_v58.map
+			entity 0 brush 24567 at -6288 13343 67
+			entity 0 brush 24572 at -6288 13343 67
+			entity 0 brush 24573 at -6287 13342 69
+			entity 0 brush 24578 at -6288 13343 69
+			entity 0 brush 24587 at -6288 13343 69
+			entity 0 brush 24592 at -6288 13343 69
+			entity 0 brush 24593 at -6286 13342 69
+			entity 0 brush 24598 at -6286 13342 70
+			entity 0 brush 24607 at -6286 13342 70
+			entity 0 brush 24612 at -6286 13342 70
+			entity 0 brush 24613 at -6284 13341 69
+			entity 0 brush 24618 at -6284 13341 70
+			entity 0 brush 24627 at -6284 13341 70
+			entity 0 brush 24632 at -6284 13341 70
+			entity 0 brush 24633 at -6283 13340 68
+			entity 0 brush 24638 at -6283 13340 69
+			entity 0 brush 24647 at -6282 13340 69
+			entity 0 brush 24652 at -6283 13340 69
+			entity 0 brush 24653 at -6282 13340 67
+			entity 0 brush 24658 at -6282 13339 67
+			entity 0 brush 24667 at -6282 13340 67
+			entity 0 brush 24672 at -6282 13340 67
+			entity 0 brush 24673 at -6282 13340 65
+			entity 0 brush 24678 at -6283 13340 65
+			entity 0 brush 24687 at -6283 13340 65
+			entity 0 brush 24692 at -6283 13340 65
+			entity 0 brush 24693 at -6284 13341 64
+			entity 0 brush 24698 at -6284 13341 64
+			entity 0 brush 24707 at -6284 13341 64
+			entity 0 brush 24712 at -6284 13341 64
+			entity 0 brush 24713 at -6286 13342 64
+			entity 0 brush 24718 at -6286 13342 64
+			entity 0 brush 24727 at -6286 13342 64
+			entity 0 brush 24732 at -6286 13342 64
+			entity 0 brush 24733 at -6288 13343 65
+			entity 0 brush 24738 at -6287 13343 65
+			entity 0 brush 24747 at -6287 13343 65
+			entity 0 brush 24752 at -6287 13343 65
+			entity 0 brush 24753 at -6288 13343 67
+			entity 0 brush 24758 at -6288 13343 67
+WARNING: Texture (pharmacie_pt58_def9e6a1e7e4) repeats more than once per inch. (x4)
+		S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie_v58.map
+			entity 0 brush 20041 at -6253 13313 36
+			entity 0 brush 20081 at -6254 13313 47
+			entity 0 brush 20121 at -6256 13313 57
+			entity 0 brush 20161 at -6257 13312 67
+WARNING: Texture (pharmacie_pt58_e374570b2974) repeats more than once per inch. (x80)
+		S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie_v58.map
+			entity 0 brush 23967 at -6296 13347 67
+			entity 0 brush 23972 at -6296 13347 67
+			entity 0 brush 23973 at -6295 13347 69
+			entity 0 brush 23978 at -6296 13347 69
+			entity 0 brush 23987 at -6295 13347 69
+			entity 0 brush 23992 at -6295 13347 69
+			entity 0 brush 23993 at -6294 13346 69
+			entity 0 brush 23998 at -6294 13346 70
+			entity 0 brush 24007 at -6294 13346 70
+			entity 0 brush 24012 at -6294 13346 70
+			entity 0 brush 24013 at -6292 13345 69
+			entity 0 brush 24018 at -6292 13345 70
+			entity 0 brush 24027 at -6292 13345 70
+			entity 0 brush 24032 at -6292 13345 70
+			entity 0 brush 24033 at -6291 13344 68
+			entity 0 brush 24038 at -6290 13344 69
+			entity 0 brush 24047 at -6290 13344 69
+			entity 0 brush 24052 at -6291 13344 69
+			entity 0 brush 24053 at -6290 13344 67
+			entity 0 brush 24058 at -6290 13344 67
+			entity 0 brush 24067 at -6290 13344 67
+			entity 0 brush 24072 at -6290 13344 67
+			entity 0 brush 24073 at -6290 13344 65
+			entity 0 brush 24078 at -6290 13344 65
+			entity 0 brush 24087 at -6291 13344 65
+			entity 0 brush 24092 at -6290 13344 65
+			entity 0 brush 24093 at -6292 13345 64
+			entity 0 brush 24098 at -6292 13345 64
+			entity 0 brush 24107 at -6292 13345 64
+			entity 0 brush 24112 at -6292 13345 64
+			entity 0 brush 24113 at -6294 13346 64
+			entity 0 brush 24118 at -6294 13346 64
+			entity 0 brush 24127 at -6294 13346 64
+			entity 0 brush 24132 at -6294 13346 64
+			entity 0 brush 24133 at -6295 13347 65
+			entity 0 brush 24138 at -6295 13347 65
+			entity 0 brush 24147 at -6295 13347 65
+			entity 0 brush 24152 at -6295 13347 65
+			entity 0 brush 24153 at -6296 13347 67
+			entity 0 brush 24158 at -6296 13347 67
+			entity 0 brush 24767 at -6290 13344 64
+			entity 0 brush 24772 at -6290 13344 64
+			entity 0 brush 24773 at -6289 13344 65
+			entity 0 brush 24778 at -6290 13344 66
+			entity 0 brush 24787 at -6290 13344 66
+			entity 0 brush 24792 at -6290 13344 65
+			entity 0 brush 24793 at -6288 13343 66
+			entity 0 brush 24798 at -6288 13343 67
+			entity 0 brush 24807 at -6288 13343 67
+			entity 0 brush 24812 at -6288 13343 66
+			entity 0 brush 24813 at -6286 13342 66
+			entity 0 brush 24818 at -6286 13342 67
+			entity 0 brush 24827 at -6286 13342 67
+			entity 0 brush 24832 at -6286 13342 66
+			entity 0 brush 24833 at -6285 13341 65
+			entity 0 brush 24838 at -6285 13341 66
+			entity 0 brush 24847 at -6284 13341 66
+			entity 0 brush 24852 at -6285 13341 65
+			entity 0 brush 24853 at -6284 13341 64
+			entity 0 brush 24858 at -6284 13341 64
+			entity 0 brush 24867 at -6284 13341 64
+			entity 0 brush 24872 at -6284 13341 64
+			entity 0 brush 24873 at -6284 13341 62
+			entity 0 brush 24878 at -6285 13341 62
+			entity 0 brush 24887 at -6285 13341 62
+			entity 0 brush 24892 at -6285 13341 62
+			entity 0 brush 24893 at -6286 13342 61
+			entity 0 brush 24898 at -6286 13342 61
+			entity 0 brush 24907 at -6286 13342 61
+			entity 0 brush 24912 at -6286 13342 61
+			entity 0 brush 24913 at -6288 13343 61
+			entity 0 brush 24918 at -6288 13343 61
+			entity 0 brush 24927 at -6288 13343 61
+			entity 0 brush 24932 at -6288 13343 61
+			entity 0 brush 24933 at -6290 13344 62
+			entity 0 brush 24938 at -6289 13344 62
+			entity 0 brush 24947 at -6289 13344 62
+			entity 0 brush 24952 at -6289 13344 62
+			entity 0 brush 24953 at -6290 13344 64
+			entity 0 brush 24958 at -6290 13344 64
+
+ERROR: ERROR: MAX_MAP_NODES
+

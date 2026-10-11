@@ -1,0 +1,251 @@
+gdtDB: processed (358 GDTs) (17050 assets) in 12.582 sec
+gdtDB: successfully rebuilt database.
+main: Enter
+FPU Precision set to 64 bits
+CoD2Map: T7
+ Build Changelist: 3421987
+ Build Machine: CODBUILD8-764
+---- cod2map ----
+navmesh = true
+navvolume = full generation
+----- FS_Startup -----
+Current search path:
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\devraw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\devdiscdata
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\devraw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\raw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\discdata
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\devdiscdata
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\devraw
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\raw
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\discdata
+S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\bin\main
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\main
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\players
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\zone
+S:/SteamLibrary/steamapps/common/Call of Duty Black Ops III 455130/pc/\local_storage
+----------------------
+Connected to data signature database
+Loading map file S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie_v58.map
+Layer '000_Global/No Comp' ignored
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 'jun_art_wood_plywood_dark03' is missing
+WARNING: Material 't7_zm_chalk_buy_hvk30' is missing
+WARNING: Material 't7_zm_chalk_buy_hvk30' is missing
+reveal volume decal texture 1x1, 9 bytes. 0 packed 0 unpacked. 0 voldecals.
+WARNING: node without a volume
+node has 0 tiny portals
+node reference point 0.00 0.00 0.00
+writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_v58.d3dprt
+
+finding triangle windings...
+assigning primary lights...
+splitting windings into lightable areas...
+coalescing coincident windings...
+removing occluded winding fragments...
+finding sun shadow casters...
+splitting large windings...
+merging into concave windings...
+fixing t-junctions...
+tethering holes to their concave windings...
+finding index mapping and snapping vertices...
+triangulating all windings...
+0 self-tjunctions fixed
+0 degenerate tris removed
+smoothing normals...
+emitting triangles...
+0 vertices couldn't be merged because the textures point different ways
+emitting cells and portals...
+
+building curve/terrain collision...
+Adding brush neighbor bevels...
+Removing redundant brush collision planes...
+removed 2056 brush sides
+elapsed time 0 seconds
+Finished processing world entity
+
+Ignoring empty brush model entity
+Map S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\map_source\zm\zm_pharmacie_v58.map entity 16
+splitting up large himip volumes...
+    surfCount went from 1136 to 2101
+begin navmesh generation...
+
+Umbra Visibility Groups: 1 groups
+
+<worldvisgroup>      0
+
+
+Umbra Tome Triggers: 0 total
+
+
+
+tome "__default__", UMBRA volume NOT set - defaulting to = -1000000.0,-1000000.0,-1000000.0 ---> 1000000.0,1000000.0,1000000.0
+UMBRA smallest_occluder=72.000 small_hole=4.000
+removed 61 duplicate triangles from set of 32741 - 0.1 seconds
+generating Nav Mesh ...
+Removing tiny boundary edges...
+ done - 2.0 seconds 
+WARNING: NavVolume generation is skipped. Flying units might not behave correctly. This might be due to there is no nav_volume brush in the level, or the generation is skipped purposely by skipping -navvolume option.
+Writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_v58_navmesh.hkt
+Writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_v58_navvolume.hkt
+navmesh generation took 2.2 seconds
+Writing S:\SteamLibrary\steamapps\common\Call of Duty Black Ops III 455130\share\raw\maps\zm\zm_pharmacie_v58.d3dbsp
+   23 seconds elapsed
+main: 22.9166 secs
+Linking "zm_pharmacie_v58" (usermaps\zm_pharmacie_v58 stable 3421953 v593): processing...Converting image i_pharmacie_pt58_0bf3ee0eae4d
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_d14f05e92a65
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_4e858c857470
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_cfda9591ac62
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_8aabf5508590
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_t7_zm_chalk_buy_spyder_c
+Load 512x512 (512x512) Expand .. Mipmap .......... Compress BC7_SRGB .......... Save
+Converting image i_pharmacie_pt58_cf2a065a8b3c
+Load 2048x2048 (2048x2048) Expand .. Mipmap ............ Compress BC7_SRGB ............ Save
+Converting image i_pharmacie_pt58_d7d4b8313473
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_cec37a46c9b5
+Load 512x512 (512x512) Expand .. Mipmap .......... Compress BC7_SRGB .......... Save
+Converting image i_pharmacie_pt58_1bc7d66d502a
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_8bce0c6ee59f
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_bb7fdab46b4c
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_680d96745345
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_a60e7291f6d8
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_9bab6bfaab95
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_0d2d6f013038
+Load 2048x2048 (2048x2048) Expand .. Mipmap ............ Compress BC7_SRGB ............ Save
+Converting image i_pharmacie_pt58_445ceb61076b
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_9717cb95c798
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_ffd5c6371c90
+Load 2048x2048 (2048x2048) Expand .. Mipmap ............ Compress BC7_SRGB ............ Save
+Converting image i_pharmacie_pt58_09c7d3502dc4
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_4a337838a415
+Load 512x512 (512x512) Expand .. Mipmap .......... Compress BC7_SRGB .......... Save
+Converting image i_pharmacie_pt58_e1a56f87877e
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_385bde67d32b
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_39988d9b5cbd
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_b314aebf3ea1
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_93517ecb561d
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_e20af5c33086
+Load 512x512 (512x512) Expand .. Mipmap .......... Compress BC7_SRGB .......... Save
+Converting image i_pharmacie_pt58_7e3ceb0e18fe
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_f661a521de5c
+Load 2048x2048 (2048x2048) Expand .. Mipmap ............ Compress BC7_SRGB ............ Save
+Converting image i_pharmacie_pt58_2dd468c83c6f
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_c568f06c80e4
+Load 1024x1024 (1024x1024) Expand .. Mipmap ........... Compress BC7_SRGB ........... Save
+Converting image i_pharmacie_pt58_755ca0f41dd9
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_33941a314a60
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_02910f59c458
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_f56bde101b35
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_fe46c5b1696e
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_6ba0d027565a
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_151908844519
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_1d5c0a042ff4
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_1dafcf72648c
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_d256b0dcb804
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_17b05eb7c959
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_c4166252a82d
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_789b3b549948
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_61bdf20d8fe9
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_def9e6a1e7e4
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_07d09fa35649
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_050f4d0473ba
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_262227560202
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_17cbc823a7d9
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_560be426b865
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_afccfc29803d
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_ff557da857b0
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_8a62af0bbc4d
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_d6cd11247ee6
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_d46686a67522
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_968d161558e1
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+Converting image i_pharmacie_pt58_27e5c7dd94d9
+Load 256x256 (256x256) Expand .. Mipmap ......... Compress BC7_SRGB ......... Save
+UmbraConvert: smallest_occluder=72.000 small_hole=4.000
+[20:58:01] INFO: T: 288 O: 72 H: 4 B: 50
+[20:58:01] INFO: Tile grid 27784x27784x27784 (at -13892,-13892,-13892) created for scene: 5529 tiles (0 empties not included) in 0.094 seconds
+WARNING: SN-DBS is not installed, tome will be compiled locally
+WARNING: SN-DBS service is not running, tome will be compiled locally
+UmbraConvert: fetching tiles with 12 worker threads
+[20:58:16] DEBUG: Total allocations 991395, peak 1031 (size 1 MB 1015 kB 946 B)
+[20:58:16] DEBUG: Total allocations 999139, peak 795 (size 988 kB 229 B)
+[20:58:16] DEBUG: Total allocations 1010122, peak 869 (size 1 MB 399 kB 507 B)
+[20:58:16] DEBUG: Total allocations 1024335, peak 715 (size 865 kB 871 B)
+[20:58:16] DEBUG: Total allocations 994299, peak 1109 (size 1 MB 575 kB 60 B)
+[20:58:16] DEBUG: Total allocations 973972, peak 1239 (size 1 MB 512 kB 529 B)
+[20:58:16] DEBUG: Total allocations 1024367, peak 881 (size 1 MB 932 kB 556 B)
+[20:58:16] DEBUG: Total allocations 1024965, peak 761 (size 893 kB 999 B)
+[20:58:16] DEBUG: Total allocations 1010589, peak 731 (size 1 MB 56 kB 750 B)
+[20:58:16] DEBUG: Total allocations 1040109, peak 813 (size 1 MB 204 kB 152 B)
+[20:58:16] DEBUG: Total allocations 968665, peak 1317 (size 1 MB 609 kB 271 B)
+[20:58:16] DEBUG: Total allocations 982024, peak 1051 (size 1 MB 537 kB 678 B)
+UmbraConvert: 15.499 seconds to fetch tile inputs
+UmbraConvert: computing 0 tiles
+[20:58:17] INFO: Strict view volumes: no
+[20:58:17] INFO: Filtered 489/491 inside clusters
+[20:58:17] INFO: Filtered 3150/3152 global clusters
+[20:58:17] INFO: 12984/16134 cells reachable after global analysis
+[20:58:22] INFO: collapsed leaf tiles 5529 => 295
+[20:58:22] INFO: Generating LOD tiles using 12 threads
+[20:58:25] INFO: Connecting LOD tiles
+[20:58:25] INFO: Compressing lists
+[20:58:26] INFO: Average index range size: 247.13
+[20:58:26] INFO: object list: 19 kB 996 B, cluster list: 2 kB 524 B
+[20:58:26] INFO: created tome with 589 tiles, 1682 targets and 0 gates
+UmbraConvert: 1266 tiles loaded from cache
+UmbraConvert: finished processing tiles in 0:24
+[20:58:26] DEBUG: Total allocations 11150252, peak 162920 (size 54 MB 119 kB 134 B)
+done: 1m0.64s
+Linking "en_zm_pharmacie_v58" (usermaps\zm_pharmacie_v58 stable 3421953 v593): processing...done: 0m3.34s

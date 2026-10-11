@@ -1042,3 +1042,10 @@ pushed as `da30d12`. Read-only v57 export contains 23,580 objects and 17 warning
 conversion gives 22,101 convex brushes, 340 slab prisms and 102 photo patches,
 with 1,216 reported omitted thin/unsupported objects. No new build or runtime
 success claimed yet. Source Blender is unchanged; Sam retains BO3 controls.
+
+## 2026-10-11 — Runtime floor defect investigation
+
+- Sam successfully loaded v58 but spawned within solid scenery. Passive screenshot retained. Found concave high-facet perimeter/road meshes converted to filled bounds. Replaced 12 boxes with actual footprint prisms; original spawn intersects brush 22205, corrected source checks clear body/headroom and floor support. Rebuilding; runtime retest pending. See docs/PLAYTEST_V58.md.
+
+
+- Floor repair final build passed (23-second geometry compile, ground navmesh, lighting, both links), deployed/hash-verified and launched at 20:59 London. Final source has 897 repaired convex solids / 57 stationary brushmodels; tiny engine dressing deferred to stay below compiler limits. Runtime retest pending; Blender unchanged.

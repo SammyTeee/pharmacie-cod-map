@@ -1,8 +1,8 @@
 {
   "map": "zm_pharmacie_v58",
-  "source_sha256": "12b80c9e54ce9c2f17167272ff6005f936088b2ed6fad345cc024a79da3c1c9b",
-  "map_bytes": 18247801,
-  "entity_blocks": 307,
+  "source_sha256": "52f5eb8faab91f326440e93e5f1b300be78fcc1e49c688f7ed90775197a88fc1",
+  "map_bytes": 5313501,
+  "entity_blocks": 364,
   "duplicate_guids": [],
   "wall_gun_prefabs": 29,
   "variety": [

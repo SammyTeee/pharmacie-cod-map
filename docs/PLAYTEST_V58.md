@@ -54,3 +54,24 @@ Reproduce from the reviewed saved source with `export_playtest_v58.py`, then
 `lite_playtest_v58.py`, then
 `check_playtest_v58.py`. Generation replaces
 only the separate v58 generated project. Preserve manual edits before regeneration.
+
+## Runtime floor collision correction — 11 October, evening
+
+Sam loaded the map successfully and reported spawning inside the floor; supplied a screenshot showing the viewpoint beneath the street/frontage slab. Passive capture runtime-floor-01.png is retained. This supersedes the earlier startup-unverified observation: the first attempt exited, but a later launch reached gameplay. Purchases and AI remain unverified.
+
+The converter's high-facet fallback filled the bounds of concave perimeter/road meshes. Spawn half-space inspection of the original export found the player body inside brush 22205; the original spawn position itself was supported by the pub floor. This is a conversion defect, not evidence that the approved Blender floor should move.
+
+repair_playtest_v58_bounds.py replaces twelve large high-facet bounds with upward-surface triangular prisms, preserving narrow walls and road footprints. Run after lite_playtest_v58.py and before check_playtest_v58.py. Legacy box formatting uses six significant digits, accounted for when matching the substitutes. check_playtest_v58_spawn.py compares the original committed export to the repair: one explicit player spawn checked at five lateral positions / three body heights, originally intersecting solid geometry, now clear and supported. This source check is not runtime verification.
+
+Corrected compiler/lighting/link status is recorded in floor-repair-rebuild.log. Runtime retest required before calling the floor issue fixed. Original v57 Blender remains unchanged.
+
+### Compiler resolution for the floor repair
+
+Two raw/simplified world-prism attempts failed at cell emission; later attempts exposed `MAX_MAP_NODES` explicitly. The final representation dissolves top-surface triangles, simplifies curves within 0.08 BU (about 7.5 cm), and merges adjacent convex regions: 897 solids in 57 stationary script_brushmodel groups, up to 16 solids per group. No movement script is attached. 2,910 additional fine non-core brushes and 26,084 tiny non-colliding render patches are deferred in this engine copy; building shells, circulation, house and pub architecture remain. Tiny ornaments are therefore less complete than the Blender review. The temporary small-box proxy attempt also failed and is not in the final map.
+
+Final reproduction adds `repair_playtest_v58_bounds.py`, `trim_playtest_v58_detail.py`, `group_playtest_v58_surfaces.py`, then `check_playtest_v58.py` and `check_playtest_v58_spawn.py` after the original lean pipeline. The repair uses installed Shapely 2.2 (constrained triangulation). Geometry compilation passed in 23 seconds and wrote ground navmesh. Flying navvolume remains absent. Final successful-build log: `floor-repair-convex-build.log`. Lighting/link/deployment confirmation follows below.
+
+Final repair build completed with exit 0: geometry, ground navmesh, fresh lighting and both links. Deployed with recursive per-file hash checks and backed up the previous test package. Launched 20:59:35 London, PID 70224. Spawn correction remains pending runtime observation/manual verification; no input sent.
+
+
+Passive capture runtime-repaired-start.png after launch shows an above-ground street view with player HUD and weapon, rather than the earlier below-floor view. Manual traversal confirmation remains pending. Outdoor lighting appears overexposed with black sky in this capture and remains a separate defect to investigate. No controls were sent.
