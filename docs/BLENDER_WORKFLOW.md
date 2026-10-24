@@ -1,6 +1,11 @@
+[Latest enclosed rear-alley mapping, before/after previews and highlight video](REAR_ALLEY_V30.md). Current Blender source: `assets/blender/pharmacie-zombies-alley-v30.blend`; v29 street/Taraj work retained. New geometry is Blender-only; engine deployment remains unchanged.
+
+[Latest street-detail checkpoint and four renders](SYSTON_V28.md). Latest complete Blender source: `assets/blender/pharmacie-syston-detail-v28.blend`; includes v26 Taraj/interior/bridge and v27/v28 street appearance/detail. Blender-only; engine deployment remains unchanged.
+
 # Blender workspace — 2026-10-02
 
-Current editable map (2026-10-03): `assets/blender/pharmacie-syston-street-v25.blend`.
+Current editable map (2026-10-03): `assets/blender/pharmacie-taraj-interior-bridge-v26.blend`.
+Latest Taraj interior and bridge: [TARAJ_BRIDGE_V26.md](TARAJ_BRIDGE_V26.md).
 Latest street base and review views: [SYSTON_V25.md](SYSTON_V25.md).
 Use `scripts/open-blender.ps1`. Player recon, fixes, measured limits and72 review
 screenshots: [recon/v18/README.md](../recon/v18/README.md). Proposed Zombies

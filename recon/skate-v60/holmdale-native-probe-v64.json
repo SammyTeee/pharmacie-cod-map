@@ -1,0 +1,68 @@
+{
+  "collision_triangles": 302300,
+  "features": [
+    {
+      "collision_top_metres": 0.36502963304519653,
+      "feature": "kicker"
+    },
+    {
+      "collision_top_metres": 0.24434512853622437,
+      "feature": "manual island"
+    },
+    {
+      "collision_top_metres": 0.8994003534317017,
+      "feature": "curved return"
+    },
+    {
+      "collision_top_metres": 0.385313481092453,
+      "feature": "ledge"
+    },
+    {
+      "collision_top_metres": 0.6155617833137512,
+      "feature": "flatbar"
+    }
+  ],
+  "limits": "Static package checks only; not skating, animation, trick, grind or runtime rendering validation.",
+  "map": "Pharmacie — Syston Street Session",
+  "rails": 4,
+  "run_out_floor_samples": [
+    {
+      "support_metres": 0.13366693258285522,
+      "x_BU": -23.0
+    },
+    {
+      "support_metres": -0.07518311589956284,
+      "x_BU": -10.0
+    },
+    {
+      "support_metres": -0.07518311589956284,
+      "x_BU": 0.0
+    },
+    {
+      "support_metres": -0.07518311589956284,
+      "x_BU": 8.0
+    },
+    {
+      "support_metres": -0.07518312335014343,
+      "x_BU": 23.0
+    },
+    {
+      "support_metres": -0.07518310844898224,
+      "x_BU": 40.0
+    },
+    {
+      "support_metres": -0.07518312335014343,
+      "x_BU": 47.0
+    }
+  ],
+  "spawn": [
+    0.0,
+    0.22085042297840118,
+    0.0
+  ],
+  "spawn_support_metres": -0.04229050874710083,
+  "status": "map_reader_and_selected_collision_samples_pass",
+  "textures": 311,
+  "version": 15,
+  "visual_triangles": 1018051
+}

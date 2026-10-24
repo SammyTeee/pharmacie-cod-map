@@ -1,5 +1,11 @@
 # Photo-to-asset plan
 
+V26 fits a detailed Taraj interior from three supplied originals; see
+[source observations](TARAJ_INTERIOR_REFERENCE.md) and [render review](TARAJ_BRIDGE_V26.md).
+Room/bar photos inform geometry and procedural materials; only the explicitly
+requested booth guest uses a mesh/UV source-photo silhouette. All original bytes
+unchanged; no raster crops/recompression. Engine conversion remains pending.
+
 V19 models Wreake Valley Flooring, Syston Dry Cleaners and Syston Nails & Spa
 as real frontage relief, retaining selected unchanged v17 image regions only for
 display/door inserts. No new source photo edits. Mesh UV crop metadata and

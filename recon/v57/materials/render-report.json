@@ -1,0 +1,119 @@
+{
+  "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-surveyed-route-v57.blend",
+  "engine": "Cycles 8 samples, denoised, temporary daylight",
+  "device": "GPU",
+  "images": [
+    {
+      "name": "house_front",
+      "title": "Your house",
+      "file": "house_front.jpg",
+      "seconds": 110.22257250000257,
+      "eye": [
+        -163.3394775390625,
+        821.1829223632812,
+        7.0
+      ]
+    },
+    {
+      "name": "house_porch",
+      "title": "Porch detail",
+      "file": "house_porch.jpg",
+      "seconds": 110.65436299995054,
+      "eye": [
+        -152.44338989257812,
+        812.3780517578125,
+        3.700000047683716
+      ]
+    },
+    {
+      "name": "holmdale",
+      "title": "Holmdale Road",
+      "file": "holmdale.jpg",
+      "seconds": 5.683816900011152,
+      "eye": [
+        -138.60797119140625,
+        847.1319580078125,
+        28.0
+      ]
+    },
+    {
+      "name": "junction_shops",
+      "title": "Station junction",
+      "file": "junction_shops.jpg",
+      "seconds": 5.33694770000875,
+      "eye": [
+        4.246196746826172,
+        784.576171875,
+        7.0
+      ]
+    },
+    {
+      "name": "retail_terrace",
+      "title": "Melton Road terraces",
+      "file": "retail_terrace.jpg",
+      "seconds": 5.097923699999228,
+      "eye": [
+        -40.8828239440918,
+        640.0624389648438,
+        9.0
+      ]
+    },
+    {
+      "name": "hall_cafe",
+      "title": "Hall and cafe vicinity",
+      "file": "hall_cafe.jpg",
+      "seconds": 5.2067058000247926,
+      "eye": [
+        -47.28477096557617,
+        510.6248779296875,
+        8.0
+      ]
+    },
+    {
+      "name": "supermarket",
+      "title": "Supermarket stretch",
+      "file": "supermarket.jpg",
+      "seconds": 5.160168400034308,
+      "eye": [
+        -32.167755126953125,
+        346.72283935546875,
+        20.0
+      ]
+    },
+    {
+      "name": "barkby",
+      "title": "Barkby Road",
+      "file": "barkby.jpg",
+      "seconds": 5.168689300073311,
+      "eye": [
+        -95.0,
+        -25.0,
+        45.0
+      ]
+    },
+    {
+      "name": "route_overview",
+      "title": "Whole connected route",
+      "file": "route_overview.jpg",
+      "seconds": 4.875148099963553,
+      "eye": [
+        -450.0,
+        470.0,
+        950.0
+      ]
+    },
+    {
+      "name": "pub",
+      "title": "Pub and junction",
+      "file": "pub.jpg",
+      "seconds": 4.9198142000241205,
+      "eye": [
+        -38.0,
+        -35.0,
+        20.0
+      ]
+    }
+  ],
+  "missing_images": [],
+  "limits": "Material renders of existing v57, no model edits or engine deployment. Dimensions and hidden detail retain documented estimates."
+}

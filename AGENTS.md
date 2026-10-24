@@ -1,6 +1,34 @@
+[Neutral Blender demo and separate skate prototype](docs/BLENDER_DEMO_V59.md).
+
+14 October: Sam requested continuing Blender to a presentable demo, then a
+separate natural street-skating variant using the Skate Rust/recomp projects.
+He clarified that the aim is an independent prototype reusing skating systems,
+not running the original game. Neutral checkpoint:
+`assets/blender/pharmacie-demo-base-v59.blend`; skate checkpoint:
+`assets/blender/pharmacie-skate-street-v60.blend`. Original v57 remains unchanged.
+V59 adds authored surface textures and 831 closed finishing meshes; selected
+eleven-route and direct v40 preservation checks pass. V60 adds 24 closed meshes
+and four authored grind paths; parked vehicles are archived only in the skate
+copy. Local design reel/gallery: `recon/skate-v60/index.html` (Blender, not gameplay).
+Read [SKATE_PROTOTYPE.md](docs/SKATE_PROTOTYPE.md) and
+[CONTRACT.md](docs/CONTRACT.md) before continuing. Pinned Rust engine is local
+under ignored build/; extracted tuning/animation/character data is still needed
+for its complete systems. Existing local game dump found on S: and prepared into
+isolated build/pharmacie-skate/. Rust reader, repaired collision volumes and
+runtime --check-assets pass; skater reaches stable ground state and automatic
+startup captures succeed. Solid-colour/sky adapter fixed initial black surfaces.
+The final lit runtime capture detects controller slot 1 Ready; riding/tricks/grinds
+remain unverified. Interactive prototype opened for Sam (parent 10176 / worker
+19424, recheck). First launcher title-quoting error was fixed; subsequent log
+reaches stable PhysicsGround. Controller then disconnected; reconnect for trial, with
+no controls sent. Keep Sam in control during this trial.
+Read latest prototype notes before launching; PLAY-SYSTON-SKATE.cmd is staged.
+Neutral-route finishing remains active; no new publish/push or
+BO3 work authorized by this prototype request.
+
 [V58 free-weapon Zombies exploration test](docs/PLAYTEST_V58.md).
 
-Separate zm_pharmacie_v58 compiled, lit, linked and hash-verified deployed from v57. 29 wall guns / 10 types; purchase and ordinary ammo costs zero, existing gates free. Lean street export defers fine dressing after full-detail compiler crashes. A later launch reached gameplay, but Sam spawned inside an erroneous giant concave-boundary bounding box. Corrected exported collision and source spawn checks pass; rebuilt package/runtime retest status is in PLAYTEST_V58.md. Runtime purchases, traversal and AI remain unverified. Sam retains all game controls. Original v57 Blender remains unchanged and was pushed in da30d12.
+Separate zm_pharmacie_v58 compiled, lit, linked and hash-verified deployed from v57. 29 wall guns / 10 types; purchase and ordinary ammo costs zero, existing gates free. Lean street export defers fine dressing after full-detail compiler crashes. A later launch reached gameplay, but Sam spawned inside an erroneous giant concave-boundary bounding box. Corrected exported collision and source spawn checks pass; rebuilt package/runtime retest status is in PLAYTEST_V58.md. Sam subsequently confirmed normal pub-to-street movement, rejected engine visual fidelity and requested leaving Radiant aside. Engine work is stopped; continue with Blender previews. Purchases, AI and co-op remain unverified. Sam retains all game controls. Original v57 Blender remains unchanged and was pushed in da30d12.
 
 [Authored route survey and connected Blender working copy](docs/SURVEYED_ROUTE_V57.md).
 
@@ -301,3 +329,22 @@ Do not treat Blender ray checks or a successful build as runtime validation.
 ## Instructions for agent harnesses
 
 `AGENTS.md` is the shared source of project instructions for Codex and OpenClaw. Claude Code should also load it through the root `CLAUDE.md` import. Other agents should read this file and the four project notes listed above before making changes.
+[Skate floor and ramp-crash repair v62](docs/SKATE_PROTOTYPE.md).
+
+Launcher now uses `pharmacie-street-session-floor-v62-r3.skate`. Packed contact
+tags corrected; starter street riding collision flattened. 1,588 floor samples,
+302,582 native collision/tag/contact-vote checks and actual runtime startup/
+capture pass. Sam's ridden ramp retest remains pending. Blender sources and BO3
+unchanged. Preserve this export repair when rebuilding from v60; do not launch
+the superseded demo or failed v62 trials. User retains controls.
+
+[Direct number 29 Holmdale skate start and sound v64](docs/SKATE_PROTOTYPE.md).
+
+`PLAY-HOLMDALE-SKATE.cmd` starts at number 29; street launcher stays separate.
+Entire runtime world is translated to bring the Holmdale start near origin,
+after a distant-origin capture showed no scenery. Native collision/contact
+checks, audio initialization and actual inspected house/skater capture pass.
+4,142 private audio clips prepared. Blender sources/BO3 unchanged. Human riding,
+whole-route travel and audible trick checks remain pending; do not claim general
+distant-origin rendering fixed. Recheck live processes before relaunch/cleanup.
+

@@ -1,0 +1,61 @@
+{
+  "origin": "Original procedural textures, scripts/make_demo_surface_textures.py; seed 59014",
+  "textures": [
+    {
+      "file": "slate.png",
+      "repeat_metres": [
+        4.8,
+        4.8
+      ],
+      "sha256": "da6408f8ee2d9541c367f3ae29ff2ea74556abae86afaa55020fe3a5b274ff7e"
+    },
+    {
+      "file": "clay-tile.png",
+      "repeat_metres": [
+        4.8,
+        4.8
+      ],
+      "sha256": "9c2b99182bac247a45b58e0cf1c5506ee56c760d5f0e4c4e801a056be55e2663"
+    },
+    {
+      "file": "brick-0.png",
+      "repeat_metres": [
+        4.23,
+        2.56
+      ],
+      "sha256": "71818216f570a49b6dc0b9280ba612e7bf96a4d7e596d62c68054efe29aa64d3"
+    },
+    {
+      "file": "brick-1.png",
+      "repeat_metres": [
+        4.23,
+        2.56
+      ],
+      "sha256": "d2ce51322dd21f1606cc1ed889a7f74baca50bef2e5ba2c4ce151edb010a0d61"
+    },
+    {
+      "file": "brick-2.png",
+      "repeat_metres": [
+        4.23,
+        2.56
+      ],
+      "sha256": "8d13d642a1ba320a2544ff18b045498973635efd3f91c5107eadeda371f7fb48"
+    },
+    {
+      "file": "paving.png",
+      "repeat_metres": [
+        4.8,
+        3.6
+      ],
+      "sha256": "c3f37fa494e93b3ca3a84351dae14792eaa34ebafb67ff4611eef5451f73fbd2"
+    },
+    {
+      "file": "asphalt.png",
+      "repeat_metres": [
+        3.0,
+        3.0
+      ],
+      "sha256": "9e794ed4f0776b51f2c3be028c86c40a63e980f6d724fe10c3222d82b47ae098"
+    }
+  ]
+}

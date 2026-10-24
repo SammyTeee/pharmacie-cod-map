@@ -1,0 +1,28 @@
+{
+  "limits": "Independent face-centre wheel contacts through core query/generator/solver. Does not test multi-body board dynamics, feature edges, full animation/controller runtime, transitions, tricks or ridden landings.",
+  "materials": [
+    "SKATE export | Skate v60 | dark street ironwork",
+    "SKATE export | Skate v60 | expansion seams",
+    "SKATE export | Skate v60 | galvanized rubbed steel",
+    "SKATE export | Skate v60 | loading deck timber",
+    "SKATE export | Skate v60 | muted safety paint",
+    "SKATE export | Skate v60 | pale ledge cap",
+    "SKATE export | Skate v60 | weathered cast concrete"
+  ],
+  "maximum_linear_reaction_displacement_m": 0.1113172322511673,
+  "normal_descent_speeds_mps": [
+    0,
+    2,
+    5
+  ],
+  "sampled_upward_feature_faces": 178,
+  "solver_iterations": 25,
+  "status": "authored_feature_face_wheel_contact_solver_pass",
+  "tangential_speeds_mps": [
+    0,
+    3,
+    8,
+    15
+  ],
+  "wheel_contact_cases": 2136
+}

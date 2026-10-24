@@ -1,0 +1,31 @@
+{
+  "capture": "runtime-floor-v62.png",
+  "capture_sha256": "e5d1299bdba18c44ac9690122da39826902f64c535f23194df5caaaab165751d",
+  "actual_runtime": true,
+  "automatic_capture_pass": true,
+  "ground_state_observed": true,
+  "resting_physics_ticks": 298,
+  "resting_contacts": 16,
+  "native_animation_clips_available": 3324,
+  "controller_slot_1_ready_at_final_capture": true,
+  "input_driving_by_agent": false,
+  "collision_rebuild_proof": {
+    "candidate": "build\\pharmacie-skate\\repair-contact-repro-v62\\street-session.skate",
+    "sha256": "5b6eab254aed961aa58875eaa37eeda4fe5074d182201fe28012cec0f10222d9",
+    "presentation_bytes_unchanged": true,
+    "rail_and_extension_bytes_unchanged": true,
+    "authored_skate_collision_geometry_unchanged": true,
+    "preserved_skate_feature_triangles": 704,
+    "native_collision_and_contact_vote_pass": true,
+    "live_map_replaced": false,
+    "authored_feature_wheel_contact_solver_cases": 2136,
+    "limits": "Static candidate verification; runtime capture and human riding retest remain separate."
+  },
+  "riding_ollie_landing_grind_verification": "pending human controller trial",
+  "limits": [
+    "Startup capture is not a broad gameplay or performance verdict.",
+    "Upstream core has one known failing group-8 impact test.",
+    "No runtime audio extracted.",
+    "Material/lighting adaptation remains approximate."
+  ]
+}

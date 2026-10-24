@@ -15,6 +15,14 @@ build/
 /references/topdown view.png
 /references/holmdale-v47/
 /references/holmdale-user-2026-10-11/
+# Additional private source captures; unchanged originals stay on this machine.
+/references/inside taraj THIS MAN MUST FEATUURE SAT IN ONE OF THE BOOTHS.png
+/references/right side of bed.png
+/references/right side of wrteakr valley flooring alley way.png
+/references/taraj bar inside right inside of the left side door -.png
+/references/taraj interiopr.png
+# Superseded modelling trial; accepted v50 is retained separately.
+/assets/blender/pharmacie-holmdale-corner-porch-v50-trial.blend
 # Reproducible review animation intermediates; final WebM and stills are retained.
 /recon/v28-zombies/frames/
 /recon/v28-zombies/pub/frames/

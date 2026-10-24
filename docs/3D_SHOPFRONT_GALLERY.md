@@ -1,5 +1,7 @@
 # 3D shopfront Blender renders
 
+[Latest street detail and recovery notes](SYSTON_DETAIL_V29.md), with v29 renders.
+
 Latest street extension: [Syston v25 gallery](SYSTON_V25.md), with46 additional
 catalogue-led Melton frontages. The eight detailed High Street fronts below are
 retained in the current checkpoint.

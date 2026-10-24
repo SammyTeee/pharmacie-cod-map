@@ -1,0 +1,20 @@
+Game integration capture (not a Skate 3 parity verdict)
+Executable: C:\Users\sam\pharmacie-cod-map\build\pharmacie-skate\runtime\skate3rust-windows-x64\skate3rust.exe
+Polls: 201
+Consumed batches: 197
+Status: [Ready, Unavailable(Disconnected), Unavailable(Disconnected), Unavailable(Disconnected)]
+Packet numbers: [Some(1), None, None, None]
+Actions 64..81 by device: [[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]]
+Derived ticks: 236
+Intents: [RidingIntent { name: "WipeoutGestureX", value: 0.0 }, RidingIntent { name: "WipeoutGestureY", value: 0.0 }]
+Difficulty index: 0
+Physics ticks: 236
+Contacts: 16
+Body positions: [Vector3 { x: 2.5189831e-5, y: -0.011303513, z: 0.32549953 }, Vector3 { x: 0.18069847, y: -0.011307679, z: 0.26670206 }, Vector3 { x: 0.030301876, y: -0.0113049755, z: -0.19544116 }, Vector3 { x: -0.15037163, y: -0.01130794, z: -0.13664404 }, Vector3 { x: 0.09036182, y: -0.01132801, z: 0.29610083 }, Vector3 { x: -0.060034882, y: -0.011329899, z: -0.1660426 }, Vector3 { x: 0.015164244, y: 0.045165118, z: 0.065028414 }]
+Physical pose publications: 236
+Graph animation ticks: 236
+Truck targets: [0.0, 0.0]
+Ground speed: 0.016196497
+Gameplay camera shot: bl_high_chase
+Camera frame: Some(CameraFrame { basis: Basis3 { columns: [[0.94929814, -0.0005141317, -0.31437695], [0.076885715, 0.9700112, 0.23057906], [0.30483067, -0.24305934, 0.92086935]] }, position: [-0.79919386, 1.8409848, -2.4012434, -0.8020357], previous_basis: Basis3 { columns: [[0.9493053, -0.0005159805, -0.3143551], [0.076881245, 0.9700119, 0.23057766], [0.30480924, -0.2430566, 0.9208771]] }, previous_position: [-0.7992468, 1.8409936, -2.4015157, -0.80201554], linear_velocity: [0.0031757352, -0.0005292892, 0.01633644, -0.0012087821], angular_velocity: [-0.022726355, -0.057354566, 0.03261208, 0.0], shake_translation: [-0.0123327365, -0.0041897353, 0.004920738, 0.0], discontinuity: false, field_of_view_degrees: 66.67322, opacity: 1.0, blur: 1.0 })
+Native OnBoard/OffBoard clips available: 3324

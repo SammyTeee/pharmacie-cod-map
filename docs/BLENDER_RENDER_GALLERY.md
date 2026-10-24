@@ -1,6 +1,12 @@
-[New Syston street renders](SYSTON_V25.md) · [Taraj placement plan](TARAJ_V24.md).
+[Latest enclosed rear-alley mapping, before/after previews and highlight video](REAR_ALLEY_V30.md). Current Blender source: `assets/blender/pharmacie-zombies-alley-v30.blend`; v29 street/Taraj work retained. New geometry is Blender-only; engine deployment remains unchanged.
 
-Latest complete Blender checkpoint: `assets/blender/pharmacie-syston-street-v25.blend`. The46 catalogue-led Melton frontages and street details have [seven new inspection views](SYSTON_V25.md). Pub/shopfront/fridge/Taraj work is retained. New geometry is Blender-only.
+[Zombies geometry review: 26 new previews and compact WebM](../recon/v28-zombies/index.html) · [Findings and fixes](ZOMBIES_GEOMETRY_REVIEW_V28.md).
+
+[Latest street-detail checkpoint and four renders](SYSTON_V28.md). Latest complete Blender source: `assets/blender/pharmacie-syston-detail-v28.blend`; includes v26 Taraj/interior/bridge and v27/v28 street appearance/detail. Blender-only; engine deployment remains unchanged.
+
+[Ten new Taraj interior and bridge renders](TARAJ_BRIDGE_V26.md) · [Syston street base](SYSTON_V25.md).
+
+Latest complete Blender checkpoint: `assets/blender/pharmacie-taraj-interior-bridge-v26.blend`. Detailed Taraj interior, dressed dining tables, booths, stocked bar/fridge and deeper bridge/brook have [ten inspection views](TARAJ_BRIDGE_V26.md). Prior pub/street work is retained. New geometry is Blender-only.
 
 # Blender render gallery
 

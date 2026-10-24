@@ -1,0 +1,24 @@
+"""Local review page and an explicitly labelled still reel, no publishing."""
+from pathlib import Path
+import json,html,subprocess,hashlib
+from PIL import Image,ImageStat
+ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'recon/skate-v60';BUILD=ROOT/'build/skate-reel';BUILD.mkdir(parents=True,exist_ok=True)
+shots=[('street_line','The Pharmacie street line'),('flatbar','Street flatbar'),('return_ramp','Curved return and coping'),('pub_player','Pub frontage retained'),('street_plan','Separate skate layout')]
+clips=[]
+for name,title in shots:
+ im=Image.open(OUT/(name+'.jpg'));assert im.size==(1280,720);assert sum(ImageStat.Stat(im).mean)>45,name
+for index,(name,title) in enumerate(shots):
+ clip=BUILD/f'{index:02}.webm';clips.append(clip)
+ vf="zoompan=z='1.0+0.035*on/149':x='iw/2-iw/zoom/2':y='ih/2-ih/zoom/2':d=150:s=1280x720:fps=30,drawtext=fontfile='C\\:/Windows/Fonts/arial.ttf':text='"+title+"':fontsize=26:fontcolor=white:box=1:boxcolor=black@0.65:boxborderw=10:x=30:y=h-85,drawtext=fontfile='C\\:/Windows/Fonts/arial.ttf':text='BLENDER DESIGN PREVIEW - STILL REEL':fontsize=15:fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=7:x=30:y=28"
+ subprocess.run(['C:/ffmpeg/ffmpeg.exe','-hide_banner','-loglevel','error','-y','-i',str(OUT/(name+'.jpg')),'-vf',vf,'-frames:v','150','-c:v','libvpx-vp9','-b:v','0','-crf','20','-row-mt','1','-cpu-used','5','-pix_fmt','yuv420p',str(clip)],check=True)
+listing=BUILD/'clips.txt';listing.write_text('\n'.join("file '"+p.as_posix()+"'" for p in clips))
+video=OUT/'street-session-design.webm'
+subprocess.run(['C:/ffmpeg/ffmpeg.exe','-hide_banner','-loglevel','error','-y','-f','concat','-safe','0','-i',str(listing),'-c','copy',str(video)],check=True)
+cards=''.join(f'<figure><a href="{name}.jpg"><img src="{name}.jpg" alt="{html.escape(title)}"></a><figcaption>{html.escape(title)}</figcaption></figure>' for name,title in shots)
+base=''.join(f'<figure><a href="../v59/{name}.jpg"><img src="../v59/{name}.jpg" alt="{title}"></a><figcaption>{title} · neutral map</figcaption></figure>' for name,title in [('street_line','Vehicles and original street retained'),('retail_terrace','Surveyed terraces material pass'),('rear_alley','Rear service lane'),('taraj','Taraj retained')])
+page='''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Syston Street Session — local prototype review</title><style>body{margin:0;background:#11181b;color:#e7e5dd;font:16px/1.6 system-ui}main{max-width:1280px;margin:auto;padding:40px 24px}h1{font:normal clamp(35px,5vw,65px)/1.1 Georgia}p{max-width:850px;color:#b4bfbd}a{color:#e3c385}video{width:100%;background:#080c0e}section{margin-top:48px}.grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}figure{margin:0}img{width:100%;aspect-ratio:16/9;object-fit:cover}figcaption{padding:10px 0;color:#c7c9c1}.tag{color:#e3c385;letter-spacing:.16em;font-size:12px}.notice{border-left:2px solid #e3c385;padding-left:16px}@media(max-width:650px){.grid{grid-template-columns:1fr}}</style><main><div class="tag">THE PHARMACIE / SYSTON · 14 OCTOBER 2026</div><h1>A street worth skating.</h1><p>A separate Blender skate adaptation: loading banks, a civic ledge, street flatbar, manual island and curved return. The approved route and neutral map remain separate.</p><p class="notice">Design preview only. These are Blender material renders and a labelled still reel, not captured gameplay. Runtime skating, tricks and grind behaviour are pending verification.</p><video controls playsinline preload="metadata" poster="street_line.jpg" src="street-session-design.webm"></video><section><h2>Skate variant</h2><div class="grid">'''+cards+'''</div></section><section><h2>Neutral map preserved</h2><div class="grid">'''+base+'''</div></section><p>All skate obstacles are fictional gameplay adaptations. Existing survey dimensions, hidden footprints and photo reference limitations still apply. Local review; nothing published.</p></main></html>'''
+(OUT/'index.html').write_text(page,encoding='utf-8')
+probe=subprocess.run(['C:/ffmpeg/ffprobe.exe','-v','error','-show_streams','-show_format','-of','json',str(video)],capture_output=True,text=True,check=True)
+facts=json.loads(probe.stdout);v=next(s for s in facts['streams'] if s['codec_type']=='video');assert v['width']==1280 and v['height']==720 and v['r_frame_rate']=='30/1';assert abs(float(facts['format']['duration'])-25)<.1
+(OUT/'media-validation.json').write_text(json.dumps({'video':video.name,'sha256':hashlib.sha256(video.read_bytes()).hexdigest(),'width':1280,'height':720,'fps':30,'seconds':25,'presentation':'Animated Blender still reel; no gameplay or continuous fly-through claim','images_visually_reviewed':True,'ffprobe':facts},indent=2))
+print('LOCAL_SKATE_REVIEW_READY',str(OUT/'index.html'))

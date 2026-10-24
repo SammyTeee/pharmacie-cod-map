@@ -1,0 +1,157 @@
+{
+  "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-demo-base-v59.blend",
+  "engine": "Cycles / 12 samples / denoised / 15 second tracing limit / temporary daylight",
+  "device": "GPU",
+  "images": [
+    {
+      "name": "street_line",
+      "file": "street_line.jpg",
+      "seconds": 20.437528999999813,
+      "eye": [
+        -24,
+        -10.5,
+        3.8
+      ],
+      "target": [
+        12,
+        -5,
+        1.8
+      ]
+    },
+    {
+      "name": "flatbar",
+      "file": "flatbar.jpg",
+      "seconds": 4.056152399999519,
+      "eye": [
+        8,
+        -10.5,
+        1.8
+      ],
+      "target": [
+        17,
+        -7.8,
+        0.7
+      ]
+    },
+    {
+      "name": "return_ramp",
+      "file": "return_ramp.jpg",
+      "seconds": 3.910939500000495,
+      "eye": [
+        42,
+        -9.6,
+        1.8
+      ],
+      "target": [
+        51,
+        -7.15,
+        1.0
+      ]
+    },
+    {
+      "name": "pub_player",
+      "file": "pub_player.jpg",
+      "seconds": 4.005237900000793,
+      "eye": [
+        -12,
+        -9,
+        1.75
+      ],
+      "target": [
+        5,
+        1,
+        2.0
+      ]
+    },
+    {
+      "name": "street_plan",
+      "file": "street_plan.jpg",
+      "seconds": 3.8848746999992727,
+      "eye": [
+        -5,
+        -3,
+        75
+      ],
+      "target": [
+        -5,
+        -3,
+        0
+      ]
+    },
+    {
+      "name": "retail_terrace",
+      "file": "retail_terrace.jpg",
+      "seconds": 4.118183399999907,
+      "eye": [
+        -40.8828239440918,
+        640.0624389648438,
+        9.0
+      ],
+      "target": [
+        -23.9323787689209,
+        615.3099975585938,
+        2.5
+      ]
+    },
+    {
+      "name": "retail_player",
+      "file": "retail_player.jpg",
+      "seconds": 4.568395600000258,
+      "eye": [
+        -31.19334602355957,
+        632.6385498046875,
+        1.75
+      ],
+      "target": [
+        -23.9323787689209,
+        615.3099975585938,
+        2.5
+      ]
+    },
+    {
+      "name": "house_front",
+      "file": "house_front.jpg",
+      "seconds": 4.19259620000048,
+      "eye": [
+        -163.3394775390625,
+        821.1829223632812,
+        7.0
+      ],
+      "target": [
+        -158.30714416503906,
+        803.9006958007812,
+        1.5
+      ]
+    },
+    {
+      "name": "rear_alley",
+      "file": "rear_alley.jpg",
+      "seconds": 4.54061880000063,
+      "eye": [
+        -11.399999618530273,
+        19.0,
+        1.649999976158142
+      ],
+      "target": [
+        -11.399999618530273,
+        29.0,
+        1.6500035524368286
+      ]
+    },
+    {
+      "name": "taraj",
+      "file": "taraj.jpg",
+      "seconds": 5.002024000000347,
+      "eye": [
+        -65.26609802246094,
+        267.6055603027344,
+        1.649999976158142
+      ],
+      "target": [
+        -68.61426544189453,
+        277.0232238769531,
+        1.3380310535430908
+      ]
+    }
+  ]
+}

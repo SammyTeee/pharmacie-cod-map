@@ -1,0 +1,16 @@
+{
+  "stills": 26,
+  "video_duration_seconds": 26.0,
+  "video_bytes": 688798,
+  "video_codec": "vp9",
+  "size": [
+    640,
+    360
+  ],
+  "route_samples": 572,
+  "unsupported_route_samples": 0,
+  "route_blocker_samples": 0,
+  "low_overhead_samples": 0,
+  "no_scene_save": true,
+  "engine_verified": false
+}

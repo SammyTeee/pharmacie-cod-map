@@ -1,0 +1,5 @@
+Pharmacie — Syston Street Session v15: vertices=1963056 triangles=1018051 collision=305208 textures=46 rails=4 doors=0 lights=25 routes=0 spawn=[3.759156, 0.18795781, 7.330354] heading=1.5707964
+extension WCFG schema=1 decoded_bytes=4
+extension MOBJ schema=3 decoded_bytes=4
+extension BMAT schema=1 decoded_bytes=13504
+native_collision_triangles=0 angle_histogram=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]

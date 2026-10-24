@@ -1,0 +1,17 @@
+{
+  "source": "build\\pharmacie-skate\\pharmacie-street-session-playable.skate",
+  "output": "build\\pharmacie-skate\\pharmacie-street-session-demo.skate",
+  "sha256": "3e9a7776471cd9095549f08dbe435f7fbfc83957579b6238b69b6a9878099e86",
+  "lighting": "Original orientation lightmap, 42% ambient plus 50% cosine sun term; not an occlusion bake. Original constant daylight probe placement uses local extracted character shader coefficients.",
+  "positions_normals_albedo_uv_indices_collision_features_unchanged": true,
+  "world_source_render_colour_textures_retained": 310,
+  "sun_runtime_y_up": [
+    0.47999998927116394,
+    0.800000011920929,
+    0.36000001430511475
+  ],
+  "limits": [
+    "No baked architectural occlusion; no Blender lighting parity claim.",
+    "Ride, ollie, landing and grind input tests still required."
+  ]
+}

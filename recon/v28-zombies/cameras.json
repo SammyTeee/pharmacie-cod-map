@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Review v17 | Alley and rear route",
+    "position": [
+      -25.0,
+      21.0,
+      24.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v17 | Crossing row",
+    "position": [
+      42.0,
+      -3.0,
+      5.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v17 | Pub frontage",
+    "position": [
+      4.0,
+      -8.5,
+      4.800000190734863
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v17 | Whole street",
+    "position": [
+      18.0,
+      1.5,
+      65.0
+    ],
+    "type": "ORTHO"
+  },
+  {
+    "name": "Review v19 | 01_wreake_front",
+    "position": [
+      -6.159999847412109,
+      -12.0,
+      2.200000047683716
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v19 | 02_wreake_recess",
+    "position": [
+      -9.0,
+      -4.0,
+      1.649999976158142
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v19 | 03_cleaner_front",
+    "position": [
+      13.850000381469727,
+      -12.0,
+      2.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v19 | 04_spa_front",
+    "position": [
+      20.399999618530273,
+      -12.0,
+      2.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v19 | 05_neighbour_row",
+    "position": [
+      6.0,
+      -12.0,
+      3.0999999046325684
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v19 | 06_right_shop_depth",
+    "position": [
+      11.0,
+      -5.0,
+      1.649999976158142
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v20 | 01_fox_and_hounds",
+    "position": [
+      -9.0,
+      -0.699999988079071,
+      2.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v20 | 02_aston_market",
+    "position": [
+      3.0,
+      -0.699999988079071,
+      2.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v20 | 03_estate_florist",
+    "position": [
+      17.0,
+      -0.699999988079071,
+      2.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v20 | 04_opposite_row",
+    "position": [
+      5.0,
+      -1.0,
+      3.0999999046325684
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v20 | 05_display_and_bay_depth",
+    "position": [
+      23.0,
+      -6.0,
+      1.649999976158142
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v20 | 06_fox_door_depth",
+    "position": [
+      -12.0,
+      -8.0,
+      1.649999976158142
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v22 | 01_route_overview",
+    "position": [
+      -15.0,
+      150.0,
+      350.0
+    ],
+    "type": "ORTHO"
+  },
+  {
+    "name": "Review v22 | 02_roundabout",
+    "position": [
+      -66.0,
+      -26.0,
+      24.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v22 | 03_melton_player",
+    "position": [
+      -59.36265563964844,
+      82.88231658935547,
+      1.7000000476837158
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v22 | 04_taraj_placeholder",
+    "position": [
+      -53.326229095458984,
+      271.3055114746094,
+      1.7000000476837158
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v23 | 01_taraj_front",
+    "position": [
+      -50.53113555908203,
+      271.1398010253906,
+      3.799999952316284
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v23 | 02_taraj_entry_depth",
+    "position": [
+      -52.00279235839844,
+      263.2129821777344,
+      2.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v23 | 03_taraj_street_context",
+    "position": [
+      -48.349365234375,
+      291.0455627441406,
+      2.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v25 | 01_syston_overview",
+    "position": [
+      -25.0,
+      150.0,
+      310.0
+    ],
+    "type": "ORTHO"
+  },
+  {
+    "name": "Review v25 | 02_costa_and_town_square",
+    "position": [
+      -54.056663513183594,
+      70.9712142944336,
+      2.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v25 | 03_bm_gables",
+    "position": [
+      -62.666831970214844,
+      87.64334869384766,
+      2.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v25 | 04_bridge_shop_row",
+    "position": [
+      -60.88911819458008,
+      196.40969848632812,
+      2.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v25 | 05_roundabout_approach",
+    "position": [
+      -50.83269119262695,
+      25.13237190246582,
+      2.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v25 | 06_bridge_player",
+    "position": [
+      -58.37377166748047,
+      215.0079345703125,
+      1.7000000476837158
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v25 | 07_junction_player",
+    "position": [
+      -31.0,
+      -18.0,
+      1.7000000476837158
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v26 | 01_taraj_dining",
+    "position": [
+      -65.0163803100586,
+      271.81817626953125,
+      1.649999976158142
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v26 | 02_taraj_booths",
+    "position": [
+      -67.3297348022461,
+      275.04071044921875,
+      1.649999976158142
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v26 | 03_taraj_bar",
+    "position": [
+      -64.22410583496094,
+      273.3539733886719,
+      1.649999976158142
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v26 | 04_taraj_guest",
+    "position": [
+      -66.51338195800781,
+      275.2928466796875,
+      1.5
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v26 | 05_taraj_entry",
+    "position": [
+      -65.26609802246094,
+      267.6055603027344,
+      1.649999976158142
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v26 | 06_bridge_overview",
+    "position": [
+      -72.19998931884766,
+      188.51858520507812,
+      24.0
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v26 | 07_bridge_brook",
+    "position": [
+      -62.25503158569336,
+      205.14952087402344,
+      1.649999976158142
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v26 | 08_bridge_side",
+    "position": [
+      -71.85491943359375,
+      197.511962890625,
+      1.7999999523162842
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v26 | 09_bridge_access_plan",
+    "position": [
+      -57.55848693847656,
+      204.9693145751953,
+      55.0
+    ],
+    "type": "ORTHO"
+  },
+  {
+    "name": "Review v26 | 10_taraj_cutaway",
+    "position": [
+      -68.42266082763672,
+      273.502685546875,
+      20.0
+    ],
+    "type": "ORTHO"
+  },
+  {
+    "name": "Review v28 | amy_clarke",
+    "position": [
+      -49.3352165222168,
+      24.05365753173828,
+      1.7000000476837158
+    ],
+    "type": "PERSP"
+  },
+  {
+    "name": "Review v28 | crossing",
+    "position": [
+      -45.67393112182617,
+      16.619659423828125,
+      1.7000000476837158
+    ],
+    "type": "PERSP"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "output": "build\\pharmacie-skate\\pharmacie-holmdale-29-v63.skate",
+  "sha256": "f2ce01b2800a18e61644239ffe1eab08eb01dff097de8a264e58a4fd430039fc",
+  "spawn_metres": [
+    -151.40272249296856,
+    0.2208504189528992,
+    -763.7701225402253
+  ],
+  "heading_radians": 0.28335040261843225,
+  "Blender_frontage_point_BU": [
+    -161.10289001464844,
+    813.5018920898438
+  ],
+  "support_patch_metres": [
+    -0.04229050502181053,
+    -0.04229050129652023,
+    -0.04229050502181053,
+    -0.04229050874710083,
+    -0.04229050874710083,
+    -0.04229050502181053,
+    -0.04229050129652023,
+    -0.04229050502181053,
+    -0.04229050502181053
+  ],
+  "floor_metres": -0.04229050874710083,
+  "all_nonspawn_package_bytes_unchanged": true,
+  "runtime_capture": "pending",
+  "location": "Front of approved number 29 Holmdale assembly; approximate surveyed placement"
+}

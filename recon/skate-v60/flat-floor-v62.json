@@ -1,0 +1,28 @@
+{
+  "source": "build\\pharmacie-skate\\pharmacie-street-session-floor-v61.skate",
+  "output": "build\\pharmacie-skate\\pharmacie-street-session-floor-v62-r3.skate",
+  "output_sha256": "5b6eab254aed961aa58875eaa37eeda4fe5074d182201fe28012cec0f10222d9",
+  "removed_old_base_triangles": 3,
+  "removed_shallow_dressing_triangles": 198,
+  "clipped_partial_overlap_triangles": 13,
+  "retained_outside_fragments": 23,
+  "new_riding_triangles": 2,
+  "floor_height_metres": -0.07518311929932585,
+  "dense_clear_street_support_samples": 1588,
+  "before_height_range_metres": [
+    -0.07518311589956285,
+    -0.06108628213405609
+  ],
+  "after_height_range_metres": [
+    -0.07518311589956285,
+    -0.07518311589956282
+  ],
+  "source_bounds_BU": [
+    -34,
+    66,
+    -10.4,
+    -3
+  ],
+  "preserved": "Visual vertex/index/material/texture blocks and all authored rail records unchanged; ramp and kerb geometry retained. Original/neutral Blender files unchanged.",
+  "runtime_test": "pending"
+}

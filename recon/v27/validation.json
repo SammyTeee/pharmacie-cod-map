@@ -1,0 +1,16 @@
+{
+  "input_sha256": "022e1f84c9fd04879911dfda1314308509086b337f1d769d3a6d459f49b86c82",
+  "output": "assets\\blender\\pharmacie-syston-appearance-v27.blend",
+  "preserved_mesh_geometry": 6659,
+  "material_assignment_count": 394,
+  "new_closed_solids": 91,
+  "archived": [
+    "Syston v25 | B045 | burgundy awning"
+  ],
+  "limits": [
+    "First appearance pass; positions and building sizes retained",
+    "Glazing reflective opaque scenery; no invented interiors",
+    "Costa details interpreted from capture00233; not surveyed",
+    "Blender only; no BO3 verification"
+  ]
+}

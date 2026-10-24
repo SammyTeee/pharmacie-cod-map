@@ -1,0 +1,136 @@
+{
+  "checkpoint": "assets\\blender\\pharmacie-syston-detail-v29.blend",
+  "input_sha256": "47bcbfc3e2fd40739febd096134e89dd2d5f0a550a9820aa6c237c8a8c8b044f",
+  "new_closed_solids": 32,
+  "reference_window_panels": [
+    {
+      "object": "Syston v29 | B032 | salon left display with bunting",
+      "source": "references\\streetview-capture\\taraj-to-pharmacie\\originals\\00270__route-021-left-frontage-detail.png",
+      "sha256": "701aec5871f1396972a59aaf61fef28eef28976fbc69defd3bb55c12ea07eb27",
+      "quad_pixels": [
+        [
+          1180,
+          711
+        ],
+        [
+          1325,
+          709
+        ],
+        [
+          1320,
+          559
+        ],
+        [
+          1180,
+          563
+        ]
+      ],
+      "bounds": [
+        -3.750227479934692,
+        -0.78,
+        0.82,
+        3.2,
+        -0.145
+      ]
+    },
+    {
+      "object": "Syston v29 | B032 | door floral glass",
+      "source": "references\\streetview-capture\\taraj-to-pharmacie\\originals\\00270__route-021-left-frontage-detail.png",
+      "sha256": "701aec5871f1396972a59aaf61fef28eef28976fbc69defd3bb55c12ea07eb27",
+      "quad_pixels": [
+        [
+          1425,
+          657
+        ],
+        [
+          1491,
+          653
+        ],
+        [
+          1488,
+          579
+        ],
+        [
+          1423,
+          580
+        ]
+      ],
+      "bounds": [
+        -0.46,
+        0.46,
+        0.82,
+        2.6,
+        0.195
+      ]
+    },
+    {
+      "object": "Syston v29 | B032 | upper curtain glazing 2",
+      "source": "references\\streetview-capture\\taraj-to-pharmacie\\originals\\00270__route-021-left-frontage-detail.png",
+      "sha256": "701aec5871f1396972a59aaf61fef28eef28976fbc69defd3bb55c12ea07eb27",
+      "quad_pixels": [
+        [
+          1420,
+          437
+        ],
+        [
+          1480,
+          438
+        ],
+        [
+          1476,
+          361
+        ],
+        [
+          1418,
+          358
+        ]
+      ],
+      "bounds": [
+        -2.770193643569946,
+        -1.2000337171554565,
+        5.924999771118164,
+        8.415000381469726,
+        -0.133
+      ]
+    },
+    {
+      "object": "Syston v29 | B032 | upper curtain glazing 3",
+      "source": "references\\streetview-capture\\taraj-to-pharmacie\\originals\\00270__route-021-left-frontage-detail.png",
+      "sha256": "701aec5871f1396972a59aaf61fef28eef28976fbc69defd3bb55c12ea07eb27",
+      "quad_pixels": [
+        [
+          1420,
+          437
+        ],
+        [
+          1480,
+          438
+        ],
+        [
+          1476,
+          361
+        ],
+        [
+          1418,
+          358
+        ]
+      ],
+      "bounds": [
+        1.2000337171554565,
+        2.770193643569946,
+        5.924999771118164,
+        8.415000381469726,
+        -0.133
+      ]
+    }
+  ],
+  "original_unchanged": true,
+  "material_fix": "Face-normal horizontal brick projection fixes striped side walls",
+  "limits": [
+    "Photo inserts remain private reference assets; no redistribution permission",
+    "Roof pitches/chimneys are photo-led estimates",
+    "Other shops still require individual reconstruction; not Pharmacie-level finished street",
+    "No Radiant or BO3 export/verification"
+  ],
+  "review_closed_roof_ends": 6
+}

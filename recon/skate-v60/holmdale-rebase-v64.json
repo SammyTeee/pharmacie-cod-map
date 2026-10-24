@@ -1,0 +1,22 @@
+{
+  "source": "build\\pharmacie-skate\\pharmacie-holmdale-29-v63.skate",
+  "output": "build\\pharmacie-skate\\pharmacie-holmdale-29-v64.skate",
+  "sha256": "bfb9e803e377ecced0ea518cae478e6b696ee32ab8920b145033d309e04ff4a8",
+  "runtime_translation_offset_metres": [
+    -151.40272521972656,
+    0.0,
+    -763.7701416015625
+  ],
+  "spawn_metres": [
+    0.0,
+    0.22085042297840118,
+    0.0
+  ],
+  "removed_rebased_weld_degenerate_triangles": 282,
+  "collision_triangles": 302300,
+  "scope": "Entire map translated together: visuals, collision, grind paths, spawn and lighting probes. Materials, UVs and layout retained. Blender unchanged.",
+  "runtime_validation": "Sound-enabled asset check and GAME_VERIFY_OK pass; house/start capture visually inspected",
+  "capture": "runtime-holmdale-v64.png",
+  "capture_sha256": "2538f4afe1cdf567dc14baf233808f26d895e3bdd6f5e83b7c84348fdfe6eff9",
+  "riding_verification": "Human trial in progress; landings/grinds/whole-route travel not yet established"
+}

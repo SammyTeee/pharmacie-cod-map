@@ -1,0 +1,4 @@
+import bpy,json,os
+from pathlib import Path
+report={'file':bpy.data.filepath,'materials':len(bpy.data.materials),'node_materials':sum(m.use_nodes for m in bpy.data.materials),'procedural_materials':sum(bool(m.use_nodes and any(n.type in ('TEX_BRICK','TEX_NOISE','TEX_VORONOI') for n in m.node_tree.nodes)) for m in bpy.data.materials),'images':[dict(name=i.name,packed=bool(i.packed_file),path=i.filepath,exists=bool(i.packed_file) or os.path.exists(bpy.path.abspath(i.filepath))) for i in bpy.data.images if i.source=='FILE'],'viewports':[dict(type=a.spaces.active.shading.type,color_type=a.spaces.active.shading.color_type) for s in bpy.data.screens for a in s.areas if a.type=='VIEW_3D'],'mesh_materials':sum(bool(o.data.materials) for o in bpy.data.objects if o.type=='MESH')}
+Path('build/v39-material-audit.json').write_text(json.dumps(report,indent=2));print('MATERIAL_AUDIT_COMPLETE',flush=True)

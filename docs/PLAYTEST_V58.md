@@ -75,3 +75,6 @@ Final repair build completed with exit 0: geometry, ground navmesh, fresh lighti
 
 
 Passive capture runtime-repaired-start.png after launch shows an above-ground street view with player HUD and weapon, rather than the earlier below-floor view. Manual traversal confirmation remains pending. Outdoor lighting appears overexposed with black sky in this capture and remains a separate defect to investigate. No controls were sent.
+
+Sam confirmed normal movement from the pub onto the street after this repair. He rejected the engine visual quality (missing/poor textures and resemblance) and explicitly requested leaving Radiant aside. Engine work is stopped at this checkpoint; do not continue conversion/build/deployment without renewed direction. Blender remains the visual source of truth and current work returns to its previews. AI, purchases and co-op remain unverified.
+

@@ -1,5 +1,13 @@
 # The Pharmacie Arms, Syston — map references
 
+V26 uses three sibling Taraj originals: `../taraj interiopr.png`,
+`../taraj bar inside right inside of the left side door -.png` and
+`../inside taraj THIS MAN MUST FEATUURE SAT IN ONE OF THE BOOTHS.png`.
+All bytes unchanged; SHA256 provenance in `../../recon/v26/validation.json`.
+Observations: `../../docs/TARAJ_INTERIOR_REFERENCE.md`. Room/bar photos guide
+modelled geometry only; requested guest uses a mesh/UV silhouette from the
+unchanged source. No standalone recompressed/cropped source files were made.
+
 2026-10-03 runtime evidence: Sam added `../broken fronty textures.png`, showing the
 v18 engine test with readable Wreake Valley frontage but missing Pharmacie fascia
 lettering. This is a game screenshot, not a venue texture source. Original file

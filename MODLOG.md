@@ -1,5 +1,117 @@
 # Mod log
 
+## 2026-10-15 — Direct number 29 skate start and private audio
+
+- Sam requested getting to 29 Holmdale Road. Queried the actual v60 house matrix
+  read-only; created a supported frontage start clear of the driveway/road seam.
+  Distant-origin v63 startup passed but capture was empty, so rejected it.
+- v64 translates the entire runtime map, paths, lights and probes to start near
+  the origin. Reapplied native weld (282 new degenerate triangles removed).
+  All 302,300 collision volumes/tags/votes pass, feature heights/rails preserved,
+  and 2,136 feature-face wheel contact/solver cases pass. Blender sources intact.
+- Sound conversion initially stopped at disk reserve. Reused completed clips,
+  finished 244 banks; 4,142 PCM16 WAVs / 4,412 local references validated, zero
+  silent clips. Decoder pinned/checksummed; source dump hash unchanged. Corrected
+  validator's overly narrow mono/stereo assumption for one legitimate 4-channel
+  treatment clip. Approved cleanup reclaimed generated caches/intermediates only.
+- Runtime verification with `-WithAudio -Location Holmdale` passes asset check,
+  audio library/native component startup and `GAME_VERIFY_OK`. Fixed verifier's
+  audio log match to tolerate PowerShell line wrapping. Capture visually confirms
+  number 29, porch/garage, approach, sky and supported skater. Reopened user
+  session, parent 19412. `PLAY-HOLMDALE-SKATE.cmd` provides this start separately.
+- Whole-route travel, ridden landings/grinds and audible trick behavior remain
+  pending human controls. Distant-origin renderer cause unresolved; per-start
+  world translation is a verified workaround, not a general renderer fix.
+  No BO3 changes, publication, commit or push.
+
+## 2026-10-14 — Authored ramp/rail wheel-contact stress check
+
+- Built `skate_contact_probe.rs` as `pharmacie_contact_probe` with offline Cargo.
+  Real core query/contact/Jacobian/solver path passes 2,136 cases across 178
+  upward feature faces, speeds 0/3/8/15 m/s, normal descent 0/2/5 m/s. Finite
+  outputs, unchanged static world, valid contact votes. This is independent
+  face-centre wheel testing, not full board/animation/edge/landing validation.
+- Rebuild wrapper now includes the contact gate. Fresh staging
+  `build/pharmacie-skate/repair-contact-repro-v62` reproduces the live package
+  SHA-256 and preservation checks; no live map replacement or controller input.
+  Sam's human riding retest is still pending. Passive live session observed
+  at tick 17,147 with physics_failed:false; idle state is not riding proof.
+
+## 2026-10-14 — Street floor and ramp contact crash repair v62
+
+- User reported glitchy floor and repeated ramp crashes. The actual interactive
+  log identifies `native surface histogram index exceeded` in contact feedback.
+  Fixed exported object IDs masquerading as packed material contact tags;
+  90,949 invalid-category and 13,232 false-water collision triangles corrected.
+- Starter street export now has a single level riding surface. Removed shallow
+  dressing collision and clipped overlapping connector faces; ramp/rail shapes
+  and visual data retained. Source/neutral/skate Blender files unchanged.
+- Final package: `pharmacie-street-session-floor-v62-r3.skate`; launcher updated.
+  1,588 dense floor samples pass; native reader, 1 mm weld/volume constructor,
+  material tag consistency and actual contact voting pass for 302,582 triangles.
+  Five authored feature supports/four grind paths preserved.
+- `cargo build --offline -p skate-data --example pharmacie_map_probe` passes;
+  probe result `recon/skate-v60/flat-floor-native-probe-v62.json`.
+  `powershell.exe -NoProfile -File scripts/verify-skate-demo.ps1` passes asset
+  check and `GAME_VERIFY_OK`; new capture `runtime-floor-v62.png`, no physics
+  failure during startup. Ridden ramp/landing validation awaits Sam's controls.
+  No BO3 changes, publishing or push.
+- Follow-up: `rebuild_skate_floor.py --staging build/pharmacie-skate/repair-repro-v62`
+  reproduces the accepted package SHA-256 exactly without replacing the live map.
+  Binary comparisons prove all presentation data, rail/extension records and
+  704 authored skate-feature collision triangles preserved. Parameterized repair
+  stages refuse existing output packages; contract records required rebuild gates.
+
+## 2026-10-14 — Blender demo resumption and separate Syston skate prototype
+
+- Sam rejected the incomplete CoD conversion and authorized continuing Blender
+  until presentable. Then requested a separate skate map with natural ramps and
+  rails, preserving the original for Zombies, and clarified the goal is reusing
+  skating systems in an independent prototype rather than running original Skate.
+- Read-only v57 inventory found 24,107 assembled objects and no missing external
+  images. Saved separate neutral v59: original procedural texture PNGs/manifest,
+  physical UV projection, surveyed material variation and 831 closed finishing
+  meshes. Prior shader graphs archived; source v57 bytes unchanged. Selected
+  39,771 route rays / 4,419 support samples pass. All 15,512 v40 fingerprints
+  retained under documented audit scope; shaders/UV changes recorded separately.
+- Saved separate skate v60 with loading-bank kicker, civic ledge, flatbar,
+  manual island, curved return and junction bank: 24 closed meshes / four grind
+  paths. Parked vehicle meshes archived only in this variant; neutral retains them.
+- Researched both user-linked repos. Selected Rust/Bevy custom-world route,
+  pinned 2e16697797c8358d16f747a8259354ff2921041a; source, locked dependencies,
+  map reader and matching experimental build 49 prepared locally under build/.
+  The complete runtime needs extracted tuning/animation/character data from
+  Sam's ISO; its path is pending. No original game process is required.
+- Untouched skating-core tests: 654 passed, one group-8 impact-feedback test
+  failed; retained log, no physics edits. Rust map reader builds successfully.
+  Initial map export failed because the adapter omitted ow_material collision
+  assignments; corrected, retry/reader status in docs/SKATE_PROTOTYPE.md.
+- Reviewed street-level skate renders after correcting cameras that initially
+  sat inside opposite buildings. Rendered neutral comparison and terrace/house/
+  alley/Taraj views. Local 25-second 720p/30fps labelled Blender still reel and
+  gallery prepared at recon/skate-v60/index.html; not gameplay or a fly-through.
+- BO3/Radiant untouched. No game input, upload, publish, commit or push this pass.
+  Neutral route still has repeated proxy shops and estimated hidden volumes;
+  finishing and actual skate runtime verification remain required.
+- Follow-through: found Sam's existing extracted Skate dump on S:, prepared core
+  tuning/graphs, default skater, HUD and presentation parameters locally; no disc
+  maps or original game execution. Full map export is 61.6 MB / 1,018,051 visual
+  triangles / 46 textures / four rails. Runtime 1 mm welding initially collapsed
+  2,440 thin collision triangles: canonicalized only runtime collision, preserving
+  all visuals; 302,768 usable collision triangles. Native reader + real volume
+  construction + selected spawn/obstacle/run-out checks pass.
+- Actual runtime captures passed but first exposed black tint-only materials.
+  Added explicit small colour textures, an original procedural sky, orientation
+  daylight lightmap and character daylight probes. Final lit 1280x720 capture
+  passes GAME_VERIFY_OK with stable supported ground / 299 physics-animation ticks /
+  16 resting contacts. Image reviewed; no broad performance or riding verdict.
+- Final capture detected controller slot 1 Ready. Interactive launcher initially
+  failed on an unquoted multi-word title (Sam supplied diagnostic report); fixed
+  quoting and reopened. Parent 10176 / worker 19424 reached stable PhysicsGround;
+  latest passive log then reports controller disconnected. Keep Sam in control.
+  PLAY-SYSTON-SKATE.cmd opens this separate prototype. Riding, tricks, landing,
+  grinding and audio remain pending. Local actual-runtime capture in the gallery.
+
 ## 2026-10-11 — Authored route survey and v53–v57 working copy
 
 - Completed the selected 1,090.77 m Holmdale–Melton–Barkby Street View survey: 368 reviewed views, 381 attempts retained, 90 observed panorama IDs. Source links/dates/hashes and early metadata limitations in recon/v53/capture-manifest.json; detailed observations in docs/AUTHORED_ROUTE_SURVEY_2026-10-11.md. Google originals stay local/ignored.

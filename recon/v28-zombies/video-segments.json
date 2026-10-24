@@ -1,0 +1,72 @@
+{
+  "fps": 8,
+  "frames": 208,
+  "style": "Solid material inspection; short dolly shots and cuts, not continuous proved traversal",
+  "segments": [
+    {
+      "view": "crossing",
+      "start_seconds": 0.0,
+      "duration_seconds": 2
+    },
+    {
+      "view": "amy_clarke",
+      "start_seconds": 2.0,
+      "duration_seconds": 2
+    },
+    {
+      "view": "02_costa_and_town_square",
+      "start_seconds": 4.0,
+      "duration_seconds": 2
+    },
+    {
+      "view": "06_bridge_player",
+      "start_seconds": 6.0,
+      "duration_seconds": 2
+    },
+    {
+      "view": "01_taraj_dining",
+      "start_seconds": 8.0,
+      "duration_seconds": 2
+    },
+    {
+      "view": "05_taraj_entry",
+      "start_seconds": 10.0,
+      "duration_seconds": 2
+    },
+    {
+      "view": "03_taraj_bar",
+      "start_seconds": 12.0,
+      "duration_seconds": 2
+    },
+    {
+      "view": "04_main_room_to_bar",
+      "start_seconds": 14.0,
+      "duration_seconds": 2
+    },
+    {
+      "view": "08_bar_front",
+      "start_seconds": 16.0,
+      "duration_seconds": 2
+    },
+    {
+      "view": "12_stairs_start",
+      "start_seconds": 18.0,
+      "duration_seconds": 2
+    },
+    {
+      "view": "16_upper_arrival",
+      "start_seconds": 20.0,
+      "duration_seconds": 2
+    },
+    {
+      "view": "17_upstairs_seating",
+      "start_seconds": 22.0,
+      "duration_seconds": 2
+    },
+    {
+      "view": "22_alley_rear",
+      "start_seconds": 24.0,
+      "duration_seconds": 2
+    }
+  ]
+}

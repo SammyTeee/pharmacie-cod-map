@@ -1,6 +1,12 @@
+[Latest enclosed rear-alley mapping, before/after previews and highlight video](REAR_ALLEY_V30.md). Current Blender source: `assets/blender/pharmacie-zombies-alley-v30.blend`; v29 street/Taraj work retained. New geometry is Blender-only; engine deployment remains unchanged.
+
 # The Pharmacie Arms — map reference notes
 
 ## Detailed reconstruction reference — 2026-10-03
+
+Latest extension: [Taraj restaurant and bridge v26](TARAJ_BRIDGE_V26.md), with
+[source-specific interior notes](TARAJ_INTERIOR_REFERENCE.md). Pub/approved street
+scale retained; Taraj floor plan and brook depths are estimated adaptations.
 
 Latest player cleanup: [recon/v18/README.md](../recon/v18/README.md), including
 clearance checks, intended gameplay adaptations and unchanged photo provenance.

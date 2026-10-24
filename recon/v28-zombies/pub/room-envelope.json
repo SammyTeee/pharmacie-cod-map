@@ -1,0 +1,6035 @@
+{
+  "samples": [
+    {
+      "level": "ground",
+      "eye": [
+        1,
+        2,
+        1.65
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            1.0,
+            2.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            1.0,
+            2.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -0.9999999403953552
+          ],
+          "distance": 2.8799996376037598
+        },
+        "east": {
+          "object": "Front | entrance leaf 1 joinery",
+          "point": [
+            4.389353275299072,
+            2.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 3.3893532752990723
+        },
+        "west": {
+          "object": "Ground shell 00 | glazing 0",
+          "point": [
+            -2.0747714042663574,
+            2.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9996304512023926,
+            -0.027186816558241844,
+            0.0
+          ],
+          "distance": 3.0747714042663574
+        },
+        "front": {
+          "object": "Front | left angled display photo glass",
+          "point": [
+            1.0,
+            0.6413179636001587,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.7116751074790955,
+            0.702508807182312,
+            0.0
+          ],
+          "distance": 1.3586820363998413
+        },
+        "rear": {
+          "object": "Video | newer backbar tap-bank detail",
+          "point": [
+            1.0,
+            19.68000030517578,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 17.68000030517578
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        1,
+        5,
+        1.6499999701976775
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            1.0,
+            5.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            1.0,
+            5.0,
+            4.529999256134033
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.8799993991851807
+        },
+        "east": {
+          "object": "Video | right medical advert collage",
+          "point": [
+            10.125999450683594,
+            5.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9994884133338928,
+            0.03198331221938133,
+            0.0
+          ],
+          "distance": 9.125999450683594
+        },
+        "west": {
+          "object": "Left wall | pharmacy display backing segment 1",
+          "point": [
+            -1.933258056640625,
+            5.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9987636208534241,
+            0.049710310995578766,
+            0.0
+          ],
+          "distance": 2.933258056640625
+        },
+        "front": {
+          "object": "Front | left angled display photo glass",
+          "point": [
+            1.0,
+            0.6413178443908691,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.7116751074790955,
+            0.702508807182312,
+            0.0
+          ],
+          "distance": 4.358682155609131
+        },
+        "rear": {
+          "object": "Video | newer backbar tap-bank detail",
+          "point": [
+            1.0,
+            19.68000030517578,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 14.680000305175781
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        1,
+        8,
+        1.65
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            1.0,
+            8.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            1.0,
+            8.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.879999876022339
+        },
+        "east": {
+          "object": "Ground shell 06 | wall end",
+          "point": [
+            10.575735092163086,
+            8.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9983152747154236,
+            -0.05802297219634056,
+            0.0
+          ],
+          "distance": 9.575735092163086
+        },
+        "west": {
+          "object": "Left wall | pharmacy display backing segment 1",
+          "point": [
+            -2.082573652267456,
+            8.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9987636208534241,
+            0.049710310995578766,
+            0.0
+          ],
+          "distance": 3.082573652267456
+        },
+        "front": {
+          "object": "Front | left angled display photo glass",
+          "point": [
+            1.0,
+            0.6413178443908691,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.7116751074790955,
+            0.702508807182312,
+            0.0
+          ],
+          "distance": 7.358682155609131
+        },
+        "rear": {
+          "object": "Video | newer backbar tap-bank detail",
+          "point": [
+            1.0,
+            19.68000030517578,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 11.680000305175781
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        1,
+        11,
+        1.6500000298023223
+      ],
+      "rays": {
+        "floor": {
+          "object": "Dentist seating | cream bucket chair 1 | back",
+          "point": [
+            1.0,
+            11.0,
+            0.8999999761581421
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 0.75
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            1.0,
+            11.0,
+            4.529999256134033
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.8799993991851807
+        },
+        "east": {
+          "object": "Video | right medical advert collage.001",
+          "point": [
+            9.933999061584473,
+            11.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.999488353729248,
+            0.03198379650712013,
+            0.0
+          ],
+          "distance": 8.933999061584473
+        },
+        "west": {
+          "object": "Video | dental-board downstairs panel",
+          "point": [
+            -1.886000156402588,
+            11.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9999999403953552,
+            0.0,
+            0.0
+          ],
+          "distance": 2.886000156402588
+        },
+        "front": {
+          "object": "Front | left angled display photo glass",
+          "point": [
+            1.0,
+            0.6413183212280273,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.7116751074790955,
+            0.702508807182312,
+            0.0
+          ],
+          "distance": 10.358681678771973
+        },
+        "rear": {
+          "object": "Video | newer backbar tap-bank detail",
+          "point": [
+            1.0,
+            19.68000030517578,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 8.680000305175781
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        1,
+        14,
+        1.6499999701976775
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            1.0,
+            14.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            1.0,
+            14.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.879999876022339
+        },
+        "east": {
+          "object": "Ground shell 06 | wall end",
+          "point": [
+            10.227009773254395,
+            14.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9983152747154236,
+            -0.05802297219634056,
+            0.0
+          ],
+          "distance": 9.227009773254395
+        },
+        "west": {
+          "object": "Ground shell 02 | wall end",
+          "point": [
+            -2.854424476623535,
+            14.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9897265434265137,
+            0.14297334849834442,
+            0.0
+          ],
+          "distance": 3.854424476623535
+        },
+        "front": {
+          "object": "Front | left angled display photo glass",
+          "point": [
+            1.0,
+            0.6413173675537109,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.7116751074790955,
+            0.702508807182312,
+            0.0
+          ],
+          "distance": 13.358682632446289
+        },
+        "rear": {
+          "object": "Video | newer backbar tap-bank detail",
+          "point": [
+            1.0,
+            19.68000030517578,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 5.679999828338623
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        1,
+        17,
+        1.6499999701976775
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            1.0,
+            17.0,
+            -1.1920928955078125e-07
+          ],
+          "normal": [
+            -0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 1.6500000953674316
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            1.0,
+            17.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.8799996376037598
+        },
+        "east": null,
+        "west": {
+          "object": "Video | medical-adverts downstairs panel",
+          "point": [
+            -2.6545000076293945,
+            17.0,
+            1.649999976158142
+          ],
+          "normal": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 3.6545000076293945
+        },
+        "front": {
+          "object": "Front | left angled display photo glass",
+          "point": [
+            1.0,
+            0.6413192749023438,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.7116751074790955,
+            0.702508807182312,
+            0.0
+          ],
+          "distance": 16.358680725097656
+        },
+        "rear": {
+          "object": "Video | newer backbar tap-bank detail",
+          "point": [
+            1.0,
+            19.68000030517578,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 2.6800003051757812
+        }
+      },
+      "open_directions": [
+        "east"
+      ]
+    },
+    {
+      "level": "ground",
+      "eye": [
+        1,
+        20,
+        1.65
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            1.0,
+            20.0,
+            1.1920928955078125e-07
+          ],
+          "normal": [
+            -0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 1.6499998569488525
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            1.0,
+            20.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.879999876022339
+        },
+        "east": {
+          "object": "Ground shell 06 | pier 0",
+          "point": [
+            9.810458183288574,
+            20.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9972874522209167,
+            -0.07360595464706421,
+            0.0
+          ],
+          "distance": 8.810458183288574
+        },
+        "west": {
+          "object": "Ground shell 02 | wall end",
+          "point": [
+            -3.7211694717407227,
+            20.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9897265434265137,
+            0.14297334849834442,
+            0.0
+          ],
+          "distance": 4.721169471740723
+        },
+        "front": {
+          "object": "Video | staff return tap backing",
+          "point": [
+            1.0,
+            19.809999465942383,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            0.9999999403953552,
+            0.0
+          ],
+          "distance": 0.190000519156456
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            1.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 0.719999372959137
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        3,
+        2,
+        1.65
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            3.0,
+            2.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            3.0,
+            2.0,
+            4.529999256134033
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.8799993991851807
+        },
+        "east": {
+          "object": "Front | entrance leaf 1 joinery",
+          "point": [
+            4.389353275299072,
+            2.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 1.3893532752990723
+        },
+        "west": {
+          "object": "Ground shell 00 | glazing 0",
+          "point": [
+            -2.0747718811035156,
+            2.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9996304512023926,
+            -0.027186816558241844,
+            0.0
+          ],
+          "distance": 5.074771881103516
+        },
+        "front": {
+          "object": "Front | recess fixed glazing photo glass",
+          "point": [
+            3.0,
+            1.4249999523162842,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 0.5750000476837158
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            3.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 18.719999313354492
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        3,
+        5,
+        1.65
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            3.0,
+            5.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            3.0,
+            5.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.8799996376037598
+        },
+        "east": {
+          "object": "Video | right medical advert collage",
+          "point": [
+            10.125999450683594,
+            5.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9994884133338928,
+            0.03198331221938133,
+            0.0
+          ],
+          "distance": 7.125999927520752
+        },
+        "west": {
+          "object": "Left wall | pharmacy display backing segment 1",
+          "point": [
+            -1.9332585334777832,
+            5.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9987636208534241,
+            0.049710310995578766,
+            0.0
+          ],
+          "distance": 4.933258533477783
+        },
+        "front": {
+          "object": "Front | recess fixed glazing photo glass",
+          "point": [
+            3.0,
+            1.4250001907348633,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 3.5749998092651367
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            3.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 15.719999313354492
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        3,
+        8,
+        1.65
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            3.0,
+            8.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            3.0,
+            8.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.879999876022339
+        },
+        "east": {
+          "object": "Ground shell 06 | wall end",
+          "point": [
+            10.575736045837402,
+            8.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9983152747154236,
+            -0.05802297219634056,
+            0.0
+          ],
+          "distance": 7.575736045837402
+        },
+        "west": {
+          "object": "Left wall | pharmacy display backing segment 1",
+          "point": [
+            -2.082573890686035,
+            8.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9987636208534241,
+            0.049710310995578766,
+            0.0
+          ],
+          "distance": 5.082573890686035
+        },
+        "front": {
+          "object": "Front | recess fixed glazing photo glass",
+          "point": [
+            3.0,
+            1.4250006675720215,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 6.5749993324279785
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            3.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 12.719999313354492
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        3,
+        11,
+        1.6499999701976775
+      ],
+      "rays": {
+        "floor": {
+          "object": "Left-side | stool 9.0 A | round seat",
+          "point": [
+            3.0,
+            11.0,
+            0.5000001192092896
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.1499998569488525
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            3.0,
+            11.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.879999876022339
+        },
+        "east": {
+          "object": "Video | right medical advert collage.001",
+          "point": [
+            9.934000015258789,
+            11.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.999488353729248,
+            0.03198379650712013,
+            0.0
+          ],
+          "distance": 6.934000015258789
+        },
+        "west": {
+          "object": "Video | dental-board downstairs panel",
+          "point": [
+            -1.886000156402588,
+            11.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9999999403953552,
+            0.0,
+            0.0
+          ],
+          "distance": 4.886000156402588
+        },
+        "front": {
+          "object": "Front | recess fixed glazing photo glass",
+          "point": [
+            3.0,
+            1.4250011444091797,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 9.57499885559082
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            3.0,
+            20.720001220703125,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 9.720000267028809
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        3,
+        14,
+        1.6499999701976775
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            3.0,
+            14.0,
+            1.1920928955078125e-07
+          ],
+          "normal": [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 1.6499998569488525
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            3.0,
+            14.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.8799996376037598
+        },
+        "east": {
+          "object": "Ground shell 06 | wall end",
+          "point": [
+            10.227010726928711,
+            14.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9983152747154236,
+            -0.05802297219634056,
+            0.0
+          ],
+          "distance": 7.227010250091553
+        },
+        "west": {
+          "object": "Ground shell 02 | wall end",
+          "point": [
+            -2.854424476623535,
+            14.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9897265434265137,
+            0.14297334849834442,
+            0.0
+          ],
+          "distance": 5.854424476623535
+        },
+        "front": {
+          "object": "Front | recess fixed glazing photo glass",
+          "point": [
+            3.0,
+            1.4250011444091797,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 12.57499885559082
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            3.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 6.719999313354492
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        3,
+        17,
+        1.6499999701976775
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            3.0,
+            17.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            3.0,
+            17.0,
+            4.529999256134033
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.8799993991851807
+        },
+        "east": null,
+        "west": {
+          "object": "Video | medical-adverts downstairs panel",
+          "point": [
+            -2.6545000076293945,
+            17.0,
+            1.649999976158142
+          ],
+          "normal": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 5.6545000076293945
+        },
+        "front": {
+          "object": "Front | recess fixed glazing photo glass",
+          "point": [
+            3.0,
+            1.4250001907348633,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 15.574999809265137
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            3.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 3.7199995517730713
+        }
+      },
+      "open_directions": [
+        "east"
+      ]
+    },
+    {
+      "level": "ground",
+      "eye": [
+        3,
+        20,
+        1.65
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            3.0,
+            20.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            3.0,
+            20.0,
+            4.529999256134033
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.8799993991851807
+        },
+        "east": {
+          "object": "Ground shell 06 | pier 0",
+          "point": [
+            9.810457229614258,
+            20.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9972874522209167,
+            -0.07360595464706421,
+            0.0
+          ],
+          "distance": 6.810457706451416
+        },
+        "west": {
+          "object": "Ground shell 02 | wall end",
+          "point": [
+            -3.7211694717407227,
+            20.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9897265434265137,
+            0.14297334849834442,
+            0.0
+          ],
+          "distance": 6.721169471740723
+        },
+        "front": {
+          "object": "Front | recess fixed glazing photo glass",
+          "point": [
+            3.0,
+            1.4250030517578125,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 18.574996948242188
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            3.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 0.7199993133544922
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        5,
+        2,
+        1.6530000209808349
+      ],
+      "rays": {
+        "floor": {
+          "object": "Front | continuous entrance threshold - no floor gap",
+          "point": [
+            5.0,
+            2.0,
+            0.0030001401901245117
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6499998569488525
+        },
+        "ceiling": {
+          "object": "Video | ceiling longitudinal grid.005",
+          "point": [
+            5.0,
+            2.0,
+            4.0929999351501465
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.440000057220459
+        },
+        "east": {
+          "object": "Front | entrance leaf 2 joinery",
+          "point": [
+            6.538394927978516,
+            2.0,
+            1.652999997138977
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 1.5383949279785156
+        },
+        "west": {
+          "object": "Front | entrance leaf 1 photo",
+          "point": [
+            4.506908893585205,
+            2.0,
+            1.652999997138977
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 0.49309107661247253
+        },
+        "front": {
+          "object": "Shop v20 | Market product panel 1 selected display",
+          "point": [
+            5.0,
+            -12.919998168945312,
+            1.652999997138977
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 14.919998168945312
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            5.0,
+            20.720001220703125,
+            1.652999997138977
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 18.720001220703125
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        5,
+        5,
+        1.65
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            5.0,
+            5.0,
+            -1.1920928955078125e-07
+          ],
+          "normal": [
+            -0.0,
+            0.0,
+            -0.9999999403953552
+          ],
+          "distance": 1.6500000953674316
+        },
+        "ceiling": {
+          "object": "Video | ceiling longitudinal grid.005",
+          "point": [
+            5.0,
+            5.0,
+            4.092999458312988
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.4429996013641357
+        },
+        "east": {
+          "object": "Video | right medical advert collage",
+          "point": [
+            10.12600040435791,
+            5.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9994884133338928,
+            0.03198331221938133,
+            0.0
+          ],
+          "distance": 5.12600040435791
+        },
+        "west": {
+          "object": "Left wall | pharmacy display backing segment 1",
+          "point": [
+            -1.9332585334777832,
+            5.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9987636208534241,
+            0.049710310995578766,
+            0.0
+          ],
+          "distance": 6.933258533477783
+        },
+        "front": {
+          "object": "Shop v20 | Market product panel 1 selected display",
+          "point": [
+            5.0,
+            -12.920000076293945,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 17.920000076293945
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            5.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 15.719999313354492
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        5,
+        8,
+        1.6499999701976775
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            5.0,
+            8.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "Video | ceiling longitudinal grid.005",
+          "point": [
+            5.0,
+            8.0,
+            4.0929999351501465
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.442999839782715
+        },
+        "east": {
+          "object": "Ground shell 06 | wall end",
+          "point": [
+            10.575736045837402,
+            8.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9983152747154236,
+            -0.05802297219634056,
+            0.0
+          ],
+          "distance": 5.575736045837402
+        },
+        "west": {
+          "object": "Left wall | pharmacy display backing segment 1",
+          "point": [
+            -2.082573413848877,
+            8.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9987636208534241,
+            0.049710310995578766,
+            0.0
+          ],
+          "distance": 7.082573413848877
+        },
+        "front": {
+          "object": "Shop v20 | Market product panel 1 selected display",
+          "point": [
+            5.0,
+            -12.920000076293945,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 20.920000076293945
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            5.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 12.719999313354492
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        5,
+        11,
+        1.6499999701976775
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            5.0,
+            11.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "Video | ceiling longitudinal grid.005",
+          "point": [
+            5.0,
+            11.0,
+            4.0929999351501465
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.442999839782715
+        },
+        "east": {
+          "object": "Video | right medical advert collage.001",
+          "point": [
+            9.934000015258789,
+            11.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.999488353729248,
+            0.03198379650712013,
+            0.0
+          ],
+          "distance": 4.934000015258789
+        },
+        "west": {
+          "object": "Video | dental-board downstairs panel",
+          "point": [
+            -1.886000156402588,
+            11.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9999999403953552,
+            0.0,
+            0.0
+          ],
+          "distance": 6.886000156402588
+        },
+        "front": {
+          "object": "Shop v20 | Market product panel 1 selected display",
+          "point": [
+            5.0,
+            -12.919998168945312,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 23.919998168945312
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            5.0,
+            20.720001220703125,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 9.720000267028809
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        5,
+        14,
+        1.6499999701976775
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            5.0,
+            14.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "Video | ceiling longitudinal grid.005",
+          "point": [
+            5.0,
+            14.0,
+            4.0929999351501465
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.443000078201294
+        },
+        "east": {
+          "object": "Ground shell 06 | wall end",
+          "point": [
+            10.227010726928711,
+            14.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9983152747154236,
+            -0.05802297219634056,
+            0.0
+          ],
+          "distance": 5.227010250091553
+        },
+        "west": {
+          "object": "Ground shell 02 | wall end",
+          "point": [
+            -2.8544249534606934,
+            14.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9897265434265137,
+            0.14297334849834442,
+            0.0
+          ],
+          "distance": 7.854424953460693
+        },
+        "front": {
+          "object": "Shop v20 | Market product panel 1 selected display",
+          "point": [
+            5.0,
+            -12.919998168945312,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 26.919998168945312
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            5.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 6.719999313354492
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        5,
+        17,
+        1.6499999701976775
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            5.0,
+            17.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "Video | ceiling longitudinal grid.005",
+          "point": [
+            5.0,
+            17.0,
+            4.0929999351501465
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.442999839782715
+        },
+        "east": null,
+        "west": {
+          "object": "Video | medical-adverts downstairs panel",
+          "point": [
+            -2.6544995307922363,
+            17.0,
+            1.649999976158142
+          ],
+          "normal": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 7.654499530792236
+        },
+        "front": {
+          "object": "Shop v20 | Market product panel 1 selected display",
+          "point": [
+            5.0,
+            -12.919998168945312,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 29.919998168945312
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            5.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 3.7199995517730713
+        }
+      },
+      "open_directions": [
+        "east"
+      ]
+    },
+    {
+      "level": "ground",
+      "eye": [
+        5,
+        20,
+        1.65
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            5.0,
+            20.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "Video | ceiling longitudinal grid.005",
+          "point": [
+            5.0,
+            20.0,
+            4.092999458312988
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.4429996013641357
+        },
+        "east": {
+          "object": "Ground shell 06 | pier 0",
+          "point": [
+            9.810457229614258,
+            20.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9972874522209167,
+            -0.07360595464706421,
+            0.0
+          ],
+          "distance": 4.810457706451416
+        },
+        "west": {
+          "object": "Ground shell 02 | wall end",
+          "point": [
+            -3.7211694717407227,
+            20.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9897265434265137,
+            0.14297334849834442,
+            0.0
+          ],
+          "distance": 8.721169471740723
+        },
+        "front": {
+          "object": "Shop v20 | Market product panel 1 selected display",
+          "point": [
+            5.0,
+            -12.919994354248047,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 32.91999435424805
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            5.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 0.7199993133544922
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        7,
+        2,
+        1.6500000298023223
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            7.0,
+            2.0,
+            1.1920928955078125e-07
+          ],
+          "normal": [
+            -0.0,
+            0.0,
+            -0.9999999403953552
+          ],
+          "distance": 1.6499998569488525
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            7.0,
+            2.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.879999876022339
+        },
+        "east": {
+          "object": "Ground shell 07 | glazing 0",
+          "point": [
+            10.575555801391602,
+            2.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9985663890838623,
+            0.05352625995874405,
+            0.0
+          ],
+          "distance": 3.5755553245544434
+        },
+        "west": {
+          "object": "Front | entrance leaf 2 photo",
+          "point": [
+            6.655950546264648,
+            2.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 0.3440494239330292
+        },
+        "front": {
+          "object": "Front | right angled display photo glass",
+          "point": [
+            7.0,
+            1.0270743370056152,
+            1.649999976158142
+          ],
+          "normal": [
+            0.6987847685813904,
+            0.7153319716453552,
+            0.0
+          ],
+          "distance": 0.9729257225990295
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            7.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 18.719999313354492
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        7,
+        5,
+        1.9199999809265136
+      ],
+      "rays": {
+        "floor": {
+          "object": "Raised right-hand seating platform | platform slab",
+          "point": [
+            7.0,
+            5.0,
+            0.2699998617172241
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6500000953674316
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            7.0,
+            5.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.609999656677246
+        },
+        "east": {
+          "object": "Video | right medical advert collage",
+          "point": [
+            10.12600040435791,
+            5.0,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.9994884133338928,
+            0.03198331221938133,
+            0.0
+          ],
+          "distance": 3.12600040435791
+        },
+        "west": {
+          "object": "Left wall | pharmacy display backing segment 1",
+          "point": [
+            -1.933258056640625,
+            5.0,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.9987636208534241,
+            0.049710310995578766,
+            0.0
+          ],
+          "distance": 8.933258056640625
+        },
+        "front": {
+          "object": "Front | right angled display photo glass",
+          "point": [
+            7.0,
+            1.0270745754241943,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.6987847685813904,
+            0.7153319716453552,
+            0.0
+          ],
+          "distance": 3.9729254245758057
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            7.0,
+            20.719999313354492,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 15.719999313354492
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        7,
+        8,
+        1.9199999809265136
+      ],
+      "rays": {
+        "floor": {
+          "object": "Raised right-hand seating platform | platform slab",
+          "point": [
+            7.0,
+            8.0,
+            0.2699998617172241
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6500000953674316
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            7.0,
+            8.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.609999656677246
+        },
+        "east": {
+          "object": "Ground shell 06 | wall end",
+          "point": [
+            10.575735092163086,
+            8.0,
+            1.9199999570846558
+          ],
+          "normal": [
+            -0.9983152747154236,
+            -0.05802297219634056,
+            0.0
+          ],
+          "distance": 3.575735330581665
+        },
+        "west": {
+          "object": "Left wall | pharmacy display backing segment 1",
+          "point": [
+            -2.0825729370117188,
+            8.0,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.9987636208534241,
+            0.049710310995578766,
+            0.0
+          ],
+          "distance": 9.082572937011719
+        },
+        "front": {
+          "object": "Front | right angled display photo glass",
+          "point": [
+            7.0,
+            1.027073860168457,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.6987847685813904,
+            0.7153319716453552,
+            0.0
+          ],
+          "distance": 6.972926139831543
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            7.0,
+            20.719999313354492,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 12.719999313354492
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        7,
+        11,
+        1.9199999809265136
+      ],
+      "rays": {
+        "floor": {
+          "object": "Raised right-hand seating platform | platform slab",
+          "point": [
+            7.0,
+            11.0,
+            0.2700001001358032
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6499998569488525
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            7.0,
+            11.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.609999656677246
+        },
+        "east": {
+          "object": "Video | right medical advert collage.001",
+          "point": [
+            9.934000015258789,
+            11.0,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.999488353729248,
+            0.03198379650712013,
+            0.0
+          ],
+          "distance": 2.934000015258789
+        },
+        "west": {
+          "object": "Video | dental-board downstairs panel",
+          "point": [
+            -1.886000633239746,
+            11.0,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.9999999403953552,
+            0.0,
+            0.0
+          ],
+          "distance": 8.886000633239746
+        },
+        "front": {
+          "object": "Front | right angled display photo glass",
+          "point": [
+            7.0,
+            1.0270748138427734,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.6987847685813904,
+            0.7153319716453552,
+            0.0
+          ],
+          "distance": 9.972925186157227
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            7.0,
+            20.720001220703125,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 9.720000267028809
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        7,
+        14,
+        1.6500000298023223
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            7.0,
+            14.0,
+            1.1920928955078125e-07
+          ],
+          "normal": [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 1.6499998569488525
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            7.0,
+            14.0,
+            4.529999256134033
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.8799993991851807
+        },
+        "east": {
+          "object": "Ground shell 06 | wall end",
+          "point": [
+            10.227010726928711,
+            14.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9983152747154236,
+            -0.05802297219634056,
+            0.0
+          ],
+          "distance": 3.2270102500915527
+        },
+        "west": {
+          "object": "Ground shell 02 | wall end",
+          "point": [
+            -2.854424476623535,
+            14.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9897265434265137,
+            0.14297334849834442,
+            0.0
+          ],
+          "distance": 9.854424476623535
+        },
+        "front": {
+          "object": "Front | right angled display photo glass",
+          "point": [
+            7.0,
+            1.0270748138427734,
+            1.649999976158142
+          ],
+          "normal": [
+            0.6987847685813904,
+            0.7153319716453552,
+            0.0
+          ],
+          "distance": 12.972925186157227
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            7.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 6.71999979019165
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        7,
+        17,
+        1.65
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            7.0,
+            17.0,
+            -2.384185791015625e-07
+          ],
+          "normal": [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 1.6500002145767212
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            7.0,
+            17.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.879999876022339
+        },
+        "east": null,
+        "west": {
+          "object": "Video | medical-adverts downstairs panel",
+          "point": [
+            -2.6545000076293945,
+            17.0,
+            1.649999976158142
+          ],
+          "normal": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 9.654500007629395
+        },
+        "front": {
+          "object": "Front | right angled display photo glass",
+          "point": [
+            7.0,
+            1.027073860168457,
+            1.649999976158142
+          ],
+          "normal": [
+            0.6987847685813904,
+            0.7153319716453552,
+            0.0
+          ],
+          "distance": 15.972926139831543
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            7.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 3.719999313354492
+        }
+      },
+      "open_directions": [
+        "east"
+      ]
+    },
+    {
+      "level": "ground",
+      "eye": [
+        7,
+        20,
+        1.65
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            7.0,
+            20.0,
+            -1.1920928955078125e-07
+          ],
+          "normal": [
+            -0.0,
+            0.0,
+            -0.9999999403953552
+          ],
+          "distance": 1.6500000953674316
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            7.0,
+            20.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.8799996376037598
+        },
+        "east": {
+          "object": "Ground shell 06 | pier 0",
+          "point": [
+            9.810457229614258,
+            20.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9972874522209167,
+            -0.07360595464706421,
+            0.0
+          ],
+          "distance": 2.810457706451416
+        },
+        "west": {
+          "object": "Ground shell 02 | wall end",
+          "point": [
+            -3.721170425415039,
+            20.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9897265434265137,
+            0.14297334849834442,
+            0.0
+          ],
+          "distance": 10.721170425415039
+        },
+        "front": {
+          "object": "Front | right angled display photo glass",
+          "point": [
+            7.0,
+            1.0270729064941406,
+            1.649999976158142
+          ],
+          "normal": [
+            0.6987847685813904,
+            0.7153319716453552,
+            0.0
+          ],
+          "distance": 18.97292709350586
+        },
+        "rear": {
+          "object": "Bar | photo-backed bottles, shelves and staff-door detail",
+          "point": [
+            7.0,
+            20.719999313354492,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 0.7199993133544922
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        9,
+        2,
+        1.65
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            9.0,
+            2.0,
+            1.1920928955078125e-07
+          ],
+          "normal": [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 1.6499998569488525
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            9.0,
+            2.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.8799996376037598
+        },
+        "east": {
+          "object": "Ground shell 07 | glazing 0",
+          "point": [
+            10.575555801391602,
+            2.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9985663890838623,
+            0.05352625995874405,
+            0.0
+          ],
+          "distance": 1.5755553245544434
+        },
+        "west": {
+          "object": "Front | entrance leaf 2 photo",
+          "point": [
+            6.655950546264648,
+            2.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 2.3440494537353516
+        },
+        "front": {
+          "object": "Front | right display photo glass",
+          "point": [
+            9.0,
+            1.1920928955078125e-07,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 1.9999998807907104
+        },
+        "rear": {
+          "object": "Ground | bar lobby divider | wall end",
+          "point": [
+            9.0,
+            22.656076431274414,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 20.656076431274414
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        9,
+        5,
+        1.9199999809265136
+      ],
+      "rays": {
+        "floor": {
+          "object": "Raised right-hand seating platform | platform slab",
+          "point": [
+            9.0,
+            5.0,
+            0.2699998617172241
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6500000953674316
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            9.0,
+            5.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.609999656677246
+        },
+        "east": {
+          "object": "Video | right medical advert collage",
+          "point": [
+            10.12600040435791,
+            5.0,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.9994884133338928,
+            0.03198331221938133,
+            0.0
+          ],
+          "distance": 1.1260002851486206
+        },
+        "west": {
+          "object": "Left wall | pharmacy display backing segment 1",
+          "point": [
+            -1.933258056640625,
+            5.0,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.9987636208534241,
+            0.049710310995578766,
+            0.0
+          ],
+          "distance": 10.933258056640625
+        },
+        "front": {
+          "object": "Front | right display photo glass",
+          "point": [
+            9.0,
+            0.0,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 5.0
+        },
+        "rear": {
+          "object": "Ground | bar lobby divider | wall end",
+          "point": [
+            9.0,
+            22.656078338623047,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 17.656078338623047
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        9,
+        8,
+        1.9199999809265136
+      ],
+      "rays": {
+        "floor": {
+          "object": "Raised right-hand seating platform | platform slab",
+          "point": [
+            9.0,
+            8.0,
+            0.26999998092651367
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            9.0,
+            8.0,
+            4.529999256134033
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.609999418258667
+        },
+        "east": {
+          "object": "Ground shell 06 | wall end",
+          "point": [
+            10.575735092163086,
+            8.0,
+            1.9199999570846558
+          ],
+          "normal": [
+            -0.9983152747154236,
+            -0.05802297219634056,
+            0.0
+          ],
+          "distance": 1.5757354497909546
+        },
+        "west": {
+          "object": "Left wall | pharmacy display backing segment 1",
+          "point": [
+            -2.082573890686035,
+            8.0,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.9987636208534241,
+            0.049710310995578766,
+            0.0
+          ],
+          "distance": 11.082573890686035
+        },
+        "front": {
+          "object": "Front | right display photo glass",
+          "point": [
+            9.0,
+            4.76837158203125e-07,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 7.999999523162842
+        },
+        "rear": {
+          "object": "Ground | bar lobby divider | wall end",
+          "point": [
+            9.0,
+            22.656076431274414,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 14.656076431274414
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        9,
+        11,
+        1.9199999809265136
+      ],
+      "rays": {
+        "floor": {
+          "object": "Raised right-hand seating platform | platform slab",
+          "point": [
+            9.0,
+            11.0,
+            0.26999998092651367
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            9.0,
+            11.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.609999656677246
+        },
+        "east": {
+          "object": "Video | right medical advert collage.001",
+          "point": [
+            9.934000015258789,
+            11.0,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.999488353729248,
+            0.03198379650712013,
+            0.0
+          ],
+          "distance": 0.9340000152587891
+        },
+        "west": {
+          "object": "Video | dental-board downstairs panel",
+          "point": [
+            -1.8859996795654297,
+            11.0,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.9999999403953552,
+            0.0,
+            0.0
+          ],
+          "distance": 10.88599967956543
+        },
+        "front": {
+          "object": "Front | right display photo glass",
+          "point": [
+            9.0,
+            9.5367431640625e-07,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 10.999999046325684
+        },
+        "rear": {
+          "object": "Ground | bar lobby divider | wall end",
+          "point": [
+            9.0,
+            22.656078338623047,
+            1.9199999570846558
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 11.65607738494873
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        9,
+        14,
+        1.6500000298023223
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            9.0,
+            14.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            9.0,
+            14.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.879999876022339
+        },
+        "east": {
+          "object": "Ground shell 06 | wall end",
+          "point": [
+            10.227010726928711,
+            14.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9983152747154236,
+            -0.05802297219634056,
+            0.0
+          ],
+          "distance": 1.2270102500915527
+        },
+        "west": {
+          "object": "Ground shell 02 | wall end",
+          "point": [
+            -2.854424476623535,
+            14.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9897265434265137,
+            0.14297334849834442,
+            0.0
+          ],
+          "distance": 11.854424476623535
+        },
+        "front": {
+          "object": "Front | right display photo glass",
+          "point": [
+            9.0,
+            9.5367431640625e-07,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 13.999999046325684
+        },
+        "rear": {
+          "object": "Ground | bar lobby divider | wall end",
+          "point": [
+            9.0,
+            22.656078338623047,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 8.65607738494873
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "ground",
+      "eye": [
+        9,
+        17,
+        1.6500000298023223
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            9.0,
+            17.0,
+            1.1920928955078125e-07
+          ],
+          "normal": [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 1.6499998569488525
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            9.0,
+            17.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.879999876022339
+        },
+        "east": null,
+        "west": {
+          "object": "Video | medical-adverts downstairs panel",
+          "point": [
+            -2.6545000076293945,
+            17.0,
+            1.649999976158142
+          ],
+          "normal": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 11.654500007629395
+        },
+        "front": {
+          "object": "Front | right display photo glass",
+          "point": [
+            9.0,
+            1.9073486328125e-06,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 16.999998092651367
+        },
+        "rear": {
+          "object": "Ground | bar lobby divider | wall end",
+          "point": [
+            9.0,
+            22.656076431274414,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 5.656076908111572
+        }
+      },
+      "open_directions": [
+        "east"
+      ]
+    },
+    {
+      "level": "ground",
+      "eye": [
+        9,
+        20,
+        1.6499999701976775
+      ],
+      "rays": {
+        "floor": {
+          "object": "Ground | continuous timber floor",
+          "point": [
+            9.0,
+            20.0,
+            0.0
+          ],
+          "normal": [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            9.0,
+            20.0,
+            4.529999732971191
+          ],
+          "normal": [
+            0.0,
+            -0.0,
+            -1.0
+          ],
+          "distance": 2.879999876022339
+        },
+        "east": {
+          "object": "Ground shell 06 | pier 0",
+          "point": [
+            9.810458183288574,
+            20.0,
+            1.649999976158142
+          ],
+          "normal": [
+            -0.9972874522209167,
+            -0.07360595464706421,
+            0.0
+          ],
+          "distance": 0.8104579448699951
+        },
+        "west": {
+          "object": "Ground shell 02 | wall end",
+          "point": [
+            -3.7211685180664062,
+            20.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.9897265434265137,
+            0.14297334849834442,
+            0.0
+          ],
+          "distance": 12.721168518066406
+        },
+        "front": {
+          "object": "Front | right display photo glass",
+          "point": [
+            9.0,
+            0.0,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 20.0
+        },
+        "rear": {
+          "object": "Ground | bar lobby divider | wall end",
+          "point": [
+            9.0,
+            22.656076431274414,
+            1.649999976158142
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 2.656076669692993
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        1,
+        2,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            1.0,
+            2.0,
+            4.800000190734863
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            0.9999999403953552
+          ],
+          "distance": 1.6500002145767212
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            1.0,
+            2.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999993324279785
+        },
+        "east": {
+          "object": "First | front office bottom | wall end",
+          "point": [
+            2.7616868019104004,
+            2.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9999305009841919,
+            -0.011784794740378857,
+            0.0
+          ],
+          "distance": 1.7616868019104004
+        },
+        "west": {
+          "object": "First shell 00 | glazing 0",
+          "point": [
+            -2.013857126235962,
+            2.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9983354210853577,
+            -0.05767522007226944,
+            0.0
+          ],
+          "distance": 3.013857126235962
+        },
+        "front": {
+          "object": "Front | sash recessed glass",
+          "point": [
+            1.0,
+            0.08625006675720215,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 1.9137499332427979
+        },
+        "rear": {
+          "object": "First | front office rear | wall end",
+          "point": [
+            1.0,
+            6.732172012329102,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 4.732172012329102
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        1,
+        5,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            1.0,
+            5.0,
+            4.800000190734863
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            1.0,
+            5.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999995708465576
+        },
+        "east": {
+          "object": "First | front office bottom | wall end",
+          "point": [
+            2.726330280303955,
+            5.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9999305009841919,
+            -0.011784794740378857,
+            0.0
+          ],
+          "distance": 1.7263303995132446
+        },
+        "west": {
+          "object": "First shell 01 | wall end",
+          "point": [
+            -1.8816967010498047,
+            5.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9991380572319031,
+            0.04151071980595589,
+            0.0
+          ],
+          "distance": 2.8816967010498047
+        },
+        "front": {
+          "object": "Front | sash recessed glass",
+          "point": [
+            1.0,
+            0.08624935150146484,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 4.913750648498535
+        },
+        "rear": {
+          "object": "First | front office rear | wall end",
+          "point": [
+            1.0,
+            6.732172012329102,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 1.7321717739105225
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        1,
+        8,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            1.0,
+            8.0,
+            4.800000190734863
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.649999976158142
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            1.0,
+            8.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999995708465576
+        },
+        "east": {
+          "object": "First | kitchen top | wall end",
+          "point": [
+            2.856377601623535,
+            8.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9999451637268066,
+            -0.010467142798006535,
+            0.0
+          ],
+          "distance": 1.8563776016235352
+        },
+        "west": {
+          "object": "First | front office rear | door 0 | open leaf",
+          "point": [
+            -0.8535561561584473,
+            8.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9991997480392456,
+            0.039997171610593796,
+            0.0
+          ],
+          "distance": 1.8535561561584473
+        },
+        "front": {
+          "object": "First | front office rear | wall end",
+          "point": [
+            1.0,
+            6.942171096801758,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 1.0578287839889526
+        },
+        "rear": {
+          "object": "First | toilets front | pier 0",
+          "point": [
+            1.0,
+            20.74835205078125,
+            6.450000286102295
+          ],
+          "normal": [
+            0.03266948461532593,
+            -0.9994661808013916,
+            0.0
+          ],
+          "distance": 12.748351097106934
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        1,
+        11,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            1.0,
+            11.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.63800048828125
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            1.0,
+            11.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999990940093994
+        },
+        "east": {
+          "object": "First shell 06 | wall end",
+          "point": [
+            10.454943656921387,
+            11.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9989520907402039,
+            -0.0457669235765934,
+            0.0
+          ],
+          "distance": 9.454943656921387
+        },
+        "west": {
+          "object": "Video | left music poster 0.2",
+          "point": [
+            -2.1050000190734863,
+            11.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896504282951355,
+            0.14349929988384247,
+            0.0
+          ],
+          "distance": 3.1050000190734863
+        },
+        "front": {
+          "object": "First | front office rear | wall end",
+          "point": [
+            1.0,
+            6.942171096801758,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 4.057828903198242
+        },
+        "rear": {
+          "object": "First | toilets front | pier 0",
+          "point": [
+            1.0,
+            20.74835205078125,
+            6.450000286102295
+          ],
+          "normal": [
+            0.03266948461532593,
+            -0.9994661808013916,
+            0.0
+          ],
+          "distance": 9.74835205078125
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        1,
+        14,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            1.0,
+            14.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.63800048828125
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            1.0,
+            14.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999990940093994
+        },
+        "east": {
+          "object": "Video | upstairs television glass",
+          "point": [
+            10.163199424743652,
+            14.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 9.163199424743652
+        },
+        "west": {
+          "object": "Video | left music poster 1.1",
+          "point": [
+            -2.5399997234344482,
+            14.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896503686904907,
+            0.1434994786977768,
+            0.0
+          ],
+          "distance": 3.5399997234344482
+        },
+        "front": {
+          "object": "First | front office rear | wall end",
+          "point": [
+            1.0,
+            6.942171573638916,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 7.057828426361084
+        },
+        "rear": {
+          "object": "First | toilets front | pier 0",
+          "point": [
+            1.0,
+            20.74835205078125,
+            6.450000286102295
+          ],
+          "normal": [
+            0.03266948461532593,
+            -0.9994661808013916,
+            0.0
+          ],
+          "distance": 6.74835205078125
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        1,
+        17,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            1.0,
+            17.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.63800048828125
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            1.0,
+            17.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999990940093994
+        },
+        "east": {
+          "object": "Video | right music poster 2.0",
+          "point": [
+            10.162299156188965,
+            17.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.998263955116272,
+            0.05889759957790375,
+            0.0
+          ],
+          "distance": 9.162299156188965
+        },
+        "west": {
+          "object": "Video | left music poster 2.0",
+          "point": [
+            -2.9749996662139893,
+            17.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896503686904907,
+            0.1434994786977768,
+            0.0
+          ],
+          "distance": 3.9749996662139893
+        },
+        "front": {
+          "object": "First | front office rear | wall end",
+          "point": [
+            1.0,
+            6.942172050476074,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 10.057827949523926
+        },
+        "rear": {
+          "object": "First | toilets front | pier 0",
+          "point": [
+            1.0,
+            20.74835205078125,
+            6.450000286102295
+          ],
+          "normal": [
+            0.03266948461532593,
+            -0.9994661808013916,
+            0.0
+          ],
+          "distance": 3.74835205078125
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        3,
+        11,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            3.0,
+            11.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6380006074905396
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            3.0,
+            11.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999995708465576
+        },
+        "east": {
+          "object": "First shell 06 | wall end",
+          "point": [
+            10.454944610595703,
+            11.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9989520907402039,
+            -0.0457669235765934,
+            0.0
+          ],
+          "distance": 7.454945087432861
+        },
+        "west": {
+          "object": "Video | left music poster 0.2",
+          "point": [
+            -2.1050000190734863,
+            11.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896504282951355,
+            0.14349929988384247,
+            0.0
+          ],
+          "distance": 5.105000019073486
+        },
+        "front": {
+          "object": "First | kitchen passage rear | pier 0",
+          "point": [
+            3.0,
+            8.250152587890625,
+            6.450000286102295
+          ],
+          "normal": [
+            -7.008702027633262e-07,
+            1.0,
+            0.0
+          ],
+          "distance": 2.749847412109375
+        },
+        "rear": {
+          "object": "First | toilets front | pier 1",
+          "point": [
+            3.0,
+            20.813732147216797,
+            6.450000286102295
+          ],
+          "normal": [
+            0.03266822546720505,
+            -0.9994662404060364,
+            0.0
+          ],
+          "distance": 9.813732147216797
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        3,
+        14,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            3.0,
+            14.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.63800048828125
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            3.0,
+            14.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999995708465576
+        },
+        "east": {
+          "object": "Video | upstairs television glass",
+          "point": [
+            10.163200378417969,
+            14.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 7.163200378417969
+        },
+        "west": {
+          "object": "Video | left music poster 1.1",
+          "point": [
+            -2.5399999618530273,
+            14.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896503686904907,
+            0.1434994786977768,
+            0.0
+          ],
+          "distance": 5.539999961853027
+        },
+        "front": {
+          "object": "First | kitchen passage rear | pier 0",
+          "point": [
+            3.0,
+            8.250152587890625,
+            6.450000286102295
+          ],
+          "normal": [
+            -7.008702027633262e-07,
+            1.0,
+            0.0
+          ],
+          "distance": 5.749847888946533
+        },
+        "rear": {
+          "object": "First | toilets front | pier 1",
+          "point": [
+            3.0,
+            20.813732147216797,
+            6.450000286102295
+          ],
+          "normal": [
+            0.03266822546720505,
+            -0.9994662404060364,
+            0.0
+          ],
+          "distance": 6.813732147216797
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        3,
+        17,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            3.0,
+            17.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6380006074905396
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            3.0,
+            17.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999995708465576
+        },
+        "east": {
+          "object": "Video | right music poster 2.0",
+          "point": [
+            10.162300109863281,
+            17.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.998263955116272,
+            0.05889759957790375,
+            0.0
+          ],
+          "distance": 7.162299633026123
+        },
+        "west": {
+          "object": "Video | left music poster 2.0",
+          "point": [
+            -2.9749999046325684,
+            17.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896503686904907,
+            0.1434994786977768,
+            0.0
+          ],
+          "distance": 5.974999904632568
+        },
+        "front": {
+          "object": "First | kitchen passage rear | pier 0",
+          "point": [
+            3.0,
+            8.250152587890625,
+            6.450000286102295
+          ],
+          "normal": [
+            -7.008702027633262e-07,
+            1.0,
+            0.0
+          ],
+          "distance": 8.749847412109375
+        },
+        "rear": {
+          "object": "First | toilets front | pier 1",
+          "point": [
+            3.0,
+            20.813732147216797,
+            6.450000286102295
+          ],
+          "normal": [
+            0.03266822546720505,
+            -0.9994662404060364,
+            0.0
+          ],
+          "distance": 3.813732147216797
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        3,
+        20,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            3.0,
+            20.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6380006074905396
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            3.0,
+            20.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999993324279785
+        },
+        "east": {
+          "object": "First | toilets front | door 1 | open leaf",
+          "point": [
+            4.172064781188965,
+            20.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9984675049781799,
+            -0.05534098297357559,
+            0.0
+          ],
+          "distance": 1.172065019607544
+        },
+        "west": {
+          "object": "First | toilets front | door 0 | open leaf",
+          "point": [
+            1.1988677978515625,
+            20.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9984675049781799,
+            0.05534067377448082,
+            0.0
+          ],
+          "distance": 1.8011322021484375
+        },
+        "front": {
+          "object": "First | kitchen passage rear | pier 0",
+          "point": [
+            3.0,
+            8.250152587890625,
+            6.450000286102295
+          ],
+          "normal": [
+            -7.008702027633262e-07,
+            1.0,
+            0.0
+          ],
+          "distance": 11.749847412109375
+        },
+        "rear": {
+          "object": "First | toilets front | pier 1",
+          "point": [
+            3.0,
+            20.813732147216797,
+            6.450000286102295
+          ],
+          "normal": [
+            0.03266822546720505,
+            -0.9994662404060364,
+            0.0
+          ],
+          "distance": 0.8137323260307312
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        5,
+        2,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            5.0,
+            2.0,
+            4.800000190734863
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6500000953674316
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            5.0,
+            2.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999993324279785
+        },
+        "east": {
+          "object": "First shell 07 | wall end",
+          "point": [
+            10.405416488647461,
+            2.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9986414909362793,
+            0.052107587456703186,
+            0.0
+          ],
+          "distance": 5.405416011810303
+        },
+        "west": {
+          "object": "First | kitchen top | wall end",
+          "point": [
+            3.176690101623535,
+            2.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9999654293060303,
+            0.008312608115375042,
+            0.0
+          ],
+          "distance": 1.8233100175857544
+        },
+        "front": {
+          "object": "Front | sash recessed glass.001",
+          "point": [
+            5.0,
+            0.08625006675720215,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 1.9137499332427979
+        },
+        "rear": {
+          "object": "First | toilets rear | wall end",
+          "point": [
+            5.0,
+            25.49309539794922,
+            6.450000286102295
+          ],
+          "normal": [
+            0.026651395484805107,
+            -0.9996447563171387,
+            0.0
+          ],
+          "distance": 23.49309539794922
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        5,
+        5,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            5.0,
+            5.0,
+            4.800000190734863
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6500000953674316
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            5.0,
+            5.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999995708465576
+        },
+        "east": {
+          "object": "First shell 07 | glazing 0",
+          "point": [
+            10.736360549926758,
+            5.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9985665082931519,
+            0.05352548509836197,
+            0.0
+          ],
+          "distance": 5.736361026763916
+        },
+        "west": {
+          "object": "First | kitchen top | wall end",
+          "point": [
+            3.1517512798309326,
+            5.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9999654293060303,
+            0.008312608115375042,
+            0.0
+          ],
+          "distance": 1.8482487201690674
+        },
+        "front": {
+          "object": "Front | sash recessed glass.001",
+          "point": [
+            5.0,
+            0.08624935150146484,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 4.913750648498535
+        },
+        "rear": {
+          "object": "First | toilets rear | wall end",
+          "point": [
+            5.0,
+            25.49309730529785,
+            6.450000286102295
+          ],
+          "normal": [
+            0.026651395484805107,
+            -0.9996447563171387,
+            0.0
+          ],
+          "distance": 20.49309730529785
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        5,
+        8,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            5.0,
+            8.0,
+            4.800000190734863
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6500002145767212
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            5.0,
+            8.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999990940093994
+        },
+        "east": {
+          "object": "First shell 06 | wall end",
+          "point": [
+            10.592389106750488,
+            8.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9989520907402039,
+            -0.0457669235765934,
+            0.0
+          ],
+          "distance": 5.592389106750488
+        },
+        "west": {
+          "object": "First | kitchen top | wall end",
+          "point": [
+            3.1268129348754883,
+            8.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9999654293060303,
+            0.008312608115375042,
+            0.0
+          ],
+          "distance": 1.8731871843338013
+        },
+        "front": {
+          "object": "Front | sash recessed glass.001",
+          "point": [
+            5.0,
+            0.08624982833862305,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 7.913750171661377
+        },
+        "rear": {
+          "object": "First | toilets rear | wall end",
+          "point": [
+            5.0,
+            25.49309539794922,
+            6.450000286102295
+          ],
+          "normal": [
+            0.026651395484805107,
+            -0.9996447563171387,
+            0.0
+          ],
+          "distance": 17.49309539794922
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        5,
+        11,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs centre dining 11 round tabletop",
+          "point": [
+            5.0,
+            11.0,
+            5.607500076293945
+          ],
+          "normal": [
+            4.1439199094384094e-07,
+            0.0,
+            1.0
+          ],
+          "distance": 0.8425002098083496
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            5.0,
+            11.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999993324279785
+        },
+        "east": {
+          "object": "First shell 06 | wall end",
+          "point": [
+            10.454944610595703,
+            11.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9989520907402039,
+            -0.0457669235765934,
+            0.0
+          ],
+          "distance": 5.454944610595703
+        },
+        "west": {
+          "object": "Video | left music poster 0.2",
+          "point": [
+            -2.104999542236328,
+            11.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896504282951355,
+            0.14349929988384247,
+            0.0
+          ],
+          "distance": 7.104999542236328
+        },
+        "front": {
+          "object": "Front | sash recessed glass.001",
+          "point": [
+            5.0,
+            0.08625030517578125,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 10.913749694824219
+        },
+        "rear": {
+          "object": "First | toilets rear | wall end",
+          "point": [
+            5.0,
+            25.49309539794922,
+            6.450000286102295
+          ],
+          "normal": [
+            0.026651395484805107,
+            -0.9996447563171387,
+            0.0
+          ],
+          "distance": 14.493096351623535
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        5,
+        14,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            5.0,
+            14.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6380006074905396
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            5.0,
+            14.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999995708465576
+        },
+        "east": {
+          "object": "Video | upstairs television glass",
+          "point": [
+            10.163200378417969,
+            14.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 5.163200855255127
+        },
+        "west": {
+          "object": "Video | left music poster 1.1",
+          "point": [
+            -2.539999485015869,
+            14.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896503686904907,
+            0.1434994786977768,
+            0.0
+          ],
+          "distance": 7.539999485015869
+        },
+        "front": {
+          "object": "Front | sash recessed glass.001",
+          "point": [
+            5.0,
+            0.08625125885009766,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 13.913748741149902
+        },
+        "rear": {
+          "object": "First | toilets rear | wall end",
+          "point": [
+            5.0,
+            25.49309539794922,
+            6.450000286102295
+          ],
+          "normal": [
+            0.026651395484805107,
+            -0.9996447563171387,
+            0.0
+          ],
+          "distance": 11.493096351623535
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        5,
+        17,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            5.0,
+            17.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6380006074905396
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            5.0,
+            17.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999993324279785
+        },
+        "east": {
+          "object": "Video | right music poster 2.0",
+          "point": [
+            10.162300109863281,
+            17.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.998263955116272,
+            0.05889759957790375,
+            0.0
+          ],
+          "distance": 5.162300109863281
+        },
+        "west": {
+          "object": "Video | left music poster 2.0",
+          "point": [
+            -2.97499942779541,
+            17.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896503686904907,
+            0.1434994786977768,
+            0.0
+          ],
+          "distance": 7.97499942779541
+        },
+        "front": {
+          "object": "Front | sash recessed glass.001",
+          "point": [
+            5.0,
+            0.08625030517578125,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 16.91374969482422
+        },
+        "rear": {
+          "object": "First | toilets rear | wall end",
+          "point": [
+            5.0,
+            25.49309539794922,
+            6.450000286102295
+          ],
+          "normal": [
+            0.026651395484805107,
+            -0.9996447563171387,
+            0.0
+          ],
+          "distance": 8.493096351623535
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        5,
+        20,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            5.0,
+            20.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6380006074905396
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            5.0,
+            20.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999995708465576
+        },
+        "east": {
+          "object": "First shell 06 | wall end",
+          "point": [
+            10.042610168457031,
+            20.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9989520907402039,
+            -0.0457669235765934,
+            0.0
+          ],
+          "distance": 5.042609691619873
+        },
+        "west": {
+          "object": "First | toilets front | door 1 | open leaf",
+          "point": [
+            4.260039806365967,
+            20.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9984675049781799,
+            0.0553404875099659,
+            0.0
+          ],
+          "distance": 0.7399601340293884
+        },
+        "front": {
+          "object": "Front | sash recessed glass.001",
+          "point": [
+            5.0,
+            0.08625030517578125,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 19.91374969482422
+        },
+        "rear": {
+          "object": "First | toilets rear | wall end",
+          "point": [
+            5.0,
+            25.49309539794922,
+            6.450000286102295
+          ],
+          "normal": [
+            0.026651395484805107,
+            -0.9996447563171387,
+            0.0
+          ],
+          "distance": 5.493096351623535
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        7,
+        2,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            7.0,
+            2.0,
+            4.800000190734863
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6500000953674316
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            7.0,
+            2.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999995708465576
+        },
+        "east": {
+          "object": "First shell 07 | wall end",
+          "point": [
+            10.405416488647461,
+            2.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9986414909362793,
+            0.052107587456703186,
+            0.0
+          ],
+          "distance": 3.4054160118103027
+        },
+        "west": {
+          "object": "First | kitchen top | wall end",
+          "point": [
+            3.176690101623535,
+            2.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9999654293060303,
+            0.008312608115375042,
+            0.0
+          ],
+          "distance": 3.823309898376465
+        },
+        "front": {
+          "object": "Front | upper brick pier.002",
+          "point": [
+            7.0,
+            0.08250010013580322,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 1.9174998998641968
+        },
+        "rear": {
+          "object": "First | kitchen passage rear | wall end",
+          "point": [
+            7.0,
+            8.040152549743652,
+            6.450000286102295
+          ],
+          "normal": [
+            2.5396997216375894e-07,
+            -1.0,
+            0.0
+          ],
+          "distance": 6.040152549743652
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        7,
+        5,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            7.0,
+            5.0,
+            4.800000190734863
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6500000953674316
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            7.0,
+            5.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999995708465576
+        },
+        "east": {
+          "object": "First shell 07 | glazing 0",
+          "point": [
+            10.736361503601074,
+            5.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9985665082931519,
+            0.05352548509836197,
+            0.0
+          ],
+          "distance": 3.736361503601074
+        },
+        "west": {
+          "object": "First | kitchen top | wall end",
+          "point": [
+            3.1517510414123535,
+            5.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9999654293060303,
+            0.008312608115375042,
+            0.0
+          ],
+          "distance": 3.8482489585876465
+        },
+        "front": {
+          "object": "Front | upper brick pier.002",
+          "point": [
+            7.0,
+            0.08249998092651367,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 4.917500019073486
+        },
+        "rear": {
+          "object": "First | kitchen passage rear | wall end",
+          "point": [
+            7.0,
+            8.040152549743652,
+            6.450000286102295
+          ],
+          "normal": [
+            2.5396997216375894e-07,
+            -1.0,
+            0.0
+          ],
+          "distance": 3.0401525497436523
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        7,
+        11,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            7.0,
+            11.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.63800048828125
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            7.0,
+            11.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999990940093994
+        },
+        "east": {
+          "object": "First shell 06 | wall end",
+          "point": [
+            10.454944610595703,
+            11.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9989520907402039,
+            -0.0457669235765934,
+            0.0
+          ],
+          "distance": 3.454944610595703
+        },
+        "west": {
+          "object": "Video | left music poster 0.2",
+          "point": [
+            -2.1050004959106445,
+            11.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896504282951355,
+            0.14349929988384247,
+            0.0
+          ],
+          "distance": 9.105000495910645
+        },
+        "front": {
+          "object": "First | kitchen passage rear | wall end",
+          "point": [
+            7.0,
+            8.250153541564941,
+            6.450000286102295
+          ],
+          "normal": [
+            2.5354574972880073e-07,
+            1.0,
+            0.0
+          ],
+          "distance": 2.7498466968536377
+        },
+        "rear": {
+          "object": "First | hall access | pier 0",
+          "point": [
+            7.0,
+            20.882144927978516,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 9.8821439743042
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        7,
+        14,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            7.0,
+            14.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.63800048828125
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            7.0,
+            14.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999990940093994
+        },
+        "east": {
+          "object": "Video | upstairs television glass",
+          "point": [
+            10.163200378417969,
+            14.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 3.1632003784179688
+        },
+        "west": {
+          "object": "Video | left music poster 1.1",
+          "point": [
+            -2.539999008178711,
+            14.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896503686904907,
+            0.1434994786977768,
+            0.0
+          ],
+          "distance": 9.539999008178711
+        },
+        "front": {
+          "object": "First | kitchen passage rear | wall end",
+          "point": [
+            7.0,
+            8.250154495239258,
+            6.450000286102295
+          ],
+          "normal": [
+            2.5354574972880073e-07,
+            1.0,
+            0.0
+          ],
+          "distance": 5.7498459815979
+        },
+        "rear": {
+          "object": "First | hall access | pier 0",
+          "point": [
+            7.0,
+            20.882143020629883,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 6.882143497467041
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        7,
+        17,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            7.0,
+            17.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6380006074905396
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            7.0,
+            17.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999993324279785
+        },
+        "east": {
+          "object": "Video | right music poster 2.0",
+          "point": [
+            10.162300109863281,
+            17.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.998263955116272,
+            0.05889759957790375,
+            0.0
+          ],
+          "distance": 3.1623001098632812
+        },
+        "west": {
+          "object": "Video | left music poster 2.0",
+          "point": [
+            -2.97499942779541,
+            17.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896503686904907,
+            0.1434994786977768,
+            0.0
+          ],
+          "distance": 9.97499942779541
+        },
+        "front": {
+          "object": "First | kitchen passage rear | wall end",
+          "point": [
+            7.0,
+            8.250153541564941,
+            6.450000286102295
+          ],
+          "normal": [
+            2.5354574972880073e-07,
+            1.0,
+            0.0
+          ],
+          "distance": 8.749846458435059
+        },
+        "rear": {
+          "object": "First | hall access | pier 0",
+          "point": [
+            7.0,
+            20.882143020629883,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 3.882143259048462
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        7,
+        20,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            7.0,
+            20.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6380006074905396
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            7.0,
+            20.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999990940093994
+        },
+        "east": {
+          "object": "First shell 06 | wall end",
+          "point": [
+            10.042610168457031,
+            20.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9989520907402039,
+            -0.0457669235765934,
+            0.0
+          ],
+          "distance": 3.042609930038452
+        },
+        "west": {
+          "object": "First | toilets front | door 1 | open leaf",
+          "point": [
+            4.260039806365967,
+            20.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9984675049781799,
+            0.0553404875099659,
+            0.0
+          ],
+          "distance": 2.739960193634033
+        },
+        "front": {
+          "object": "First | kitchen passage rear | wall end",
+          "point": [
+            7.0,
+            8.250153541564941,
+            6.450000286102295
+          ],
+          "normal": [
+            2.5354574972880073e-07,
+            1.0,
+            0.0
+          ],
+          "distance": 11.749846458435059
+        },
+        "rear": {
+          "object": "First | hall access | pier 0",
+          "point": [
+            7.0,
+            20.882143020629883,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 0.8821430206298828
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        9,
+        2,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "First | floor with corrected L stairwell opening",
+          "point": [
+            9.0,
+            2.0,
+            4.800000190734863
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6500000953674316
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            9.0,
+            2.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999993324279785
+        },
+        "east": {
+          "object": "First shell 07 | wall end",
+          "point": [
+            10.405416488647461,
+            2.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9986414909362793,
+            0.052107587456703186,
+            0.0
+          ],
+          "distance": 1.4054162502288818
+        },
+        "west": {
+          "object": "First | kitchen top | wall end",
+          "point": [
+            3.176690101623535,
+            2.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9999654293060303,
+            0.008312608115375042,
+            0.0
+          ],
+          "distance": 5.823309898376465
+        },
+        "front": {
+          "object": "Front | sash recessed glass.002",
+          "point": [
+            9.0,
+            0.08625006675720215,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 1.9137499332427979
+        },
+        "rear": {
+          "object": "First | kitchen passage rear | wall end",
+          "point": [
+            9.0,
+            8.040153503417969,
+            6.450000286102295
+          ],
+          "normal": [
+            2.5396997216375894e-07,
+            -1.0,
+            0.0
+          ],
+          "distance": 6.040153980255127
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        9,
+        5,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Kitchen | central prep table",
+          "point": [
+            9.0,
+            5.0,
+            5.699999809265137
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 0.7500004768371582
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            9.0,
+            5.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999990940093994
+        },
+        "east": {
+          "object": "First shell 07 | glazing 0",
+          "point": [
+            10.736361503601074,
+            5.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9985665082931519,
+            0.05352548509836197,
+            0.0
+          ],
+          "distance": 1.7363611459732056
+        },
+        "west": {
+          "object": "First | kitchen top | wall end",
+          "point": [
+            3.1517510414123535,
+            5.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9999654293060303,
+            0.008312608115375042,
+            0.0
+          ],
+          "distance": 5.8482489585876465
+        },
+        "front": {
+          "object": "Front | sash recessed glass.002",
+          "point": [
+            9.0,
+            0.08624935150146484,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "distance": 4.913750648498535
+        },
+        "rear": {
+          "object": "First | kitchen passage rear | wall end",
+          "point": [
+            9.0,
+            8.040153503417969,
+            6.450000286102295
+          ],
+          "normal": [
+            2.5396997216375894e-07,
+            -1.0,
+            0.0
+          ],
+          "distance": 3.0401535034179688
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        9,
+        11,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | right table 1 top",
+          "point": [
+            9.0,
+            11.0,
+            5.597499847412109
+          ],
+          "normal": [
+            3.055227182358067e-07,
+            0.0,
+            1.0
+          ],
+          "distance": 0.8525004982948303
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            9.0,
+            11.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999995708465576
+        },
+        "east": {
+          "object": "First shell 06 | wall end",
+          "point": [
+            10.454944610595703,
+            11.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9989520907402039,
+            -0.0457669235765934,
+            0.0
+          ],
+          "distance": 1.454944372177124
+        },
+        "west": {
+          "object": "Video | left music poster 0.2",
+          "point": [
+            -2.104999542236328,
+            11.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896504282951355,
+            0.14349929988384247,
+            0.0
+          ],
+          "distance": 11.104999542236328
+        },
+        "front": {
+          "object": "First | kitchen passage rear | wall end",
+          "point": [
+            9.0,
+            8.250152587890625,
+            6.450000286102295
+          ],
+          "normal": [
+            2.5354574972880073e-07,
+            1.0,
+            0.0
+          ],
+          "distance": 2.749846935272217
+        },
+        "rear": {
+          "object": "First | hall access | door 0 | jamb 1",
+          "point": [
+            9.0,
+            20.927143096923828,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 9.927143096923828
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        9,
+        14,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            9.0,
+            14.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6380006074905396
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            9.0,
+            14.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999995708465576
+        },
+        "east": {
+          "object": "Video | upstairs television glass",
+          "point": [
+            10.163200378417969,
+            14.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "distance": 1.1632003784179688
+        },
+        "west": {
+          "object": "Video | left music poster 1.1",
+          "point": [
+            -2.5399999618530273,
+            14.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896503686904907,
+            0.1434994786977768,
+            0.0
+          ],
+          "distance": 11.539999961853027
+        },
+        "front": {
+          "object": "First | kitchen passage rear | wall end",
+          "point": [
+            9.0,
+            8.250152587890625,
+            6.450000286102295
+          ],
+          "normal": [
+            2.5354574972880073e-07,
+            1.0,
+            0.0
+          ],
+          "distance": 5.749846935272217
+        },
+        "rear": {
+          "object": "First | hall access | door 0 | jamb 1",
+          "point": [
+            9.0,
+            20.927143096923828,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 6.927143096923828
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        9,
+        17,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            9.0,
+            17.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.6380006074905396
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            9.0,
+            17.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999993324279785
+        },
+        "east": {
+          "object": "Video | right music poster 2.0",
+          "point": [
+            10.162300109863281,
+            17.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.998263955116272,
+            0.05889759957790375,
+            0.0
+          ],
+          "distance": 1.1623002290725708
+        },
+        "west": {
+          "object": "Video | left music poster 2.0",
+          "point": [
+            -2.97499942779541,
+            17.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9896503686904907,
+            0.1434994786977768,
+            0.0
+          ],
+          "distance": 11.97499942779541
+        },
+        "front": {
+          "object": "First | kitchen passage rear | wall end",
+          "point": [
+            9.0,
+            8.250152587890625,
+            6.450000286102295
+          ],
+          "normal": [
+            2.5354574972880073e-07,
+            1.0,
+            0.0
+          ],
+          "distance": 8.749847412109375
+        },
+        "rear": {
+          "object": "First | hall access | door 0 | jamb 1",
+          "point": [
+            9.0,
+            20.927143096923828,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 3.9271433353424072
+        }
+      },
+      "open_directions": []
+    },
+    {
+      "level": "upstairs",
+      "eye": [
+        9,
+        20,
+        6.450000190734864
+      ],
+      "rays": {
+        "floor": {
+          "object": "Video | upstairs seating carpet",
+          "point": [
+            9.0,
+            20.0,
+            4.811999797821045
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "distance": 1.63800048828125
+        },
+        "ceiling": {
+          "object": "Recon v18 | Upper removable ceiling",
+          "point": [
+            9.0,
+            20.0,
+            9.149999618530273
+          ],
+          "normal": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "distance": 2.6999995708465576
+        },
+        "east": {
+          "object": "First shell 06 | wall end",
+          "point": [
+            10.042610168457031,
+            20.0,
+            6.450000286102295
+          ],
+          "normal": [
+            -0.9989520907402039,
+            -0.0457669235765934,
+            0.0
+          ],
+          "distance": 1.0426098108291626
+        },
+        "west": {
+          "object": "First | toilets front | door 1 | open leaf",
+          "point": [
+            4.260039806365967,
+            20.0,
+            6.450000286102295
+          ],
+          "normal": [
+            0.9984675049781799,
+            0.0553404875099659,
+            0.0
+          ],
+          "distance": 4.739960193634033
+        },
+        "front": {
+          "object": "First | kitchen passage rear | wall end",
+          "point": [
+            9.0,
+            8.250153541564941,
+            6.450000286102295
+          ],
+          "normal": [
+            2.5354574972880073e-07,
+            1.0,
+            0.0
+          ],
+          "distance": 11.749846458435059
+        },
+        "rear": {
+          "object": "First | hall access | door 0 | jamb 1",
+          "point": [
+            9.0,
+            20.927143096923828,
+            6.450000286102295
+          ],
+          "normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "distance": 0.9271431565284729
+        }
+      },
+      "open_directions": []
+    }
+  ],
+  "open_rays": 5,
+  "limits": [
+    "A mesh hit may be furniture or distant scenery; does not establish room sealing",
+    "Intentional doorways/windows can produce open rays",
+    "Only axial sparse samples; no full surface coverage or engine collision test"
+  ]
+}

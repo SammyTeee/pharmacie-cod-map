@@ -1,0 +1,50 @@
+{
+  "input_sha256": "f4c920ecb495c3641346773a257230dc66992d0d610d648ecffb24fd8680d69e",
+  "checkpoint": "assets\\blender\\pharmacie-syston-detail-v28.blend",
+  "new_closed_solids": 2031,
+  "preserved_existing_mesh_geometry": 6749,
+  "archived_details": [
+    "Syston v25 | F012 | yellow beacon",
+    "Syston v25 | F012 | yellow beacon.001",
+    "Syston v25 | B032 | lower plinth",
+    "Syston v25 | B032 | recessed entrance glass",
+    "Syston v25 | B032 | recessed entrance upright",
+    "Syston v25 | B032 | recessed entrance upright.001",
+    "Syston v25 | B032 | recessed entrance rail",
+    "Syston v25 | B032 | recessed entrance rail.001",
+    "Syston v25 | B032 | recessed entrance sill",
+    "Syston v25 | B032 | recessed entrance transom",
+    "Syston v25 | B032 | door kickplate",
+    "Syston v25 | B032 | door handle",
+    "Syston v25 | B032 | display bay glass",
+    "Syston v25 | B032 | display bay upright",
+    "Syston v25 | B032 | display bay upright.001",
+    "Syston v25 | B032 | display bay rail",
+    "Syston v25 | B032 | display bay rail.001",
+    "Syston v25 | B032 | display bay sill",
+    "Syston v25 | B032 | display bay transom",
+    "Syston v25 | B032 | display bay glass.001",
+    "Syston v25 | B032 | display bay upright.002",
+    "Syston v25 | B032 | display bay upright.003",
+    "Syston v25 | B032 | display bay rail.002",
+    "Syston v25 | B032 | display bay rail.003",
+    "Syston v25 | B032 | display bay sill.001",
+    "Syston v25 | B032 | display bay transom.001"
+  ],
+  "road_overhead_samples": 390,
+  "photo_basis": [
+    "F012:00273,00283,00284",
+    "F013:00286-00295",
+    "B032:00270,00282",
+    "B033:00273,00294",
+    "B015:00099,00114",
+    "B045:00233"
+  ],
+  "limits": [
+    "Road and parcel dimensions remain estimated",
+    "Drains/utility covers indicative placement, not surveyed",
+    "Tactile landings added; existing curved kerbs and dropped crossings still need reconstruction",
+    "Only Costa/Amy Clarke/Specsavers/GLO individually refined; remaining frontages still need comparable detail",
+    "Blender only; no engine export or runtime test"
+  ]
+}

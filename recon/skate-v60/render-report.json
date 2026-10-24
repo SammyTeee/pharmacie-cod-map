@@ -1,0 +1,82 @@
+{
+  "source": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\pharmacie-skate-street-v60.blend",
+  "engine": "Cycles / 12 samples / denoised / 15 second tracing limit / temporary daylight",
+  "device": "GPU",
+  "images": [
+    {
+      "name": "street_line",
+      "file": "street_line.jpg",
+      "seconds": 20.27822819999983,
+      "eye": [
+        -24,
+        -10.5,
+        3.8
+      ],
+      "target": [
+        12,
+        -5,
+        1.8
+      ]
+    },
+    {
+      "name": "flatbar",
+      "file": "flatbar.jpg",
+      "seconds": 4.453604000000269,
+      "eye": [
+        8,
+        -10.5,
+        1.8
+      ],
+      "target": [
+        17,
+        -7.8,
+        0.7
+      ]
+    },
+    {
+      "name": "return_ramp",
+      "file": "return_ramp.jpg",
+      "seconds": 4.204135900000438,
+      "eye": [
+        42,
+        -9.6,
+        1.8
+      ],
+      "target": [
+        51,
+        -7.15,
+        1.0
+      ]
+    },
+    {
+      "name": "pub_player",
+      "file": "pub_player.jpg",
+      "seconds": 4.219352000000072,
+      "eye": [
+        -12,
+        -9,
+        1.75
+      ],
+      "target": [
+        5,
+        1,
+        2.0
+      ]
+    },
+    {
+      "name": "street_plan",
+      "file": "street_plan.jpg",
+      "seconds": 3.9964082000005874,
+      "eye": [
+        -5,
+        -3,
+        75
+      ],
+      "target": [
+        -5,
+        -3,
+        0
+      ]
+    }
+  ]
+}
