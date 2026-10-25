@@ -1,0 +1,35 @@
+{
+  "source": "assets\\blender\\pharmacie-demo-base-v59.blend",
+  "source_sha256": "c39f15e8b24e099f5b9753778597ef89bf9b76fa815324612af1fb5569f0a834",
+  "map_sha256": "6ac0104e4a807c58a48a4a6287bba0017e49b39aef4e6fc8516363972e7f3d0b",
+  "samples": 11813,
+  "missing_count": 0,
+  "height_mismatch_count": 0,
+  "floors": [
+    {
+      "object": "Ground | continuous timber floor",
+      "samples": 0,
+      "missing": [],
+      "height_mismatch": []
+    },
+    {
+      "object": "First | floor with corrected L stairwell opening",
+      "samples": 9713,
+      "missing": [],
+      "height_mismatch": []
+    },
+    {
+      "object": "Mapping v30 | Outer alley walkable floor",
+      "samples": 1560,
+      "missing": [],
+      "height_mismatch": []
+    },
+    {
+      "object": "Mapping v30 | Rear turn walkable floor",
+      "samples": 540,
+      "missing": [],
+      "height_mismatch": []
+    }
+  ],
+  "limits": "Evaluated four principal pub/alley floor surfaces on a .2 BU grid, height tolerance .05 BU. Does not prove native physics, prefab collision, navigation or all visual seams."
+}

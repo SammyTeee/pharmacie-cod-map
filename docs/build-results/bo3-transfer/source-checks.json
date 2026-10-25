@@ -1,0 +1,420 @@
+{
+  "source_sha256_unchanged": "c39f15e8b24e099f5b9753778597ef89bf9b76fa815324612af1fb5569f0a834",
+  "native_photo_pixel_checks": [
+    {
+      "material": "Interior photo | bar front.jpg",
+      "native_dimensions": [
+        2000,
+        1325
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Interior photo | bar front BACKBAR region",
+      "native_dimensions": [
+        2000,
+        1325
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Frontage photo | original packed source, UV crops",
+      "native_dimensions": [
+        1024,
+        751
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Interior photo | great for texture.avif",
+      "native_dimensions": [
+        1973,
+        1227
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Street v17 | slate",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Street v17 | paving",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Interior photo | textures wall.jpg",
+      "native_dimensions": [
+        451,
+        679
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Shop v19 | Syston Dry Cleaners selected window display",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Shop v19 | Nail and Spa shop selected window display",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Shop v19 | Wreake Valley Flooring selected window display",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Shop v20 | Aston and Co selected window display",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Shop v20 | Floral Fantasy selected window display",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Shop v20 | Fox and Hounds selected window display",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Shop v20 | Lets Move estate agents selected window display",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Shop v20 | Syston Mini Market selected window display",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Syston v27 | concrete paving joints",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Street v17 | Natural Wellbeing isolated photo",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Street v17 | Post Office isolated photo",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Street v36 | aged asphalt Street v17 | asphalt",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Demo v59 | survey brick 0",
+      "native_dimensions": [
+        1024,
+        1024
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | downstairs medicine-adverts",
+      "native_dimensions": [
+        1128,
+        224
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | Facebook band-aid-advert",
+      "native_dimensions": [
+        216,
+        252
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | book-spines",
+      "native_dimensions": [
+        262,
+        108
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | corridor-beer",
+      "native_dimensions": [
+        144,
+        206
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | Facebook dental-board",
+      "native_dimensions": [
+        295,
+        301
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | medical-board",
+      "native_dimensions": [
+        395,
+        400
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | medical-detail",
+      "native_dimensions": [
+        1040,
+        645
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | Facebook fridge-cans",
+      "native_dimensions": [
+        780,
+        390
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | Facebook fridge-bottles",
+      "native_dimensions": [
+        820,
+        390
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | music-muddy-waters",
+      "native_dimensions": [
+        220,
+        238
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | music-elvis",
+      "native_dimensions": [
+        214,
+        250
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | music-chuck-berry",
+      "native_dimensions": [
+        198,
+        231
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | music-hit-parade",
+      "native_dimensions": [
+        214,
+        296
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | Facebook medical-adverts",
+      "native_dimensions": [
+        970,
+        173
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | Facebook backbar-tap-bank",
+      "native_dimensions": [
+        724,
+        275
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | Facebook pump-mild",
+      "native_dimensions": [
+        176,
+        243
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | Facebook pump-original",
+      "native_dimensions": [
+        236,
+        281
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | downstairs camera-adverts",
+      "native_dimensions": [
+        1121,
+        270
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | downstairs camera-cabinet",
+      "native_dimensions": [
+        756,
+        381
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | radio-one",
+      "native_dimensions": [
+        152,
+        92
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | radio-two",
+      "native_dimensions": [
+        133,
+        96
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | radio-three",
+      "native_dimensions": [
+        128,
+        87
+      ],
+      "unchanged_source_pixels": true
+    },
+    {
+      "material": "Video | radio-four",
+      "native_dimensions": [
+        111,
+        85
+      ],
+      "unchanged_source_pixels": true
+    }
+  ],
+  "models": 91,
+  "triangles": 148596,
+  "unique_initial_spawns": 4,
+  "spawn_checks": [
+    {
+      "classname": "info_player_start",
+      "origin": [
+        78.740157,
+        -267.716535,
+        4.724409
+      ],
+      "body_intersections": [],
+      "support_brushes": [
+        174
+      ]
+    },
+    {
+      "classname": "info_player_coop",
+      "origin": [
+        78.740157,
+        -267.716535,
+        4.724409
+      ],
+      "body_intersections": [],
+      "support_brushes": [
+        174
+      ]
+    },
+    {
+      "classname": "info_player_coop",
+      "origin": [
+        78.740157,
+        -220.472441,
+        4.724409
+      ],
+      "body_intersections": [],
+      "support_brushes": [
+        174
+      ]
+    },
+    {
+      "classname": "info_player_coop",
+      "origin": [
+        78.740157,
+        -173.228346,
+        4.724409
+      ],
+      "body_intersections": [],
+      "support_brushes": [
+        173
+      ]
+    },
+    {
+      "classname": "info_player_coop",
+      "origin": [
+        78.740157,
+        -62.992126,
+        4.724409
+      ],
+      "body_intersections": [],
+      "support_brushes": [
+        172
+      ]
+    }
+  ],
+  "paid_trigger_costs": {
+    "750": 2,
+    "1000": 1,
+    "1250": 2
+  },
+  "limits": "Source checks only; official compiler, runtime texture fidelity, purchases, AI and co-op remain separate gates."
+}

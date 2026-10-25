@@ -1,3 +1,16 @@
+[Resumed compact Zombies copy and faithful texture transfer](docs/BO3_CORE65.md).
+
+24 October: Sam resumed BO3 work and requested a playable separate copy focused
+on the Pharmacie and nearest shopfronts/road, with the longer Syston extension
+temporarily hidden/blocked and Taraj excluded. He selected normal paid progression
+and authorized Git push. Visual source is neutral v59, preserved unchanged.
+Project `zm_pharmacie_core65` uses evaluated textured XModels plus separate
+corrected collision/stock Zombies gameplay. Do not return to lossy all-brush
+visual export. Native photo pixels, source hashes, triangle accounting and five
+spawn checks pass; current build/runtime results are in BO3_CORE65.md. Follow its
+binary token, GDT escaping, planar-bounds and asset-index requirements. Never
+treat old failed package outputs as accepted. Sam retains all game controls.
+
 [Neutral Blender demo and separate skate prototype](docs/BLENDER_DEMO_V59.md).
 
 14 October: Sam requested continuing Blender to a presentable demo, then a

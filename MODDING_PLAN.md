@@ -1,5 +1,12 @@
 [Latest individual shop display detail](docs/RETAIL_DETAIL_V39.md).
 
+Current direction, 24 October 2026: Sam resumed BO3 with a compact separate
+`zm_pharmacie_core65` copy: pub/nearest shops/road, normal paid progression,
+longer route hidden/blocked, Taraj excluded. See [BO3_CORE65.md](docs/BO3_CORE65.md)
+for the evaluated-model/photo transfer method, reproduction and actual evidence.
+Neutral v59 is the immutable visual source. All earlier engine holds below are
+historical; Sam still retains game controls.
+
 Latest Blender source: `assets/blender/pharmacie-retail-detail-v39.blend`.
 V36–38 street scenes/Town Square and v39 retail detail are retained. Engine route
 and deployment remain unchanged; Blender sample checks are not BO3 tests.

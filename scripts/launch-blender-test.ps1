@@ -1,7 +1,8 @@
 param(
     [Parameter(Mandatory=$true)][string]$ToolsRoot,
     [Parameter(Mandatory=$true)][string]$GameRoot,
-    [ValidatePattern('^zm_[a-z0-9_]+$')][string]$MapName = 'zm_pharmacie_blender'
+    [ValidatePattern('^zm_[a-z0-9_]+$')][string]$MapName = 'zm_pharmacie_blender',
+    [switch]$DeployOnly
 )
 $ErrorActionPreference = 'Stop'
 $ToolsRoot = (Resolve-Path -LiteralPath $ToolsRoot).Path
@@ -37,6 +38,12 @@ Get-ChildItem -LiteralPath $zone -Recurse -File | ForEach-Object {
     }
 }
 # Visible game window is intentional: Sam requested opening the map to inspect.
+if ($DeployOnly) {
+    $record = @{ map=$mapName; backup=$backup; deployedUtc=[DateTime]::UtcNow.ToString('o'); gameRoot=$GameRoot; launched=$false }
+    $record | ConvertTo-Json | Set-Content -LiteralPath "$repoRoot\build\blender-test-launch.json"
+    $record | ConvertTo-Json
+    return
+}
 $game = Start-Process -FilePath "$GameRoot\BlackOps3.exe" -WorkingDirectory $GameRoot -ArgumentList @(
     '+set', 'fs_game', $mapName, '+set', 'logfile', '2', '+devmap', $mapName
 ) -PassThru

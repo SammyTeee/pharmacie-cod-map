@@ -1161,3 +1161,38 @@ success claimed yet. Source Blender is unchanged; Sam retains BO3 controls.
 
 
 - Floor repair final build passed (23-second geometry compile, ground navmesh, lighting, both links), deployed/hash-verified and launched at 20:59 London. Final source has 897 repaired convex solids / 57 stationary brushmodels; tiny engine dressing deferred to stay below compiler limits. Runtime retest pending; Blender unchanged.
+
+## 2026-10-25 — Core65 texture transfer, failed entrance trial and Jalfrezi opening
+
+- Separate core65 exports v59 evaluated meshes/UVs into 91 rigid models and
+  148,596 triangles. All 43 photographic materials retain native source pixels;
+  11 procedural materials are baked separately. V59 remains unchanged. Detailed
+  reproduction, binary-token and GDT requirements: docs/BO3_CORE65.md.
+- First native compile/light/navmesh and cached relink passed; private package
+  deployed with eight recursive file hashes and profile/package backup. Sam
+  bought the front door then fell outside: traversal FAILED. No AI/co-op pass.
+- Reproduced 42 unsupported front-exit samples; restored omitted named static
+  collision groups and added permanent entrance/pavement/road/foundation support.
+  Source support now passes 35,238 samples; native traces/manual retest pending.
+- Added opening subtitles: bartender sends survivors to Taraj for Chicken
+  Jalfrezi, then asks them to secure the pub first. First-round preparation is
+  60 seconds, Sam's latest selection. Taraj remains future scope. Bartender NPC,
+  death/service consequence, turret and outdoor/window spawning remain pending.
+  See docs/BO3_PUB_STORY.md. No recorded speech or Dave integration claimed.
+- Prior neutral Blender/skate checkpoint commit 4c98855 was pushed successfully.
+  Core65 delivery is separate; preserve concurrent Dave assets and reference work.
+
+### Wider core65 floor check — 25 October
+
+- Sam explicitly prioritized no floor gaps and a usable connected map. Added
+  evaluated v59 floor-to-collision comparison: 11,813 samples across pub ground,
+  upstairs and both alley floors, zero missing or >.05 BU height mismatches.
+- Added convex standing-body route checks at 1,592 positions, including body
+  clearance, stair turns, doorway bends and maximum step changes. Zero failures
+  on the connected routes. Initial straight lines correctly hit visible chairs,
+  rail/door frames; audited paths go around them. No visual objects removed.
+- Moved east clip/visible barrier to x=56 before the wreck/old scenery closure;
+  removed the redundant far crossing-zone volume. Native geometry/light/navmesh
+  and both links passed again; runtime traversal is still pending.
+- Passive capture of preceding launch showed title screen with core65 loaded.
+  No native ground result or manual traversal pass was obtained. No controls sent.

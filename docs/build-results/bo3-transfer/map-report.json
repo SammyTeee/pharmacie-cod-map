@@ -1,0 +1,35 @@
+{
+  "map": "map_source\\zm\\zm_pharmacie_core65.map",
+  "source_visuals": "assets\\blender\\pharmacie-demo-base-v59.blend",
+  "visual_triangles": 148596,
+  "visual_models": 91,
+  "collision_brushes": 1374,
+  "excluded_noncore_collision_brushes": 2631,
+  "visual_bounds_BU": [
+    [
+      -55,
+      68
+    ],
+    [
+      -30,
+      38
+    ],
+    [
+      -4,
+      24
+    ]
+  ],
+  "paid_gates": {
+    "street": 750,
+    "upstairs": 1000,
+    "crossing": 1250
+  },
+  "source_collision_sha256": "52f5eb8faab91f326440e93e5f1b300be78fcc1e49c688f7ed90775197a88fc1",
+  "map_sha256": "6ac0104e4a807c58a48a4a6287bba0017e49b39aef4e6fc8516363972e7f3d0b",
+  "scope": "Pub, nearest shopfronts and street only. Full route is excluded; four outer clip walls and two visible road barriers.",
+  "pending": [
+    "Official asset/map compilation",
+    "Fresh lighting/link",
+    "Runtime texture and gameplay verification"
+  ]
+}

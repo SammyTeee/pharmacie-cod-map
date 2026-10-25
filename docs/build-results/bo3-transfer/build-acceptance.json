@@ -1,0 +1,70 @@
+{
+  "stage": "Compiled candidate for private runtime trial",
+  "acceptedUtc": "2026-10-25T00:12:04.881261+00:00",
+  "map_sha256": "6ac0104e4a807c58a48a4a6287bba0017e49b39aef4e6fc8516363972e7f3d0b",
+  "source_blend_sha256": "c39f15e8b24e099f5b9753778597ef89bf9b76fa815324612af1fb5569f0a834",
+  "models": 91,
+  "script_sha256": {
+    "scripts\\zm\\zm_pharmacie_core65.csc": "61cb3cdfd8088b9eede4c356576c63f7360877bfb2201cdc840b830479eb7a40",
+    "scripts\\zm\\zm_pharmacie_core65.gsc": "1c6e49fb3ef66419c132dfaace4ec5796c426ddaee6731f87927c4c082338145"
+  },
+  "compile_log_sha256": "dd3d7fe91507c63e313f243c447d3681dd05bcfb136442e6c533557e9a34d8e8",
+  "floor_source_checks": {
+    "route_samples": 1592,
+    "visible_floor_samples": 11813,
+    "ground_samples": 35238
+  },
+  "exported_triangles": 148596,
+  "native_photo_materials": 43,
+  "linker_exit_code": 0,
+  "packageFiles": [
+    {
+      "path": "en_zm_pharmacie_core65.ff",
+      "bytes": 231680,
+      "sha256": "4cdea23c70f21290ee52119f4d406e7210ebe880fbf0a10d5ba20f588bdc5301"
+    },
+    {
+      "path": "en_zm_pharmacie_core65.xpak",
+      "bytes": 16908288,
+      "sha256": "adfbc3ff7c7c63058a7a8a5fee12cc9a17ac140691a899b5892910c4ba24349d"
+    },
+    {
+      "path": "snd\\all\\zm_pharmacie_core65.all.sabl",
+      "bytes": 1030272,
+      "sha256": "d47129a72728dd7abb1d824bf1b10b27a6968dd708fb76af6b29968beef89fcf"
+    },
+    {
+      "path": "snd\\all\\zm_pharmacie_core65.all.sabs",
+      "bytes": 2048,
+      "sha256": "78ff2c99bc8ba47b9be9552882758aa4fa41bd18e35b7136c0262dddcf7a4239"
+    },
+    {
+      "path": "snd\\en\\zm_pharmacie_core65.en.sabl",
+      "bytes": 2048,
+      "sha256": "59e9b076cc4fffb47abf0174d715dc4588c77fba482cfd2f079594c3dbcbd40f"
+    },
+    {
+      "path": "snd\\en\\zm_pharmacie_core65.en.sabs",
+      "bytes": 2048,
+      "sha256": "59e9b076cc4fffb47abf0174d715dc4588c77fba482cfd2f079594c3dbcbd40f"
+    },
+    {
+      "path": "zm_pharmacie_core65.ff",
+      "bytes": 79842944,
+      "sha256": "f5a59a51403a89345eded0c2e7d78a1116c2106686e74765d52a447fbe944fdb"
+    },
+    {
+      "path": "zm_pharmacie_core65.xpak",
+      "bytes": 147423232,
+      "sha256": "211fe9dd08e9c603f3f3b9cbe251cba3ae30d898ca7822323381d5fd7772285f"
+    }
+  ],
+  "lighting_bytes": 1934949,
+  "native_warning_limit": "First conversion reports 15 pre-bone and 48 non-planar/stretch warnings on terrain backing/street fittings; final cached relink exits 0. Export count is not a claim that BO3 retained every degenerate triangle.",
+  "pending": [
+    "Inspected actual runtime capture",
+    "Door/weapon purchases",
+    "Zombie pursuit and round completion",
+    "Co-op"
+  ]
+}
