@@ -1,5 +1,116 @@
 # Mod log
 
+## 2026-11-07 — Repository review and Brownie Blender handover
+
+- Follow-up: Sam approved untracking old checkpoints and pushing a smaller
+  single-project handover. All 72 checkpoint paths under assets/blender are
+  removed from tracking only and ignored; every local file remains. Root
+  Pharmacie-Syston.blend is the single tracked Blender project. v59/v60 originals
+  and separate character/game work remain locally intact. This supersedes the
+  initial 70-path proposal below. Expected net checkout reduction: 2.947 GB
+  (69%), to approximately 1.345 GB plus small notes. Existing history retained;
+  recommend --depth 1 for Brownie's clone. Final verification receipt:
+  docs/handover/cleanup-result.json. No local checkpoint deletion or game work.
+
+- Sam requested a size/prune review and a clearly named Blender project plus AI
+  handover. He emphasized preserving the latest data and recording that older
+  checkpoints remain locally available from him if needed.
+- Baseline: 2,935 tracked files / 4.292 GB, including 72 Blender checkpoints /
+  3.023 GB. Separately, 825.267 MB was untracked and 13.893 GB ignored. Existing
+  uncommitted Dave/Rocky/engine work remains separate and unchanged.
+- Created root `Pharmacie-Syston.blend` as an exact copy of neutral v59;
+  SHA-256 `c39f15e8b24e099f5b9753778597ef89bf9b76fa815324612af1fb5569f0a834`.
+  Background Blender 5.2.2 LTS exit 0: all 52 file-backed images packed, no linked
+  libraries, missing images or unpacked external paths. No source Blender save.
+- Current entry point: docs/BROWNIE_HANDOVER.md. Detailed measured sizes and
+  proposed removal of 70 historical paths from tracking, retaining every local
+  copy and Git history: docs/REPOSITORY_SIZE_REVIEW.md. Initial review performs
+  no checkpoint deletion/untracking, history rewrite, commit, push or game work.
+
+## 2026-10-25 — Dave playtest approval and separate giant boss
+
+- Sam played the Dave trial, strongly approved the visible character and asked
+  to retain Dave as ordinary zombies. Detailed combat/death/co-op cases have not
+  individually been reported. Existing Dave66 assets remain unchanged.
+- Requested a recognizable mutated boss Dave at approximately three times human
+  height. Built-in imagegen produced a separate concept retaining face/glasses,
+  goatee and tattoos, with an enlarged armoured right arm. First graphic concept
+  was rejected by image generation; clean fantasy mutation succeeded.
+- Separate high-resolution TRELLIS job submitted ($0.35 listed), under
+  assets/generated/dave-boss-v1. Boss behavior/engine integration remains separate
+  from the concept and generated mesh. No game controls or Git push.
+- Sam selected down-street boss placement after buying doors and requested
+  natural exterior closure instead of floating scenery. Separate Dave67 adds
+  311 closed scenery pieces / five models / 3,732 triangles and 59 collision
+  solids, preserving all 187 accepted Dave66 entities and world geometry.
+- Final native boss uses approved normal Dave head/upper neck with the mutated
+  body, 78 compatible bones, 46,188 render triangles and a 96-triangle hitbox.
+  Gated stationary street sentinel: 3x scale, 12k HP per player, telegraphed slam,
+  defeat/collider removal and 2k point reward. Moving pursuit/death animation
+  remain unimplemented. Detailed limits/evidence: docs/DAVE_BOSS.md.
+- Fixed declaration-order compile failure and render-mesh bullet collision
+  failure. Final Dave67 native build exits 0; geometry/navigation/fresh lighting,
+  scripts, seven package hashes and source preservation pass. Manual runtime
+  combat/appearance/scale/co-op remain pending. No game controls or Git push.
+- Seven final package files independently hash-verified in the separate retail
+  Dave67 usermap. Deploy-only receipt saved; backup
+  build/before-blender-test-20261025-133251. Game was not launched. Manual map:
+  zm_pharmacie_dave67. Gallery: recon/dave-street67/index.html.
+
+## 2026-10-25 — Dave zombie BO3 conversion and separate trial package
+
+- Sam requested trying Dave as the ordinary zombie replacement. Chosen route:
+  adapt the preserved Dave mesh/weights to the installed stock BO3 zombie bind
+  skeleton, export animated XModels and a separate namespaced character/archetype.
+  Preserve stock zombie AI and animations; do not use Meshy's human walk/run set
+  as a substitute for the game's animation system.
+- Adapted/UV-welded Dave to 78 stock bones, separate head/body and 26,768 total
+  triangles. Both native XModels preserve stock hierarchy/bind positions on
+  round trip. All 78 bones match inspected native walk/attack source poses.
+- Initial native normal/tiny-weight failures were fixed by welding, valid normal
+  fallback and .011 weight pruning/renormalization. Final isolated asset link
+  exits 0 without reported conversion warnings/errors.
+- Built/lit/linked separate `zm_pharmacie_dave66`, changing only the original
+  core map's zombie actor class and copy-specific project names. Source geometry,
+  collision/progression and original core65 sources remain unchanged. Accepted
+  seven package files and hash-verified deployment; game not launched. Launcher:
+  `PLAY-DAVE-ZOMBIES.cmd`. Backup: `build/before-blender-test-20261025-123328`.
+- `docs/DAVE_BO3_ZOMBIES.md` records source/build evidence and limitations.
+  Original Dave files and Blender scenes preserved. Runtime spawning/combat,
+  headshots, deaths/crawlers, rounds and co-op remain unverified. Hands lack
+  finger weights and prototype dismemberment swaps are disabled. Sam controls
+  the eventual trial. No Git push or new paid generation.
+
+## 2026-10-24 — Recognizable zombie Dave character and angle review
+
+- Sam requested zombie Dave from the supplied photos, then a 3D character with
+  front/left/right/back and arm-detail previews. Built-in image generation made a
+  white-background concept preserving glasses, grey hair/goatee, build and tattoos.
+- Two fal.ai TRELLIS.2 passes completed: preliminary v1 and 1536/4K-texture v2.
+  V2 imports as one UV mesh, 97,871 vertices / 115,577 triangles. Eight actual
+  white-studio Cycles renders and three review sheets are complete. Notes and
+  limitations: `docs/DAVE_ZOMBIE_MODEL.md`; gallery: `recon/dave-zombie-v2/`.
+- One $0.20 Meshy rig job completed through fal.ai. Downloaded rigged GLB/FBX,
+  basic walk/run files and armature-only clips; separate packed rigged blend saved.
+  Character and animation GLBs pass: 24 bones, zero unweighted vertices/bad weight
+  sums, max four influences, sampled finite deformation. Corrected validator to
+  exclude Blender's own bone-control Icosphere; actual skin weights were valid.
+  Actual mesh renders retain likeness cues but have opaque glasses and softer
+  facial detail than the concept; rear reconstruction remains approximate.
+  Eight gallery views, sheets and local links checked. No engine retarget/import.
+  Generation/rig manifests remain with the separate assets. No credit top-up,
+  map edits, game controls, engine deployment, publication, commit or push.
+
+## 2026-10-24 — Dave boss reference photos
+
+- Preserved Sam's three supplied JPEG attachments unchanged under
+  `references/pharmacie-syston/dave-boss-2026-10-24/originals/` (Git-ignored).
+  All source/copy SHA-256 hashes match; manifest records size and dimensions.
+- Added photo-specific face, glasses, hair, clothing, tattoo and pose notes.
+  Photo 2 is the primary face reference; Photos 1 and 3 support arms/body/poses.
+  Dave is Sam's supplied name; relationship to the older Noseley boss is unknown.
+- No character generation, Blender edits, engine work, launch, upload or push.
+
 ## 2026-10-15 — Direct number 29 skate start and private audio
 
 - Sam requested getting to 29 Holmdale Road. Queried the actual v60 house matrix
@@ -1161,6 +1272,46 @@ success claimed yet. Source Blender is unchanged; Sam retains BO3 controls.
 
 
 - Floor repair final build passed (23-second geometry compile, ground navmesh, lighting, both links), deployed/hash-verified and launched at 20:59 London. Final source has 897 repaired convex solids / 57 stationary brushmodels; tiny engine dressing deferred to stay below compiler limits. Runtime retest pending; Blender unchanged.
+# 2026-10-24 — resumed compact Zombies copy / model and photo transfer
+
+Sam requested a definitive Blender-to-BO3 method including photo textures and a
+working private Zombies copy. Clarified scope: Pharmacie + nearest shopfronts/
+road; temporarily exclude/block the long Syston extension; exclude Taraj. Normal
+paid progression selected. Git push authorized; prior saved Blender/demo/skate
+work pushed as 4c98855. No game controls sent.
+
+Read current Blender, skate separation, conversion, gameplay, photo provenance,
+stock audit and toolchain notes. Audited unchanged neutral v59 with Blender 5.2.2:
+24,597 active geometry objects / 1,029,735 triangles; 300 constant, 47 direct-image,
+23 bake/manual material families globally. Core export is 4,194 objects / 148,596
+triangles, 43 direct images, 11 procedural colour bakes, 141 constants. Photo TIFF
+storage pads to power-of-two dimensions with corresponding UV adjustment; all
+43 source image pixel checks pass. No source Blender save or raw-photo mutation.
+
+Separate core65 uses corrected in-bounds v58 collision and v18 stock paid
+gameplay, with four unique starts, outer clip walls and visible road closures.
+Source checks cover native photo pixels, triangle accounting, actual binary
+tokens, normal paid gate costs and five supported/clear starts. Procedures and
+acceptance live in docs/BO3_CORE65.md. Build/runtime are separate gates.
+
+Important local discoveries: old entity-comment reader omitted unnumbered
+generated entities; new top-level reader preserves gates/zones. GDT paths need
+escaped backslashes. export2bin explicit input/output mode merely compressed
+plain text; batch pattern mode creates binary MODEL/VERSION tokens. Require
+version 7 and inspect expanded envelope, not just exit code/file existence.
+Backed-up GDT /rebuild is needed after this installation's duplicate /update
+registrations. Model origins must be inside sky bounds. Initial per-material
+planar chunks caused a native static-model bounds assertion; regrouping into
+spatial multi-material volumes retains all triangles and images. Uniform-colour
+surfaces receive valid planar UVs to avoid collapsed-UV tangent warnings.
+Failed attempts and their logs remain under ignored build/bo3-core; none deployed.
+
+Sam also asked about custom person-based zombies and offered model reference
+photos. Explained stock-behaviour reskin route and approximate likeness from
+photos. Separate concurrent Dave character work subsequently appeared in
+docs/DAVE_ZOMBIE_MODEL.md; preserve it independently. This map pass does not
+create or integrate the character, and does not claim a BO3 rig/animation pass.
+
 
 ## 2026-10-25 — Core65 texture transfer, failed entrance trial and Jalfrezi opening
 
@@ -1196,3 +1347,12 @@ success claimed yet. Source Blender is unchanged; Sam retains BO3 controls.
   and both links passed again; runtime traversal is still pending.
 - Passive capture of preceding launch showed title screen with core65 loaded.
   No native ground result or manual traversal pass was obtained. No controls sent.
+
+## 2026-10-25 — Separate Rocky zombie character
+
+- Three user-supplied Rocky originals copied unchanged with SHA-256 provenance and ignored JPGs; photo observations recorded.
+- Built-in image concept preserves bald head, broad clean-shaven face, stocky build, checked shirt, jeans, shoes and left watch. First wounded concept rejected by image safety filter; successful mild undead version uses intact skin and dusty/frayed clothing.
+- One TRELLIS.2 generation: 85,639 imported vertices / 116,722 triangles, two 4096 textures. Eight actual Cycles mesh renders and separate packed studio Blender source; inspected angle/detail sheets and verified local gallery assets. Face softening, angular crown and small dark shirt crease artifacts recorded.
+- One Meshy rig job submitted; completion/validation in docs/ROCKY_ZOMBIE_MODEL.md. Separate assets only; Dave/map/skate unchanged, no game controls or publishing.
+
+- Rocky rig complete: eight files downloaded, 24 bones, zero unweighted vertices/invalid sums, at most four influences. Character and walk/run sampled deformation checks pass. Packed rigged Blender source saved; gallery links rechecked. No authored zombie motions or BO3 compatibility claimed. Listed fal total $0.55.

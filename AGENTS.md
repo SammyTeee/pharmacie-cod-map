@@ -1,3 +1,17 @@
+[Current neutral Blender handover for Brownie](docs/BROWNIE_HANDOVER.md).
+
+7 November: Open root `Pharmacie-Syston.blend` for the complete neutral street
+project. It is a hash-identical copy of immutable v59; background Blender opens
+it with all 52 file-backed images packed and no unpacked external dependencies.
+Sam keeps historical Blender versions locally. They should not be required for
+normal work; contact Sam if an older checkpoint or original reference is needed.
+All 72 old checkpoint paths under assets/blender are untracked with Sam's
+approval; every file stays on his PC. Root Pharmacie-Syston.blend is the single
+tracked Blender project. Preserve local v59, separate skate v60 and all separate
+Dave/Rocky/BO3 work. Read the handover before following historical "latest"
+entries below. Existing Git history is retained; no local deletion or history
+rewrite is part of this cleanup.
+
 [Resumed compact Zombies copy and faithful texture transfer](docs/BO3_CORE65.md).
 
 24 October: Sam resumed BO3 work and requested a playable separate copy focused
@@ -10,6 +24,18 @@ visual export. Native photo pixels, source hashes, triangle accounting and five
 spawn checks pass; current build/runtime results are in BO3_CORE65.md. Follow its
 binary token, GDT escaping, planar-bounds and asset-index requirements. Never
 treat old failed package outputs as accepted. Sam retains all game controls.
+Separate Dave character work is in docs/DAVE_ZOMBIE_MODEL.md and
+assets/generated/dave-zombie-*. The 25 October conversion in
+docs/DAVE_BO3_ZOMBIES.md supplies 78 stock bones and a separately compiled,
+lit/linked, hash-verified deployed zm_pharmacie_dave66 trial. It is not included
+in core65. PLAY-DAVE-ZOMBIES.cmd is ready; no launch/game controls were sent.
+Sam has now played and enthusiastically approved Dave's appearance, explicitly
+keeping Dave as the normal zombie. Detailed combat/deaths/co-op cases remain
+unverified. Separate mutated giant boss work is in docs/DAVE_BOSS.md and
+assets/generated/dave-boss-v1. Separate zm_pharmacie_dave67 now compiles/lights/
+links with additive natural street enclosure and a gated 3x scripted sentinel.
+PLAY-BOSS-DAVE-ZOMBIES.cmd targets that candidate; boss combat/runtime remain
+unverified. Preserve the accepted normal Dave66 and original core65.
 
 [Neutral Blender demo and separate skate prototype](docs/BLENDER_DEMO_V59.md).
 
@@ -361,3 +387,7 @@ checks, audio initialization and actual inspected house/skater capture pass.
 whole-route travel and audible trick checks remain pending; do not claim general
 distant-origin rendering fixed. Recheck live processes before relaunch/cleanup.
 
+
+[Separate Rocky zombie character](docs/ROCKY_ZOMBIE_MODEL.md).
+
+25 October: Sam supplied three Rocky photos and requested a recognisable zombie model like Dave. Separate assets/generated/rocky-zombie-v1 textured review mesh and eight actual Blender renders in recon/rocky-zombie-v1. Original photo hashes preserved. Mild intact-skin undead concept; face reconstruction is softer with angular crown and simplified eyes/brows. 24-bone rigged GLB/FBX, packed Blender source and basic walk/run files delivered; zero unweighted vertices and sampled deformations pass. Full motion quality and BO3 compatibility remain unverified; details in ROCKY_ZOMBIE_MODEL.md. No map edit, deployment, launch or push; preserve Dave and both BO3 copies.

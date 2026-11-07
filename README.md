@@ -1,3 +1,25 @@
+# Pharmacie-Syston — current Blender handover
+
+Open **[Pharmacie-Syston.blend](Pharmacie-Syston.blend)** for the complete neutral
+pub and street project. Brownie and his AI should start with
+**[BROWNIE_HANDOVER.md](docs/BROWNIE_HANDOVER.md)**. This verified, self-contained
+copy preserves v59 unchanged, with all 52 file-backed images packed.
+
+Sam keeps the older Blender versions locally; they should not be needed for
+normal work. Ask Sam if an earlier checkpoint or reference becomes useful.
+[Repository size review and checkpoint cleanup](docs/REPOSITORY_SIZE_REVIEW.md).
+The root file is the single tracked Blender project; old checkpoints remain on
+Sam's PC and in earlier commits. For a smaller download, use:
+
+```sh
+git clone --depth 1 git@github.com:SammyTeee/pharmacie-cod-map.git
+```
+
+The checkpoint/status entries below are historical; use the handover above to
+identify the current neutral project and separate engine/skate/character work.
+
+---
+
 [Latest individual shop display detail](docs/RETAIL_DETAIL_V39.md).
 
 Latest checkpoint: `assets/blender/pharmacie-retail-detail-v39.blend`.

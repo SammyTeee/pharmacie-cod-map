@@ -1,0 +1,371 @@
+{
+  "local_checkpoint_count": 72,
+  "local_checkpoint_bytes": 3023207302,
+  "protected_sha256": {
+    "Pharmacie-Syston.blend": "c39f15e8b24e099f5b9753778597ef89bf9b76fa815324612af1fb5569f0a834",
+    "assets/blender/pharmacie-demo-base-v59.blend": "c39f15e8b24e099f5b9753778597ef89bf9b76fa815324612af1fb5569f0a834",
+    "assets/blender/pharmacie-skate-street-v60.blend": "75f62fa79da2749b82dc670545dd0ed402381e1e2cf6a4dd6fce51121fe74018"
+  },
+  "files": [
+    {
+      "path": "assets/blender/pharmacie-backbar-photo-v08.blend",
+      "bytes": 6409538,
+      "mtime_ns": 1790980902708259900
+    },
+    {
+      "path": "assets/blender/pharmacie-demo-base-v59.blend",
+      "bytes": 75868496,
+      "mtime_ns": 1792015012209635900
+    },
+    {
+      "path": "assets/blender/pharmacie-detailed-pub-v15.blend",
+      "bytes": 37424173,
+      "mtime_ns": 1790984343472221500
+    },
+    {
+      "path": "assets/blender/pharmacie-downstairs-details-v14.blend",
+      "bytes": 37359301,
+      "mtime_ns": 1790984167534221800
+    },
+    {
+      "path": "assets/blender/pharmacie-enclosure-detail-v33.blend",
+      "bytes": 57609066,
+      "mtime_ns": 1791118312898444500
+    },
+    {
+      "path": "assets/blender/pharmacie-entrance-fixed-v16.blend",
+      "bytes": 37399579,
+      "mtime_ns": 1790986761386953200
+    },
+    {
+      "path": "assets/blender/pharmacie-evacuation-plan.blend",
+      "bytes": 1388260,
+      "mtime_ns": 1790975372405064900
+    },
+    {
+      "path": "assets/blender/pharmacie-extension-route-v41.blend",
+      "bytes": 61304005,
+      "mtime_ns": 1791668653709665000
+    },
+    {
+      "path": "assets/blender/pharmacie-floorplan-blockout-v02.blend",
+      "bytes": 1715192,
+      "mtime_ns": 1790976384470749600
+    },
+    {
+      "path": "assets/blender/pharmacie-floorplan-blockout.blend",
+      "bytes": 1547673,
+      "mtime_ns": 1790976097160978900
+    },
+    {
+      "path": "assets/blender/pharmacie-gameplay-space-v04.blend",
+      "bytes": 6324345,
+      "mtime_ns": 1790979290148668000
+    },
+    {
+      "path": "assets/blender/pharmacie-gameplay-space-v05.blend",
+      "bytes": 6343652,
+      "mtime_ns": 1790979743399715100
+    },
+    {
+      "path": "assets/blender/pharmacie-gameplay-space-v06.blend",
+      "bytes": 6376329,
+      "mtime_ns": 1790979982761894400
+    },
+    {
+      "path": "assets/blender/pharmacie-holmdale-alignment-v53.blend",
+      "bytes": 64112053,
+      "mtime_ns": 1791739816644208300
+    },
+    {
+      "path": "assets/blender/pharmacie-holmdale-corner-porch-v50.blend",
+      "bytes": 62910335,
+      "mtime_ns": 1791725545625987400
+    },
+    {
+      "path": "assets/blender/pharmacie-holmdale-correction-v46.blend",
+      "bytes": 62780215,
+      "mtime_ns": 1791722313860177500
+    },
+    {
+      "path": "assets/blender/pharmacie-holmdale-depth-v47.blend",
+      "bytes": 62785524,
+      "mtime_ns": 1791722739949808200
+    },
+    {
+      "path": "assets/blender/pharmacie-holmdale-garage-v48.blend",
+      "bytes": 62863111,
+      "mtime_ns": 1791723192200325200
+    },
+    {
+      "path": "assets/blender/pharmacie-holmdale-house-v44.blend",
+      "bytes": 62174052,
+      "mtime_ns": 1791681098955593400
+    },
+    {
+      "path": "assets/blender/pharmacie-holmdale-mirrored-window-v51.blend",
+      "bytes": 62976871,
+      "mtime_ns": 1791726426705234200
+    },
+    {
+      "path": "assets/blender/pharmacie-holmdale-porch-v49.blend",
+      "bytes": 63112490,
+      "mtime_ns": 1791724465309886200
+    },
+    {
+      "path": "assets/blender/pharmacie-layout-fixed-v07.blend",
+      "bytes": 6405630,
+      "mtime_ns": 1790980627504759400
+    },
+    {
+      "path": "assets/blender/pharmacie-melton-detail-v35.blend",
+      "bytes": 58885256,
+      "mtime_ns": 1791125294668763800
+    },
+    {
+      "path": "assets/blender/pharmacie-melton-road-v22.blend",
+      "bytes": 49547812,
+      "mtime_ns": 1791049703582390400
+    },
+    {
+      "path": "assets/blender/pharmacie-midland-frontage-v42.blend",
+      "bytes": 61487509,
+      "mtime_ns": 1791679321225350200
+    },
+    {
+      "path": "assets/blender/pharmacie-opposite-shopfronts-v20.blend",
+      "bytes": 49351092,
+      "mtime_ns": 1791048396355697700
+    },
+    {
+      "path": "assets/blender/pharmacie-photo-interior-v03.blend",
+      "bytes": 6290267,
+      "mtime_ns": 1790978533477681900
+    },
+    {
+      "path": "assets/blender/pharmacie-player-cleanup-v18.blend",
+      "bytes": 49055693,
+      "mtime_ns": 1791043477846735800
+    },
+    {
+      "path": "assets/blender/pharmacie-reference-base.blend",
+      "bytes": 3084368,
+      "mtime_ns": 1790971788325748900
+    },
+    {
+      "path": "assets/blender/pharmacie-retail-detail-v39.blend",
+      "bytes": 60026210,
+      "mtime_ns": 1791137132036374900
+    },
+    {
+      "path": "assets/blender/pharmacie-route-working-v55.blend",
+      "bytes": 65966821,
+      "mtime_ns": 1791741006731220300
+    },
+    {
+      "path": "assets/blender/pharmacie-scaled-plan.blend",
+      "bytes": 3461304,
+      "mtime_ns": 1790972761068007000
+    },
+    {
+      "path": "assets/blender/pharmacie-shopfronts-fridge-v21.blend",
+      "bytes": 49350342,
+      "mtime_ns": 1791048918630159400
+    },
+    {
+      "path": "assets/blender/pharmacie-shopfronts-v19.blend",
+      "bytes": 49211278,
+      "mtime_ns": 1791047466185769800
+    },
+    {
+      "path": "assets/blender/pharmacie-skate-street-v60.blend",
+      "bytes": 75866910,
+      "mtime_ns": 1792015096566502500
+    },
+    {
+      "path": "assets/blender/pharmacie-station-detail-v43.blend",
+      "bytes": 61552443,
+      "mtime_ns": 1791680499588274100
+    },
+    {
+      "path": "assets/blender/pharmacie-station-frontage-v52.blend",
+      "bytes": 63502015,
+      "mtime_ns": 1791728934581039300
+    },
+    {
+      "path": "assets/blender/pharmacie-station-holmdale-v45.blend",
+      "bytes": 62780115,
+      "mtime_ns": 1791682025070391800
+    },
+    {
+      "path": "assets/blender/pharmacie-street-details-v12.blend",
+      "bytes": 36334794,
+      "mtime_ns": 1790983002767922600
+    },
+    {
+      "path": "assets/blender/pharmacie-street-details-v13.blend",
+      "bytes": 36335258,
+      "mtime_ns": 1790983660345476100
+    },
+    {
+      "path": "assets/blender/pharmacie-street-frontages-v32.blend",
+      "bytes": 57541625,
+      "mtime_ns": 1791078620394057900
+    },
+    {
+      "path": "assets/blender/pharmacie-street-fronts-v11.blend",
+      "bytes": 23580008,
+      "mtime_ns": 1790982711387953200
+    },
+    {
+      "path": "assets/blender/pharmacie-street-life-v36.blend",
+      "bytes": 58983678,
+      "mtime_ns": 1791129792695087600
+    },
+    {
+      "path": "assets/blender/pharmacie-street-rebuilt-v17.blend",
+      "bytes": 49054653,
+      "mtime_ns": 1791029423892802700
+    },
+    {
+      "path": "assets/blender/pharmacie-street-scenes-v37.blend",
+      "bytes": 59227874,
+      "mtime_ns": 1791130798834615100
+    },
+    {
+      "path": "assets/blender/pharmacie-surveyed-route-v56.blend",
+      "bytes": 66219743,
+      "mtime_ns": 1791741336097333500
+    },
+    {
+      "path": "assets/blender/pharmacie-surveyed-route-v57.blend",
+      "bytes": 66353419,
+      "mtime_ns": 1791741736811206000
+    },
+    {
+      "path": "assets/blender/pharmacie-surveyed-streets-v54.blend",
+      "bytes": 65676465,
+      "mtime_ns": 1791740441006447200
+    },
+    {
+      "path": "assets/blender/pharmacie-syston-appearance-v27.blend",
+      "bytes": 54402735,
+      "mtime_ns": 1791071995350851000
+    },
+    {
+      "path": "assets/blender/pharmacie-syston-detail-v28.blend",
+      "bytes": 55136718,
+      "mtime_ns": 1791072233393852600
+    },
+    {
+      "path": "assets/blender/pharmacie-syston-detail-v29.blend",
+      "bytes": 57228663,
+      "mtime_ns": 1791072763746352200
+    },
+    {
+      "path": "assets/blender/pharmacie-syston-street-v25.blend",
+      "bytes": 50843817,
+      "mtime_ns": 1791058403550842600
+    },
+    {
+      "path": "assets/blender/pharmacie-taraj-bar-v40.blend",
+      "bytes": 60331882,
+      "mtime_ns": 1791201496331395900
+    },
+    {
+      "path": "assets/blender/pharmacie-taraj-front-v23.blend",
+      "bytes": 49624985,
+      "mtime_ns": 1791050047973104300
+    },
+    {
+      "path": "assets/blender/pharmacie-taraj-interior-bridge-v26.blend",
+      "bytes": 54327685,
+      "mtime_ns": 1791060902492268200
+    },
+    {
+      "path": "assets/blender/pharmacie-taraj-opposite-v24.blend",
+      "bytes": 49575214,
+      "mtime_ns": 1791055406611623900
+    },
+    {
+      "path": "assets/blender/pharmacie-taraj-road-v34.blend",
+      "bytes": 57879527,
+      "mtime_ns": 1791121325791466400
+    },
+    {
+      "path": "assets/blender/pharmacie-town-square-v38.blend",
+      "bytes": 59358500,
+      "mtime_ns": 1791131744075371700
+    },
+    {
+      "path": "assets/blender/pharmacie-v03-before-gameplay-edit.blend",
+      "bytes": 6305225,
+      "mtime_ns": 1790979289611629400
+    },
+    {
+      "path": "assets/blender/pharmacie-v06-before-layout-fixes.blend",
+      "bytes": 6362208,
+      "mtime_ns": 1790980622099759200
+    },
+    {
+      "path": "assets/blender/pharmacie-v08-before-video-dressing.blend",
+      "bytes": 6392917,
+      "mtime_ns": 1790981999825130900
+    },
+    {
+      "path": "assets/blender/pharmacie-v09-before-facebook-details.blend",
+      "bytes": 7666650,
+      "mtime_ns": 1790982391373882000
+    },
+    {
+      "path": "assets/blender/pharmacie-v10-before-street-fronts.blend",
+      "bytes": 9234242,
+      "mtime_ns": 1790982709454954800
+    },
+    {
+      "path": "assets/blender/pharmacie-v11-before-front-height-fix.blend",
+      "bytes": 23572091,
+      "mtime_ns": 1790983000907920600
+    },
+    {
+      "path": "assets/blender/pharmacie-v12-before-mini-market-fix.blend",
+      "bytes": 36327237,
+      "mtime_ns": 1790983659725976900
+    },
+    {
+      "path": "assets/blender/pharmacie-v13-before-downstairs-detail.blend",
+      "bytes": 36330592,
+      "mtime_ns": 1790984148973223900
+    },
+    {
+      "path": "assets/blender/pharmacie-v14-before-small-props.blend",
+      "bytes": 37351903,
+      "mtime_ns": 1790984341721723100
+    },
+    {
+      "path": "assets/blender/pharmacie-v15-before-entrance-threshold.blend",
+      "bytes": 37398687,
+      "mtime_ns": 1790985625655087800
+    },
+    {
+      "path": "assets/blender/pharmacie-video-details-v10.blend",
+      "bytes": 9234144,
+      "mtime_ns": 1790982479189435600
+    },
+    {
+      "path": "assets/blender/pharmacie-video-interior-v09.blend",
+      "bytes": 7666117,
+      "mtime_ns": 1790982000982631800
+    },
+    {
+      "path": "assets/blender/pharmacie-zombies-alley-v30.blend",
+      "bytes": 57289891,
+      "mtime_ns": 1791076315142032800
+    },
+    {
+      "path": "assets/blender/pharmacie-zombies-street-v31.blend",
+      "bytes": 57448830,
+      "mtime_ns": 1791078016365529300
+    }
+  ]
+}

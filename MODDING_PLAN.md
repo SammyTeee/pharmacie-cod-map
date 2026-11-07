@@ -1,3 +1,13 @@
+[Current neutral Blender handover](docs/BROWNIE_HANDOVER.md) — 7 November 2026.
+
+Root `Pharmacie-Syston.blend` is the complete neutral project for Brownie, an
+identical copy of immutable v59 with all 52 file-backed images packed. Sam keeps
+older checkpoints locally; ask him if needed. See the handover for reading
+order and separation from skate, BO3 and character projects. Earlier "latest"
+entries below are historical. Size/prune review: docs/REPOSITORY_SIZE_REVIEW.md.
+The root file is the single tracked Blender project; all 72 earlier checkpoint
+paths, including local v59/v60, are ignored and preserved on Sam's PC.
+
 [Latest individual shop display detail](docs/RETAIL_DETAIL_V39.md).
 
 Current direction, 24 October 2026: Sam resumed BO3 with a compact separate
@@ -5,7 +15,9 @@ Current direction, 24 October 2026: Sam resumed BO3 with a compact separate
 longer route hidden/blocked, Taraj excluded. See [BO3_CORE65.md](docs/BO3_CORE65.md)
 for the evaluated-model/photo transfer method, reproduction and actual evidence.
 Neutral v59 is the immutable visual source. All earlier engine holds below are
-historical; Sam still retains game controls.
+historical; Sam still retains game controls. Separate Dave character work is
+documented in docs/DAVE_ZOMBIE_MODEL.md and docs/DAVE_BO3_ZOMBIES.md; Dave66 is a
+separate engine trial, not an edit to core65 or the neutral Blender source.
 
 Latest Blender source: `assets/blender/pharmacie-retail-detail-v39.blend`.
 V36–38 street scenes/Town Square and v39 retail detail are retained. Engine route
@@ -127,3 +139,7 @@ Current Blender source pharmacie-entrance-fixed-v16.blend. Fixes front threshold
 Current Blender source: `assets/blender/pharmacie-taraj-road-v34.blend`.
 Retained Melton route opened; terrain/frontage foundations and bounded gaps
 added without moving the approved architecture. BO3 remains unchanged.
+
+## Separate Rocky character — 25 October 2026
+
+Sam requested a recognisable zombie Rocky model from three supplied photos. See docs/ROCKY_ZOMBIE_MODEL.md for the isolated concept, textured GLB, actual mesh previews and rig status. This request does not extend the BO3 replacement/deployment work; retain Dave and both existing map copies.

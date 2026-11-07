@@ -1,10 +1,13 @@
 __pycache__/
+# Dave boss reference originals stay local; notes and manifest are trackable.
+/references/pharmacie-syston/dave-boss-2026-10-24/originals/
 *.pyc
 build/
 # Reproducible local playtest texture derivatives; manifests/GDT/source stay trackable.
 /assets/playtest-v58/*.tif
 *.blend[0-9]*
-# Local safety snapshots; numbered editable milestones are tracked separately.
+# Local Blender checkpoints stay with Sam; root Pharmacie-Syston.blend is the handover.
+/assets/blender/*.blend
 /recon/**/*.blend
 /assets/blender/*-before-*.blend
 # Personal browser reference capture stays local; scripts/docs are trackable.

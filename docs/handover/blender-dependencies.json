@@ -1,0 +1,404 @@
+{
+  "file": "Pharmacie-Syston.blend",
+  "bytes": 75868496,
+  "sha256": "c39f15e8b24e099f5b9753778597ef89bf9b76fa815324612af1fb5569f0a834",
+  "blender_version": "5.2.2 LTS",
+  "scenes": [
+    {
+      "name": "01 Ground floor - mapped rooms",
+      "objects": 6344
+    },
+    {
+      "name": "02 First floor - mapped rooms",
+      "objects": 661
+    },
+    {
+      "name": "03 Both floors - assembled exterior",
+      "objects": 24938
+    },
+    {
+      "name": "04 Photo frontage - inspection",
+      "objects": 5620
+    },
+    {
+      "name": "05 Interior - photo-led dressing",
+      "objects": 6384
+    },
+    {
+      "name": "Pharmacie - new evacuation plan",
+      "objects": 16
+    }
+  ],
+  "objects": 29596,
+  "meshes": 28994,
+  "materials": 420,
+  "images": [
+    {
+      "name": "00270__route-021-left-frontage-detail.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\references\\streetview-capture\\taraj-to-pharmacie\\originals\\00270__route-021-left-frontage-detail.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "Architectural Fire Evacuation Floor Plans.png",
+      "source": "FILE",
+      "path": "//..\\..\\Architectural Fire Evacuation Floor Plans.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "asphalt.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\materials\\demo-v59\\asphalt.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "aston-and-co.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\aston-and-co.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "backbar-tap-bank.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\backbar-tap-bank.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "band-aid-advert.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\band-aid-advert.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "bar front.jpg",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\references\\pharmacie-syston\\bar front.jpg",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "book-spines.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\book-spines.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "brick-0.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\materials\\demo-v59\\brick-0.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "brick-1.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\materials\\demo-v59\\brick-1.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "brick-2.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\materials\\demo-v59\\brick-2.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "camera-adverts.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures-downstairs\\camera-adverts.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "camera-cabinet.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures-downstairs\\camera-cabinet.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "clay-tile.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\materials\\demo-v59\\clay-tile.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "corridor-beer.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\corridor-beer.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "dental-board.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\dental-board.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "feature-wall-lossless.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\blender\\photo-review\\feature-wall-lossless.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "floral-fantasy.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\floral-fantasy.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "fox-and-hounds.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\fox-and-hounds.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "fridge-bottles.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\fridge-bottles.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "fridge-cans.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\fridge-cans.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "inside taraj THIS MAN MUST FEATUURE SAT IN ONE OF THE BOOTHS.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\references\\inside taraj THIS MAN MUST FEATUURE SAT IN ONE OF THE BOOTHS.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "left of pub front.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\left of pub front.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "lets-move-estate-agents.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\lets-move-estate-agents.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "medical-adverts.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\medical-adverts.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "medical-board.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\medical-board.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "medical-detail.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\medical-detail.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "medicine-adverts.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures-downstairs\\medicine-adverts.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "music-chuck-berry.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\music-chuck-berry.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "music-elvis.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\music-elvis.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "music-hit-parade.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\music-hit-parade.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "music-muddy-waters.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\music-muddy-waters.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "nail-and-spa-shop.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\nail-and-spa-shop.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "natural-wellbeing.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\natural-wellbeing.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "opposite fornt further left.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\opposite fornt further left.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "opposite front zoomed out better view flat for texture.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\opposite front zoomed out better view flat for texture.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "opposite front.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\opposite front.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "paving.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\materials\\demo-v59\\paving.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "pharmacie-arms-syston-2.jpg",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\references\\pharmacie-syston\\pharmacie-arms-syston-2.jpg",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "post-office.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\post-office.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "pump-mild.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\pump-mild.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "pump-original.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\facebook-18ZXq1yVKY\\textures\\pump-original.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "radio-four.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\radio-four.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "radio-one.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\radio-one.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "radio-three.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\radio-three.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "radio-two.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\video-references\\q0zBpicUXjg\\textures\\radio-two.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "right side of pub front.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\right side of pub front.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "slate.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\materials\\demo-v59\\slate.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "syston-dry-cleaners.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\syston-dry-cleaners.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "syston-mini-market.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\syston-mini-market.png",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "textures wall.jpg",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\references\\pharmacie-syston\\textures wall.jpg",
+      "packed": true,
+      "available": true
+    },
+    {
+      "name": "wreake-valley-flooring.png",
+      "source": "FILE",
+      "path": "C:\\Users\\sam\\pharmacie-cod-map\\assets\\street\\v17\\wreake-valley-flooring.png",
+      "packed": true,
+      "available": true
+    }
+  ],
+  "linked_libraries": [],
+  "unpacked_external_paths": [],
+  "missing_images": []
+}

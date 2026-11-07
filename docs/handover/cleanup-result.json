@@ -1,0 +1,18 @@
+{
+  "status": "verified",
+  "baseline_commit": "3d3a7bca4a1fc61fac3a4f9e089d48de8d421631",
+  "baseline_tracked_bytes": 4292031623,
+  "tracked_file_count": 2876,
+  "tracked_working_file_bytes": 1344767133,
+  "tracked_blender_files": [
+    "Pharmacie-Syston.blend"
+  ],
+  "untracked_checkpoint_count": 72,
+  "local_checkpoints_present_with_unchanged_size_and_mtime": true,
+  "v59_v60_and_handover_sha256_unchanged": true,
+  "all_old_checkpoints_ignored": true,
+  "staged_handover_matches_original_v59_blob": true,
+  "handover_git_blob": "7b404cdfebd9ca029678e089d69c50e627bac98e",
+  "local_checkpoint_deletions": 0,
+  "history_rewritten": false
+}
